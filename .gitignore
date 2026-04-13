@@ -208,3 +208,6 @@ __marimo__/
 
 # Project proposal template
 docs/proposal-template.md
+
+
+.DS_Store
