@@ -4,7 +4,7 @@
 
 **Project Name:** Baseball Pitching Performance Analytics Pipeline
 
-**GitHub Repo:** [https://github.com/emmasprankle/sports-ticketing-data-analyst](https://github.com/emmasprankle/sports-ticketing-data-analyst)
+**GitHub Repo:** [https://github.com/emmasprankle/sf-giants-data-analyst](https://github.com/emmasprankle/sf-giants-data-analyst)
 
 ## Job Posting
 
