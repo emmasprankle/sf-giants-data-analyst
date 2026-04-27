@@ -28,10 +28,12 @@ ENDPOINTS = {
     "game_log": "/people/{player_id}/stats",
 }
 
+SEASON = "2024"
+
 GAME_LOG_PARAMS = {
     "stats":    "gameLog",
     "group":    "pitching",
-    "season":   "2024",
+    "season":   SEASON,
     "gameType": "R",
 }
 
@@ -87,6 +89,13 @@ def dig(obj, dotted_key):
     return obj
 
 
+def clean(value):
+    """Convert non-numeric API placeholders (-.-- , ---) to None."""
+    if isinstance(value, str) and not value.replace(".", "").replace("-", "").isdigit():
+        return None
+    return value
+
+
 def snowflake_conn():
     return snowflake.connector.connect(
         account=os.environ["SNOWFLAKE_ACCOUNT"],
@@ -102,7 +111,7 @@ def snowflake_conn():
 
 def fetch_pitchers(team_id):
     endpoint = ENDPOINTS["roster"].format(team_id=team_id)
-    data = get(endpoint)
+    data = get(endpoint, rosterType="fullSeason", season=SEASON)
     return [
         p["person"]
         for p in data.get("roster", [])
@@ -123,7 +132,7 @@ def fetch_game_logs(player_id):
     rows = []
     stats = data.get("stats", [])
     for split in (stats[0].get("splits", []) if stats else []):
-        row = {col: dig(split, path) for col, path in GAME_LOG_FIELDS.items()}
+        row = {col: clean(dig(split, path)) for col, path in GAME_LOG_FIELDS.items()}
         row["player_id"] = player_id
         rows.append(row)
     return rows
