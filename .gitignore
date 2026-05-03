@@ -211,3 +211,7 @@ docs/proposal-template.md
 
 
 .DS_Store
+
+# dbt
+logs/
+dbt_packages/
