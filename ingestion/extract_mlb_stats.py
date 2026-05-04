@@ -28,7 +28,7 @@ ENDPOINTS = {
     "game_log": "/people/{player_id}/stats",
 }
 
-SEASON = "2024"
+SEASON = str(datetime.now().year)
 
 GAME_LOG_PARAMS = {
     "stats":    "gameLog",
