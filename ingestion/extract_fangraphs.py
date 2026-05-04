@@ -25,6 +25,7 @@ FIRECRAWL_BASE_URL = "https://api.firecrawl.dev/v1"
 OUTPUT_DIR = Path(__file__).resolve().parent.parent / "knowledge" / "raw"
 
 SCRAPE_TARGETS = [
+    # ── FanGraphs (fangraphs.com) ─────────────────────────────────────────────
     {
         "slug": "giants-pitching-leaderboard-2024",
         "url": "https://www.fangraphs.com/leaders/major-league"
@@ -46,6 +47,52 @@ SCRAPE_TARGETS = [
     {
         "slug": "jordan-hicks-player-page",
         "url": "https://www.fangraphs.com/players/jordan-hicks/sa3007869/stats/pitching",
+    },
+    {
+        "slug": "alex-cobb-player-page",
+        "url": "https://www.fangraphs.com/players/alex-cobb/5038/stats/pitching",
+    },
+    {
+        "slug": "giants-team-pitching-fangraphs",
+        "url": "https://www.fangraphs.com/teams/giants/sf",
+    },
+
+    # ── SF Giants official site (sfgiants.com) ────────────────────────────────
+    {
+        "slug": "giants-news",
+        "url": "https://www.sfgiants.com/news/",
+    },
+    {
+        "slug": "giants-roster",
+        "url": "https://www.sfgiants.com/roster/",
+    },
+    {
+        "slug": "giants-homepage",
+        "url": "https://www.sfgiants.com/",
+    },
+
+    # ── Baseball Savant / Statcast (baseballsavant.mlb.com) ───────────────────
+    {
+        "slug": "baseballsavant-giants-team-pitching",
+        "url": "https://baseballsavant.mlb.com/team-stats?season=2024&team=137&type=pitcher",
+    },
+    {
+        "slug": "baseballsavant-statcast-glossary",
+        "url": "https://baseballsavant.mlb.com/csv-docs",
+    },
+    {
+        "slug": "baseballsavant-logan-webb",
+        "url": "https://baseballsavant.mlb.com/savant-player/logan-webb-657277",
+    },
+    {
+        "slug": "baseballsavant-pitch-arsenal-giants-2024",
+        "url": "https://baseballsavant.mlb.com/leaderboard/pitch-arsenal-stats"
+               "?type=pitcher&pitchType=&year=2024&team=137&min=1",
+    },
+    {
+        "slug": "baseballsavant-spin-rate-giants-2024",
+        "url": "https://baseballsavant.mlb.com/leaderboard/spin-rate"
+               "?year=2024&type=pitcher&team%5B%5D=SF",
     },
 ]
 
