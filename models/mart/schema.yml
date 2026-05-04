@@ -42,3 +42,15 @@ models:
       - name: game_date
         tests:
           - not_null
+
+  - name: mart_pitcher_rolling
+    columns:
+      - name: player_id
+        tests:
+          - not_null
+      - name: game_pk
+        tests:
+          - not_null
+      - name: game_date
+        tests:
+          - not_null
