@@ -20,14 +20,21 @@ st.caption("2024 Season · Powered by MLB Stats API + Snowflake + dbt")
 
 # ── Connection ────────────────────────────────────────────────────────────────
 
+def _secret(key):
+    try:
+        return st.secrets[key]
+    except (KeyError, FileNotFoundError):
+        return os.getenv(key)
+
+
 @st.cache_resource
 def get_connection():
     return snowflake.connector.connect(
-        account=os.getenv("SNOWFLAKE_ACCOUNT"),
-        user=os.getenv("SNOWFLAKE_USER"),
-        password=os.getenv("SNOWFLAKE_PASSWORD"),
-        warehouse=os.getenv("SNOWFLAKE_WAREHOUSE"),
-        database=os.getenv("SNOWFLAKE_DATABASE"),
+        account=_secret("SNOWFLAKE_ACCOUNT"),
+        user=_secret("SNOWFLAKE_USER"),
+        password=_secret("SNOWFLAKE_PASSWORD"),
+        warehouse=_secret("SNOWFLAKE_WAREHOUSE"),
+        database=_secret("SNOWFLAKE_DATABASE"),
         schema="MART",
     )
 
