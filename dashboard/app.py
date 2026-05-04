@@ -285,18 +285,19 @@ filtered = trend_df[
 if filtered.empty:
     st.info("No trend data in the selected date range.")
 else:
-    peak_idx = filtered["rolling_era"].idxmax()
-    low_idx = filtered["rolling_era"].idxmin()
-    peak_era = float(filtered.loc[peak_idx, "rolling_era"])
-    peak_month = filtered.loc[peak_idx, "game_date"].strftime("%b")
-    low_era = float(filtered.loc[low_idx, "rolling_era"])
-    low_month = filtered.loc[low_idx, "game_date"].strftime("%b")
+    era_peak_idx = filtered["rolling_era"].idxmax()
+    era_low_idx = filtered["rolling_era"].idxmin()
+    peak_era = float(filtered.loc[era_peak_idx, "rolling_era"])
+    peak_era_month = filtered.loc[era_peak_idx, "game_date"].strftime("%b")
+    low_era = float(filtered.loc[era_low_idx, "rolling_era"])
+    low_era_month = filtered.loc[era_low_idx, "game_date"].strftime("%b")
 
-    trend_cols = st.columns(3)
-    if season and season[0] is not None:
-        trend_cols[0].metric("Season ERA", f"{float(season[0]):.2f}")
-    trend_cols[1].metric(f"Rolling ERA Peak ({peak_month})", f"{peak_era:.2f}")
-    trend_cols[2].metric(f"Rolling ERA Low ({low_month})", f"{low_era:.2f}")
+    whip_peak_idx = filtered["rolling_whip"].idxmax()
+    whip_low_idx = filtered["rolling_whip"].idxmin()
+    peak_whip = float(filtered.loc[whip_peak_idx, "rolling_whip"])
+    peak_whip_month = filtered.loc[whip_peak_idx, "game_date"].strftime("%b")
+    low_whip = float(filtered.loc[whip_low_idx, "rolling_whip"])
+    low_whip_month = filtered.loc[whip_low_idx, "game_date"].strftime("%b")
 
     def trend_chart(df, y_col, y_title, color):
         return (
@@ -315,11 +316,21 @@ else:
 
     col1, col2 = st.columns(2)
     with col1:
+        era_cards = st.columns(3)
+        if season and season[0] is not None:
+            era_cards[0].metric("Season ERA", f"{float(season[0]):.2f}")
+        era_cards[1].metric(f"Rolling ERA Peak ({peak_era_month})", f"{peak_era:.2f}")
+        era_cards[2].metric(f"Rolling ERA Low ({low_era_month})", f"{low_era:.2f}")
         st.altair_chart(
             trend_chart(filtered, "rolling_era", "Rolling ERA", "#FD5A1E"),
             use_container_width=True,
         )
     with col2:
+        whip_cards = st.columns(3)
+        if season and season[1] is not None:
+            whip_cards[0].metric("Season WHIP", f"{float(season[1]):.3f}")
+        whip_cards[1].metric(f"Rolling WHIP Peak ({peak_whip_month})", f"{peak_whip:.3f}")
+        whip_cards[2].metric(f"Rolling WHIP Low ({low_whip_month})", f"{low_whip:.3f}")
         st.altair_chart(
             trend_chart(filtered, "rolling_whip", "Rolling WHIP", "#27251F"),
             use_container_width=True,
