@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: raw
+    database: SF_GIANTS_DB
+    schema: RAW
+    tables:
+      - name: players
+      - name: pitcher_game_logs
