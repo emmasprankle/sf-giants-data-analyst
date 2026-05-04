@@ -29,7 +29,12 @@
       "Read(//tmp/**)",
       "Bash(snowsql -d sf_giants_analytics -s raw -q \"select game_pk, game_date, is_home, count\\(*\\) as cnt from fact_pitcher_game group by game_pk, game_date, is_home order by cnt desc limit 20;\")",
       "Bash(dbt compile *)",
-      "Bash(dbt docs *)"
+      "Bash(dbt docs *)",
+      "Bash(streamlit run *)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://localhost:8501)",
+      "Bash(echo \"PID: $!\")",
+      "Bash(pkill -f \"streamlit run\")",
+      "Bash(curl -s http://localhost:8501)"
     ],
     "additionalDirectories": [
       "/Users/emmasprankle/Desktop/isba-4715/sf-giants-data-analyst"
