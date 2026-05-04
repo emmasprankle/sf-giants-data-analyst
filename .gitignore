@@ -215,3 +215,10 @@ docs/proposal-template.md
 # dbt
 logs/
 dbt_packages/
+target/
+
+# Claude Code local settings
+.claude/
+
+# macOS
+.DS_Store
