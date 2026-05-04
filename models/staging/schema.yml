@@ -10,3 +10,15 @@ models:
       - name: full_name
         tests:
           - not_null
+
+  - name: stg_pitcher_game_logs
+    columns:
+      - name: player_id
+        tests:
+          - not_null
+      - name: game_pk
+        tests:
+          - not_null
+      - name: game_date
+        tests:
+          - not_null
