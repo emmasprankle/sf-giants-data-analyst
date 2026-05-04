@@ -1,0 +1,28 @@
+name: Scrape — FanGraphs
+
+on:
+  schedule:
+    - cron: '0 9 * 4-9 *'
+  workflow_dispatch:
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    env:
+      FIRECRAWL_API_KEY: ${{ secrets.FIRECRAWL_API_KEY }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install -r requirements.txt
+      - run: python ingestion/extract_fangraphs.py
+      - name: Commit scraped files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add knowledge/raw/
+          git diff --staged --quiet || git commit -m "chore: update scraped FanGraphs data [skip ci]"
+          git push
