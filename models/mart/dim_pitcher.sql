@@ -1,8 +1,8 @@
-with stg as (
-    select * from {{ ref('stg_players') }}
+WITH stg AS (
+    SELECT * FROM {{ ref('stg_players') }}
 )
 
-select
+SELECT
     player_id,
     full_name,
     pitch_hand,
@@ -11,4 +11,4 @@ select
     birth_date,
     mlb_debut_date,
     active
-from stg
+FROM stg

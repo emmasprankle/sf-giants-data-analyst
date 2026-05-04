@@ -1,19 +1,19 @@
-with fact as (
-    select * from {{ ref('fact_pitcher_game') }}
+WITH fact AS (
+    SELECT * FROM {{ ref('fact_pitcher_game') }}
 ),
 
-with_pitches_per_inning as (
-    select
+with_pitches_per_inning AS (
+    SELECT
         *,
-        case
-            when innings_pitched > 0
-            then round(pitches_thrown / innings_pitched, 2)
-        end as pitches_per_inning
-    from fact
+        CASE
+            WHEN innings_pitched > 0
+            THEN ROUND(pitches_thrown / innings_pitched, 2)
+        END AS pitches_per_inning
+    FROM fact
 ),
 
-rolling as (
-    select
+rolling AS (
+    SELECT
         player_id,
         full_name,
         game_pk,
@@ -26,37 +26,37 @@ rolling as (
         bb_per_9,
         strike_pct,
         pitches_per_inning,
-        round(avg(era) over (
-            partition by player_id
-            order by game_date
-            rows between 4 preceding and current row
-        ), 2) as rolling_era,
-        round(avg(whip) over (
-            partition by player_id
-            order by game_date
-            rows between 4 preceding and current row
-        ), 3) as rolling_whip,
-        round(avg(k_per_9) over (
-            partition by player_id
-            order by game_date
-            rows between 4 preceding and current row
-        ), 2) as rolling_k_per_9,
-        round(avg(bb_per_9) over (
-            partition by player_id
-            order by game_date
-            rows between 4 preceding and current row
-        ), 2) as rolling_bb_per_9,
-        round(avg(strike_pct) over (
-            partition by player_id
-            order by game_date
-            rows between 4 preceding and current row
-        ), 3) as rolling_strike_pct,
-        round(avg(pitches_per_inning) over (
-            partition by player_id
-            order by game_date
-            rows between 4 preceding and current row
-        ), 2) as rolling_pitches_per_inning
-    from with_pitches_per_inning
+        ROUND(AVG(era) OVER (
+            PARTITION BY player_id
+            ORDER BY game_date
+            ROWS BETWEEN 4 PRECEDING AND CURRENT ROW
+        ), 2) AS rolling_era,
+        ROUND(AVG(whip) OVER (
+            PARTITION BY player_id
+            ORDER BY game_date
+            ROWS BETWEEN 4 PRECEDING AND CURRENT ROW
+        ), 3) AS rolling_whip,
+        ROUND(AVG(k_per_9) OVER (
+            PARTITION BY player_id
+            ORDER BY game_date
+            ROWS BETWEEN 4 PRECEDING AND CURRENT ROW
+        ), 2) AS rolling_k_per_9,
+        ROUND(AVG(bb_per_9) OVER (
+            PARTITION BY player_id
+            ORDER BY game_date
+            ROWS BETWEEN 4 PRECEDING AND CURRENT ROW
+        ), 2) AS rolling_bb_per_9,
+        ROUND(AVG(strike_pct) OVER (
+            PARTITION BY player_id
+            ORDER BY game_date
+            ROWS BETWEEN 4 PRECEDING AND CURRENT ROW
+        ), 3) AS rolling_strike_pct,
+        ROUND(AVG(pitches_per_inning) OVER (
+            PARTITION BY player_id
+            ORDER BY game_date
+            ROWS BETWEEN 4 PRECEDING AND CURRENT ROW
+        ), 2) AS rolling_pitches_per_inning
+    FROM with_pitches_per_inning
 )
 
-select * from rolling
+SELECT * FROM rolling

@@ -1,18 +1,18 @@
-with source as (
-    select * from {{ source('raw', 'players') }}
+WITH source AS (
+    SELECT * FROM {{ source('raw', 'players') }}
 ),
 
-renamed as (
-    select
+renamed AS (
+    SELECT
         player_id,
         full_name,
-        try_to_date(birth_date)  as birth_date,
+        TRY_TO_DATE(birth_date)  AS birth_date,
         pitch_hand,
         bat_side,
         position,
-        try_to_date(mlb_debut)   as mlb_debut_date,
+        TRY_TO_DATE(mlb_debut)   AS mlb_debut_date,
         active
-    from source
+    FROM source
 )
 
-select * from renamed
+SELECT * FROM renamed

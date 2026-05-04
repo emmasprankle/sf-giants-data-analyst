@@ -1,10 +1,10 @@
-with games as (
-    select
+WITH games AS (
+    SELECT
         game_pk,
         game_date,
-        max(is_home) as is_home
-    from {{ ref('fact_pitcher_game') }}
-    group by game_pk, game_date
+        MAX(is_home) AS is_home
+    FROM {{ ref('fact_pitcher_game') }}
+    GROUP BY game_pk, game_date
 )
 
-select * from games
+SELECT * FROM games

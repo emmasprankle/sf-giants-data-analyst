@@ -1,28 +1,28 @@
-with source as (
-    select * from {{ source('raw', 'pitcher_game_logs') }}
+WITH source AS (
+    SELECT * FROM {{ source('raw', 'pitcher_game_logs') }}
 ),
 
-renamed as (
-    select
+renamed AS (
+    SELECT
         player_id,
         game_pk,
-        try_to_date(game_date)   as game_date,
+        TRY_TO_DATE(game_date)   AS game_date,
         team_id,
         team_name,
         is_home,
         wins,
         losses,
-        era::float               as era,
-        innings_pitched::float   as innings_pitched,
+        era::FLOAT               AS era,
+        innings_pitched::FLOAT   AS innings_pitched,
         strikeouts,
         walks,
         hits,
         earned_runs,
         home_runs,
-        whip::float              as whip,
+        whip::FLOAT              AS whip,
         pitches_thrown,
         strikes
-    from source
+    FROM source
 )
 
-select * from renamed
+SELECT * FROM renamed

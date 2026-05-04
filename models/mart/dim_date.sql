@@ -1,23 +1,23 @@
-with date_spine as (
-    select
-        dateadd(day, seq4(), date '2020-01-01') as date_day
-    from table(generator(rowcount => 4018))
+WITH date_spine AS (
+    SELECT
+        DATEADD(day, seq4(), DATE '2020-01-01') AS date_day
+    FROM TABLE(GENERATOR(rowcount => 4018))
 ),
 
-enriched as (
-    select
+enriched AS (
+    SELECT
         date_day,
-        year(date_day)                                       as year,
-        quarter(date_day)                                    as quarter,
-        month(date_day)                                      as month_number,
-        monthname(date_day)                                  as month_name,
-        weekofyear(date_day)                                 as week_of_year,
-        day(date_day)                                        as day_of_month,
-        dayofweek(date_day)                                  as day_of_week,
-        dayname(date_day)                                    as day_name,
-        iff(dayofweek(date_day) in (0, 6), true, false)     as is_weekend,
-        iff(month(date_day) between 4 and 9, true, false)   as is_mlb_season
-    from date_spine
+        YEAR(date_day)                                       AS year,
+        QUARTER(date_day)                                    AS quarter,
+        MONTH(date_day)                                      AS month_number,
+        MONTHNAME(date_day)                                  AS month_name,
+        WEEKOFYEAR(date_day)                                 AS week_of_year,
+        DAY(date_day)                                        AS day_of_month,
+        DAYOFWEEK(date_day)                                  AS day_of_week,
+        DAYNAME(date_day)                                    AS day_name,
+        IFF(DAYOFWEEK(date_day) IN (0, 6), TRUE, FALSE)     AS is_weekend,
+        IFF(MONTH(date_day) BETWEEN 4 AND 9, TRUE, FALSE)   AS is_mlb_season
+    FROM date_spine
 )
 
-select * from enriched
+SELECT * FROM enriched

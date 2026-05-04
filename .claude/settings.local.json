@@ -2,7 +2,37 @@
   "permissions": {
     "allow": [
       "Bash(git add:*)",
-      "Bash(git commit -m ':*)"
+      "Bash(git commit -m ':*)",
+      "WebSearch",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:appac.github.io)",
+      "WebFetch(domain:statsapi.mlb.com)",
+      "WebFetch(domain:baseballsavant.mlb.com)",
+      "Bash(python3 -c ' *)",
+      "WebFetch(domain:www.fangraphs.com)",
+      "Bash(pip3 show *)",
+      "Bash(python3 *)",
+      "Bash(git commit -m ' *)",
+      "Bash(git push *)",
+      "Bash(grep \"^\\\\.env$\" .gitignore)",
+      "Bash(dbt --version)",
+      "Skill(update-config)",
+      "Bash(git rm *)",
+      "Bash(git commit *)",
+      "Bash(dbt debug *)",
+      "Bash(dbt run *)",
+      "Bash(dbt test *)",
+      "Bash(git -C /Users/emmasprankle/Desktop/isba-4715/sf-giants-data-analyst/sf-giants-data-analyst add models/mart/fact_pitcher_game.sql models/mart/schema.yml)",
+      "Bash(git -C /Users/emmasprankle/Desktop/isba-4715/sf-giants-data-analyst/sf-giants-data-analyst commit -m ' *)",
+      "Bash(dbt run-operation *)",
+      "Bash(cat)",
+      "Read(//tmp/**)",
+      "Bash(snowsql -d sf_giants_analytics -s raw -q \"select game_pk, game_date, is_home, count\\(*\\) as cnt from fact_pitcher_game group by game_pk, game_date, is_home order by cnt desc limit 20;\")",
+      "Bash(dbt compile *)",
+      "Bash(dbt docs *)"
+    ],
+    "additionalDirectories": [
+      "/Users/emmasprankle/Desktop/isba-4715/sf-giants-data-analyst"
     ]
   }
 }

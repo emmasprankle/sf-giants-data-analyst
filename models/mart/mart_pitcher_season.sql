@@ -1,38 +1,38 @@
-with fact as (
-    select * from {{ ref('fact_pitcher_game') }}
+WITH fact AS (
+    SELECT * FROM {{ ref('fact_pitcher_game') }}
 ),
 
-aggregated as (
-    select
+aggregated AS (
+    SELECT
         player_id,
         full_name,
-        count(*)                        as games,
-        round(sum(innings_pitched), 1)  as total_ip,
-        sum(strikeouts)                 as total_strikeouts,
-        sum(walks)                      as total_walks,
-        sum(hits)                       as total_hits,
-        sum(earned_runs)                as total_earned_runs,
-        sum(home_runs)                  as total_home_runs,
-        sum(wins)                       as wins,
-        sum(losses)                     as losses,
-        case
-            when sum(innings_pitched) > 0
-            then round((sum(earned_runs) / sum(innings_pitched)) * 9, 2)
-        end as season_era,
-        case
-            when sum(innings_pitched) > 0
-            then round((sum(walks) + sum(hits)) / sum(innings_pitched), 3)
-        end as season_whip,
-        case
-            when sum(innings_pitched) > 0
-            then round((sum(strikeouts) / sum(innings_pitched)) * 9, 2)
-        end as season_k_per_9,
-        case
-            when sum(innings_pitched) > 0
-            then round((sum(walks) / sum(innings_pitched)) * 9, 2)
-        end as season_bb_per_9
-    from fact
-    group by player_id, full_name
+        COUNT(*)                        AS games,
+        ROUND(SUM(innings_pitched), 1)  AS total_ip,
+        SUM(strikeouts)                 AS total_strikeouts,
+        SUM(walks)                      AS total_walks,
+        SUM(hits)                       AS total_hits,
+        SUM(earned_runs)                AS total_earned_runs,
+        SUM(home_runs)                  AS total_home_runs,
+        SUM(wins)                       AS wins,
+        SUM(losses)                     AS losses,
+        CASE
+            WHEN SUM(innings_pitched) > 0
+            THEN ROUND((SUM(earned_runs) / SUM(innings_pitched)) * 9, 2)
+        END AS season_era,
+        CASE
+            WHEN SUM(innings_pitched) > 0
+            THEN ROUND((SUM(walks) + SUM(hits)) / SUM(innings_pitched), 3)
+        END AS season_whip,
+        CASE
+            WHEN SUM(innings_pitched) > 0
+            THEN ROUND((SUM(strikeouts) / SUM(innings_pitched)) * 9, 2)
+        END AS season_k_per_9,
+        CASE
+            WHEN SUM(innings_pitched) > 0
+            THEN ROUND((SUM(walks) / SUM(innings_pitched)) * 9, 2)
+        END AS season_bb_per_9
+    FROM fact
+    GROUP BY player_id, full_name
 )
 
-select * from aggregated
+SELECT * FROM aggregated
