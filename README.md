@@ -146,7 +146,7 @@ erDiagram
 
 ## Live Dashboard
 
-**URL:** *(Deploy to Streamlit Community Cloud and add URL here)*
+**URL:** *https://sf-giants-data-analyst-mtevufmapmmdouqvqyqqqc.streamlit.app/*
 
 ## Knowledge Base
 
