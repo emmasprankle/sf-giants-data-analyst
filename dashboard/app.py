@@ -138,6 +138,19 @@ def load_home_away_split(player_id: int) -> pd.DataFrame:
 
 
 @st.cache_data(ttl=600)
+def load_staff_era_range() -> tuple:
+    cur = get_connection().cursor()
+    cur.execute(
+        """
+        SELECT MIN(season_era), MAX(season_era)
+        FROM MART.MART_PITCHER_SEASON
+        WHERE season_era IS NOT NULL
+        """
+    )
+    return cur.fetchone()
+
+
+@st.cache_data(ttl=600)
 def load_pitcher_era_rankings(start_date, end_date) -> pd.DataFrame:
     cur = get_connection().cursor()
     cur.execute(
@@ -221,6 +234,33 @@ scorecard(
     delta_fmt=lambda d: f"{d:+.1%} vs last 5",
 )
 
+# ── Staff context callout cards ───────────────────────────────────────────────
+
+MLB_AVG_ERA_2024 = 4.33
+
+staff_min_era, staff_max_era = load_staff_era_range()
+
+if season and season[0] is not None:
+    player_era = float(season[0])
+    era_vs_avg = round(player_era - MLB_AVG_ERA_2024, 2)
+    era_spread = round(float(staff_max_era) - float(staff_min_era), 2) if staff_min_era and staff_max_era else None
+
+    ctx_cols = st.columns(3)
+    ctx_cols[0].metric("2024 MLB Avg ERA", f"{MLB_AVG_ERA_2024:.2f}")
+    ctx_cols[1].metric(
+        f"{selected_name} ERA vs. MLB Avg",
+        f"{player_era:.2f}",
+        delta=f"{era_vs_avg:+.2f} vs MLB avg",
+        delta_color="inverse",
+    )
+    if era_spread is not None:
+        ctx_cols[2].metric(
+            "Staff ERA Spread",
+            f"{era_spread:.2f} pts",
+            delta=f"{float(staff_min_era):.2f} best → {float(staff_max_era):.2f} worst",
+            delta_color="off",
+        )
+
 # ── Shared date filter ────────────────────────────────────────────────────────
 
 st.divider()
@@ -251,6 +291,19 @@ filtered = trend_df[
 if filtered.empty:
     st.info("No trend data in the selected date range.")
 else:
+    peak_idx = filtered["rolling_era"].idxmax()
+    low_idx = filtered["rolling_era"].idxmin()
+    peak_era = float(filtered.loc[peak_idx, "rolling_era"])
+    peak_month = filtered.loc[peak_idx, "game_date"].strftime("%b")
+    low_era = float(filtered.loc[low_idx, "rolling_era"])
+    low_month = filtered.loc[low_idx, "game_date"].strftime("%b")
+
+    trend_cols = st.columns(3)
+    if season and season[0] is not None:
+        trend_cols[0].metric("Season ERA", f"{float(season[0]):.2f}")
+    trend_cols[1].metric(f"Rolling ERA Peak ({peak_month})", f"{peak_era:.2f}")
+    trend_cols[2].metric(f"Rolling ERA Low ({low_month})", f"{low_era:.2f}")
+
     def trend_chart(df, y_col, y_title, color):
         return (
             alt.Chart(df)
@@ -296,6 +349,21 @@ else:
 
     home_row = split_df[split_df["venue"] == "Home"].iloc[0] if "Home" in split_df["venue"].values else None
     away_row = split_df[split_df["venue"] == "Away"].iloc[0] if "Away" in split_df["venue"].values else None
+
+    if home_row is not None and away_row is not None:
+        home_era = float(home_row["era"])
+        away_era = float(away_row["era"])
+        era_gap = round(away_era - home_era, 2)
+
+        ha_cols = st.columns(3)
+        ha_cols[0].metric("Home ERA", f"{home_era:.2f}")
+        ha_cols[1].metric("Away ERA", f"{away_era:.2f}")
+        ha_cols[2].metric(
+            "ERA Gap (Away − Home)",
+            f"{abs(era_gap):.2f} pts",
+            delta=f"{era_gap:+.2f} on the road",
+            delta_color="inverse",
+        )
 
     col_labels = st.columns([1] + [1] * len(metrics))
     col_labels[0].markdown("**Venue**")
