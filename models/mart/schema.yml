@@ -54,3 +54,13 @@ models:
       - name: game_date
         tests:
           - not_null
+
+  - name: dim_date
+    columns:
+      - name: date_day
+        tests:
+          - not_null
+          - unique
+      - name: year
+        tests:
+          - not_null
