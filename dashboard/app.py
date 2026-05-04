@@ -151,6 +151,34 @@ def load_staff_era_range() -> tuple:
 
 
 @st.cache_data(ttl=600)
+def load_comparison_stats(player_ids: tuple) -> pd.DataFrame:
+    placeholders = ", ".join(["%s"] * len(player_ids))
+    cur = get_connection().cursor()
+    cur.execute(
+        f"""
+        SELECT
+            s.full_name,
+            s.season_era,
+            s.season_whip,
+            s.season_k_per_9,
+            s.season_bb_per_9,
+            ROUND(SUM(f.strikes) / NULLIF(SUM(f.pitches_thrown), 0) * 100, 1) AS strike_pct,
+            s.total_ip,
+            s.games
+        FROM MART.MART_PITCHER_SEASON s
+        JOIN MART.FACT_PITCHER_GAME f ON s.player_id = f.player_id
+        WHERE s.player_id IN ({placeholders})
+        GROUP BY s.full_name, s.season_era, s.season_whip, s.season_k_per_9,
+                 s.season_bb_per_9, s.total_ip, s.games
+        ORDER BY s.season_era
+        """,
+        player_ids,
+    )
+    rows = cur.fetchall()
+    return pd.DataFrame(rows, columns=["full_name", "era", "whip", "k_per_9", "bb_per_9", "strike_pct", "total_ip", "games"])
+
+
+@st.cache_data(ttl=600)
 def load_pitcher_era_rankings(start_date, end_date) -> pd.DataFrame:
     cur = get_connection().cursor()
     cur.execute(
@@ -484,3 +512,82 @@ else:
     )
 
     st.altair_chart(rankings_chart, use_container_width=True)
+
+st.divider()
+
+# ── Pitcher comparison ────────────────────────────────────────────────────────
+
+st.subheader("Pitcher Comparison")
+
+compare_names = st.multiselect(
+    "Select pitchers to compare (minimum 2)",
+    options=list(pitcher_map.keys()),
+    default=[selected_name],
+)
+
+if len(compare_names) < 2:
+    st.info("Select at least 2 pitchers to see the comparison.")
+else:
+    compare_ids = tuple(pitcher_map[n] for n in compare_names)
+    comp_df = load_comparison_stats(compare_ids)
+
+    # ── Stats table ───────────────────────────────────────────────────────────
+    table_df = comp_df.copy()
+    table_df["ERA"]      = table_df["era"].apply(lambda v: f"{float(v):.2f}" if v is not None else "—")
+    table_df["WHIP"]     = table_df["whip"].apply(lambda v: f"{float(v):.3f}" if v is not None else "—")
+    table_df["K/9"]      = table_df["k_per_9"].apply(lambda v: f"{float(v):.2f}" if v is not None else "—")
+    table_df["BB/9"]     = table_df["bb_per_9"].apply(lambda v: f"{float(v):.2f}" if v is not None else "—")
+    table_df["Strike%"]  = table_df["strike_pct"].apply(lambda v: f"{float(v):.1f}%" if v is not None else "—")
+    table_df["IP"]       = table_df["total_ip"].apply(lambda v: f"{float(v):.1f}" if v is not None else "—")
+    table_df["G"]        = table_df["games"].apply(lambda v: str(int(v)) if v is not None else "—")
+    table_df = table_df.rename(columns={"full_name": "Pitcher"})
+    st.dataframe(
+        table_df[["Pitcher", "ERA", "WHIP", "K/9", "BB/9", "Strike%", "IP", "G"]].set_index("Pitcher"),
+        use_container_width=True,
+    )
+
+    # ── Bar charts per metric ─────────────────────────────────────────────────
+    chart_metrics = [
+        ("era",        "ERA"),
+        ("whip",       "WHIP"),
+        ("k_per_9",    "K/9"),
+        ("bb_per_9",   "BB/9"),
+        ("strike_pct", "Strike%"),
+    ]
+
+    melted = comp_df.melt(
+        id_vars="full_name",
+        value_vars=[m for m, _ in chart_metrics],
+        var_name="metric",
+        value_name="value",
+    )
+    metric_label_map = {m: lbl for m, lbl in chart_metrics}
+    melted["metric_label"] = melted["metric"].map(metric_label_map)
+
+    comp_chart = (
+        alt.Chart(melted)
+        .mark_bar()
+        .encode(
+            x=alt.X("full_name:N", title=None, axis=alt.Axis(labelAngle=-30, labelLimit=120)),
+            y=alt.Y("value:Q", title=None, scale=alt.Scale(zero=True)),
+            color=alt.Color(
+                "full_name:N",
+                scale=alt.Scale(scheme="tableau10"),
+                legend=alt.Legend(title="Pitcher"),
+            ),
+            column=alt.Column(
+                "metric_label:N",
+                title=None,
+                header=alt.Header(labelFontSize=13),
+                sort=[lbl for _, lbl in chart_metrics],
+            ),
+            tooltip=[
+                alt.Tooltip("full_name:N", title="Pitcher"),
+                alt.Tooltip("metric_label:N", title="Metric"),
+                alt.Tooltip("value:Q", title="Value", format=".2f"),
+            ],
+        )
+        .properties(width=max(80, 400 // len(compare_names)), height=220)
+        .resolve_scale(y="independent")
+    )
+    st.altair_chart(comp_chart)
