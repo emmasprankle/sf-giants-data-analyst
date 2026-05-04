@@ -27,7 +27,6 @@ def _secret(key):
         return os.getenv(key)
 
 
-@st.cache_resource
 def get_connection():
     return snowflake.connector.connect(
         account=_secret("SNOWFLAKE_ACCOUNT"),
@@ -43,71 +42,74 @@ def get_connection():
 
 @st.cache_data(ttl=600)
 def load_pitchers():
-    cur = get_connection().cursor()
-    cur.execute(
-        "SELECT player_id, full_name FROM MART.DIM_PITCHER ORDER BY full_name"
-    )
-    return cur.fetchall()
+    with get_connection() as conn:
+        cur = conn.cursor()
+        cur.execute("SELECT player_id, full_name FROM MART.DIM_PITCHER ORDER BY full_name")
+        return cur.fetchall()
 
 
 @st.cache_data(ttl=600)
 def load_season_kpis(player_id: int):
-    cur = get_connection().cursor()
-    cur.execute(
-        """
-        SELECT
-            s.season_era,
-            s.season_whip,
-            s.season_k_per_9,
-            s.season_bb_per_9,
-            ROUND(SUM(f.strikes) / NULLIF(SUM(f.pitches_thrown), 0), 3) AS season_strike_pct
-        FROM MART.MART_PITCHER_SEASON s
-        JOIN MART.FACT_PITCHER_GAME f ON s.player_id = f.player_id
-        WHERE s.player_id = %s
-        GROUP BY s.season_era, s.season_whip, s.season_k_per_9, s.season_bb_per_9
-        """,
-        (player_id,),
-    )
-    return cur.fetchone()
+    with get_connection() as conn:
+        cur = conn.cursor()
+        cur.execute(
+            """
+            SELECT
+                s.season_era,
+                s.season_whip,
+                s.season_k_per_9,
+                s.season_bb_per_9,
+                ROUND(SUM(f.strikes) / NULLIF(SUM(f.pitches_thrown), 0), 3) AS season_strike_pct
+            FROM MART.MART_PITCHER_SEASON s
+            JOIN MART.FACT_PITCHER_GAME f ON s.player_id = f.player_id
+            WHERE s.player_id = %s
+            GROUP BY s.season_era, s.season_whip, s.season_k_per_9, s.season_bb_per_9
+            """,
+            (player_id,),
+        )
+        return cur.fetchone()
 
 
 @st.cache_data(ttl=600)
 def load_latest_rolling(player_id: int):
-    cur = get_connection().cursor()
-    cur.execute(
-        """
-        SELECT rolling_era, rolling_whip, rolling_k_per_9, rolling_bb_per_9, rolling_strike_pct
-        FROM MART.MART_PITCHER_ROLLING
-        WHERE player_id = %s
-        ORDER BY game_date DESC
-        LIMIT 1
-        """,
-        (player_id,),
-    )
-    return cur.fetchone()
+    with get_connection() as conn:
+        cur = conn.cursor()
+        cur.execute(
+            """
+            SELECT rolling_era, rolling_whip, rolling_k_per_9, rolling_bb_per_9, rolling_strike_pct
+            FROM MART.MART_PITCHER_ROLLING
+            WHERE player_id = %s
+            ORDER BY game_date DESC
+            LIMIT 1
+            """,
+            (player_id,),
+        )
+        return cur.fetchone()
 
 
 @st.cache_data(ttl=600)
 def load_date_bounds():
-    cur = get_connection().cursor()
-    cur.execute("SELECT MIN(game_date), MAX(game_date) FROM MART.FACT_PITCHER_GAME")
-    row = cur.fetchone()
-    return row[0], row[1]
+    with get_connection() as conn:
+        cur = conn.cursor()
+        cur.execute("SELECT MIN(game_date), MAX(game_date) FROM MART.FACT_PITCHER_GAME")
+        row = cur.fetchone()
+        return row[0], row[1]
 
 
 @st.cache_data(ttl=600)
 def load_rolling_trend(player_id: int) -> pd.DataFrame:
-    cur = get_connection().cursor()
-    cur.execute(
-        """
-        SELECT game_date, rolling_era, rolling_whip
-        FROM MART.MART_PITCHER_ROLLING
-        WHERE player_id = %s
-        ORDER BY game_date
-        """,
-        (player_id,),
-    )
-    rows = cur.fetchall()
+    with get_connection() as conn:
+        cur = conn.cursor()
+        cur.execute(
+            """
+            SELECT game_date, rolling_era, rolling_whip
+            FROM MART.MART_PITCHER_ROLLING
+            WHERE player_id = %s
+            ORDER BY game_date
+            """,
+            (player_id,),
+        )
+        rows = cur.fetchall()
     df = pd.DataFrame(rows, columns=["game_date", "rolling_era", "rolling_whip"])
     df["game_date"] = pd.to_datetime(df["game_date"])
     return df
@@ -115,86 +117,90 @@ def load_rolling_trend(player_id: int) -> pd.DataFrame:
 
 @st.cache_data(ttl=600)
 def load_home_away_split(player_id: int) -> pd.DataFrame:
-    cur = get_connection().cursor()
-    cur.execute(
-        """
-        SELECT
-            CASE WHEN is_home THEN 'Home' ELSE 'Away' END AS venue,
-            ROUND((SUM(earned_runs) / NULLIF(SUM(innings_pitched), 0)) * 9, 2) AS era,
-            ROUND(
-                (SUM(hits) + SUM(walks)) / NULLIF(SUM(innings_pitched), 0), 3
-            ) AS whip,
-            ROUND(SUM(strikeouts) / NULLIF(SUM(innings_pitched), 0) * 9, 2) AS k_per_9,
-            ROUND(SUM(strikes) / NULLIF(SUM(pitches_thrown), 0), 3) AS strike_pct
-        FROM MART.FACT_PITCHER_GAME
-        WHERE player_id = %s
-        GROUP BY is_home
-        ORDER BY is_home DESC
-        """,
-        (player_id,),
-    )
-    rows = cur.fetchall()
+    with get_connection() as conn:
+        cur = conn.cursor()
+        cur.execute(
+            """
+            SELECT
+                CASE WHEN is_home THEN 'Home' ELSE 'Away' END AS venue,
+                ROUND((SUM(earned_runs) / NULLIF(SUM(innings_pitched), 0)) * 9, 2) AS era,
+                ROUND(
+                    (SUM(hits) + SUM(walks)) / NULLIF(SUM(innings_pitched), 0), 3
+                ) AS whip,
+                ROUND(SUM(strikeouts) / NULLIF(SUM(innings_pitched), 0) * 9, 2) AS k_per_9,
+                ROUND(SUM(strikes) / NULLIF(SUM(pitches_thrown), 0), 3) AS strike_pct
+            FROM MART.FACT_PITCHER_GAME
+            WHERE player_id = %s
+            GROUP BY is_home
+            ORDER BY is_home DESC
+            """,
+            (player_id,),
+        )
+        rows = cur.fetchall()
     return pd.DataFrame(rows, columns=["venue", "era", "whip", "k_per_9", "strike_pct"])
 
 
 @st.cache_data(ttl=600)
 def load_staff_era_range() -> tuple:
-    cur = get_connection().cursor()
-    cur.execute(
-        """
-        SELECT MIN(season_era), MAX(season_era)
-        FROM MART.MART_PITCHER_SEASON
-        WHERE season_era IS NOT NULL
-        """
-    )
-    return cur.fetchone()
+    with get_connection() as conn:
+        cur = conn.cursor()
+        cur.execute(
+            """
+            SELECT MIN(season_era), MAX(season_era)
+            FROM MART.MART_PITCHER_SEASON
+            WHERE season_era IS NOT NULL
+            """
+        )
+        return cur.fetchone()
 
 
 @st.cache_data(ttl=600)
 def load_comparison_stats(player_ids: tuple) -> pd.DataFrame:
     placeholders = ", ".join(["%s"] * len(player_ids))
-    cur = get_connection().cursor()
-    cur.execute(
-        f"""
-        SELECT
-            s.full_name,
-            s.season_era,
-            s.season_whip,
-            s.season_k_per_9,
-            s.season_bb_per_9,
-            ROUND(SUM(f.strikes) / NULLIF(SUM(f.pitches_thrown), 0) * 100, 1) AS strike_pct,
-            s.total_ip,
-            s.games
-        FROM MART.MART_PITCHER_SEASON s
-        JOIN MART.FACT_PITCHER_GAME f ON s.player_id = f.player_id
-        WHERE s.player_id IN ({placeholders})
-        GROUP BY s.full_name, s.season_era, s.season_whip, s.season_k_per_9,
-                 s.season_bb_per_9, s.total_ip, s.games
-        ORDER BY s.season_era
-        """,
-        player_ids,
-    )
-    rows = cur.fetchall()
+    with get_connection() as conn:
+        cur = conn.cursor()
+        cur.execute(
+            f"""
+            SELECT
+                s.full_name,
+                s.season_era,
+                s.season_whip,
+                s.season_k_per_9,
+                s.season_bb_per_9,
+                ROUND(SUM(f.strikes) / NULLIF(SUM(f.pitches_thrown), 0) * 100, 1) AS strike_pct,
+                s.total_ip,
+                s.games
+            FROM MART.MART_PITCHER_SEASON s
+            JOIN MART.FACT_PITCHER_GAME f ON s.player_id = f.player_id
+            WHERE s.player_id IN ({placeholders})
+            GROUP BY s.full_name, s.season_era, s.season_whip, s.season_k_per_9,
+                     s.season_bb_per_9, s.total_ip, s.games
+            ORDER BY s.season_era
+            """,
+            player_ids,
+        )
+        rows = cur.fetchall()
     return pd.DataFrame(rows, columns=["full_name", "era", "whip", "k_per_9", "bb_per_9", "strike_pct", "total_ip", "games"])
 
 
 @st.cache_data(ttl=600)
 def load_pitcher_era_rankings(start_date, end_date) -> pd.DataFrame:
-    cur = get_connection().cursor()
-    cur.execute(
-        """
-        SELECT
-            full_name,
-            ROUND((SUM(earned_runs) / NULLIF(SUM(innings_pitched), 0)) * 9, 2) AS era
-        FROM MART.FACT_PITCHER_GAME
-        WHERE game_date BETWEEN %s AND %s
-        GROUP BY full_name
-        HAVING SUM(innings_pitched) >= 10
-        ORDER BY era
-        """,
-        (start_date, end_date),
-    )
-    rows = cur.fetchall()
+    with get_connection() as conn:
+        cur = conn.cursor()
+        cur.execute(
+            """
+            SELECT
+                full_name,
+                ROUND((SUM(earned_runs) / NULLIF(SUM(innings_pitched), 0)) * 9, 2) AS era
+            FROM MART.FACT_PITCHER_GAME
+            WHERE game_date BETWEEN %s AND %s
+            GROUP BY full_name
+            HAVING SUM(innings_pitched) >= 10
+            ORDER BY era
+            """,
+            (start_date, end_date),
+        )
+        rows = cur.fetchall()
     return pd.DataFrame(rows, columns=["full_name", "era"])
 
 
