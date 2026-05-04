@@ -359,14 +359,23 @@ else:
         home_era = float(home_row["era"])
         away_era = float(away_row["era"])
         era_gap = round(away_era - home_era, 2)
+        home_whip = float(home_row["whip"])
+        away_whip = float(away_row["whip"])
+        whip_gap = round(away_whip - home_whip, 3)
 
-        ha_cols = st.columns(3)
+        ha_cols = st.columns(4)
         ha_cols[0].metric("Home ERA", f"{home_era:.2f}")
         ha_cols[1].metric("Away ERA", f"{away_era:.2f}")
         ha_cols[2].metric(
             "ERA Gap (Away − Home)",
             f"{abs(era_gap):.2f} pts",
             delta=f"{era_gap:+.2f} on the road",
+            delta_color="inverse",
+        )
+        ha_cols[3].metric(
+            "WHIP Gap (Away − Home)",
+            f"{abs(whip_gap):.3f} pts",
+            delta=f"{whip_gap:+.3f} on the road",
             delta_color="inverse",
         )
 
