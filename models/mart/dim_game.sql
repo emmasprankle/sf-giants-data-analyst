@@ -1,8 +1,10 @@
 with games as (
-    select distinct
+    select
         game_pk,
-        game_date
+        game_date,
+        max(is_home) as is_home
     from {{ ref('fact_pitcher_game') }}
+    group by game_pk, game_date
 )
 
 select * from games
