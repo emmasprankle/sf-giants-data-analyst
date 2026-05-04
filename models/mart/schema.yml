@@ -32,3 +32,13 @@ models:
       - name: full_name
         tests:
           - not_null
+
+  - name: dim_game
+    columns:
+      - name: game_pk
+        tests:
+          - not_null
+          - unique
+      - name: game_date
+        tests:
+          - not_null
