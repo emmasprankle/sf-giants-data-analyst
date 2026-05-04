@@ -161,7 +161,7 @@ def load_pitcher_era_rankings(start_date, end_date) -> pd.DataFrame:
         FROM MART.FACT_PITCHER_GAME
         WHERE game_date BETWEEN %s AND %s
         GROUP BY full_name
-        HAVING SUM(innings_pitched) > 0
+        HAVING SUM(innings_pitched) >= 10
         ORDER BY era
         """,
         (start_date, end_date),
@@ -245,16 +245,10 @@ if season and season[0] is not None:
     era_vs_avg = round(player_era - MLB_AVG_ERA_2024, 2)
     era_spread = round(float(staff_max_era) - float(staff_min_era), 2) if staff_min_era and staff_max_era else None
 
-    ctx_cols = st.columns(3)
+    ctx_cols = st.columns(2)
     ctx_cols[0].metric("2024 MLB Avg ERA", f"{MLB_AVG_ERA_2024:.2f}")
-    ctx_cols[1].metric(
-        f"{selected_name} ERA vs. MLB Avg",
-        f"{player_era:.2f}",
-        delta=f"{era_vs_avg:+.2f} vs MLB avg",
-        delta_color="inverse",
-    )
     if era_spread is not None:
-        ctx_cols[2].metric(
+        ctx_cols[1].metric(
             "Staff ERA Spread",
             f"{era_spread:.2f} pts",
             delta=f"{float(staff_min_era):.2f} best → {float(staff_max_era):.2f} worst",
@@ -421,6 +415,29 @@ rankings_df = load_pitcher_era_rankings(start, end)
 if rankings_df.empty:
     st.info("No pitching data in the selected date range.")
 else:
+    best_era = float(rankings_df["era"].min())
+    worst_era = float(rankings_df["era"].max())
+    era_gap = round(worst_era - best_era, 2)
+    best_name = rankings_df.loc[rankings_df["era"].idxmin(), "full_name"]
+    worst_name = rankings_df.loc[rankings_df["era"].idxmax(), "full_name"]
+
+    gap_cols = st.columns(4)
+    gap_cols[0].metric(f"Best ERA ({best_name})", f"{best_era:.2f}")
+    gap_cols[1].metric(f"Worst ERA ({worst_name})", f"{worst_era:.2f}")
+    gap_cols[2].metric(
+        "ERA Gap (Best → Worst)",
+        f"{era_gap:.2f} pts",
+        delta=f"{best_name} vs {worst_name}",
+        delta_color="off",
+    )
+    if season and season[0] is not None:
+        gap_cols[3].metric(
+            f"{selected_name} vs. MLB Avg",
+            f"{float(season[0]):.2f}",
+            delta=f"{era_vs_avg:+.2f} vs MLB avg",
+            delta_color="inverse",
+        )
+
     bar_color = alt.condition(
         alt.datum.full_name == selected_name,
         alt.value("#FD5A1E"),
