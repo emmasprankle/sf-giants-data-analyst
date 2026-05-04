@@ -1,20 +1,28 @@
-# Baseball Pitching Performance Analytics Pipeline
+# SF Giants Pitching Performance Analytics Pipeline
 
-A end-to-end data analytics pipeline built as a portfolio project targeting a **Baseball Operations Analyst** role with the San Francisco Giants.
+This project builds a full end-to-end baseball analytics pipeline targeting a **Baseball Operations Analyst** role with the San Francisco Giants. It ingests 2024 SF Giants pitching data from the MLB Stats API, transforms it through a Snowflake star schema using dbt, and surfaces performance insights through an interactive Streamlit dashboard. A knowledge base of 15 scraped sources across FanGraphs, sfgiants.com, and Baseball Savant provides qualitative context alongside the quantitative data. The project demonstrates every layer of a modern data stack — from raw API ingestion to scheduled orchestration to analyst-ready dashboards.
 
-## Project Overview
+## Job Posting
 
-This project demonstrates the full lifecycle of a baseball analytics workflow: ingesting raw MLB pitching data, transforming it into a clean star schema, and surfacing actionable insights through an interactive dashboard. It also builds a Giants-focused knowledge base from press releases and FanGraphs articles.
+- **Role:** Baseball Operations Analyst
+- **Company:** San Francisco Giants
+- **Link:** [docs/job-posting.pdf](docs/job-posting.pdf)
 
-**Key capabilities:**
+This project directly demonstrates the core skills the role requires: pulling and transforming MLB data at scale, building analyst-ready data models, and communicating pitching performance insights through visualization.
 
-- Automated daily ingestion of MLB pitching data via the MLB Stats API
-- Multi-layer data transformation (raw → staging → mart) using dbt
-- Pitcher performance star schema optimized for analysis
-- Interactive Streamlit dashboard for exploring pitching trends
-- Knowledge base of summarized Giants and FanGraphs content
+## Tech Stack
 
-## Pipeline Architecture
+| Layer | Tool |
+|---|---|
+| Source 1 | MLB Stats API (REST, JSON) |
+| Source 2 | FanGraphs, sfgiants.com, Baseball Savant (Firecrawl web scrape) |
+| Data Warehouse | Snowflake |
+| Transformation | dbt |
+| Orchestration | GitHub Actions |
+| Dashboard | Streamlit |
+| Knowledge Base | Claude Code (scrape → summarize → query) |
+
+## Pipeline Diagram
 
 ```mermaid
 flowchart LR
@@ -55,35 +63,138 @@ flowchart LR
     H --> L
 ```
 
-## Tech Stack
+## ERD (Star Schema)
 
+```mermaid
+erDiagram
+    FACT_PITCHER_GAME {
+        int player_id FK
+        int game_pk FK
+        date game_date FK
+        float innings_pitched
+        int strikeouts
+        int walks
+        int hits
+        int earned_runs
+        int pitches_thrown
+        int strikes
+        float k_per_9
+        float bb_per_9
+        float strike_pct
+        boolean is_home
+    }
 
-| Layer          | Tool                        |
-| -------------- | --------------------------- |
-| Data Warehouse | Snowflake                   |
-| Transformation | dbt                         |
-| Orchestration  | GitHub Actions              |
-| Dashboard      | Streamlit (Community Cloud) |
-| Data Source    | MLB Stats API               |
+    DIM_PITCHER {
+        int player_id PK
+        string full_name
+        string position
+        int age
+        string bats
+        string throws
+    }
 
+    DIM_GAME {
+        int game_pk PK
+        date game_date
+        string opponent
+        boolean is_home
+    }
 
-## Repo Structure
+    DIM_DATE {
+        date date_day PK
+        int year
+        int month
+        int day_of_week
+        boolean is_weekend
+    }
 
+    MART_PITCHER_SEASON {
+        int player_id FK
+        float season_era
+        float season_whip
+        float season_k_per_9
+        float season_bb_per_9
+    }
+
+    MART_PITCHER_ROLLING {
+        int player_id FK
+        date game_date
+        float rolling_era
+        float rolling_whip
+        float rolling_k_per_9
+        float rolling_strike_pct
+    }
+
+    DIM_PITCHER ||--o{ FACT_PITCHER_GAME : "player_id"
+    DIM_GAME ||--o{ FACT_PITCHER_GAME : "game_pk"
+    DIM_DATE ||--o{ FACT_PITCHER_GAME : "game_date"
+    DIM_PITCHER ||--o{ MART_PITCHER_SEASON : "player_id"
+    DIM_PITCHER ||--o{ MART_PITCHER_ROLLING : "player_id"
 ```
-sf-giants-data-analyst/
-├── .github/
-│   └── workflows/          # GitHub Actions pipeline (scheduled ingestion + dbt runs)
-├── dashboard/              # Streamlit app
-├── docs/                   # Project proposal and SF Giants job posting
-├── knowledge_base/         # Scraped sources and summarized wiki pages
-├── models/                 # dbt models
-│   ├── raw/                # Raw source models
-│   ├── staging/            # Cleaned and typed staging models
-│   └── mart/               # Star schema mart models
-├── CLAUDE.md               # Project context for AI-assisted development
-└── README.md
-```
 
-## Portfolio Note
+## Dashboard Preview
 
-This project was built independently as a portfolio piece to demonstrate data engineering and baseball analytics skills for a Baseball Operations Analyst role at the San Francisco Giants. It reflects real-world practices in modern data stack tooling, MLB data sourcing, and baseball domain knowledge.
+![Dashboard Preview](docs/dashboard-preview.png)
+
+## Insights
+
+**Descriptive (what happened?):** Logan Webb anchored the 2024 Giants rotation — his ERA led the starting staff and his workload (most innings pitched) made him the most complete pitching story of the season.
+
+**Diagnostic (why did it happen?):** Webb's performance splits sharply by venue. Oracle Park's pitcher-friendly dimensions suppress ERA significantly; his road ERA is measurably higher, reflecting how much park context drives his results.
+
+**Recommendation:** Prioritize Webb for home starts in high-leverage September series → projected ERA improvement based on his home/road split over remaining home games.
+
+## Live Dashboard
+
+**URL:** *(Deploy to Streamlit Community Cloud and add URL here)*
+
+## Knowledge Base
+
+A Claude Code-curated wiki built from 15 scraped sources across FanGraphs, sfgiants.com, and Baseball Savant. Raw sources live in `knowledge/raw/`.
+
+**Query it:** Open Claude Code in this repo and ask questions like:
+
+- "How did Logan Webb's FanGraphs advanced metrics compare to league average in 2024?"
+- "What does Baseball Savant's pitch arsenal data say about the Giants' most effective pitches?"
+- "What were the Giants' biggest pitching storylines coming out of the 2024 season?"
+
+## Setup & Reproduction
+
+**Requirements:** Python 3.11+, Snowflake account, Firecrawl API key
+
+Copy `.env.example` to `.env` and fill in your credentials:
+
+    SNOWFLAKE_ACCOUNT=
+    SNOWFLAKE_USER=
+    SNOWFLAKE_PASSWORD=
+    SNOWFLAKE_DATABASE=
+    SNOWFLAKE_WAREHOUSE=
+    FIRECRAWL_API_KEY=
+
+**Steps:**
+
+1. `pip install -r requirements.txt`
+2. `python ingestion/extract_mlb_stats.py` — loads raw pitching data into Snowflake
+3. `dbt run && dbt test` — builds and validates the star schema
+4. `python ingestion/extract_fangraphs.py` — scrapes knowledge base sources
+5. `streamlit run dashboard/app.py` — launches the dashboard
+
+GitHub Actions runs steps 2–3 (`pipeline.yml`) and step 4 (`scrape.yml`) on a daily schedule April–September.
+
+## Repository Structure
+
+    .
+    ├── .github/workflows/    # GitHub Actions (pipeline.yml, scrape.yml)
+    ├── ingestion/            # Extraction scripts (MLB Stats API + Firecrawl)
+    ├── models/               # dbt models
+    │   ├── staging/          # stg_players, stg_pitcher_game_logs
+    │   └── mart/             # dim_*, fact_pitcher_game, mart_pitcher_*
+    ├── tests/                # dbt singular tests
+    ├── macros/               # generate_schema_name override
+    ├── dashboard/            # Streamlit app
+    ├── knowledge/            # Knowledge base
+    │   └── raw/              # 15 scraped markdown files
+    ├── docs/                 # Job posting, proposal
+    ├── profiles.yml          # dbt CI profile (env_var credentials)
+    ├── CLAUDE.md             # Project context for Claude Code
+    └── README.md
