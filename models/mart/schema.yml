@@ -22,3 +22,13 @@ models:
       - name: game_date
         tests:
           - not_null
+
+  - name: mart_pitcher_season
+    columns:
+      - name: player_id
+        tests:
+          - not_null
+          - unique
+      - name: full_name
+        tests:
+          - not_null
