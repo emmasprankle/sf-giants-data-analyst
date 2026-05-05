@@ -3,113 +3,65 @@ source: https://baseballsavant.mlb.com/csv-docs
 slug: baseballsavant-statcast-glossary
 ---
 
-[Preview Matchup\\
-\\
-TBA vs. Sugano\\
-\\
-|     |     |     |     |\\
+[|     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/121.svg) | NYM |  | 5:40 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/115.svg) | COL |  |](https://baseballsavant.mlb.com/preview?game_pk=824363&game_date=2026-5-4)
+| ![](https://www.mlbstatic.com/team-logos/121.svg) | NYM | 4 | Final |\\
+| ![](https://www.mlbstatic.com/team-logos/115.svg) | COL | 2 |](https://baseballsavant.mlb.com/gamefeed?gamePk=824363)
 
-[Preview Matchup\\
-\\
-Tolle vs. Skubal\\
-\\
-|     |     |     |     |\\
+[|     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/111.svg) | BOS |  | 6:40 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/116.svg) | DET |  |](https://baseballsavant.mlb.com/preview?game_pk=824283&game_date=2026-5-4)
+| ![](https://www.mlbstatic.com/team-logos/111.svg) | BOS | 5 | Final |\\
+| ![](https://www.mlbstatic.com/team-logos/116.svg) | DET | 4 |](https://baseballsavant.mlb.com/gamefeed?gamePk=824283)
 
-[Preview Matchup\\
-\\
-TBA vs. Martinez\\
-\\
-|     |     |     |     |\\
+[|     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/141.svg) | TOR |  | 6:40 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/139.svg) | TB |  |](https://baseballsavant.mlb.com/preview?game_pk=822984&game_date=2026-5-4)
+| ![](https://www.mlbstatic.com/team-logos/141.svg) | TOR | 1 | Final |\\
+| ![](https://www.mlbstatic.com/team-logos/139.svg) | TB | 5 |](https://baseballsavant.mlb.com/gamefeed?gamePk=822984)
 
-[Preview Matchup\\
-\\
-Nola vs. Junk\\
-\\
-|     |     |     |     |\\
+[|     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/143.svg) | PHI |  | 6:40 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/146.svg) | MIA |  |](https://baseballsavant.mlb.com/preview?game_pk=823874&game_date=2026-5-4)
+| ![](https://www.mlbstatic.com/team-logos/143.svg) | PHI | 1 | Final |\\
+| ![](https://www.mlbstatic.com/team-logos/146.svg) | MIA | 0 |](https://baseballsavant.mlb.com/gamefeed?gamePk=823874)
 
-[Preview Matchup\\
-\\
-Baz vs. Schlittler\\
-\\
-|     |     |     |     |\\
+[|     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/110.svg) | BAL |  | 7:05 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/147.svg) | NYY |  |](https://baseballsavant.mlb.com/preview?game_pk=823552&game_date=2026-5-4)
+| ![](https://www.mlbstatic.com/team-logos/110.svg) | BAL | 1 | Final |\\
+| ![](https://www.mlbstatic.com/team-logos/147.svg) | NYY | 12 |](https://baseballsavant.mlb.com/gamefeed?gamePk=823552)
 
-[Preview Matchup\\
-\\
-Petty vs. Cabrera\\
-\\
-|     |     |     |     |\\
+[|     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/113.svg) | CIN |  | 7:40 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/112.svg) | CHC |  |](https://baseballsavant.mlb.com/preview?game_pk=824684&game_date=2026-5-4)
+| ![](https://www.mlbstatic.com/team-logos/113.svg) | CIN | 4 | Final |\\
+| ![](https://www.mlbstatic.com/team-logos/112.svg) | CHC | 5 |](https://baseballsavant.mlb.com/gamefeed?gamePk=824684)
 
-[Preview Matchup\\
-\\
-Bibee vs. Wacha\\
-\\
-|     |     |     |     |\\
+[|     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/114.svg) | CLE |  | 7:40 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/118.svg) | KC |  |](https://baseballsavant.mlb.com/preview?game_pk=824120&game_date=2026-5-4)
+| ![](https://www.mlbstatic.com/team-logos/114.svg) | CLE | 2 | Final |\\
+| ![](https://www.mlbstatic.com/team-logos/118.svg) | KC | 6 |](https://baseballsavant.mlb.com/gamefeed?gamePk=824120)
 
-[Preview Matchup\\
-\\
-Patrick vs. Leahy\\
-\\
-|     |     |     |     |\\
+[|     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/158.svg) | MIL |  | 7:45 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/138.svg) | STL |  |](https://baseballsavant.mlb.com/preview?game_pk=823064&game_date=2026-5-4)
+| ![](https://www.mlbstatic.com/team-logos/158.svg) | MIL | 3 | Final |\\
+| ![](https://www.mlbstatic.com/team-logos/138.svg) | STL | 6 |](https://baseballsavant.mlb.com/gamefeed?gamePk=823064)
 
-[Preview Matchup\\
-\\
-Yamamoto vs. Okert\\
-\\
-|     |     |     |     |\\
+[|     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/119.svg) | LAD |  | 8:10 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/117.svg) | HOU |  |](https://baseballsavant.mlb.com/preview?game_pk=824201&game_date=2026-5-4)
+| ![](https://www.mlbstatic.com/team-logos/119.svg) | LAD | 8 | Final |\\
+| ![](https://www.mlbstatic.com/team-logos/117.svg) | HOU | 3 |](https://baseballsavant.mlb.com/gamefeed?gamePk=824201)
 
-[Preview Matchup\\
-\\
-Martin vs. Soriano\\
-\\
-|     |     |     |     |\\
+[|     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/145.svg) | CWS |  | 9:38 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/108.svg) | LAA |  |](https://baseballsavant.mlb.com/preview?game_pk=824039&game_date=2026-5-4)
+| ![](https://www.mlbstatic.com/team-logos/145.svg) | CWS | 6 | Final |\\
+| ![](https://www.mlbstatic.com/team-logos/108.svg) | LAA | 0 |](https://baseballsavant.mlb.com/gamefeed?gamePk=824039)
 
-[Preview Matchup\\
-\\
-Ritchie vs. Gilbert\\
-\\
-|     |     |     |     |\\
+[|     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/144.svg) | ATL |  | 9:40 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/136.svg) | SEA |  |](https://baseballsavant.mlb.com/preview?game_pk=823143&game_date=2026-5-4)
+| ![](https://www.mlbstatic.com/team-logos/144.svg) | ATL | 4 | Final |\\
+| ![](https://www.mlbstatic.com/team-logos/136.svg) | SEA | 5 |](https://baseballsavant.mlb.com/gamefeed?gamePk=823143)
 
-[Preview Matchup\\
-\\
-Vásquez vs. McDonald\\
-\\
-|     |     |     |     |\\
+[|     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/135.svg) | SD |  | 9:45 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/137.svg) | SF |  |](https://baseballsavant.mlb.com/preview?game_pk=823228&game_date=2026-5-4)
+| ![](https://www.mlbstatic.com/team-logos/135.svg) | SD | 2 | Final |\\
+| ![](https://www.mlbstatic.com/team-logos/137.svg) | SF | 3 |](https://baseballsavant.mlb.com/gamefeed?gamePk=823228)
 
 <
 
