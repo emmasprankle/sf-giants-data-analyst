@@ -47,8 +47,8 @@ SCRAPE_TARGETS = [
         "url": "https://library.fangraphs.com/pitching/fip/",
     },
     {
-        "slug": "fangraphs-glossary-era",
-        "url": "https://library.fangraphs.com/pitching/era/",
+        "slug": "mlb-glossary-era",
+        "url": "https://www.mlb.com/glossary/standard-stats/earned-run-average",
     },
     {
         "slug": "fangraphs-glossary-whip",
@@ -122,6 +122,34 @@ SCRAPE_TARGETS = [
     {
         "slug": "baseballsavant-landen-roupp",
         "url": "https://baseballsavant.mlb.com/savant-player/landen-roupp-694738",
+    },
+
+    # ── Pitcher evaluation / statistical methodology ──────────────────────────
+    # DIPS = the core signal/noise framework for pitching (job posting: "signal/noise ratio")
+    {
+        "slug": "fangraphs-glossary-dips",
+        "url": "https://library.fangraphs.com/pitching/dips/",
+    },
+    # Park factors = primary confounding variable for Giants pitchers at Oracle Park
+    # (job posting: "confounding variables")
+    {
+        "slug": "fangraphs-glossary-park-factors",
+        "url": "https://library.fangraphs.com/misc/park-factors/",
+    },
+    # FanGraphs pitcher WAR methodology — pairs with BR pitcher WAR to show two
+    # competing frameworks; demonstrates ability to evaluate public research
+    # (job posting: "evaluate and adapt public baseball research")
+    {
+        "slug": "fangraphs-glossary-war-pitchers",
+        "url": "https://library.fangraphs.com/war/calculating-war-pitchers/",
+    },
+    {
+        "slug": "baseball-reference-pitcher-war",
+        "url": "https://www.baseball-reference.com/about/war_explained_pitch.shtml",
+    },
+    {
+        "slug": "mlb-statcast-glossary",
+        "url": "https://www.mlb.com/glossary/statcast",
     },
 ]
 

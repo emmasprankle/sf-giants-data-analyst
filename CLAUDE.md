@@ -67,6 +67,26 @@ Three Snowflake schemas — RAW (source data), STAGING (views), MART (tables). A
 - [x] 25 dbt tests passing (schema tests + composite PK singular test)
 - [x] dbt docs site generated (`dbt docs generate && dbt docs serve`)
 
+## Knowledge Base Schema
+
+### Ingest — when new sources land in `knowledge/raw/`
+1. Read the new file and identify what it covers (team data, player page, metric glossary, methodology).
+2. Add a row for it in `knowledge/index.md` under the correct category with a one-line summary.
+3. Check whether any existing wiki page should reference it — if so, add the source to that page's *Sources* line.
+4. If the file fills a gap not covered by any wiki page, note it as a candidate for a new page or an extension of an existing one.
+
+### Query — when answering domain questions about SF Giants pitching
+1. Start from `knowledge/index.md` to locate the relevant wiki page(s) or raw source(s).
+2. Prefer wiki pages for interpretation (signal vs. noise, ERA/FIP gaps, player profiles). Reach into `knowledge/raw/` when you need exact numbers, formulas, or source-level detail a wiki page summarizes away.
+3. When ERA and FIP diverge for a Giants pitcher, always check the Oracle Park park factor and LOB% before attributing the gap to skill — see `knowledge/wiki/signal-noise.md`.
+4. `pitcher-profiles.md` is intentionally dense; treat it as a stat lookup, not a narrative summary.
+
+### Lint — periodic consistency checks
+1. **Index completeness:** every file in `knowledge/raw/` has a row in `knowledge/index.md`; every wiki page is listed under the correct category.
+2. **Dead references:** wiki pages reference only files that actually exist in `knowledge/raw/`; no links point to deleted or renamed slugs.
+3. **Source freshness:** raw files scraped via Firecrawl carry a `source:` frontmatter URL — if a URL is known to be paywalled or broken, flag it for replacement rather than leaving stale content silently in place.
+4. **Stat consistency:** if a stat appears in both a wiki page and a raw source, the wiki page value takes precedence (it was verified at generation time); surface any discrepancy rather than silently overwriting.
+
 ## What's Next
 - [ ] Build the Streamlit dashboard (connect to Snowflake, visualize mart tables)
 - [ ] Set up GitHub Actions workflow to run `dbt run && dbt test` on a schedule
