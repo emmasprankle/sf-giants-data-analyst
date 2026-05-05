@@ -51,16 +51,20 @@ SCRAPE_TARGETS = [
         "url": "https://library.fangraphs.com/pitching/era/",
     },
     {
-        "slug": "fangraphs-glossary-what-is-good-era",
-        "url": "https://library.fangraphs.com/pitching/what-is-a-good-era/",
-    },
-    {
         "slug": "fangraphs-glossary-whip",
         "url": "https://library.fangraphs.com/pitching/whip/",
     },
     {
-        "slug": "fangraphs-glossary-war-pitchers",
-        "url": "https://library.fangraphs.com/war/war-pitchers/",
+        "slug": "fangraphs-glossary-babip",
+        "url": "https://library.fangraphs.com/pitching/babip/",
+    },
+    {
+        "slug": "fangraphs-glossary-xfip",
+        "url": "https://library.fangraphs.com/pitching/xfip/",
+    },
+    {
+        "slug": "fangraphs-glossary-lob-pct",
+        "url": "https://library.fangraphs.com/pitching/lob/",
     },
 
     # ── Baseball Reference (baseball-reference.com) ───────────────────────────
@@ -68,17 +72,20 @@ SCRAPE_TARGETS = [
         "slug": "baseball-reference-giants-2024-pitching",
         "url": "https://www.baseball-reference.com/teams/SFG/2024-pitching.shtml",
     },
+    {
+        "slug": "baseball-reference-logan-webb",
+        "url": "https://www.baseball-reference.com/players/w/webblo01.shtml",
+    },
+    {
+        "slug": "baseball-reference-kyle-harrison",
+        "url": "https://www.baseball-reference.com/players/h/harriky01.shtml",
+    },
 
     # ── Baseball Savant / Statcast (baseballsavant.mlb.com) ───────────────────
     {
         "slug": "baseballsavant-expected-stats-giants-2024",
         "url": "https://baseballsavant.mlb.com/leaderboard/expected_statistics"
                "?type=pitcher&year=2024&position=1&team=137&min=1",
-    },
-    {
-        "slug": "baseballsavant-pitch-arsenals-giants-2024",
-        "url": "https://baseballsavant.mlb.com/leaderboard/pitch-arsenals"
-               "?year=2024&min=50&type=pa&hand=&team=137&active=",
     },
     {
         "slug": "baseballsavant-statcast-glossary",
@@ -92,11 +99,36 @@ SCRAPE_TARGETS = [
         "slug": "baseballsavant-kyle-harrison",
         "url": "https://baseballsavant.mlb.com/savant-player/kyle-harrison-690986",
     },
+    {
+        "slug": "baseballsavant-jordan-hicks",
+        "url": "https://baseballsavant.mlb.com/savant-player/jordan-hicks-663855",
+    },
+    {
+        "slug": "baseballsavant-blake-snell",
+        "url": "https://baseballsavant.mlb.com/savant-player/blake-snell-605483",
+    },
+    {
+        "slug": "baseballsavant-ryan-walker",
+        "url": "https://baseballsavant.mlb.com/savant-player/ryan-walker-676254",
+    },
+    {
+        "slug": "baseballsavant-camilo-doval",
+        "url": "https://baseballsavant.mlb.com/savant-player/camilo-doval-666808",
+    },
+    {
+        "slug": "baseballsavant-hayden-birdsong",
+        "url": "https://baseballsavant.mlb.com/savant-player/hayden-birdsong-806185",
+    },
+    {
+        "slug": "baseballsavant-landen-roupp",
+        "url": "https://baseballsavant.mlb.com/savant-player/landen-roupp-694738",
+    },
 ]
 
 FIRECRAWL_SCRAPE_PARAMS = {
     "formats": ["markdown"],
     "onlyMainContent": True,
+    "waitFor": 3000,
 }
 
 REQUEST_DELAY_SECONDS = 2
