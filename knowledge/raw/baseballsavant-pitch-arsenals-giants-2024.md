@@ -3,65 +3,95 @@ source: https://baseballsavant.mlb.com/leaderboard/pitch-arsenals?year=2024&min=
 slug: baseballsavant-pitch-arsenals-giants-2024
 ---
 
-[|     |     |     |     |\\
+[Preview Matchup\\
+\\
+Gore vs. Blackburn\\
+\\
+|     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/113.svg) | CIN | 4 | 9th |\\
-| ![](https://www.mlbstatic.com/team-logos/112.svg) | CHC | 3 |](https://baseballsavant.mlb.com/gamefeed?gamePk=824684)
+| ![](https://www.mlbstatic.com/team-logos/140.svg) | TEX |  | 12:35 PM |\\
+| ![](https://www.mlbstatic.com/team-logos/147.svg) | NYY |  |](https://baseballsavant.mlb.com/preview?game_pk=823551&game_date=2026-5-7)
 
-[|     |     |     |     |\\
+[Preview Matchup\\
+\\
+Woods Richardson vs. Irvin\\
+\\
+|     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/145.svg) | CWS | 5 | 6th |\\
-| ![](https://www.mlbstatic.com/team-logos/108.svg) | LAA | 0 |](https://baseballsavant.mlb.com/gamefeed?gamePk=824039)
+| ![](https://www.mlbstatic.com/team-logos/142.svg) | MIN |  | 1:05 PM |\\
+| ![](https://www.mlbstatic.com/team-logos/120.svg) | WSH |  |](https://baseballsavant.mlb.com/preview?game_pk=822741&game_date=2026-5-7)
 
-[|     |     |     |     |\\
+[Preview Matchup\\
+\\
+Cecconi vs. Lugo\\
+\\
+|     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/144.svg) | ATL | 3 | 6th |\\
-| ![](https://www.mlbstatic.com/team-logos/136.svg) | SEA | 0 |](https://baseballsavant.mlb.com/gamefeed?gamePk=823143)
+| ![](https://www.mlbstatic.com/team-logos/114.svg) | CLE |  | 2:10 PM |\\
+| ![](https://www.mlbstatic.com/team-logos/118.svg) | KC |  |](https://baseballsavant.mlb.com/preview?game_pk=824117&game_date=2026-5-7)
 
-[|     |     |     |     |\\
+[Preview Matchup\\
+\\
+Lowder vs. Imanaga\\
+\\
+|     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/135.svg) | SD | 1 | 6th |\\
-| ![](https://www.mlbstatic.com/team-logos/137.svg) | SF | 2 |](https://baseballsavant.mlb.com/gamefeed?gamePk=823228)
+| ![](https://www.mlbstatic.com/team-logos/113.svg) | CIN |  | 2:20 PM |\\
+| ![](https://www.mlbstatic.com/team-logos/112.svg) | CHC |  |](https://baseballsavant.mlb.com/preview?game_pk=824681&game_date=2026-5-7)
 
-[|     |     |     |     |\\
+[Preview Matchup\\
+\\
+Scott vs. Quintana\\
+\\
+|     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/121.svg) | NYM | 4 | Final |\\
-| ![](https://www.mlbstatic.com/team-logos/115.svg) | COL | 2 |](https://baseballsavant.mlb.com/gamefeed?gamePk=824363)
+| ![](https://www.mlbstatic.com/team-logos/121.svg) | NYM |  | 3:10 PM |\\
+| ![](https://www.mlbstatic.com/team-logos/115.svg) | COL |  |](https://baseballsavant.mlb.com/preview?game_pk=824362&game_date=2026-5-7)
 
-[|     |     |     |     |\\
+[Preview Matchup\\
+\\
+Keller vs. Gallen\\
+\\
+|     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/111.svg) | BOS | 5 | Final |\\
-| ![](https://www.mlbstatic.com/team-logos/116.svg) | DET | 4 |](https://baseballsavant.mlb.com/gamefeed?gamePk=824283)
+| ![](https://www.mlbstatic.com/team-logos/134.svg) | PIT |  | 3:40 PM |\\
+| ![](https://www.mlbstatic.com/team-logos/109.svg) | AZ |  |](https://baseballsavant.mlb.com/preview?game_pk=825090&game_date=2026-5-7)
 
-[|     |     |     |     |\\
+[Preview Matchup\\
+\\
+Ginn vs. Painter\\
+\\
+|     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/141.svg) | TOR | 1 | Final |\\
-| ![](https://www.mlbstatic.com/team-logos/139.svg) | TB | 5 |](https://baseballsavant.mlb.com/gamefeed?gamePk=822984)
+| ![](https://www.mlbstatic.com/team-logos/133.svg) | ATH |  | 6:40 PM |\\
+| ![](https://www.mlbstatic.com/team-logos/143.svg) | PHI |  |](https://baseballsavant.mlb.com/preview?game_pk=823467&game_date=2026-5-7)
 
-[|     |     |     |     |\\
+[Preview Matchup\\
+\\
+Povich vs. Meyer\\
+\\
+|     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/143.svg) | PHI | 1 | Final |\\
-| ![](https://www.mlbstatic.com/team-logos/146.svg) | MIA | 0 |](https://baseballsavant.mlb.com/gamefeed?gamePk=823874)
+| ![](https://www.mlbstatic.com/team-logos/110.svg) | BAL |  | 6:40 PM |\\
+| ![](https://www.mlbstatic.com/team-logos/146.svg) | MIA |  |](https://baseballsavant.mlb.com/preview?game_pk=823870&game_date=2026-5-7)
 
-[|     |     |     |     |\\
+[Preview Matchup\\
+\\
+Jax vs. Bennett\\
+\\
+|     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/110.svg) | BAL | 1 | Final |\\
-| ![](https://www.mlbstatic.com/team-logos/147.svg) | NYY | 12 |](https://baseballsavant.mlb.com/gamefeed?gamePk=823552)
+| ![](https://www.mlbstatic.com/team-logos/139.svg) | TB |  | 7:10 PM |\\
+| ![](https://www.mlbstatic.com/team-logos/111.svg) | BOS |  |](https://baseballsavant.mlb.com/preview?game_pk=824767&game_date=2026-5-7)
 
-[|     |     |     |     |\\
+[Preview Matchup\\
+\\
+Liberatore vs. King\\
+\\
+|     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/114.svg) | CLE | 2 | Final |\\
-| ![](https://www.mlbstatic.com/team-logos/118.svg) | KC | 6 |](https://baseballsavant.mlb.com/gamefeed?gamePk=824120)
-
-[|     |     |     |     |\\
-| --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/158.svg) | MIL | 3 | Final |\\
-| ![](https://www.mlbstatic.com/team-logos/138.svg) | STL | 6 |](https://baseballsavant.mlb.com/gamefeed?gamePk=823064)
-
-[|     |     |     |     |\\
-| --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/119.svg) | LAD | 8 | Final |\\
-| ![](https://www.mlbstatic.com/team-logos/117.svg) | HOU | 3 |](https://baseballsavant.mlb.com/gamefeed?gamePk=824201)
+| ![](https://www.mlbstatic.com/team-logos/138.svg) | STL |  | 10:10 PM |\\
+| ![](https://www.mlbstatic.com/team-logos/135.svg) | SD |  |](https://baseballsavant.mlb.com/preview?game_pk=823306&game_date=2026-5-7)
 
 <
 
