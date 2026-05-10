@@ -100,22 +100,6 @@ def load_season_kpis(player_id: int):
         return cur.fetchone()
 
 
-@st.cache_data(ttl=600)
-def load_latest_rolling(player_id: int):
-    with get_connection() as conn:
-        cur = conn.cursor()
-        cur.execute(
-            """
-            SELECT rolling_era, rolling_whip, rolling_k_per_9, rolling_bb_per_9, rolling_strike_pct
-            FROM MART.MART_PITCHER_ROLLING
-            WHERE player_id = %s
-            ORDER BY game_date DESC
-            LIMIT 1
-            """,
-            (player_id,),
-        )
-        return cur.fetchone()
-
 
 @st.cache_data(ttl=600)
 def load_date_bounds():
@@ -281,60 +265,25 @@ selected_id = pitcher_map[selected_name]
 # ── KPI scorecards ────────────────────────────────────────────────────────────
 
 season = load_season_kpis(selected_id)
-rolling = load_latest_rolling(selected_id)
 season_fip = load_season_fip(selected_id)
 
 st.subheader(f"{selected_name} — 2024 Season")
 
 
-def scorecard(col, label, season_val, rolling_val, delta_color, val_fmt, delta_fmt):
-    if season_val is None:
+def scorecard(col, label, val, val_fmt):
+    if val is None:
         col.metric(label, "—")
         return
-    value_str = val_fmt(float(season_val))
-    delta_str = None
-    if rolling_val is not None:
-        delta_str = delta_fmt(float(season_val) - float(rolling_val))
-    col.metric(label, value_str, delta=delta_str, delta_color=delta_color)
+    col.metric(label, val_fmt(float(val)))
 
 
 cols = st.columns(6)
 
-scorecard(
-    cols[0], "ERA",
-    season[0], rolling[0] if rolling else None,
-    delta_color="inverse",
-    val_fmt=lambda v: f"{v:.2f}",
-    delta_fmt=lambda d: f"{d:+.2f} vs last 5",
-)
-scorecard(
-    cols[1], "WHIP",
-    season[1], rolling[1] if rolling else None,
-    delta_color="inverse",
-    val_fmt=lambda v: f"{v:.3f}",
-    delta_fmt=lambda d: f"{d:+.3f} vs last 5",
-)
-scorecard(
-    cols[2], "K/9",
-    season[2], rolling[2] if rolling else None,
-    delta_color="normal",
-    val_fmt=lambda v: f"{v:.2f}",
-    delta_fmt=lambda d: f"{d:+.2f} vs last 5",
-)
-scorecard(
-    cols[3], "BB/9",
-    season[3], rolling[3] if rolling else None,
-    delta_color="inverse",
-    val_fmt=lambda v: f"{v:.2f}",
-    delta_fmt=lambda d: f"{d:+.2f} vs last 5",
-)
-scorecard(
-    cols[4], "Strike%",
-    season[4], rolling[4] if rolling else None,
-    delta_color="normal",
-    val_fmt=lambda v: f"{v:.1%}",
-    delta_fmt=lambda d: f"{d:+.1%} vs last 5",
-)
+scorecard(cols[0], "ERA",      season[0], lambda v: f"{v:.2f}")
+scorecard(cols[1], "WHIP",     season[1], lambda v: f"{v:.3f}")
+scorecard(cols[2], "K/9",      season[2], lambda v: f"{v:.2f}")
+scorecard(cols[3], "BB/9",     season[3], lambda v: f"{v:.2f}")
+scorecard(cols[4], "Strike%",  season[4], lambda v: f"{v:.1%}")
 
 if season_fip is not None and season and season[0] is not None:
     era_fip_gap = round(float(season[0]) - float(season_fip), 2)
