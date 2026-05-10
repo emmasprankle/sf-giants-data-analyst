@@ -20,8 +20,17 @@ st.set_page_config(
     layout="wide",
 )
 
+MLB_AVG_ERA_2024 = 4.33
+
 st.title("⚾ SF Giants Pitching Analytics")
 st.caption("2024 Season · Powered by MLB Stats API + Snowflake + dbt")
+st.markdown(
+    f"<div style='text-align:center; padding: 0.4rem 0 1.2rem;'>"
+    f"<div style='font-size:0.8rem; color:#888; letter-spacing:0.08em; text-transform:uppercase;'>2024 MLB Avg ERA</div>"
+    f"<div style='font-size:3rem; font-weight:700; line-height:1.1; color:#27251F;'>{MLB_AVG_ERA_2024:.2f}</div>"
+    f"</div>",
+    unsafe_allow_html=True,
+)
 
 
 # ── Connection ────────────────────────────────────────────────────────────────
@@ -291,8 +300,6 @@ scorecard(
 
 # ── Staff context callout cards ───────────────────────────────────────────────
 
-MLB_AVG_ERA_2024 = 4.33
-
 staff_min_era, staff_max_era = load_staff_era_range()
 
 if season and season[0] is not None:
@@ -300,10 +307,9 @@ if season and season[0] is not None:
     era_vs_avg = round(player_era - MLB_AVG_ERA_2024, 2)
     era_spread = round(float(staff_max_era) - float(staff_min_era), 2) if staff_min_era and staff_max_era else None
 
-    ctx_cols = st.columns(2)
-    ctx_cols[0].metric("2024 MLB Avg ERA", f"{MLB_AVG_ERA_2024:.2f}")
     if era_spread is not None:
-        ctx_cols[1].metric(
+        _, ctx_mid, _ = st.columns([2, 1, 2])
+        ctx_mid.metric(
             "Staff ERA Spread",
             f"{era_spread:.2f} pts",
             delta=f"{float(staff_min_era):.2f} best → {float(staff_max_era):.2f} worst",
