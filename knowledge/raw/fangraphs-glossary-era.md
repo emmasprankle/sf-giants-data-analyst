@@ -1,13 +1,13 @@
 ---
-source: https://library.fangraphs.com/war/war-pitchers/
-slug: fangraphs-glossary-war-pitchers
+source: https://library.fangraphs.com/pitching/era/
+slug: fangraphs-glossary-era
 ---
 
 ​
 
 ​
 
-[Sign In](http://www.fangraphs.com/blogs/wp-login.php?redirect_to=https://library.fangraphs.com/war/war-pitchers/)
+[Sign In](http://www.fangraphs.com/blogs/wp-login.php?redirect_to=https://library.fangraphs.com/pitching/era/)
 
 - Support Us
 
@@ -801,7 +801,7 @@ Guts!
 
 [Park Factors by Handedness](https://www.fangraphs.com/tools/guts?type=pfh)
 
-- [Sign In](http://www.fangraphs.com/blogs/wp-login.php?redirect_to=https://library.fangraphs.com/war/war-pitchers/)
+- [Sign In](http://www.fangraphs.com/blogs/wp-login.php?redirect_to=https://library.fangraphs.com/pitching/era/)
 
 - [Intro](https://library.fangraphs.com/getting-started/)
 - [Features](https://library.fangraphs.com/features/)
@@ -898,18 +898,185 @@ Guts!
   - [WAR Misconceptions](https://library.fangraphs.com/war/limitations-war/)
 - [Business](https://library.fangraphs.com/business/)
 
-404Page Not Found
+# [ERA](https://library.fangraphs.com/pitching/era/ "Permanent link to ERA")
 
-You might be looking for:
+by [Piper Slowinski](https://library.fangraphs.com/author/steve-slow/ "Posts by Piper Slowinski")
 
-- [Home](https://library.fangraphs.com/)
-- [MLB Leaderboards](https://library.fangraphs.com/leaders.aspx)
-- [MLB Playoff Odds](https://library.fangraphs.com/standings/playoff-odds)
-- [Depth Charts](https://library.fangraphs.com/depthcharts.aspx?position=ALL&teamid=1)
-- [Player Projections](https://library.fangraphs.com/projections.aspx)
-- [All Articles](https://library.fangraphs.com/blogroll.aspx)
+February 16, 2010
 
-If you still can't find what you are looking for, please [contact us](https://library.fangraphs.com/blogs/contact)!
+_Earned Run Average (ERA)_ is a rudimentary metric designed to assess how well a pitcher has prevented runs in the past. Given that a pitcher’s job is to aid in the prevention of run scoring, ERA is understandably a popular and widely used statistic. ERA is perhaps the most commonly cited pitching statistic at large, but has a number of serious flaws that should lead you to use it sparingly.
+
+**Calculation:**
+
+To calculate ERA, divide a pitcher’s total number of Earned Runs allowed by his total number of Innings Pitched and multiply by nine.
+
+_ERA = (Earned Runs / Innings Pitched) \* 9_
+
+An earned run is essentially any run that was charged to the pitcher which did not score as the result of an error by the defense. The precise definition of how the official scorer makes the distinction can be found [here](http://mlb.mlb.com/mlb/official_info/official_rules/official_scorer_10.jsp). There are no further adjustments to ERA to account for park or league effects.
+
+**Why ERA:**
+
+ERA is popular because it _seems_ to be answering a very important question. We want to know how many runs the pitcher gave up that were _his fault_, but unfortunately, despite the name, ERA does not properly answer that question. Simply put, the distinction between unearned and earned runs is not an accurate demarcation between the runs that were the pitcher’s fault and the runs that were not his fault. There are two main reasons for this.
+
+First, the official scorer determines if something was an error or not and official scorers do not hand out errors consistently, meaning that the same botched play might be scored an error one day and a hit another. Second, and more importantly, bad defense occurs in forms beyond rule book errors.
+
+If a fielder is chasing down a fly ball and trips right before he’s about to catch it, that is not an error in the eyes of the league and the official scorer even though it was a routine fly ball that he obviously should have caught. The defense can fail the pitcher by making an error and the defense can fail the pitcher by not making a relatively easy play. Neither is the pitcher’s fault, but only error-induced runs are stripped out of ERA.
+
+In other words, the goal of ERA is perfect but the execution is horrible. We want a statistic that attempts to strip defense out of the equation, but ERA only “strips out” a very small subset of bad defensive plays, leaving pitcher’s who throw in front of base defenses unfairly dinged by ERA. [Fielding Independent Pitching (FIP)](http://www.fangraphs.com/library/pitching/fip/), provides a better approach to the question ERA wants to answer, and Runs Allowed Per 9 (RA9) provides a more useful measure if you are after a statistic that tells you “exactly what happened.”
+
+**How To Use ERA:**
+
+ERA is rarely a statistic you should use on its own because it is highly dependent on defense, luck, and sequencing, and therefore tells you very little useful information about a pitcher. It is perfectly fine to hold a pitcher accountable for his luck and sequencing, and if you want to do that, RA9 is a better statistic to use. If you want to strip out defense, then something like FIP is highly preferable.
+
+However, if used in conjunction with other metrics like FIP, xFIP, RA9, etc, then you can learn something about the season the pitcher is having. For example, a pitcher with a large ERA-FIP gap probably plays in front of a very good or very bad defense and a pitcher with a large ERA-RA9 gap is likely being victimized by errors quite often.
+
+ERA is useful because it’s popular and easy to find, but other than convenience, there’s really no reason you would want to know about ERA rather than either RA9 or FIP, depending on your question or philosophical leanings.
+
+Also, because ERA is highly dependent on non-pitcher factors like defense, umpiring, the scorer, luck, sequencing, etc, it is also not highly predictive of future performance because those factors are not part of the pitcher’s talent level, and therefore, do not often travel with him from season to season.
+
+**Context:**
+
+Please note that the following chart is meant as an estimate, and that league-average ERA varies widely on a year-by-year basis. To see the league-average ERA for every year from 1901 to the present, [check the FanGraphs leaderboards](http://www.fangraphs.com/leaders.aspx?pos=all&stats=pit&lg=all&qual=0&type=8&season=2014&month=0&season1=1901&ind=0&team=0,ss&rost=0&players=0&sort=0,d). Also note that ERAs are lower for relievers on average than starters. As a rule subtract 0.50 runs from the chart below for relievers.
+
+| Rating | ERA |
+| :-: | :-: |
+| Excellent | 2.50 |
+| Great | 3.00 |
+| Above Average | 3.40 |
+| Average | 3.75 |
+| Below Average | 4.00 |
+| Poor | 4.30 |
+| Awful | 4.60 |
+
+**Things to Remember:**
+
+● ERA is difficult to compare across teams due to differences in team defenses, difficult to compare across leagues due to competition imbalance and the DH, and difficult to compare across years because of different run-scoring environments. A 3.50 ERA has a different meaning depending on if that pitcher played in the early 2000s or the Dead Ball Era, or if they played in a pitcher’s or hitter’s park.
+
+● To adjust for park and league effects, [check out ERA-](http://www.fangraphs.com/library/pitching/era-fip-xfip/). It’s still not a perfect statistic, but it does make it easier to compare pitchers from different time periods and parks, but it contains the same general flaws of standard ERA.
+
+● Despite the fact that ERA makes an attempt to remove runs that weren’t the pitcher’s fault, it does so in a very haphazard way that does not control for the quality of a pitcher’s defense.
+
+● Some people will support ERA as a measure of “what actually happened,” but that is not accurate. If that is your goal, RA9 is a superior stat.
+
+**Links for Further Reading:**
+
+[The Most Convoluted Statistic – FanGraphs](http://www.fangraphs.com/blogs/the-most-convoluted-statistic-era/)
+
+[Clayton Kershaw’s ERA – FanGraphs](http://www.fangraphs.com/blogs/clayton-kershaws-era/)
+
+[The End of ERA – Beyond The Box Score](http://www.beyondtheboxscore.com/2013/11/13/5080514/the-end-of-era-ra9-sabermetrics)
+
+[wRAA](https://library.fangraphs.com/offense/wraa/)
+
+[OBP](https://library.fangraphs.com/offense/obp/)
+
+Piper was the editor-in-chief of [DRaysBay](http://www.draysbay.com/) and the keeper of the [FanGraphs Library](http://saberlibrary.com/).
+
+[Login](https://library.fangraphs.com/wp-login.php?redirect_to=https%3A%2F%2Flibrary.fangraphs.com%2Fpitching%2Fera%2F)
+
+Please login to comment
+
+3 Comments
+
+Oldest
+
+NewestMost Voted
+
+Inline Feedbacks
+
+View all comments
+
+ejhekk33
+
+14 years ago
+
+Well, an ERA of 4.50 might not be too bad… For example, look at this pitching line of Madison Bumgarner on May 13, 2011.
+
+6 IP, 5 H, 3 ER, 2 BB, 6 K
+
+That’s counted as a quality start. He did earn the loss that day, but his good pitching overall would make me believe in him more.
+
+If I had a pitcher who had that pitching line every day, even with a 4.50 ERA, he’d be a #2 starter. Possibly #1.
+
+1
+
+John C
+
+13 years ago
+
+^ That’s just plain stupid. A 4.50 ERA is NOT good. A quality start is really 6 innings 2 runs, or really 7 innings and 2 runs. If an “ace” pitched 33 quality starts according to this obsurd 3 run standard, then this pitcher would by no means be an ace.
+
+Going 6 innings everyday would force you to go to your middle relief, set-up man, and closer on a daily basis, thus depleting the bullpen. People really need to stop with this idiotic notion of the 3-run “quality” start and see reality.
+
+-1
+
+Fascist
+
+5 years ago
+
+3 (2018-2020)
+
+0
+
+[![](https://www.fangraphs.com/images/30a_fangraphs.png)](https://blogs.fangraphs.com/)
+
+[FanGraphs Weekly Mailbag: May 9, 2026](https://blogs.fangraphs.com/fangraphs-weekly-mailbag-may-9-2026/)
+
+5/9 – [Matt Martell](https://www.fangraphs.com/blog-roll?author=153421) [22](https://blogs.fangraphs.com/fangraphs-weekly-mailbag-may-9-2026//#comments)
+
+[Things Probably Can’t Get Worse for the Reds](https://blogs.fangraphs.com/things-probably-cant-get-worse-for-the-reds/)
+
+5/8 – [Kiri Oler](https://www.fangraphs.com/blog-roll?author=166180) [4](https://blogs.fangraphs.com/things-probably-cant-get-worse-for-the-reds//#comments)
+
+[Mickey Moniak, Your NL Slugging Leader (For Now)](https://blogs.fangraphs.com/mickey-moniak-your-nl-slugging-leader-for-now/)
+
+5/8 – [Jay Jaffe](https://www.fangraphs.com/blog-roll?author=169789) [3](https://blogs.fangraphs.com/mickey-moniak-your-nl-slugging-leader-for-now//#comments)
+
+[The Cream of the Marlins Catching Crop Rises to the Top](https://blogs.fangraphs.com/the-cream-of-the-marlins-catching-crop-rises-to-the-top/)
+
+5/8 – [Jake Mailhot](https://www.fangraphs.com/blog-roll?author=10708)
+
+[Eric Longenhagen Prospects Chat: 5/8/2026](https://blogs.fangraphs.com/eric-longenhagen-prospects-chat-5-8-2026/)
+
+5/8 – [Eric Longenhagen](https://www.fangraphs.com/blog-roll?author=81295) [21](https://blogs.fangraphs.com/eric-longenhagen-prospects-chat-5-8-2026//#comments)
+
+[The Old Matt Olson Is Back](https://blogs.fangraphs.com/the-old-matt-olson-is-back/)
+
+5/8 – [Michael Baumann](https://www.fangraphs.com/blog-roll?author=198829) [6](https://blogs.fangraphs.com/the-old-matt-olson-is-back//#comments)
+
+[Five Things I Liked (Or Didn't Like) This Week, May 8](https://blogs.fangraphs.com/five-things-i-liked-or-didnt-like-this-week-may-8/)
+
+5/8 – [Ben Clemens](https://www.fangraphs.com/blog-roll?author=164011) [20](https://blogs.fangraphs.com/five-things-i-liked-or-didnt-like-this-week-may-8//#comments)
+
+[Effectively Wild Episode 2476: Bodies, BABIPs, Batter's Boxes, and Birds](https://blogs.fangraphs.com/effectively-wild-episode-2476-bodies-babips-batters-boxes-and-birds/)
+
+5/8 – [Ben Lindbergh](https://www.fangraphs.com/blog-roll?author=38267)
+
+[RosterResource Chat - 5/7/26](https://blogs.fangraphs.com/rosterresource-chat-5-7-26/)
+
+5/7 – [Jason Martinez](https://www.fangraphs.com/blog-roll?author=151408)
+
+[The All or Nothing Luke Raley](https://blogs.fangraphs.com/the-all-or-nothing-luke-raley/)
+
+5/7 – [Ryan Blake](https://www.fangraphs.com/blog-roll?author=200227) [12](https://blogs.fangraphs.com/the-all-or-nothing-luke-raley//#comments)
+
+[Spencer Medick Addresses Splitter Spin](https://blogs.fangraphs.com/spencer-medick-addresses-splitter-spin/)
+
+5/7 – [David Laurila](https://www.fangraphs.com/blog-roll?author=25048) [2](https://blogs.fangraphs.com/spencer-medick-addresses-splitter-spin//#comments)
+
+[I Guess Shohei Ohtani Does Have a License To Do That](https://blogs.fangraphs.com/i-guess-shohei-ohtani-does-have-a-license-to-do-that/)
+
+5/7 – [Michael Baumann](https://www.fangraphs.com/blog-roll?author=198829) [28](https://blogs.fangraphs.com/i-guess-shohei-ohtani-does-have-a-license-to-do-that//#comments)
+
+Insert
+
+You are going to send email to
+
+Send
+
+Move Comment
+
+Move
 
 Updated: Friday, May 8, 2026 5:01 AM ETUpdated: 5/8/2026 5:01 AM ET
 

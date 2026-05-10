@@ -1,13 +1,13 @@
 ---
-source: https://library.fangraphs.com/war/war-pitchers/
-slug: fangraphs-glossary-war-pitchers
+source: https://library.fangraphs.com/pitching/what-is-a-good-era/
+slug: fangraphs-glossary-what-is-good-era
 ---
 
 ​
 
 ​
 
-[Sign In](http://www.fangraphs.com/blogs/wp-login.php?redirect_to=https://library.fangraphs.com/war/war-pitchers/)
+[Sign In](http://www.fangraphs.com/blogs/wp-login.php?redirect_to=https://library.fangraphs.com/pitching/what-is-a-good-era/)
 
 - Support Us
 
@@ -801,7 +801,7 @@ Guts!
 
 [Park Factors by Handedness](https://www.fangraphs.com/tools/guts?type=pfh)
 
-- [Sign In](http://www.fangraphs.com/blogs/wp-login.php?redirect_to=https://library.fangraphs.com/war/war-pitchers/)
+- [Sign In](http://www.fangraphs.com/blogs/wp-login.php?redirect_to=https://library.fangraphs.com/pitching/what-is-a-good-era/)
 
 - [Intro](https://library.fangraphs.com/getting-started/)
 - [Features](https://library.fangraphs.com/features/)
