@@ -1,6 +1,6 @@
 # SF Giants Pitching Performance Analytics Pipeline
 
-This project builds a full end-to-end baseball analytics pipeline targeting a **Baseball Operations Analyst** role with the San Francisco Giants. It ingests 2024 SF Giants pitching data from the MLB Stats API, transforms it through a Snowflake star schema using dbt, and surfaces performance insights through an interactive Streamlit dashboard. A knowledge base of 15 scraped sources across FanGraphs, sfgiants.com, and Baseball Savant provides qualitative context alongside the quantitative data. The project demonstrates every layer of a modern data stack — from raw API ingestion to scheduled orchestration to analyst-ready dashboards.
+This project builds a full end-to-end baseball analytics pipeline targeting a **Baseball Operations Analyst** role with the San Francisco Giants. It ingests the complete 2024 SF Giants pitching season from the MLB Stats API, transforms it through a Snowflake star schema using dbt, and surfaces performance insights through an interactive Streamlit dashboard. A knowledge base of 30 scraped sources across FanGraphs, Baseball Savant, Baseball Reference, and MLB.com provides qualitative context alongside the quantitative data. The project demonstrates every layer of a modern data stack — from raw API ingestion to warehouse transformation to analyst-ready dashboards.
 
 ## Job Posting
 
@@ -12,6 +12,7 @@ This project directly demonstrates the core skills the role requires: pulling an
 
 ## Tech Stack
 
+
 | Layer          | Tool                                                            |
 | -------------- | --------------------------------------------------------------- |
 | Source 1       | MLB Stats API (REST, JSON)                                      |
@@ -21,6 +22,7 @@ This project directly demonstrates the core skills the role requires: pulling an
 | Orchestration  | GitHub Actions                                                  |
 | Dashboard      | Streamlit                                                       |
 | Knowledge Base | Claude Code (scrape → summarize → query)                        |
+
 
 ## Pipeline Diagram
 
@@ -63,6 +65,8 @@ flowchart LR
     H --> L
 ```
 
+
+
 ---
 
 ## Pipeline Walkthrough
@@ -95,6 +99,7 @@ Both tables include a `_loaded_at` timestamp so every load is auditable. The tru
 The second ingestion script builds a qualitative knowledge base by scraping 15 pages from FanGraphs, sfgiants.com, and Baseball Savant using the Firecrawl API. Firecrawl handles JavaScript-rendered pages and returns clean markdown, stripping ads and navigation so only article content is saved.
 
 **Sources scraped:**
+
 - FanGraphs Giants pitching leaderboard (2024)
 - FanGraphs individual player pages for Logan Webb, Kyle Harrison, Robbie Ray, Jordan Hicks, and Alex Cobb
 - FanGraphs SF Giants team pitching page
@@ -109,10 +114,10 @@ Each page is saved as a markdown file in `knowledge/raw/` with a frontmatter hea
 
 The staging layer is the first transformation step. Both staging models are materialized as **views** in the `STAGING` Snowflake schema, meaning they run as SQL queries at query time rather than persisting data. Their job is purely to clean and type-cast the raw tables — no business logic yet.
 
-**`stg_players`**
+`**stg_players`**
 Reads from `RAW.PLAYERS`. The main transformation is casting `birth_date` and `mlb_debut` from raw VARCHAR strings to proper DATE types using Snowflake's `TRY_TO_DATE()` function, which returns NULL instead of erroring on malformed values. All other columns are passed through as-is with clean names.
 
-**`stg_pitcher_game_logs`**
+`**stg_pitcher_game_logs**`
 Reads from `RAW.PITCHER_GAME_LOGS`. Casts `game_date` from VARCHAR to DATE, and explicitly casts `era`, `innings_pitched`, and `whip` to FLOAT since the MLB API can return these as strings. All counting stats (strikeouts, walks, hits, etc.) pass through unchanged.
 
 **Schema routing**
@@ -124,16 +129,16 @@ A custom macro in `macros/generate_schema_name.sql` overrides dbt's default beha
 
 The mart layer is materialized as **tables** in the `MART` Snowflake schema. This is where all business logic, metric computation, and aggregation happens. The mart layer follows a star schema design with one central fact table, three dimension tables, and two pre-aggregated mart tables.
 
-**`dim_pitcher`**
+`**dim_pitcher`**
 A simple pass-through from `stg_players` that selects only the columns relevant to the pitching dimension: player ID, full name, pitching hand, batting side, position, birth date, MLB debut date, and active status. 28 rows, one per SF Giants pitcher.
 
-**`dim_game`**
+`**dim_game**`
 Derives the game dimension from `fact_pitcher_game` rather than a separate source. Since multiple pitchers can appear in the same game, it deduplicates by grouping on `game_pk` and `game_date` and taking `MAX(is_home)` to get one canonical home/away flag per game. 247 rows, one per unique game.
 
-**`dim_date`**
+`**dim_date**`
 A date spine generated entirely inside Snowflake using the `GENERATOR(rowcount => 4018)` function, producing a row for every day from January 1, 2020 through late 2030. Each row is enriched with year, quarter, month number, month name, week of year, day of month, day of week, day name, a weekend flag, and an MLB season flag (April–September). This dimension enables date-based filtering and aggregation across any time range without relying on the presence of game data for every date.
 
-**`fact_pitcher_game`**
+`**fact_pitcher_game**`
 The central fact table. Joins `stg_pitcher_game_logs` to `stg_players` on `player_id` to attach the pitcher's full name, then computes five per-game rate statistics that aren't in the raw data:
 
 - **K/9** — strikeouts per 9 innings: `(strikeouts / innings_pitched) × 9`
@@ -144,10 +149,10 @@ The central fact table. Joins `stg_pitcher_game_logs` to `stg_players` on `playe
 
 All five are computed with NULL guards (`CASE WHEN innings_pitched > 0`) to avoid division-by-zero errors on games where a pitcher recorded no outs. The composite primary key is `(player_id, game_pk)`. 809 rows, one per pitcher per game.
 
-**`mart_pitcher_season`**
+`**mart_pitcher_season`**
 Aggregates `fact_pitcher_game` to one row per pitcher for the full season. Computes season-level totals (games, IP, strikeouts, walks, hits, earned runs, home runs, wins, losses) and recalculates ERA, WHIP, K/9, and BB/9 from the season totals rather than averaging game-level values — this is the correct statistical approach since ERA must be computed from aggregate innings and earned runs. 28 rows, one per pitcher.
 
-**`mart_pitcher_rolling`**
+`**mart_pitcher_rolling**`
 Computes 5-start rolling averages for every game in `fact_pitcher_game` using SQL window functions partitioned by `player_id` and ordered by `game_date`. The window frame `ROWS BETWEEN 4 PRECEDING AND CURRENT ROW` captures the current game plus the four most recent prior appearances for that pitcher, producing rolling ERA, WHIP, K/9, BB/9, strike percentage, and pitches per inning. This model powers the trend line charts in the dashboard. 809 rows — same grain as the fact table, with rolling columns added.
 
 ---
@@ -191,13 +196,13 @@ A horizontal bar chart showing every pitcher's ERA for the selected date range, 
 
 ### Step 7 — GitHub Actions Orchestration (`.github/workflows/`)
 
-Two workflows run automatically on a daily schedule during the baseball season (April–September):
+Two workflows automate full pipeline reproduction:
 
-**`pipeline.yml`**
-Runs `python ingestion/extract_mlb_stats.py` to refresh the raw Snowflake tables, then runs `dbt run && dbt test` to rebuild the mart layer and validate all 25 tests. If any test fails, the workflow fails and the prior mart tables remain intact — the pipeline never silently loads bad data.
+`**pipeline.yml`**
+Runs `python ingestion/extract_mlb_stats.py` to load the raw Snowflake tables, then runs `dbt run && dbt test` to rebuild the mart layer and validate all 25 tests. If any test fails, the workflow fails and the prior mart tables remain intact — bad data never reaches the dashboard silently.
 
-**`scrape.yml`**
-Runs `python ingestion/extract_fangraphs.py` to refresh the 15 knowledge base markdown files with the latest content from FanGraphs, sfgiants.com, and Baseball Savant. Snowflake credentials and the Firecrawl API key are stored as GitHub Actions secrets and injected as environment variables at runtime.
+`**scrape.yml**`
+Runs `python ingestion/extract_fangraphs.py` to build the 30 knowledge base markdown files from FanGraphs, Baseball Savant, Baseball Reference, and MLB.com. Snowflake credentials and the Firecrawl API key are stored as GitHub Actions secrets and injected as environment variables at runtime.
 
 ---
 
@@ -295,6 +300,8 @@ erDiagram
     DIM_PITCHER ||--o{ MART_PITCHER_ROLLING : "player_id"
 ```
 
+
+
 ## Dashboard Preview
 
 Dashboard Preview
@@ -330,7 +337,7 @@ Copy `.env.example` to `.env` and fill in your credentials:
 ```
 SNOWFLAKE_ACCOUNT=
 SNOWFLAKE_USER=
-SNOWFLAKE_PASSWORD=
+SNOWFLAKE_PRIVATE_KEY_FILE=./snowflake_rsa_key.p8
 SNOWFLAKE_DATABASE=
 SNOWFLAKE_WAREHOUSE=
 FIRECRAWL_API_KEY=
@@ -344,7 +351,7 @@ FIRECRAWL_API_KEY=
 4. `python ingestion/extract_fangraphs.py` — scrapes knowledge base sources
 5. `streamlit run dashboard/app.py` — launches the dashboard
 
-GitHub Actions runs steps 2–3 (`pipeline.yml`) and step 4 (`scrape.yml`) on a daily schedule April–September.
+GitHub Actions workflows (`pipeline.yml`, `scrape.yml`) can reproduce the full pipeline end-to-end from a fresh clone.
 
 ## Repository Structure
 
@@ -365,3 +372,4 @@ GitHub Actions runs steps 2–3 (`pipeline.yml`) and step 4 (`scrape.yml`) on a 
 ├── CLAUDE.md             # Project context for Claude Code
 └── README.md
 ```
+
