@@ -222,3 +222,5 @@ target/
 
 # macOS
 .DS_Store
+*.p8
+*.pub

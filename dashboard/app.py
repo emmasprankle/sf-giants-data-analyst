@@ -4,6 +4,12 @@ import altair as alt
 import pandas as pd
 import snowflake.connector
 import streamlit as st
+from cryptography.hazmat.primitives.serialization import (
+    Encoding,
+    NoEncryption,
+    PrivateFormat,
+    load_pem_private_key,
+)
 from dotenv import load_dotenv
 
 load_dotenv()
@@ -27,11 +33,26 @@ def _secret(key):
         return os.getenv(key)
 
 
+def _load_private_key():
+    pem = _secret("SNOWFLAKE_PRIVATE_KEY")
+    if pem is None:
+        path = _secret("SNOWFLAKE_PRIVATE_KEY_FILE")
+        if path:
+            with open(path, "rb") as f:
+                pem = f.read()
+    if pem is None:
+        raise ValueError("SNOWFLAKE_PRIVATE_KEY or SNOWFLAKE_PRIVATE_KEY_FILE must be set")
+    if isinstance(pem, str):
+        pem = pem.encode()
+    key = load_pem_private_key(pem, password=None)
+    return key.private_bytes(Encoding.DER, PrivateFormat.PKCS8, NoEncryption())
+
+
 def get_connection():
     return snowflake.connector.connect(
         account=_secret("SNOWFLAKE_ACCOUNT"),
         user=_secret("SNOWFLAKE_USER"),
-        password=_secret("SNOWFLAKE_PASSWORD"),
+        private_key=_load_private_key(),
         warehouse=_secret("SNOWFLAKE_WAREHOUSE"),
         database=_secret("SNOWFLAKE_DATABASE"),
         schema="MART",
