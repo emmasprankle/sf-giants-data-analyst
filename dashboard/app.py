@@ -214,6 +214,43 @@ def load_comparison_stats(player_ids: tuple) -> pd.DataFrame:
 
 
 @st.cache_data(ttl=600)
+def load_season_fip(player_id: int):
+    with get_connection() as conn:
+        cur = conn.cursor()
+        cur.execute(
+            """
+            SELECT
+                ROUND(
+                    ((13 * SUM(home_runs)) + (3 * SUM(walks)) - (2 * SUM(strikeouts)))
+                    / NULLIF(SUM(innings_pitched), 0) + 3.17,
+                    2
+                ) AS season_fip
+            FROM MART.FACT_PITCHER_GAME
+            WHERE player_id = %s
+            """,
+            (player_id,),
+        )
+        row = cur.fetchone()
+        return row[0] if row else None
+
+
+@st.cache_data(ttl=600)
+def load_staff_k_bb() -> pd.DataFrame:
+    with get_connection() as conn:
+        cur = conn.cursor()
+        cur.execute(
+            """
+            SELECT full_name, season_k_per_9, season_bb_per_9
+            FROM MART.MART_PITCHER_SEASON
+            WHERE season_k_per_9 IS NOT NULL AND season_bb_per_9 IS NOT NULL
+            ORDER BY full_name
+            """
+        )
+        rows = cur.fetchall()
+    return pd.DataFrame(rows, columns=["full_name", "k_per_9", "bb_per_9"])
+
+
+@st.cache_data(ttl=600)
 def load_pitcher_era_rankings(start_date, end_date) -> pd.DataFrame:
     with get_connection() as conn:
         cur = conn.cursor()
@@ -245,6 +282,7 @@ selected_id = pitcher_map[selected_name]
 
 season = load_season_kpis(selected_id)
 rolling = load_latest_rolling(selected_id)
+season_fip = load_season_fip(selected_id)
 
 st.subheader(f"{selected_name} — 2024 Season")
 
@@ -260,7 +298,7 @@ def scorecard(col, label, season_val, rolling_val, delta_color, val_fmt, delta_f
     col.metric(label, value_str, delta=delta_str, delta_color=delta_color)
 
 
-cols = st.columns(5)
+cols = st.columns(6)
 
 scorecard(
     cols[0], "ERA",
@@ -297,6 +335,20 @@ scorecard(
     val_fmt=lambda v: f"{v:.1%}",
     delta_fmt=lambda d: f"{d:+.1%} vs last 5",
 )
+
+if season_fip is not None and season and season[0] is not None:
+    era_fip_gap = round(float(season[0]) - float(season_fip), 2)
+    delta_label = f"{era_fip_gap:+.2f} vs FIP"
+    cols[5].metric(
+        "ERA − FIP",
+        f"{float(season_fip):.2f}",
+        delta=delta_label,
+        delta_color="inverse",
+        help="FIP (Fielding Independent Pitching) isolates what the pitcher controls. "
+             "ERA − FIP > 0 means ERA will likely drop; < 0 means ERA will likely rise.",
+    )
+else:
+    cols[5].metric("ERA − FIP", "—")
 
 # ── Staff context callout cards ───────────────────────────────────────────────
 
@@ -545,6 +597,71 @@ else:
     )
 
     st.altair_chart(rankings_chart, use_container_width=True)
+
+st.divider()
+
+# ── K/9 vs BB/9 staff scatter ─────────────────────────────────────────────────
+
+st.subheader("Staff Profile — Strikeouts vs. Walks")
+
+staff_kb = load_staff_k_bb()
+
+MLB_AVG_K9 = 8.5
+MLB_AVG_BB9 = 3.0
+
+highlight = alt.condition(
+    alt.datum.full_name == selected_name,
+    alt.value("#FD5A1E"),
+    alt.value("#94a3b8"),
+)
+highlight_size = alt.condition(
+    alt.datum.full_name == selected_name,
+    alt.value(140),
+    alt.value(80),
+)
+
+scatter = (
+    alt.Chart(staff_kb)
+    .mark_point(filled=True)
+    .encode(
+        x=alt.X("bb_per_9:Q", title="BB/9 (walks — lower is better)", scale=alt.Scale(zero=True)),
+        y=alt.Y("k_per_9:Q", title="K/9 (strikeouts — higher is better)", scale=alt.Scale(zero=True)),
+        color=highlight,
+        size=highlight_size,
+        tooltip=[
+            alt.Tooltip("full_name:N", title="Pitcher"),
+            alt.Tooltip("k_per_9:Q", title="K/9", format=".2f"),
+            alt.Tooltip("bb_per_9:Q", title="BB/9", format=".2f"),
+        ],
+    )
+    .properties(height=380)
+)
+
+labels = (
+    alt.Chart(staff_kb)
+    .mark_text(align="left", dx=8, fontSize=11)
+    .encode(
+        x=alt.X("bb_per_9:Q"),
+        y=alt.Y("k_per_9:Q"),
+        text=alt.Text("full_name:N"),
+        color=highlight,
+    )
+)
+
+avg_k = alt.Chart(pd.DataFrame({"y": [MLB_AVG_K9]})).mark_rule(
+    strokeDash=[4, 4], color="#aaa", strokeWidth=1
+).encode(y=alt.Y("y:Q"))
+
+avg_bb = alt.Chart(pd.DataFrame({"x": [MLB_AVG_BB9]})).mark_rule(
+    strokeDash=[4, 4], color="#aaa", strokeWidth=1
+).encode(x=alt.X("x:Q"))
+
+st.altair_chart((scatter + labels + avg_k + avg_bb).properties(
+    title=alt.TitleParams(
+        "Dashed lines = 2024 MLB averages (K/9: 8.5 · BB/9: 3.0)",
+        fontSize=11, color="#888", anchor="start",
+    )
+), use_container_width=True)
 
 st.divider()
 
