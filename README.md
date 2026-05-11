@@ -13,15 +13,14 @@ This project directly demonstrates the core skills the role requires: pulling an
 ## Tech Stack
 
 
-| Layer          | Tool                                                            |
-| -------------- | --------------------------------------------------------------- |
-| Source 1       | MLB Stats API (REST, JSON)                                      |
-| Source 2       | FanGraphs, sfgiants.com, Baseball Savant (Firecrawl web scrape) |
-| Data Warehouse | Snowflake                                                       |
-| Transformation | dbt                                                             |
-| Orchestration  | GitHub Actions                                                  |
-| Dashboard      | Streamlit                                                       |
-| Knowledge Base | Claude Code (scrape → summarize → query)                        |
+| Layer          | Tool                                                                              |
+| -------------- | --------------------------------------------------------------------------------- |
+| Source 1       | MLB Stats API (REST, JSON)                                                        |
+| Source 2       | FanGraphs, Baseball Savant, Baseball Reference, MLB.com (Firecrawl web scrape)   |
+| Data Warehouse | Snowflake                                                                         |
+| Transformation | dbt                                                                               |
+| Dashboard      | Streamlit                                                                         |
+| Knowledge Base | Claude Code (scrape → summarize → query)                                          |
 
 
 ## Pipeline Diagram
@@ -31,18 +30,19 @@ flowchart LR
     subgraph Sources["Sources"]
         A["MLB Stats API"]
         B["FanGraphs"]
-        C["sfgiants.com"]
-        D["Baseball Savant"]
+        C["Baseball Savant"]
+        D["Baseball Reference"]
+        BB["MLB.com"]
     end
 
-    subgraph Ingest["Ingestion · GitHub Actions"]
+    subgraph Ingest["Ingestion"]
         E["extract_mlb_stats.py\nPython + requests"]
         F["extract_fangraphs.py\nFirecrawl API"]
     end
 
     subgraph Raw["Raw · Snowflake RAW schema"]
         G[("RAW.PLAYERS\nRAW.PITCHER_GAME_LOGS")]
-        H["knowledge/raw/\n15 markdown files"]
+        H["knowledge/raw/\n30 markdown files"]
     end
 
     subgraph Transform["Transform · dbt"]
@@ -56,7 +56,7 @@ flowchart LR
     end
 
     A --> E
-    B & C & D --> F
+    B & C & D & BB --> F
     E --> G
     F --> H
     G --> I
@@ -96,17 +96,19 @@ Both tables include a `_loaded_at` timestamp so every load is auditable. The tru
 
 ### Step 2 — Knowledge Base Scraping (`ingestion/extract_fangraphs.py`)
 
-The second ingestion script builds a qualitative knowledge base by scraping 15 pages from FanGraphs, sfgiants.com, and Baseball Savant using the Firecrawl API. Firecrawl handles JavaScript-rendered pages and returns clean markdown, stripping ads and navigation so only article content is saved.
+The second ingestion script builds a qualitative knowledge base by scraping 30 pages from FanGraphs, Baseball Savant, Baseball Reference, and MLB.com using the Firecrawl API. Firecrawl handles JavaScript-rendered pages and returns clean markdown, stripping ads and navigation so only article content is saved.
 
 **Sources scraped:**
 
-- FanGraphs Giants pitching leaderboard (2024)
-- FanGraphs individual player pages for Logan Webb, Kyle Harrison, Robbie Ray, Jordan Hicks, and Alex Cobb
-- FanGraphs SF Giants team pitching page
-- sfgiants.com news, roster, and homepage
-- Baseball Savant Giants team pitching stats, Statcast glossary, Logan Webb player page, pitch arsenal leaderboard, and spin rate leaderboard
+- FanGraphs Giants pitching leaderboard and plate discipline dashboard (2024)
+- FanGraphs metric glossaries: ERA, FIP, xFIP, BABIP, LOB%, WHIP, DIPS, park factors, pitcher WAR
+- Baseball Savant team expected stats and pitch arsenal leaderboards (2024)
+- Baseball Savant individual player pages for Logan Webb, Blake Snell, Jordan Hicks, Kyle Harrison, Hayden Birdsong, Landen Roupp, Ryan Walker, and Camilo Doval
+- Baseball Savant arm angles and Statcast glossary
+- Baseball Reference Giants 2024 team pitching table and individual pages for Logan Webb and Kyle Harrison
+- MLB.com ERA and Statcast glossaries
 
-Each page is saved as a markdown file in `knowledge/raw/` with a frontmatter header containing the source URL and slug. A 2-second delay between requests prevents rate limiting. These files serve as the raw material for the Claude Code knowledge base, which can answer natural language questions about Giants pitching using the scraped content as context.
+Each page is saved as a markdown file in `knowledge/raw/` with a frontmatter header containing the source URL and slug. These files serve as the raw material for the Claude Code knowledge base, which can answer natural language questions about Giants pitching using the scraped content as context.
 
 ---
 
@@ -136,7 +138,7 @@ A simple pass-through from `stg_players` that selects only the columns relevant 
 Derives the game dimension from `fact_pitcher_game` rather than a separate source. Since multiple pitchers can appear in the same game, it deduplicates by grouping on `game_pk` and `game_date` and taking `MAX(is_home)` to get one canonical home/away flag per game. 247 rows, one per unique game.
 
 `**dim_date**`
-A date spine generated entirely inside Snowflake using the `GENERATOR(rowcount => 4018)` function, producing a row for every day from January 1, 2020 through late 2030. Each row is enriched with year, quarter, month number, month name, week of year, day of month, day of week, day name, a weekend flag, and an MLB season flag (April–September). This dimension enables date-based filtering and aggregation across any time range without relying on the presence of game data for every date.
+A date spine generated inside Snowflake using the `GENERATOR` function, covering the full 2024 season. Enables date-based filtering in the dashboard without relying on the presence of game data for every date.
 
 `**fact_pitcher_game**`
 The central fact table. Joins `stg_pitcher_game_logs` to `stg_players` on `player_id` to attach the pitcher's full name, then computes five per-game rate statistics that aren't in the raw data:
@@ -175,22 +177,28 @@ All 25 tests pass on the current dataset.
 
 The dashboard connects directly to Snowflake at runtime using `snowflake-connector-python` and queries the `MART` schema. Credentials are loaded from a `.env` file locally or from Streamlit Secrets on Streamlit Community Cloud. Query results are cached for 10 minutes using `@st.cache_data` to avoid re-querying Snowflake on every user interaction.
 
-The dashboard is organized into four sections:
+The dashboard is organized into six sections:
+
+**Page header**
+The 2024 MLB average ERA (4.33) is displayed large and centered at the top as a fixed reference point, so any pitcher's numbers are immediately in context.
 
 **Pitcher KPI scorecards**
-A pitcher selector at the top drives every section below it. Five metric cards show season ERA, WHIP, K/9, BB/9, and Strike% with deltas comparing season totals to the pitcher's most recent 5-start rolling average, so you can see at a glance whether they're trending better or worse than their full-season line.
-
-**Staff context cards**
-Two callout cards show the 2024 MLB average ERA (4.33) for league context and the staff ERA spread from best to worst across all Giants pitchers.
+A pitcher selector drives every section below it. Six metric cards show season ERA, WHIP, K/9, BB/9, Strike%, and ERA−FIP. FIP (Fielding Independent Pitching) isolates what a pitcher controls — strikeouts, walks, home runs. The gap between ERA and FIP indicates whether results reflect skill or sequencing luck.
 
 **Rolling 5-start trend charts**
-Two line charts — rolling ERA and rolling WHIP — filtered by a shared date range selector. Each chart has three context cards above it (season baseline, rolling peak, rolling low with month labels) so trends are immediately interpretable without needing to read the y-axis.
+Two line charts — rolling ERA and rolling WHIP — filtered by a shared date range selector, showing how each pitcher's performance evolved across the season.
 
 **Home vs. Away split**
-A breakdown of ERA, WHIP, K/9, and Strike% by venue, with four callout cards showing Home ERA, Away ERA, ERA gap, and WHIP gap. A grouped bar chart visualizes all four metrics side by side.
+ERA, WHIP, K/9, and Strike% broken out by venue, with callout cards for Home ERA, Away ERA, and the gap between them. A grouped bar chart visualizes all four metrics side by side.
 
 **All Pitchers ERA Rankings**
-A horizontal bar chart showing every pitcher's ERA for the selected date range, sorted best to worst. The selected pitcher is highlighted in Giants orange. Four cards above the chart show the best ERA (with pitcher name), worst ERA (with pitcher name), the gap between them, and the selected pitcher's ERA versus the 2024 MLB average. Pitchers with fewer than 10 innings pitched are excluded to remove small-sample outliers.
+A horizontal bar chart of every pitcher's ERA for the selected date range, sorted best to worst, with the selected pitcher highlighted in Giants orange. Pitchers under 10 innings pitched are excluded to remove small-sample noise.
+
+**Staff K/9 vs BB/9 scatter**
+The entire pitching staff plotted on a strikeouts vs. walks grid with 2024 MLB average reference lines (K/9: 8.5, BB/9: 3.0) creating four analytical quadrants.
+
+**Pitcher comparison**
+A multi-select tool that pulls any subset of pitchers and compares their full season stat lines side by side in a table and per-metric bar charts.
 
 ---
 
@@ -300,7 +308,7 @@ Dashboard Preview
 
 **Diagnostic (why did it happen?):** Webb's performance splits sharply by venue. Oracle Park's pitcher-friendly dimensions suppress ERA significantly; his road ERA is measurably higher, reflecting how much park context drives his results.
 
-**Recommendation:** Prioritize Webb for home starts in high-leverage September series → projected ERA improvement based on his home/road split over remaining home games.
+**Recommendation:** Webb's home/road ERA split suggests Oracle Park was a significant factor in his 2024 results — his performance away from home was measurably weaker, which has implications for how his season ERA should be interpreted relative to his true talent level.
 
 ## Live Dashboard
 
@@ -308,7 +316,7 @@ Dashboard Preview
 
 ## Knowledge Base
 
-A Claude Code-curated wiki built from 15 scraped sources across FanGraphs, sfgiants.com, and Baseball Savant. Raw sources live in `knowledge/raw/`.
+A Claude Code-curated wiki built from 30 scraped sources across FanGraphs, Baseball Savant, Baseball Reference, and MLB.com. Raw sources live in `knowledge/raw/`.
 
 **Query it:** Open Claude Code in this repo and ask questions like:
 
