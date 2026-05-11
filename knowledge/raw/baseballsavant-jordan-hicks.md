@@ -3,65 +3,59 @@ source: https://baseballsavant.mlb.com/savant-player/jordan-hicks-663855
 slug: baseballsavant-jordan-hicks
 ---
 
-[|     |     |     |     |\\
+[Preview Matchup\\
+\\
+TBA vs. Cantillo\\
+\\
+|     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/145.svg) | CWS | 6 | 8th |\\
-| ![](https://www.mlbstatic.com/team-logos/108.svg) | LAA | 0 |](https://baseballsavant.mlb.com/gamefeed?gamePk=824039)
+| ![](https://www.mlbstatic.com/team-logos/108.svg) | LAA |  | 6:10 PM |\\
+| ![](https://www.mlbstatic.com/team-logos/114.svg) | CLE |  |](https://baseballsavant.mlb.com/preview?game_pk=824441&game_date=2026-5-11)
 
-[|     |     |     |     |\\
+[Preview Matchup\\
+\\
+Weathers vs. Young\\
+\\
+|     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/144.svg) | ATL | 4 | 7th |\\
-| ![](https://www.mlbstatic.com/team-logos/136.svg) | SEA | 5 |](https://baseballsavant.mlb.com/gamefeed?gamePk=823143)
+| ![](https://www.mlbstatic.com/team-logos/147.svg) | NYY |  | 6:35 PM |\\
+| ![](https://www.mlbstatic.com/team-logos/110.svg) | BAL |  |](https://baseballsavant.mlb.com/preview?game_pk=824844&game_date=2026-5-11)
 
-[|     |     |     |     |\\
+[Preview Matchup\\
+\\
+Rasmussen vs. Gausman\\
+\\
+|     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/135.svg) | SD | 1 | 8th |\\
-| ![](https://www.mlbstatic.com/team-logos/137.svg) | SF | 3 |](https://baseballsavant.mlb.com/gamefeed?gamePk=823228)
+| ![](https://www.mlbstatic.com/team-logos/139.svg) | TB |  | 7:07 PM |\\
+| ![](https://www.mlbstatic.com/team-logos/141.svg) | TOR |  |](https://baseballsavant.mlb.com/preview?game_pk=822818&game_date=2026-5-11)
 
-[|     |     |     |     |\\
+[Preview Matchup\\
+\\
+Soroka vs. Eovaldi\\
+\\
+|     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/121.svg) | NYM | 4 | Final |\\
-| ![](https://www.mlbstatic.com/team-logos/115.svg) | COL | 2 |](https://baseballsavant.mlb.com/gamefeed?gamePk=824363)
+| ![](https://www.mlbstatic.com/team-logos/109.svg) | AZ |  | 8:05 PM |\\
+| ![](https://www.mlbstatic.com/team-logos/140.svg) | TEX |  |](https://baseballsavant.mlb.com/preview?game_pk=822901&game_date=2026-5-11)
 
-[|     |     |     |     |\\
+[Preview Matchup\\
+\\
+Kirby vs. Lambert\\
+\\
+|     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/111.svg) | BOS | 5 | Final |\\
-| ![](https://www.mlbstatic.com/team-logos/116.svg) | DET | 4 |](https://baseballsavant.mlb.com/gamefeed?gamePk=824283)
+| ![](https://www.mlbstatic.com/team-logos/136.svg) | SEA |  | 8:10 PM |\\
+| ![](https://www.mlbstatic.com/team-logos/117.svg) | HOU |  |](https://baseballsavant.mlb.com/preview?game_pk=824199&game_date=2026-5-11)
 
-[|     |     |     |     |\\
+[Preview Matchup\\
+\\
+McDonald vs. Sasaki\\
+\\
+|     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/141.svg) | TOR | 1 | Final |\\
-| ![](https://www.mlbstatic.com/team-logos/139.svg) | TB | 5 |](https://baseballsavant.mlb.com/gamefeed?gamePk=822984)
-
-[|     |     |     |     |\\
-| --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/143.svg) | PHI | 1 | Final |\\
-| ![](https://www.mlbstatic.com/team-logos/146.svg) | MIA | 0 |](https://baseballsavant.mlb.com/gamefeed?gamePk=823874)
-
-[|     |     |     |     |\\
-| --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/110.svg) | BAL | 1 | Final |\\
-| ![](https://www.mlbstatic.com/team-logos/147.svg) | NYY | 12 |](https://baseballsavant.mlb.com/gamefeed?gamePk=823552)
-
-[|     |     |     |     |\\
-| --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/113.svg) | CIN | 4 | Final |\\
-| ![](https://www.mlbstatic.com/team-logos/112.svg) | CHC | 5 |](https://baseballsavant.mlb.com/gamefeed?gamePk=824684)
-
-[|     |     |     |     |\\
-| --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/114.svg) | CLE | 2 | Final |\\
-| ![](https://www.mlbstatic.com/team-logos/118.svg) | KC | 6 |](https://baseballsavant.mlb.com/gamefeed?gamePk=824120)
-
-[|     |     |     |     |\\
-| --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/158.svg) | MIL | 3 | Final |\\
-| ![](https://www.mlbstatic.com/team-logos/138.svg) | STL | 6 |](https://baseballsavant.mlb.com/gamefeed?gamePk=823064)
-
-[|     |     |     |     |\\
-| --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/119.svg) | LAD | 8 | Final |\\
-| ![](https://www.mlbstatic.com/team-logos/117.svg) | HOU | 3 |](https://baseballsavant.mlb.com/gamefeed?gamePk=824201)
+| ![](https://www.mlbstatic.com/team-logos/137.svg) | SF |  | 10:10 PM |\\
+| ![](https://www.mlbstatic.com/team-logos/119.svg) | LAD |  |](https://baseballsavant.mlb.com/preview?game_pk=823953&game_date=2026-5-11)
 
 <
 
@@ -91,15 +85,15 @@ Cypress Creek (TX) HS
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2024 | 4 | 7 | 4.10 | 29 | 20 | 1 | 109.2 | 96 | 1.45 |
 | 2025 | 2 | 7 | 6.95 | 34 | 9 | 2 | 67.1 | 58 | 1.66 |
-| 2026 | 0 | 1 | 3.95 | 15 | 0 | 1 | 13.2 | 8 | 2.05 |
-| 8 Seasons | 17 | 36 | 4.40 | 290 | 37 | 36 | 434 | 417 | 1.42 |
+| 2026 | 0 | 1 | 3.68 | 16 | 0 | 1 | 14.2 | 9 | 1.98 |
+| 8 Seasons | 17 | 36 | 4.39 | 291 | 37 | 36 | 435 | 418 | 1.42 |
 
 |  | G | W-L | ERA | IP | SO | WHIP |
 | --- | --- | --- | --- | --- | --- | --- |
 | 2024 | 29 | 4-7 | 4.10 | 109.2 | 96 | 1.45 |
 | 2025 | 34 | 2-7 | 6.95 | 67.1 | 58 | 1.66 |
-| 2026 | 15 | 0-1 | 3.95 | 13.2 | 8 | 2.05 |
-| 8 Seasons | 290 | 17-36 | 4.40 | 434 | 417 | 1.42 |
+| 2026 | 16 | 0-1 | 3.68 | 14.2 | 9 | 1.98 |
+| 8 Seasons | 291 | 17-36 | 4.39 | 435 | 418 | 1.42 |
 
 Player Apps
 
@@ -125,7 +119,7 @@ Random Video [illustrator](https://baseballsavant.mlb.com/illustrator?playerId=6
 
 Pitch Usage
 
-vs. LHH77%16%2%5%Pitchvs. RHH62%33%4%1%68%SI26%ST3%FF3%FS
+vs. LHH77%16%2%5%Pitchvs. RHH61%33%4%1%67%SI27%ST3%FF3%FS
 
 20262026
 
@@ -148,7 +142,7 @@ vs. LHH77%16%2%5%Pitchvs. RHH62%33%4%1%68%SI26%ST3%FF3%FS
 MLB Percentile Rankings
 
 
-![](https://baseballsavant.mlb.com/sections/evp/images/play.png)ValuesavantPOORAVERAGEGREATPitching Run Value-2NOT QUALIFIED27Fastball Run Value-2NOT QUALIFIED25Breaking Run Value0NOT QUALIFIED55Offspeed Run Value0NOT QUALIFIED33PitchingxERA3.63NOT QUALIFIED65xBA.248NOT QUALIFIED46Fastball Velo98.3NOT QUALIFIED96Avg Exit Velo91.0NOT QUALIFIED16Chase %22.4NOT QUALIFIED6Whiff %13.9NOT QUALIFIED2K %12.1NOT QUALIFIED5BB %18.2NOT QUALIFIED2Barrel %0.0NOT QUALIFIED96Hard-Hit %32.6NOT QUALIFIED81GB %54.3NOT QUALIFIED88Extension6.2NOT QUALIFIED28
+![](https://baseballsavant.mlb.com/sections/evp/images/play.png)ValuesavantPOORAVERAGEGREATPitching Run Value-2NOT QUALIFIED29Fastball Run Value-1NOT QUALIFIED32Breaking Run Value0NOT QUALIFIED44Offspeed Run Value0NOT QUALIFIED35PitchingxERA3.66NOT QUALIFIED63xBA.244NOT QUALIFIED49Fastball Velo98.3NOT QUALIFIED96Avg Exit Velo91.0NOT QUALIFIED16Chase %21.3NOT QUALIFIED3Whiff %13.6NOT QUALIFIED2K %13.0NOT QUALIFIED5BB %18.8NOT QUALIFIED1Barrel %0.0NOT QUALIFIED97Hard-Hit %31.9NOT QUALIFIED81GB %55.3NOT QUALIFIED91Extension6.2NOT QUALIFIED28
 
 20262026
 
@@ -174,7 +168,7 @@ Movement Profile (Induced Break)
 ?
 
 
-MLB AVG.7.2 INCHES RISEARM ANGLE31°12"24"6"12"18"24"12"24"12"24"7.3 INCHES TAIL4.4 INCHES DROP13.4 INCHES TAIL9.1 INCHES RISE6.2 INCHES BREAK2.2 INCHES RISEAVG17.4 INCHES TAIL7.2 INCHES RISEAVG1B3BMOVES TOWARD︎MORERISEMOREDROPUSAGEMPHRHP AVGSinker68%98.394.3Sweeper26%87.183.3Split3%87.686.64-Seam3%97.395.1SAMPLE100 PITCH
+MLB AVG.7.3 INCHES RISEARM ANGLE31°12"24"6"12"18"24"12"24"12"24"7.3 INCHES TAIL4.4 INCHES DROP13.6 INCHES TAIL9.3 INCHES RISE6.1 INCHES BREAK2.0 INCHES RISEAVG17.4 INCHES TAIL7.3 INCHES RISEAVG1B3BMOVES TOWARD︎MORERISEMOREDROPUSAGEMPHRHP AVGSinker67%98.394.3Sweeper27%87.183.34-Seam3%97.495.1Split3%87.686.7SAMPLE100 PITCH
 
 [Statcast](https://baseballsavant.mlb.com/savant-player/jordan-hicks-663855#statcast) [Standard](https://baseballsavant.mlb.com/savant-player/jordan-hicks-663855#standard) [Splits](https://baseballsavant.mlb.com/savant-player/jordan-hicks-663855#splits) [Game Logs](https://baseballsavant.mlb.com/savant-player/jordan-hicks-663855#gamelogs)
 
@@ -273,8 +267,8 @@ Click for Chart.
 |  | 2025 | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | NL | 217 | 1 | 5 | 6.47 | 13 | 9 | 0 | 48.2 | 55 | 36 | 35 | 3 | 20 | 43 | 1.54 |
 |  | 2025 | ![](https://www.mlbstatic.com/team-logos/111.svg)BOS | AL | 97 | 1 | 2 | 8.20 | 21 | 0 | 2 | 18.2 | 25 | 20 | 17 | 3 | 12 | 15 | 1.98 |
 |  | 2025 | ![](https://www.mlbstatic.com/team-logos/.svg)2 Teams |  | 314 | 2 | 7 | 6.95 | 34 | 9 | 2 | 67.1 | 80 | 56 | 52 | 6 | 32 | 58 | 1.66 |
-|  | 2026 | ![](https://www.mlbstatic.com/team-logos/145.svg)CWS | AL | 66 | 0 | 1 | 3.95 | 15 | 0 | 1 | 13.2 | 16 | 6 | 6 | 0 | 12 | 8 | 2.05 |
-|  | 8 Seasons | ![](https://www.mlbstatic.com/team-logos/.svg)5 Teams |  | 1902 | 17 | 36 | 4.40 | 290 | 37 | 36 | 434.0 | 391 | 228 | 212 | 31 | 224 | 417 | 1.42 |
+|  | 2026 | ![](https://www.mlbstatic.com/team-logos/145.svg)CWS | AL | 69 | 0 | 1 | 3.68 | 16 | 0 | 1 | 14.2 | 16 | 6 | 6 | 0 | 13 | 9 | 1.98 |
+|  | 8 Seasons | ![](https://www.mlbstatic.com/team-logos/.svg)5 Teams |  | 1905 | 17 | 36 | 4.39 | 291 | 37 | 36 | 435.0 | 391 | 228 | 212 | 31 | 225 | 418 | 1.42 |
 
 \*: All Star Season,
 Rankings AL/NL: Top 5101520,
@@ -296,8 +290,8 @@ Click for Chart.
 | 2025 | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | NL | P | 13 | 9 | 48.2 | 10 | 4 | 6 | 0 | 0 |  | 1.000 |
 | 2025 | ![](https://www.mlbstatic.com/team-logos/111.svg)BOS | AL | P | 21 | 0 | 18.2 | 1 | 0 | 1 | 0 | 0 |  | 1.000 |
 | 2025 | ![](https://www.mlbstatic.com/team-logos/.svg)2 Teams |  | P | 34 | 9 | 67.1 | 11 | 4 | 7 | 0 | 0 |  | 1.000 |
-| 2026 | ![](https://www.mlbstatic.com/team-logos/145.svg)CWS | AL | P | 15 | 0 | 13.2 | 4 | 0 | 4 | 0 | 0 |  | 1.000 |
-| 8 Seasons | ![](https://www.mlbstatic.com/team-logos/.svg)5 Teams |  | P | 290 | 37 | 434.0 | 101 | 44 | 55 | 2 | 3 |  | .980 |
+| 2026 | ![](https://www.mlbstatic.com/team-logos/145.svg)CWS | AL | P | 16 | 0 | 14.2 | 4 | 0 | 4 | 0 | 0 |  | 1.000 |
+| 8 Seasons | ![](https://www.mlbstatic.com/team-logos/.svg)5 Teams |  | P | 291 | 37 | 435.0 | 101 | 44 | 55 | 2 | 3 |  | .980 |
 
 ## [Spray Chart](https://baseballsavant.mlb.com/savant-player/jordan-hicks-663855?stats=statcast-r-pitching-mlb\#spray-chart)
 
@@ -371,7 +365,6 @@ Save Image
 
 | Year | BP | Rank |
 | --- | --- | --- |
-| 2026 | 15 | 24th in AL |
 | 2018 | 73 | 8th in NL |
 
 #### Hit By Pitch
@@ -385,7 +378,7 @@ Save Image
 
 | Year | CS | Rank |
 | --- | --- | --- |
-| 2026 | 2 | 6th in AL |
+| 2026 | 2 | 7th in AL |
 
 ## [Awards](https://baseballsavant.mlb.com/savant-player/jordan-hicks-663855?stats=statcast-r-pitching-mlb\#awards)
 
@@ -439,8 +432,8 @@ Save Image
 | ![](https://www.mlbstatic.com/team-logos/235.svg) | 09/25/2021 | St. Louis Cardinals sent RHP Jordan Hicks on a rehab assignment to Memphis Redbirds. |
 | ![](https://www.mlbstatic.com/team-logos/138.svg) | 05/14/2021 | St. Louis Cardinals placed RHP Jordan Hicks on the 60-day injured list. Right elbow inflammation. |
 | ![](https://www.mlbstatic.com/team-logos/138.svg) | 05/04/2021 | St. Louis Cardinals placed RHP Jordan Hicks on the 10-day injured list. Right elbow inflammation. |
-| ![](https://www.mlbstatic.com/team-logos/138.svg) | 10/30/2020 | St. Louis Cardinals activated P Jordan Hicks from the restricted list. |
 | ![](https://www.mlbstatic.com/team-logos/138.svg) | 10/30/2020 | St. Louis Cardinals activated RHP Jordan Hicks from the restricted list. |
+| ![](https://www.mlbstatic.com/team-logos/138.svg) | 10/30/2020 | St. Louis Cardinals activated P Jordan Hicks from the restricted list. |
 | ![](https://www.mlbstatic.com/team-logos/138.svg) | 10/30/2020 | St. Louis Cardinals activated RHP Jordan Hicks from the restricted list. |
 | ![](https://www.mlbstatic.com/team-logos/138.svg) | 07/13/2020 | St. Louis Cardinals placed RHP Jordan Hicks on the restricted list. |
 | ![](https://www.mlbstatic.com/team-logos/138.svg) | 02/12/2020 | St. Louis Cardinals placed RHP Jordan Hicks on the 60-day injured list. Right elbow. |
@@ -466,7 +459,7 @@ Save Image
 | Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Chicago White Sox | MLB | vs Left |  |  |  | 13 |  |  | 5.2 | 28 | 6 |  |  | 0 | 6 | 6 | 2.12 |
-| Chicago White Sox | MLB | vs Right |  |  |  | 15 |  |  | 7.2 | 38 | 10 |  |  | 0 | 6 | 2 | 2.09 |
+| Chicago White Sox | MLB | vs Right |  |  |  | 16 |  |  | 8.2 | 41 | 10 |  |  | 0 | 7 | 3 | 1.96 |
 
 ### [Monthly Splits](https://baseballsavant.mlb.com/savant-player/jordan-hicks-663855?stats=statcast-r-pitching-mlb\#monthly-splits)
 
@@ -474,16 +467,16 @@ Save Image
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Chicago White Sox | MLB | March | 0 | 0 | 11.57 | 3 | 0 | 1 | 2.1 | 13 | 2 | 3 | 3 | 0 | 5 | 2 | 3.00 |
 | Chicago White Sox | MLB | April | 0 | 1 | 2.61 | 11 | 0 | 0 | 10.1 | 49 | 13 | 3 | 3 | 0 | 7 | 5 | 1.94 |
-| Chicago White Sox | MLB | May | 0 | 0 | 0.00 | 1 | 0 | 0 | 1.0 | 4 | 1 | 0 | 0 | 0 | 0 | 1 | 1.00 |
-| Chicago White Sox | MLB | Pre All-Star | 0 | 1 | 3.95 | 15 | 0 | 1 | 13.2 | 66 | 16 | 6 | 6 | 0 | 12 | 8 | 2.05 |
+| Chicago White Sox | MLB | May | 0 | 0 | 0.00 | 2 | 0 | 0 | 2.0 | 7 | 1 | 0 | 0 | 0 | 1 | 2 | 1.00 |
+| Chicago White Sox | MLB | Pre All-Star | 0 | 1 | 3.68 | 16 | 0 | 1 | 14.2 | 69 | 16 | 6 | 6 | 0 | 13 | 9 | 1.98 |
 
 ### [Baserunner Splits](https://baseballsavant.mlb.com/savant-player/jordan-hicks-663855?stats=statcast-r-pitching-mlb\#baserunner-splits)
 
 | Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Chicago White Sox | MLB | Bases Empty |  |  |  | 12 |  |  | 5.0 | 28 | 8 |  |  | 0 | 4 | 3 | 2.40 |
+| Chicago White Sox | MLB | Bases Empty |  |  |  | 13 |  |  | 5.0 | 29 | 8 |  |  | 0 | 5 | 3 | 2.60 |
 | Chicago White Sox | MLB | Bases Loaded |  |  |  | 5 |  |  | 2.0 | 6 | 0 |  |  | 0 | 1 | 1 | 0.50 |
-| Chicago White Sox | MLB | Runner at 1st |  |  |  | 10 |  |  | 2.1 | 9 | 2 |  |  | 0 | 1 | 2 | 1.29 |
+| Chicago White Sox | MLB | Runner at 1st |  |  |  | 11 |  |  | 3.1 | 11 | 2 |  |  | 0 | 1 | 3 | 0.90 |
 | Chicago White Sox | MLB | Runners at 1st & 2nd |  |  |  | 4 |  |  | 1.0 | 4 | 2 |  |  | 0 | 0 | 0 | 2.00 |
 | Chicago White Sox | MLB | Runners at 1st & 3rd |  |  |  | 4 |  |  | 1.0 | 6 | 1 |  |  | 0 | 2 | 0 | 3.00 |
 | Chicago White Sox | MLB | Runner at 2nd |  |  |  | 7 |  |  | 1.1 | 9 | 3 |  |  | 0 | 2 | 2 | 3.75 |
@@ -496,18 +489,18 @@ Save Image
 | Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Chicago White Sox | MLB | Home Games | 0 | 1 | 2.70 | 7 | 0 | 0 | 6.2 | 32 | 8 | 2 | 2 | 0 | 5 | 4 | 1.95 |
-| Chicago White Sox | MLB | Away Games | 0 | 0 | 5.14 | 8 | 0 | 1 | 7.0 | 34 | 8 | 4 | 4 | 0 | 7 | 4 | 2.14 |
-| Chicago White Sox | MLB | Day Games | 0 | 1 | 5.59 | 10 | 0 | 0 | 9.2 | 47 | 10 | 6 | 6 | 0 | 10 | 6 | 2.07 |
+| Chicago White Sox | MLB | Away Games | 0 | 0 | 4.50 | 9 | 0 | 1 | 8.0 | 37 | 8 | 4 | 4 | 0 | 8 | 5 | 2.00 |
+| Chicago White Sox | MLB | Day Games | 0 | 1 | 5.06 | 11 | 0 | 0 | 10.2 | 50 | 10 | 6 | 6 | 0 | 11 | 7 | 1.97 |
 | Chicago White Sox | MLB | Night Games | 0 | 0 | 0.00 | 5 | 0 | 1 | 4.0 | 19 | 6 | 0 | 0 | 0 | 2 | 2 | 2.00 |
-| Chicago White Sox | MLB | Leading Off Inning |  |  |  | 13 |  |  | 3.1 | 14 | 4 |  |  | 0 | 0 | 2 | 1.20 |
+| Chicago White Sox | MLB | Leading Off Inning |  |  |  | 14 |  |  | 3.1 | 15 | 4 |  |  | 0 | 1 | 2 | 1.50 |
 | Chicago White Sox | MLB | Late / Close |  |  |  | 5 |  |  | 4.1 | 20 | 5 |  |  | 0 | 2 | 2 | 1.62 |
 
 ### [Outs Splits](https://baseballsavant.mlb.com/savant-player/jordan-hicks-663855?stats=statcast-r-pitching-mlb\#out-splits)
 
 | Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Chicago White Sox | MLB | No Outs |  |  |  | 13 |  |  | 5.0 | 18 | 5 |  |  | 0 | 0 | 2 | 1.00 |
-| Chicago White Sox | MLB | One Out |  |  |  | 12 |  |  | 4.2 | 26 | 6 |  |  | 0 | 6 | 1 | 2.57 |
+| Chicago White Sox | MLB | No Outs |  |  |  | 14 |  |  | 5.1 | 20 | 5 |  |  | 0 | 1 | 3 | 1.13 |
+| Chicago White Sox | MLB | One Out |  |  |  | 13 |  |  | 5.1 | 27 | 6 |  |  | 0 | 6 | 1 | 2.25 |
 | Chicago White Sox | MLB | Two Outs |  |  |  | 12 |  |  | 3.2 | 22 | 5 |  |  | 0 | 6 | 5 | 3.00 |
 
 ### [Inning Splits](https://baseballsavant.mlb.com/savant-player/jordan-hicks-663855?stats=statcast-r-pitching-mlb\#inning-splits)
@@ -517,7 +510,7 @@ Save Image
 | Chicago White Sox | MLB | Fourth Inning |  |  | 0.00 | 2 |  |  | 1.0 | 5 | 2 | 0 | 0 | 0 | 1 | 0 | 3.00 |
 | Chicago White Sox | MLB | Fifth Inning |  |  | 0.00 | 2 |  |  | 1.2 | 9 | 2 | 0 | 0 | 0 | 1 | 1 | 1.80 |
 | Chicago White Sox | MLB | Sixth Inning |  |  | 40.50 | 1 |  |  | 0.2 | 7 | 2 | 3 | 3 | 0 | 4 | 0 | 9.00 |
-| Chicago White Sox | MLB | Seventh Inning |  |  | 0.00 | 3 |  |  | 2.2 | 11 | 1 | 0 | 0 | 0 | 3 | 3 | 1.50 |
+| Chicago White Sox | MLB | Seventh Inning |  |  | 0.00 | 4 |  |  | 3.2 | 14 | 1 | 0 | 0 | 0 | 4 | 4 | 1.36 |
 | Chicago White Sox | MLB | Eighth Inning |  |  | 5.79 | 8 |  |  | 4.2 | 21 | 7 | 3 | 3 | 0 | 1 | 2 | 1.71 |
 | Chicago White Sox | MLB | Ninth Inning |  |  | 0.00 | 2 |  |  | 2.0 | 8 | 1 | 0 | 0 | 0 | 1 | 2 | 1.00 |
 | Chicago White Sox | MLB | Extra Innings |  |  | 0.00 | 1 |  |  | 1.0 | 5 | 1 | 0 | 0 | 0 | 1 | 0 | 2.00 |
@@ -591,7 +584,8 @@ Save Image
 | [2026-04-27](https://baseballsavant.mlb.com/gamefeed?gamePk=824609&game_date=2026-04-27) | ![](https://www.mlbstatic.com/team-logos/145.svg)Chicago White Sox | ![](https://www.mlbstatic.com/team-logos/108.svg)Los Angeles Angels | 0 | 0 | 4.26 | 1 | 0 | 0 | 0.1 | 2 | 0 | 0 | 0 | 0 | 0 | 2.13 | [![](https://baseballsavant.mlb.com/sections/gamefeed/images/pitch-report-icon.png)](https://baseballsavant.mlb.com/player-scroll/game?gamePk=824609&player_id=663855) |
 | April | ![](https://www.mlbstatic.com/team-logos/145.svg)Chicago White Sox | ![](https://www.mlbstatic.com/team-logos/.svg) | 0 | 1 | 2.61 | 11 | 0 | 0 | 10.1 | 13 | 3 | 3 | 0 | 7 | 5 | 1.94 |  |
 | [2026-05-01](https://baseballsavant.mlb.com/gamefeed?gamePk=823309&game_date=2026-05-01) | ![](https://www.mlbstatic.com/team-logos/135.svg)San Diego Padres | ![](https://www.mlbstatic.com/team-logos/145.svg)Chicago White Sox | 0 | 0 | 3.95 | 1 | 0 | 0 | 1.0 | 1 | 0 | 0 | 0 | 0 | 1 | 2.05 | [![](https://baseballsavant.mlb.com/sections/gamefeed/images/pitch-report-icon.png)](https://baseballsavant.mlb.com/player-scroll/game?gamePk=823309&player_id=663855) |
-| May | ![](https://www.mlbstatic.com/team-logos/145.svg)Chicago White Sox | ![](https://www.mlbstatic.com/team-logos/.svg) | 0 | 0 | 0.00 | 1 | 0 | 0 | 1.0 | 1 | 0 | 0 | 0 | 0 | 1 | 1.00 |  |
+| [2026-05-06](https://baseballsavant.mlb.com/gamefeed?gamePk=824036&game_date=2026-05-06) | ![](https://www.mlbstatic.com/team-logos/108.svg)Los Angeles Angels | ![](https://www.mlbstatic.com/team-logos/145.svg)Chicago White Sox | 0 | 0 | 3.68 | 1 | 0 | 0 | 1.0 | 0 | 0 | 0 | 0 | 1 | 1 | 1.98 | [![](https://baseballsavant.mlb.com/sections/gamefeed/images/pitch-report-icon.png)](https://baseballsavant.mlb.com/player-scroll/game?gamePk=824036&player_id=663855) |
+| May | ![](https://www.mlbstatic.com/team-logos/145.svg)Chicago White Sox | ![](https://www.mlbstatic.com/team-logos/.svg) | 0 | 0 | 0.00 | 2 | 0 | 0 | 2.0 | 1 | 0 | 0 | 0 | 1 | 2 | 1.00 |  |
 
 | Date | Home Tm | Away Tm | W | L | ERA | G | GS | SV | IP | H | R | ER | HR | BB | SO | WHIP |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -610,16 +604,16 @@ Save Image
 
 ## [Statcast Statistics](https://baseballsavant.mlb.com/savant-player/jordan-hicks-663855?stats=statcast-r-pitching-mlb\#statcast-statistics)
 
-| 2018 | 21 | 1274 | 216 | 2 | 0.9 | 0.6 | 88.0 | 113.6 | 1.1 | 26.9 | .215 | .285 | .275 | .293 | .293 | 31.9 | 20.6 | 13.3 | 3.59 | 3.60 |
-| 2019 | 22 | 454 | 67 | 3 | 4.5 | 2.7 | 86.9 | 110.6 | -2.3 | 23.9 | .162 | .255 | .231 | .235 | .263 | 28.6 | 28.2 | 10.0 | 3.14 | 2.39 |
+| 2018 | 21 | 1274 | 216 | 2 | 1.1 | 0.6 | 88.0 | 113.6 | 1.1 | 26.9 | .215 | .285 | .275 | .293 | .293 | 31.9 | 20.6 | 13.3 | 3.59 | 3.60 |
+| 2019 | 22 | 454 | 67 | 3 | 5.4 | 2.7 | 86.9 | 110.6 | -2.3 | 23.9 | .162 | .255 | .231 | .235 | .263 | 28.6 | 28.2 | 10.0 | 3.14 | 2.39 |
 | 2021 | 24 | 207 | 24 | 0 | 0.0 | 0.0 | 80.8 | 111.2 | -4.2 | 20.8 | .165 | .196 | .281 | .279 | .223 | 12.5 | 22.7 | 22.7 | 5.40 | 3.25 |
 | 2022 | 25 | 1051 | 158 | 11 | 7.0 | 4.2 | 86.9 | 112.1 | 1.4 | 28.5 | .210 | .332 | .302 | .305 | .324 | 32.3 | 24.0 | 13.3 | 4.84 | 3.78 |
 | 2023 | 26 | 1114 | 168 | 9 | 5.4 | 3.2 | 86.7 | 109.7 | -0.1 | 27.4 | .207 | .311 | .296 | .283 | .333 | 35.9 | 28.4 | 11.2 | 3.29 | 3.33 |
-| 2024 | 27 | 1958 | 329 | 31 | 9.4 | 6.4 | 89.6 | 112.3 | 8.9 | 34.7 | .251 | .425 | .336 | .338 | .376 | 42.2 | 20.0 | 9.8 | 4.10 | 4.74 |
+| 2024 | 27 | 1958 | 329 | 31 | 9.5 | 6.4 | 89.6 | 112.3 | 8.9 | 34.7 | .251 | .425 | .336 | .338 | .376 | 42.2 | 20.0 | 9.8 | 4.10 | 4.74 |
 | 2025 | 28 | 1199 | 215 | 10 | 4.7 | 3.2 | 90.0 | 115.2 | 5.8 | 31.6 | .266 | .381 | .364 | .330 | .353 | 45.6 | 18.5 | 10.2 | 6.95 | 4.58 |
-| 2026 | 29 | 233 | 46 | 0 | 0.0 | 0.0 | 91.0 | 107.0 | 11.0 | 21.7 | .248 | .289 | .360 | .303 | .266 | 32.6 | 12.1 | 18.2 | 3.95 | 3.63 |
-| **Player** |  | 7490 | 1223 | 66 | 5.4 | 3.5 | 88.4 | 115.2 | 4.0 | 29.6 | .228 | .344 | .312 | .308 | .332 | 37.2 | 21.9 | 11.8 |  |  |
-| **MLB** |  |  |  |  | 7.2 | 4.9 | 88.6 | 122.9 | 12.5 | 33.3 | .243 | .408 | .316 | .316 | .369 | 37.0 | 22.2 | 8.4 |  |  |
+| 2026 | 29 | 244 | 47 | 0 | 0.0 | 0.0 | 91.0 | 107.0 | 11.0 | 21.3 | .244 | .283 | .354 | .304 | .266 | 31.9 | 13.0 | 18.8 | 3.68 | 3.66 |
+| **Player** |  | 7501 | 1224 | 66 | 5.6 | 3.5 | 88.4 | 115.2 | 4.0 | 29.6 | .228 | .344 | .312 | .308 | .332 | 37.2 | 21.9 | 11.8 |  |  |
+| **MLB** |  |  |  |  | 7.6 | 4.9 | 88.6 | 122.9 | 12.5 | 33.3 | .243 | .408 | .316 | .316 | .369 | 37.0 | 22.2 | 8.4 |  |  |
 
 ! Note: All figures in this table cover the period 2015-present.
 
@@ -630,21 +624,21 @@ Hicks relies on 4 pitches.
 
 Sinker
 
-(67.8%) ,
+(67.2%) ,
 
 Sweeper
 
-(26.2%) ,
-
-Split Finger
-
-(3.0%) ,
+(26.6%) ,
 
 Four Seamer
 
-(3.0%) ,
+(3.3%) ,
 
-Sinker158 Pitches (67.8%)
+Split Finger
+
+(2.9%) ,
+
+Sinker164 Pitches (67.2%)
 
 - All PitchesSwing & MissesBase HitsRight Handed BatterLeft Handed BatterAhead In CountBehind In CountEven Count2 Strikes▾
 
@@ -703,10 +697,10 @@ Breaking: Slider, Curve, Knuckle, Sweeper, Slurve, Other
 
 ## [Pitch Tracking](https://baseballsavant.mlb.com/savant-player/jordan-hicks-663855?stats=statcast-r-pitching-mlb\#pitch_tracking)
 
-| 2026 | Sinker | 158 | 86 | 72 | 67.8 | 98.3 | 48 | 38 | 12 | 8 | 4 | 0 | 0 | 5 | 34 | .316 | .259 | .421 | .299 | .390 | .327 | 90.2 | 8 | 1854 | 6.2 | 5.7 | 14.3 |
-| 2026 | Sweeper | 61 | 46 | 15 | 26.2 | 87.1 | 11 | 9 | 2 | 2 | 0 | 0 | 0 | 1 | 9 | .222 | .237 | .222 | .292 | .229 | .256 | 86.2 | 21 | 2173 | 6.1 | 32.0 | 5.9 |
-| 2026 | Four Seamer | 7 | 5 | 2 | 3.0 | 97.3 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | .000 | .092 | .000 | .102 | .000 | .089 | 87.8 | -18 | 2044 | 6.2 | 33.3 | 0.0 |
-| 2026 | Split Finger | 7 | 2 | 5 | 3.0 | 87.6 | 4 | 4 | 2 | 2 | 0 | 0 | 0 | 2 | 2 | .500 | .211 | .500 | .242 | .451 | .198 | 99.8 | 0 | 820 | 6.3 | 33.3 | 50.0 |
+| 2026 | Sinker | 164 | 92 | 72 | 67.2 | 98.3 | 50 | 40 | 12 | 8 | 4 | 0 | 0 | 6 | 35 | .300 | .253 | .400 | .291 | .374 | .320 | 90.2 | 8 | 1857 | 6.2 | 5.6 | 16.7 |
+| 2026 | Sweeper | 65 | 50 | 15 | 26.6 | 87.1 | 12 | 9 | 2 | 2 | 0 | 0 | 0 | 1 | 9 | .222 | .237 | .222 | .292 | .268 | .293 | 86.2 | 21 | 2176 | 6.1 | 32.0 | 5.9 |
+| 2026 | Four Seamer | 8 | 6 | 2 | 3.3 | 97.4 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | .000 | .092 | .000 | .102 | .000 | .089 | 87.8 | -18 | 2047 | 6.2 | 33.3 | 0.0 |
+| 2026 | Split Finger | 7 | 2 | 5 | 2.9 | 87.6 | 4 | 4 | 2 | 2 | 0 | 0 | 0 | 2 | 2 | .500 | .211 | .500 | .242 | .451 | .198 | 99.8 | 0 | 820 | 6.3 | 33.3 | 50.0 |
 | 2025 | Sinker | 652 | 375 | 277 | 54.4 | 97.5 | 183 | 155 | 47 | 33 | 10 | 3 | 1 | 23 | 135 | .303 | .276 | .426 | .380 | .364 | .339 | 90.5 | 2 | 1920 | 6.5 | 9.6 | 19.2 |
 | 2025 | Sweeper | 272 | 154 | 118 | 22.7 | 82.5 | 58 | 49 | 14 | 7 | 3 | 0 | 4 | 13 | 36 | .286 | .225 | .592 | .427 | .420 | .341 | 84.2 | 16 | 2311 | 6.5 | 43.9 | 16.7 |
 | 2025 | Four Seamer | 111 | 28 | 83 | 9.3 | 97.4 | 33 | 30 | 8 | 8 | 0 | 0 | 0 | 10 | 21 | .267 | .362 | .267 | .452 | .265 | .374 | 90.8 | 11 | 2138 | 6.5 | 20.4 | 16.7 |
@@ -716,7 +710,7 @@ Breaking: Slider, Curve, Knuckle, Sweeper, Slurve, Other
 | 2024 | Sweeper | 471 | 301 | 170 | 24.1 | 81.1 | 92 | 79 | 12 | 4 | 5 | 0 | 3 | 27 | 52 | .152 | .156 | .329 | .308 | .271 | .268 | 84.8 | 16 | 2240 | 6.5 | 37.6 | 15.9 |
 | 2024 | Split Finger | 373 | 142 | 231 | 19.1 | 84.3 | 103 | 94 | 17 | 11 | 4 | 0 | 2 | 38 | 56 | .181 | .174 | .287 | .310 | .243 | .251 | 84.6 | 14 | 925 | 6.6 | 40.8 | 19.8 |
 | 2024 | Four Seamer | 105 | 22 | 83 | 5.4 | 95.3 | 30 | 22 | 5 | 3 | 1 | 1 | 0 | 8 | 15 | .227 | .286 | .364 | .554 | .346 | .429 | 91.3 | 19 | 2126 | 6.5 | 26.2 | 13.6 |
-| 2023 | Sinker | 714 | 490 | 224 | 64.2 | 100.1 | 184 | 157 | 41 | 31 | 7 | 1 | 2 | 30 | 129 | .261 | .235 | .357 | .338 | .321 | .310 | 86.9 | -6 | 2111 | 6.6 | 18.0 | 24.4 |
+| 2023 | Sinker | 714 | 490 | 224 | 64.2 | 100.1 | 184 | 157 | 41 | 31 | 7 | 1 | 2 | 30 | 129 | .261 | .235 | .357 | .338 | .321 | .311 | 86.9 | -6 | 2111 | 6.6 | 18.0 | 24.4 |
 | 2023 | Sweeper | 221 | 168 | 53 | 19.9 | 86.8 | 49 | 44 | 6 | 2 | 2 | 0 | 2 | 29 | 15 | .136 | .135 | .318 | .261 | .240 | .221 | 88.6 | 21 | 2574 | 6.5 | 59.5 | 29.6 |
 | 2023 | Four Seamer | 121 | 26 | 95 | 10.9 | 100.3 | 39 | 37 | 8 | 6 | 2 | 0 | 0 | 18 | 19 | .216 | .168 | .270 | .259 | .236 | .210 | 84.5 | 17 | 2362 | 6.5 | 31.0 | 25.4 |
 | 2023 | Slider | 39 | 17 | 22 | 3.5 | 87.1 | 8 | 5 | 2 | 2 | 0 | 0 | 0 | 3 | 2 | .400 | .312 | .400 | .413 | .482 | .459 | 89.1 | 23 | 2477 | 6.5 | 50.0 | 16.7 |
@@ -757,24 +751,24 @@ Breaking: Slider, Curve, Knuckle, Sweeper, Slurve, Other
 | 2023 | 58.9 | 41.1 | 16.1 | 21.4 | 3.6 | 33.9 | 42.3 | 23.8 | 21.4 | 27.4 | 10.1 | 12.5 | 14.9 | 13.7 |
 | 2024 | 50.8 | 49.2 | 21.6 | 23.1 | 4.6 | 40.4 | 40.1 | 19.5 | 24.9 | 20.4 | 5.5 | 15.5 | 19.8 | 14.0 |
 | 2025 | 56.7 | 43.3 | 17.2 | 22.3 | 3.7 | 37.7 | 36.7 | 25.6 | 24.7 | 22.8 | 9.3 | 13.0 | 14.0 | 16.3 |
-| 2026 | 54.3 | 45.7 | 26.1 | 17.4 | 2.2 | 37.0 | 37.0 | 26.1 | 30.4 | 23.9 | 0.0 | 6.5 | 13.0 | 26.1 |
-| **Player** | 57.2 | 42.8 | 17.7 | 21.5 | 3.5 | 36.6 | 40.0 | 23.3 | 24.8 | 24.2 | 8.2 | 11.9 | 15.8 | 15.1 |
+| 2026 | 55.3 | 44.7 | 25.5 | 17.0 | 2.1 | 36.2 | 36.2 | 27.7 | 29.8 | 23.4 | 2.1 | 6.4 | 12.8 | 25.5 |
+| **Player** | 57.3 | 42.7 | 17.7 | 21.5 | 3.5 | 36.6 | 40.0 | 23.4 | 24.8 | 24.2 | 8.3 | 11.8 | 15.8 | 15.1 |
 | **MLB** | 44.2 | 55.8 | 24.1 | 24.6 | 7.1 | 37.4 | 37.3 | 25.1 | 20.7 | 17.6 | 5.9 | 16.7 | 19.7 | 19.3 |
 
 ! Note: All figures in this table cover the period 2015-present.
 
 ## [Quality of Contact](https://baseballsavant.mlb.com/savant-player/jordan-hicks-663855?stats=statcast-r-pitching-mlb\#quality_of_contact)
 
-| 2018 | 1.4 | 54.6 | 16.2 | 19.9 | 5.6 | 0.9 | 0.6 |
-| 2019 | 3.0 | 58.2 | 11.9 | 13.4 | 3.0 | 4.5 | 2.7 |
+| 2018 | 1.4 | 54.6 | 16.2 | 19.9 | 5.6 | 1.1 | 0.6 |
+| 2019 | 3.0 | 58.2 | 11.9 | 13.4 | 3.0 | 5.4 | 2.7 |
 | 2021 | 8.3 | 54.2 | 20.8 | 16.7 | 0.0 | 0.0 | 0.0 |
 | 2022 | 3.8 | 46.8 | 15.8 | 24.1 | 1.3 | 7.0 | 4.2 |
 | 2023 | 5.4 | 50.6 | 14.3 | 18.5 | 4.8 | 5.4 | 3.2 |
-| 2024 | 3.6 | 38.6 | 17.9 | 21.6 | 8.2 | 9.4 | 6.4 |
+| 2024 | 3.6 | 38.6 | 17.9 | 21.6 | 8.2 | 9.5 | 6.4 |
 | 2025 | 6.0 | 38.1 | 16.3 | 31.2 | 3.7 | 4.7 | 3.2 |
-| 2026 | 4.3 | 32.6 | 28.3 | 32.6 | 0.0 | 0.0 | 0.0 |
-| **Player** | 4.0 | 45.2 | 16.7 | 22.7 | 4.8 | 5.4 | 3.5 |
-| **MLB** | 4.0 | 32.4 | 24.9 | 24.4 | 5.9 | 7.2 | 4.9 |
+| 2026 | 4.3 | 31.9 | 27.7 | 31.9 | 0.0 | 0.0 | 0.0 |
+| **Player** | 4.0 | 45.2 | 16.7 | 22.7 | 4.8 | 5.6 | 3.5 |
+| **MLB** | 4.0 | 32.4 | 24.9 | 24.4 | 5.9 | 7.6 | 4.9 |
 
 ! Note: All figures in this table cover the period 2015-present.
 
@@ -813,30 +807,30 @@ On the right, Induced Movement (or IVB) is reported without gravity, and attempt
 | --- | --- | --- |
 | Year | Pitch | Team | Hand | # | MPH | Vertical<br>Drop | vs.<br>Comparable | Horizontal<br>Break | vs.<br>Comparable | Vertical<br>Break | vs. Avg | Horizontal<br>Break | vs. Avg |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2026 | 4-Seam Fastball | ![](https://www.mlbstatic.com/team-logos/145.svg)CWS | R | 7 | 97.3 | 20.0 | -6.8 | 13.4ARM | 5.6 | 9.1 | -7.0 | 13.4ARM | 5.7 |
-| 2026 | Split-Finger | ![](https://www.mlbstatic.com/team-logos/145.svg)CWS | R | 7 | 87.6 | 40.2 | 7.4 | 7.3ARM | -4.5 | -4.4 | 7.1 | 7.3ARM | -4.3 |
-| 2026 | Sweeper | ![](https://www.mlbstatic.com/team-logos/145.svg)CWS | R | 61 | 87.1 | 33.9 | -3.0 | 6.2GLV | -5.7 | 2.2 | -1.0 | 6.2GLV | -7.8 |
-| 2026 | Sinker | ![](https://www.mlbstatic.com/team-logos/145.svg)CWS | R | 158 | 98.3 | 21.2 | 0.8 | 17.4ARM | 1.2 | 7.2 | 0.5 | 17.4ARM | 1.8 |
+| 2026 | 4-Seam Fastball | ![](https://www.mlbstatic.com/team-logos/145.svg)CWS | R | 8 | 97.4 | 19.8 | -6.5 | 13.6ARM | 5.7 | 9.3 | -6.8 | 13.6ARM | 5.9 |
+| 2026 | Split-Finger | ![](https://www.mlbstatic.com/team-logos/145.svg)CWS | R | 7 | 87.6 | 40.2 | 7.4 | 7.3ARM | -4.5 | -4.4 | 7.1 | 7.3ARM | -4.2 |
+| 2026 | Sweeper | ![](https://www.mlbstatic.com/team-logos/145.svg)CWS | R | 65 | 87.1 | 34.1 | -2.9 | 6.1GLV | -5.8 | 2.0 | -0.8 | 6.1GLV | -7.8 |
+| 2026 | Sinker | ![](https://www.mlbstatic.com/team-logos/145.svg)CWS | R | 164 | 98.3 | 21.1 | 0.7 | 17.3ARM | 1.3 | 7.2 | 0.4 | 17.3ARM | 1.9 |
 | 2025 | 4-Seam Fastball | ![](https://www.mlbstatic.com/team-logos/111.svg)BOS | R | 111 | 97.4 | 15.7 | -2.3 | 10.5ARM | 2.6 | 13.3 | -2.5 | 10.5ARM | 2.9 |
 | 2025 | Sinker | ![](https://www.mlbstatic.com/team-logos/111.svg)BOS | R | 652 | 97.5 | 21.4 | 0.3 | 16.2ARM | 1.0 | 7.5 | -0.1 | 16.2ARM | 1.1 |
 | 2025 | Split-Finger | ![](https://www.mlbstatic.com/team-logos/111.svg)BOS | R | 72 | 89.2 | 32.1 | 0.8 | 10.0ARM | -2.0 | 2.4 | 0.6 | 10.0ARM | -1.2 |
 | 2025 | Slider | ![](https://www.mlbstatic.com/team-logos/111.svg)BOS | R | 92 | 84.3 | 42.3 | 5.4 | 3.6GLV | -1.6 | -3.9 | 5.7 | 3.6GLV | -0.7 |
 | 2025 | Sweeper | ![](https://www.mlbstatic.com/team-logos/111.svg)BOS | R | 272 | 82.5 | 38.2 | -1.0 | 10.6GLV | -3.3 | 2.1 | -1.2 | 10.6GLV | -3.3 |
-| 2024 | Sweeper | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 471 | 81.1 | 39.0 | -1.3 | 12.2GLV | -2.0 | 2.6 | -1.3 | 12.2GLV | -1.7 |
+| 2024 | 4-Seam Fastball | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 105 | 95.3 | 17.0 | -2.7 | 10.4ARM | 2.9 | 13.2 | -2.6 | 10.4ARM | 2.9 |
 | 2024 | Split-Finger | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 373 | 84.3 | 39.7 | 5.1 | 5.1ARM | -5.0 | -1.3 | 3.9 | 5.1ARM | -5.6 |
 | 2024 | Sinker | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 1009 | 94.5 | 25.2 | 2.7 | 15.9ARM | 0.8 | 5.5 | 1.7 | 15.9ARM | 1.1 |
-| 2024 | 4-Seam Fastball | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 105 | 95.3 | 17.0 | -2.7 | 10.4ARM | 2.9 | 13.2 | -2.6 | 10.4ARM | 2.9 |
+| 2024 | Sweeper | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 471 | 81.1 | 39.0 | -1.3 | 12.2GLV | -2.0 | 2.6 | -1.3 | 12.2GLV | -1.7 |
 | 2023 | Sinker | ![](https://www.mlbstatic.com/team-logos/141.svg)TOR | R | 714 | 100.1 | 19.0 | 0.6 | 15.8ARM | 1.1 | 8.5 | -0.7 | 15.8ARM | 0.9 |
-| 2023 | Sweeper | ![](https://www.mlbstatic.com/team-logos/141.svg)TOR | R | 221 | 86.8 | 36.2 | -0.5 | 12.4GLV | 0.6 | 0.4 | 0.9 | 12.4GLV | -1.5 |
 | 2023 | 4-Seam Fastball | ![](https://www.mlbstatic.com/team-logos/141.svg)TOR | R | 121 | 100.3 | 11.3 | 0.3 | 6.6ARM | -1.9 | 16.0 | 0.2 | 6.6ARM | -0.9 |
 | 2023 | Split-Finger | ![](https://www.mlbstatic.com/team-logos/141.svg)TOR | R | 18 | 91.4 | 33.7 | 4.2 | 10.1ARM | -1.1 | -0.8 | 4.1 | 10.1ARM | -1.0 |
 | 2023 | Slider | ![](https://www.mlbstatic.com/team-logos/141.svg)TOR | R | 39 | 86.9 | 38.5 | 4.2 | 4.5GLV | 0.2 | -2.3 | 3.8 | 4.5GLV | -0.4 |
-| 2022 | Split-Finger | ![](https://www.mlbstatic.com/team-logos/138.svg)STL | R | 1 | 92.0 | 38.2 | 9.9 | 13.4ARM | 4.3 | -5.6 | 9.7 | 13.4ARM | 2.0 |
-| 2022 | Slider | ![](https://www.mlbstatic.com/team-logos/138.svg)STL | R | 4 | 89.1 | 31.3 | -0.1 | 4.1GLV | 0.4 | 3.5 | -1.7 | 4.1GLV | -1.3 |
+| 2023 | Sweeper | ![](https://www.mlbstatic.com/team-logos/141.svg)TOR | R | 221 | 86.8 | 36.2 | -0.5 | 12.4GLV | 0.6 | 0.4 | 0.9 | 12.4GLV | -1.5 |
 | 2022 | Sweeper | ![](https://www.mlbstatic.com/team-logos/138.svg)STL | R | 328 | 84.7 | 38.7 | 1.9 | 11.9GLV | -0.6 | -0.4 | 1.8 | 11.9GLV | -2.0 |
-| 2022 | Sinker | ![](https://www.mlbstatic.com/team-logos/138.svg)STL | R | 679 | 99.4 | 19.7 | 1.8 | 15.8ARM | 0.8 | 8.0 | 0.3 | 15.8ARM | 1.1 |
+| 2022 | Slider | ![](https://www.mlbstatic.com/team-logos/138.svg)STL | R | 4 | 89.1 | 31.3 | -0.1 | 4.1GLV | 0.4 | 3.5 | -1.7 | 4.1GLV | -1.3 |
+| 2022 | Split-Finger | ![](https://www.mlbstatic.com/team-logos/138.svg)STL | R | 1 | 92.0 | 38.2 | 9.9 | 13.4ARM | 4.3 | -5.6 | 9.7 | 13.4ARM | 2.0 |
 | 2022 | 4-Seam Fastball | ![](https://www.mlbstatic.com/team-logos/138.svg)STL | R | 13 | 99.0 | 18.5 | -6.6 | 12.0ARM | 4.4 | 9.5 | -6.7 | 12.0ARM | 4.6 |
 | 2022 | Changeup | ![](https://www.mlbstatic.com/team-logos/138.svg)STL | R | 26 | 92.0 | 23.7 | -2.8 | 15.7ARM | 0.7 | 8.8 | -2.9 | 15.7ARM | 1.5 |
+| 2022 | Sinker | ![](https://www.mlbstatic.com/team-logos/138.svg)STL | R | 679 | 99.4 | 19.7 | 1.8 | 15.8ARM | 0.8 | 8.0 | 0.3 | 15.8ARM | 1.1 |
 | 2021 | 4-Seam Fastball | ![](https://www.mlbstatic.com/team-logos/138.svg)STL | R | 3 | 100.5 | 9.5 | 1.2 | 7.3ARM | 0.8 | 17.6 | 1.4 | 7.3ARM | 0.1 |
 | 2021 | Cutter | ![](https://www.mlbstatic.com/team-logos/138.svg)STL | R | 32 | 88.1 | 32.6 | -5.3 | 3.7GLV | 0.8 | 2.7 | -5.2 | 3.7GLV | 0.9 |
 | 2021 | Sinker | ![](https://www.mlbstatic.com/team-logos/138.svg)STL | R | 141 | 99.2 | 15.4 | -1.0 | 14.9ARM | 0.3 | 12.5 | -3.7 | 14.9ARM | 0.1 |
@@ -845,8 +839,8 @@ On the right, Induced Movement (or IVB) is reported without gravity, and attempt
 | 2019 | Changeup | ![](https://www.mlbstatic.com/team-logos/138.svg)STL | R | 10 | 90.3 | 33.1 | 5.3 | 7.1ARM | -7.2 | 1.3 | 5.6 | 7.1ARM | -6.4 |
 | 2019 | Split-Finger | ![](https://www.mlbstatic.com/team-logos/138.svg)STL | R | 15 | 91.2 | 32.4 | 3.0 | 4.8ARM | -5.9 | 1.0 | 3.4 | 4.8ARM | -5.3 |
 | 2019 | 4-Seam Fastball | ![](https://www.mlbstatic.com/team-logos/138.svg)STL | R | 1 | 100.9 | 11.7 | 0.0 | 9.3ARM | 1.9 | 15.4 | -0.2 | 9.3ARM | 1.8 |
-| 2019 | Sinker | ![](https://www.mlbstatic.com/team-logos/138.svg)STL | R | 266 | 101.1 | 16.6 | 0.4 | 15.8ARM | 1.1 | 10.3 | -1.2 | 15.8ARM | 0.9 |
 | 2019 | Slider | ![](https://www.mlbstatic.com/team-logos/138.svg)STL | R | 149 | 86.9 | 38.1 | 3.9 | 10.7GLV | 6.8 | -1.1 | 3.0 | 10.7GLV | 5.7 |
+| 2019 | Sinker | ![](https://www.mlbstatic.com/team-logos/138.svg)STL | R | 266 | 101.1 | 16.6 | 0.4 | 15.8ARM | 1.1 | 10.3 | -1.2 | 15.8ARM | 0.9 |
 | 2018 | Sinker | ![](https://www.mlbstatic.com/team-logos/138.svg)STL | R | 975 | 100.5 | 18.7 | 0.9 | 13.8ARM | 0.0 | 8.4 | 0.9 | 13.8ARM | -0.9 |
 | 2018 | Slider | ![](https://www.mlbstatic.com/team-logos/138.svg)STL | R | 280 | 86.2 | 38.9 | 4.3 | 11.6GLV | 7.4 | -1.4 | 3.2 | 11.6GLV | 6.5 |
 | 2018 | 4-Seam Fastball | ![](https://www.mlbstatic.com/team-logos/138.svg)STL | R | 19 | 101.0 | 13.6 | -1.9 | 5.7ARM | -2.2 | 13.3 | -2.4 | 5.7ARM | -1.5 |
@@ -861,10 +855,10 @@ On the right, Induced Movement (or IVB) is reported without gravity, and attempt
 
 | Team | RV/100 | Run Value | Pitches | % | PA | BA | SLG | wOBA | Whiff% | K% | PutAway % | xBA | xSLG | xwOBA | Hard Hit % |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2026 | Sinker | ![](https://www.mlbstatic.com/team-logos/145.svg) | -1.3 | -2 | 158 | 67.8 | 48 | .316 | .421 | .413 | 5.7 | 10.4 | 14.3 | .259 | .299 | .325 | 32.4 |
-| 2026 | Sweeper | ![](https://www.mlbstatic.com/team-logos/145.svg) | 0.6 | 0 | 61 | 26.2 | 11 | .222 | .222 | .227 | 32.0 | 9.1 | 5.9 | .237 | .292 | .255 | 33.3 |
-| 2026 | 4-Seam Fastball | ![](https://www.mlbstatic.com/team-logos/145.svg) | 1.2 | 0 | 7 | 3.0 | 1 | .000 | .000 | .000 | 33.3 | 0.0 | 0.0 | .092 | .102 | .089 | 0.0 |
-| 2026 | Split-Finger | ![](https://www.mlbstatic.com/team-logos/145.svg) | -6.8 | 0 | 7 | 3.0 | 4 | .500 | .500 | .450 | 33.3 | 50.0 | 50.0 | .211 | .242 | .198 | 50.0 |
+| 2026 | Sinker | ![](https://www.mlbstatic.com/team-logos/145.svg) | -0.9 | -1 | 164 | 67.2 | 50 | .300 | .400 | .404 | 5.6 | 12.0 | 16.7 | .253 | .291 | .319 | 31.4 |
+| 2026 | Sweeper | ![](https://www.mlbstatic.com/team-logos/145.svg) | 0.0 | 0 | 65 | 26.6 | 12 | .222 | .222 | .267 | 32.0 | 8.3 | 5.9 | .237 | .292 | .292 | 33.3 |
+| 2026 | 4-Seam Fastball | ![](https://www.mlbstatic.com/team-logos/145.svg) | 0.8 | 0 | 8 | 3.3 | 1 | .000 | .000 | .000 | 33.3 | 0.0 | 0.0 | .092 | .102 | .089 | 0.0 |
+| 2026 | Split-Finger | ![](https://www.mlbstatic.com/team-logos/145.svg) | -6.8 | 0 | 7 | 2.9 | 4 | .500 | .500 | .450 | 33.3 | 50.0 | 50.0 | .211 | .242 | .198 | 50.0 |
 | 2025 | Sinker | ![](https://www.mlbstatic.com/team-logos/111.svg) | -0.5 | -3 | 652 | 54.4 | 183 | .303 | .426 | .382 | 9.6 | 12.6 | 19.2 | .276 | .380 | .339 | 48.1 |
 | 2025 | Sweeper | ![](https://www.mlbstatic.com/team-logos/111.svg) | -1.8 | -5 | 272 | 22.7 | 58 | .286 | .592 | .435 | 43.9 | 22.4 | 16.7 | .225 | .427 | .342 | 30.6 |
 | 2025 | 4-Seam Fastball | ![](https://www.mlbstatic.com/team-logos/111.svg) | -1.5 | -2 | 111 | 9.3 | 33 | .267 | .267 | .269 | 20.4 | 30.3 | 16.7 | .362 | .452 | .373 | 52.4 |
@@ -911,8 +905,8 @@ On the right, Induced Movement (or IVB) is reported without gravity, and attempt
 
 | Year | Pitch Type | Pitches | MPH | Active Spin % | Total Movement (In.) | Spin-Based | Observed | Deviation |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2026 | Sinker | 158 | 98.3 | 95 | 19.4 | 1:45 | 2:30 | -45 |
-| 2026 | Sweeper | 61 | 87.1 | 26 | 7.8 | 7:30 | 9:15 | -105 |
+| 2026 | Sinker | 164 | 98.3 | 95 | 19.3 | 1:45 | 2:15 | -30 |
+| 2026 | Sweeper | 65 | 87.1 | 25 | 7.6 | 7:30 | 9:15 | -105 |
 | 2025 | 4-Seam Fastball | 110 | 97.3 | 92 | 16.8 | 1:30 | 1:15 | 15 |
 | 2025 | Split-Finger | 60 | 89.4 | 94 | 12.2 | 2:30 | 2:45 | -15 |
 | 2025 | Sinker | 637 | 97.5 | 87 | 18.3 | 1:30 | 2:15 | -45 |
@@ -977,8 +971,8 @@ These run values are **context-neutral**, meaning they do not take into account 
 | 2023 | ![](https://www.mlbstatic.com/team-logos/141.svg) | 283 | 1,113 | 9 | 7 | -5 | -5 | 6 |
 | 2024 | ![](https://www.mlbstatic.com/team-logos/137.svg) | 480 | 1,958 | -2 | 16 | -10 | -13 | -10 |
 | 2025 | ![](https://www.mlbstatic.com/team-logos/111.svg) | 313 | 1,199 | 4 | -1 | -10 | -5 | -13 |
-| 2026 | ![](https://www.mlbstatic.com/team-logos/145.svg) | 64 | 233 | -2 | 4 | -3 | -1 | -2 |
-| Player |  | 1,889 | 7,476 | 48 | 51 | -50 | 48 | 3 |
+| 2026 | ![](https://www.mlbstatic.com/team-logos/145.svg) | 67 | 244 | -2 | 4 | -3 | -1 | -2 |
+| Player |  | 1,892 | 7,487 | 48 | 51 | -50 | 48 | 3 |
 
 [+\\
 View Complete Pitching Run Value Leaderboard](https://baseballsavant.mlb.com/leaderboard/swing-take?type=All&year=2026&group=Pitcher)
@@ -1001,23 +995,23 @@ These run values are **leveraged**, meaning the base/out situation at the time o
 | 2023 | ![](https://www.mlbstatic.com/team-logos/141.svg) | 283 | 1,113 | 11 | 9 | -5 | -5 | 10 | 4 |
 | 2024 | ![](https://www.mlbstatic.com/team-logos/137.svg) | 480 | 1,958 | 0 | 17 | -8 | -12 | -3 | 7 |
 | 2025 | ![](https://www.mlbstatic.com/team-logos/111.svg) | 313 | 1,199 | -3 | -1 | -12 | -7 | -22 | -9 |
-| 2026 | ![](https://www.mlbstatic.com/team-logos/145.svg) | 64 | 233 | -1 | 6 | -4 | -1 | 0 | 2 |
-| Player |  | 1,889 | 7,476 | 43 | 59 | -47 | 43 | 10 | 7 |
+| 2026 | ![](https://www.mlbstatic.com/team-logos/145.svg) | 67 | 244 | -1 | 7 | -4 | -1 | 0 | 2 |
+| Player |  | 1,892 | 7,487 | 43 | 60 | -47 | 43 | 10 | 7 |
 
 – Hide Leverage-Based Run Value
 
 ## [Plate Discipline](https://baseballsavant.mlb.com/savant-player/jordan-hicks-663855?stats=statcast-r-pitching-mlb\#plate_discipline)
 
-| 2018 | 1,274 | 49.5 | 60.5 | 85.6 | 23.3 | 49.3 | 42.6 | 58.8 | 41.8 | 24.6 | 6.9 | 64.8 |
+| 2018 | 1,274 | 49.5 | 60.5 | 85.8 | 23.4 | 49.0 | 42.6 | 58.8 | 41.8 | 24.6 | 6.9 | 64.8 |
 | 2019 | 454 | 46.9 | 55.1 | 86.8 | 29.1 | 39.7 | 38.3 | 60.9 | 41.6 | 30.2 | 7.0 | 74.2 |
 | 2021 | 207 | 44.4 | 58.7 | 83.3 | 20.9 | 58.3 | 45.9 | 43.2 | 37.7 | 24.4 | 4.3 | 66.7 |
 | 2022 | 1,051 | 48.5 | 61.6 | 83.8 | 23.5 | 56.7 | 41.6 | 58.2 | 42.0 | 24.0 | 7.4 | 70.5 |
-| 2023 | 1,114 | 49.0 | 55.2 | 81.7 | 28.0 | 52.8 | 42.0 | 58.1 | 41.4 | 28.2 | 7.2 | 62.5 |
+| 2023 | 1,114 | 48.8 | 55.4 | 81.7 | 27.9 | 52.8 | 42.0 | 58.1 | 41.4 | 28.2 | 7.2 | 62.5 |
 | 2024 | 1,958 | 47.7 | 65.4 | 85.4 | 25.1 | 51.8 | 42.0 | 60.7 | 44.3 | 24.6 | 7.3 | 80.3 |
-| 2025 | 1,199 | 51.0 | 62.3 | 86.1 | 24.2 | 52.1 | 42.9 | 59.9 | 43.6 | 23.1 | 7.7 | 72.8 |
-| 2026 | 233 | 50.2 | 64.1 | 88.0 | 22.4 | 80.8 | 39.9 | 63.1 | 43.3 | 13.9 | 7.3 | 64.7 |
-| **Player** | 7,490 | 48.8 | 61.2 | 84.9 | 24.9 | 52.4 | 42.0 | 59.2 | 42.6 | 24.8 | 7.2 | 71.3 |
-| **MLB** |  | 48.8 | 67.0 | 82.6 | 28.5 | 58.0 | 42.7 | 61.1 | 47.3 | 25.0 | 7.4 | 76.2 |
+| 2025 | 1,199 | 50.8 | 62.2 | 86.0 | 24.4 | 52.8 | 42.9 | 59.9 | 43.6 | 23.1 | 7.7 | 72.8 |
+| 2026 | 244 | 50.0 | 63.1 | 88.3 | 21.3 | 80.8 | 40.2 | 61.8 | 42.2 | 13.6 | 7.0 | 64.7 |
+| **Player** | 7,501 | 48.7 | 61.2 | 85.0 | 24.9 | 52.4 | 42.0 | 59.1 | 42.6 | 24.8 | 7.2 | 71.3 |
+| **MLB** |  | 48.7 | 67.0 | 82.6 | 28.5 | 58.0 | 42.7 | 61.1 | 47.3 | 25.0 | 7.3 | 76.2 |
 
 ! Note: All figures in this table cover the period 2015-present.
 
@@ -1031,11 +1025,11 @@ These run values are **leveraged**, meaning the base/out situation at the time o
 | 2018 | 79 | 81 | 74 |  | 67 | 100 | 19 |  | 59 | 6 | 48 | 40 | 4 | 100 | 76 | 98 | 77 |
 | 2019 |  |  |  |  |  | 100 | 9 |  |  |  |  |  |  |  |  |  | 61 |
 | 2021 |  |  |  |  |  | 100 | 9 |  |  |  |  |  |  |  |  |  | 68 |
-| 2022 | 54 | 50 | 64 | 42 | 53 | 99 | 11 |  | 83 | 2 | 34 | 60 | 1 | 56 | 90 | 97 | 73 |
-| 2023 | 63 | 76 | 40 | 62 | 84 | 100 | 27 |  | 89 | 40 | 65 | 83 | 15 | 85 | 72 | 96 | 61 |
+| 2022 | 54 | 50 | 64 | 42 | 53 | 99 | 11 |  | 83 | 2 | 34 | 60 | 1 | 57 | 90 | 97 | 73 |
+| 2023 | 63 | 76 | 40 | 62 | 84 | 100 | 27 |  | 89 | 38 | 65 | 83 | 15 | 85 | 72 | 96 | 61 |
 | 2024 | 14 | 11 | 40 | 53 | 16 | 59 | 3 |  | 27 | 13 | 42 | 26 | 24 | 18 | 20 | 85 | 60 |
-| 2025 | 11 | 19 | 8 | 41 | 22 | 92 | 2 |  | 33 | 7 | 30 | 20 | 18 | 93 | 11 | 95 | 57 |
-| 2026 | 27 | 25 | 55 | 33 | 65 | 96 | 1 |  | 16 | 6 | 2 | 5 | 2 | 96 | 81 | 88 | 28 |
+| 2025 | 11 | 19 | 8 | 41 | 22 | 92 | 2 |  | 33 | 8 | 30 | 20 | 18 | 93 | 11 | 95 | 57 |
+| 2026 | 29 | 32 | 44 | 35 | 63 | 96 | 1 |  | 16 | 3 | 2 | 5 | 1 | 97 | 81 | 91 | 28 |
 
 [+\\
 View Complete Percentile Rankings Leaderboard](https://baseballsavant.mlb.com/leaderboard/percentile-rankings?type=pitcher)
@@ -1052,8 +1046,8 @@ Adjusted
 | 2023 | ![](https://www.mlbstatic.com/team-logos/141.svg) | 23.71 | 4 | 4.0 | 0 | 1 | 2 | 2 | 50.0 |
 | 2024 | ![](https://www.mlbstatic.com/team-logos/137.svg) | 22.88 | 12 | 12.3 | 0 | 7 | 13 | 2 | 16.7 |
 | 2025 | ![](https://www.mlbstatic.com/team-logos/111.svg) | 24.49 | 6 | 6.1 | 0 | 1 | 5 | 3 | 50.0 |
-| 2026 | ![](https://www.mlbstatic.com/team-logos/145.svg) | -- | 0 | 0.3 | 0 | 0 | 1 | 0 | -- |
-| **Player** |  | 23.45 | 31 | 29.6 | 1 | 14 | 26 | 10 | 32.3 |
+| 2026 | ![](https://www.mlbstatic.com/team-logos/145.svg) | -- | 0 | 0.1 | 0 | 1 | 0 | 0 | -- |
+| **Player** |  | 23.45 | 31 | 29.5 | 2 | 15 | 25 | 10 | 32.3 |
 
 Note: xHR tells how many of this pitcher's batted balls allowed would have been out of other stadiums. The "Adjusted" view here accounts for different wall heights, distances and environmental effects using Statcast Park Factor data.
 
@@ -1089,8 +1083,8 @@ Adjusted
 | 2023 | 4 | 3 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 5 | 4 | 5 | 4 | 3 | 4 | 4 | 4 | 4 | 3 |
 | 2024 | 12 | 7 | 11 | 13 | 12 | 13 | 16 | 11 | 10 | 8 | 13 | 19 | 11 | 9 | 15 | 9 | 10 | 11 | 12 | 19 | 12 | 10 | 19 | 13 | 11 | 11 | 13 | 15 | 12 | 13 | 11 |
 | 2025 | 6 | 6 | 6 | 7 | 7 | 8 | 6 | 5 | 8 | 4 | 6 | 8 | 5 | 8 | 8 | 4 | 7 | 5 | 4 | 8 | 4 | 5 | 8 | 5 | 5 | 4 | 6 | 7 | 6 | 6 | 6 |
-| 2026 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 1 | 0 | 0 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 |
-| **Player** | 31 | 25 | 28 | 31 | 31 | 33 | 35 | 26 | 30 | 19 | 29 | 41 | 28 | 26 | 36 | 25 | 28 | 28 | 25 | 40 | 26 | 27 | 41 | 30 | 26 | 25 | 31 | 36 | 28 | 30 | 24 |
+| 2026 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 |
+| **Player** | 31 | 25 | 28 | 31 | 31 | 33 | 34 | 26 | 29 | 19 | 29 | 41 | 28 | 26 | 35 | 25 | 28 | 28 | 25 | 40 | 26 | 27 | 40 | 30 | 26 | 25 | 31 | 36 | 28 | 30 | 24 |
 
 Note: xHR tells how many of this pitcher's batted balls allowed would have been out of other stadiums. The "Adjusted" view here accounts for different wall heights, distances and environmental effects using Statcast Park Factor data.
 
@@ -1123,32 +1117,32 @@ View Complete Expected Home Runs Leaderboard](https://baseballsavant.mlb.com/lea
 |  | 2026 | +/- |  | 2025 | +/- |  | 2024 | +/- |  | 2023 | +/- |  | 2022 | +/- |  | 2021 | +/- |  | 2020 | +/- |  | 2019 | +/- |  | 2018 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Results |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| [BA](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | .308 | +.011 | ↑ | .297 | +.032 | ↑ | .265 | +.034 | ↑ | .231 | +.021 | ↑ | .210 | +.063 | ↑ | .147 | -- |  | -- | -- |  | -- | -.045 | ↓ | .208 |
-| [xBA](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | .248 | -.018 | ↓ | .266 | +.015 | ↑ | .251 | +.044 | ↑ | .207 | -.003 | ↓ | .210 | +.045 | ↑ | .165 | -- |  | -- | -- |  | -- | -.053 | ↓ | .215 |
-| [OBP](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | .424 | +.037 | ↑ | .387 | +.038 | ↑ | .349 | +.023 | ↑ | .326 | -.009 | ↓ | .335 | -.006 | ↓ | .341 | -- |  | -- | -- |  | -- | -.075 | ↓ | .330 |
-| [xOBP](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | .380 | +.020 | ↑ | .360 | +.022 | ↑ | .338 | +.030 | ↑ | .308 | -.027 | ↓ | .335 | -.020 | ↓ | .355 | -- |  | -- | -- |  | -- | -.084 | ↓ | .340 |
-| [SLG](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | .385 | -.057 | ↓ | .442 | +.028 | ↑ | .414 | +.082 | ↑ | .332 | +.008 | ↑ | .324 | +.089 | ↑ | .235 | -- |  | -- | -- |  | -- | -.002 | ↓ | .257 |
-| [xSLG](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | .289 | -.092 | ↓ | .381 | -.044 | ↓ | .425 | +.114 | ↑ | .311 | -.021 | ↓ | .332 | +.136 | ↑ | .196 | -- |  | -- | -- |  | -- | -.030 | ↓ | .285 |
-| [ISO](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | .077 | -.068 | ↓ | .145 | -.004 | ↓ | .149 | +.048 | ↑ | .101 | -.013 | ↓ | .114 | +.026 | ↑ | .088 | -- |  | -- | -- |  | -- | +.043 | ↑ | .049 |
-| [xISO](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | .041 | -.075 | ↓ | .116 | -.058 | ↓ | .174 | +.070 | ↑ | .104 | -.019 | ↓ | .123 | +.092 | ↑ | .031 | -- |  | -- | -- |  | -- | +.024 | ↑ | .069 |
-| [BABIP](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | .348 | -.011 | ↓ | .359 | +.044 | ↑ | .315 | -.008 | ↓ | .323 | +.055 | ↑ | .268 | +.060 | ↑ | .208 | -- |  | -- | -- |  | -- | -.051 | ↓ | .266 |
-| [wOBA](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | .360 | -.004 | ↓ | .364 | +.028 | ↑ | .336 | +.040 | ↑ | .296 | -.006 | ↓ | .302 | +.021 | ↑ | .281 | -- |  | -- | -- |  | -- | -.044 | ↓ | .275 |
-| [xwOBA](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | .303 | -.027 | ↓ | .330 | -.008 | ↓ | .338 | +.055 | ↑ | .283 | -.022 | ↓ | .305 | +.026 | ↑ | .279 | -- |  | -- | -- |  | -- | -.058 | ↓ | .293 |
-| [wOBAcon](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | .347 | -.055 | ↓ | .402 | +.029 | ↑ | .373 | +.019 | ↑ | .354 | +.035 | ↑ | .319 | +.092 | ↑ | .227 | -- |  | -- | -- |  | -- | -.009 | ↓ | .264 |
+| [BA](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | .296 | -.001 | ↓ | .297 | +.032 | ↑ | .265 | +.034 | ↑ | .231 | +.021 | ↑ | .210 | +.063 | ↑ | .147 | -- |  | -- | -- |  | -- | -.045 | ↓ | .208 |
+| [xBA](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | .244 | -.022 | ↓ | .266 | +.015 | ↑ | .251 | +.044 | ↑ | .207 | -.003 | ↓ | .210 | +.045 | ↑ | .165 | -- |  | -- | -- |  | -- | -.053 | ↓ | .215 |
+| [OBP](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | .420 | +.033 | ↑ | .387 | +.038 | ↑ | .349 | +.023 | ↑ | .326 | -.009 | ↓ | .335 | -.006 | ↓ | .341 | -- |  | -- | -- |  | -- | -.075 | ↓ | .330 |
+| [xOBP](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | .383 | +.023 | ↑ | .360 | +.022 | ↑ | .338 | +.030 | ↑ | .308 | -.027 | ↓ | .335 | -.020 | ↓ | .355 | -- |  | -- | -- |  | -- | -.084 | ↓ | .340 |
+| [SLG](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | .370 | -.072 | ↓ | .442 | +.028 | ↑ | .414 | +.082 | ↑ | .332 | +.008 | ↑ | .324 | +.089 | ↑ | .235 | -- |  | -- | -- |  | -- | -.002 | ↓ | .257 |
+| [xSLG](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | .283 | -.098 | ↓ | .381 | -.044 | ↓ | .425 | +.114 | ↑ | .311 | -.021 | ↓ | .332 | +.136 | ↑ | .196 | -- |  | -- | -- |  | -- | -.030 | ↓ | .285 |
+| [ISO](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | .074 | -.071 | ↓ | .145 | -.004 | ↓ | .149 | +.048 | ↑ | .101 | -.013 | ↓ | .114 | +.026 | ↑ | .088 | -- |  | -- | -- |  | -- | +.043 | ↑ | .049 |
+| [xISO](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | .040 | -.076 | ↓ | .116 | -.058 | ↓ | .174 | +.070 | ↑ | .104 | -.019 | ↓ | .123 | +.092 | ↑ | .031 | -- |  | -- | -- |  | -- | +.024 | ↑ | .069 |
+| [BABIP](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | .340 | -.019 | ↓ | .359 | +.044 | ↑ | .315 | -.008 | ↓ | .323 | +.055 | ↑ | .268 | +.060 | ↑ | .208 | -- |  | -- | -- |  | -- | -.051 | ↓ | .266 |
+| [wOBA](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | .354 | -.010 | ↓ | .364 | +.028 | ↑ | .336 | +.040 | ↑ | .296 | -.006 | ↓ | .302 | +.021 | ↑ | .281 | -- |  | -- | -- |  | -- | -.044 | ↓ | .275 |
+| [xwOBA](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | .304 | -.026 | ↓ | .330 | -.008 | ↓ | .338 | +.055 | ↑ | .283 | -.022 | ↓ | .305 | +.026 | ↑ | .279 | -- |  | -- | -- |  | -- | -.058 | ↓ | .293 |
+| [wOBAcon](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | .339 | -.063 | ↓ | .402 | +.029 | ↑ | .373 | +.019 | ↑ | .354 | +.035 | ↑ | .319 | +.092 | ↑ | .227 | -- |  | -- | -- |  | -- | -.009 | ↓ | .264 |
 | [xwOBAcon](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | .266 | -.087 | ↓ | .353 | -.023 | ↓ | .376 | +.043 | ↑ | .333 | +.009 | ↑ | .324 | +.101 | ↑ | .223 | -- |  | -- | -- |  | -- | -.030 | ↓ | .293 |
-| [BACON](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | .348 | -.029 | ↓ | .377 | +.037 | ↑ | .340 | +.001 | ↑ | .339 | +.048 | ↑ | .291 | +.083 | ↑ | .208 | -- |  | -- | -- |  | -- | -.034 | ↓ | .273 |
+| [BACON](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | .340 | -.037 | ↓ | .377 | +.037 | ↑ | .340 | +.001 | ↑ | .339 | +.048 | ↑ | .291 | +.083 | ↑ | .208 | -- |  | -- | -- |  | -- | -.034 | ↓ | .273 |
 | [xBACON](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | .282 | -.056 | ↓ | .338 | +.014 | ↑ | .324 | +.016 | ↑ | .308 | +.016 | ↑ | .292 | +.058 | ↑ | .234 | -- |  | -- | -- |  | -- | -.046 | ↓ | .287 |
 | Statcast Hit Metrics |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| [Hard Hit %](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 32.6 | -13.0 | ↓ | 45.6 | +3.4 | ↑ | 42.2 | +6.3 | ↑ | 35.9 | +3.6 | ↑ | 32.3 | +19.8 | ↑ | 12.5 | -- |  | -- | -- |  | -- | -3.3 | ↓ | 31.9 |
+| [Hard Hit %](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 31.9 | -13.7 | ↓ | 45.6 | +3.4 | ↑ | 42.2 | +6.3 | ↑ | 35.9 | +3.6 | ↑ | 32.3 | +19.8 | ↑ | 12.5 | -- |  | -- | -- |  | -- | -3.3 | ↓ | 31.9 |
 | [Avg Exit Velocity](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 91.0 | +1.0 | ↑ | 90.0 | +0.4 | ↑ | 89.6 | +2.9 | ↑ | 86.7 | -0.2 | ↓ | 86.9 | +6.1 | ↑ | 80.8 | -- |  | -- | -- |  | -- | -1.1 | ↓ | 88.0 |
-| [Launch Angle Sweet-Spot %](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 21.7 | -9.9 | ↓ | 31.6 | -3.1 | ↓ | 34.7 | +7.3 | ↑ | 27.4 | -1.1 | ↓ | 28.5 | +7.7 | ↑ | 20.8 | -- |  | -- | -- |  | -- | -3.0 | ↓ | 26.9 |
-| [Barrel %](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 0.0 | -4.7 | ↓ | 4.7 | -4.7 | ↓ | 9.4 | +4.0 | ↑ | 5.4 | -1.6 | ↓ | 7.0 | +7.0 | ↑ | 0.0 | -- |  | -- | -- |  | -- | +3.6 | ↑ | 0.9 |
+| [Launch Angle Sweet-Spot %](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 21.3 | -10.3 | ↓ | 31.6 | -3.1 | ↓ | 34.7 | +7.3 | ↑ | 27.4 | -1.1 | ↓ | 28.5 | +7.7 | ↑ | 20.8 | -- |  | -- | -- |  | -- | -3.0 | ↓ | 26.9 |
+| [Barrel %](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 0.0 | -4.7 | ↓ | 4.7 | -4.8 | ↓ | 9.5 | +4.1 | ↑ | 5.4 | -1.6 | ↓ | 7.0 | +7.0 | ↑ | 0.0 | -- |  | -- | -- |  | -- | +4.3 | ↑ | 1.1 |
 | [Avg Launch Angle](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 11.0 | +5.2 | ↑ | 5.8 | -3.1 | ↓ | 8.9 | +9.0 | ↑ | -0.1 | -1.5 | ↓ | 1.4 | +5.6 | ↑ | -4.2 | -- |  | -- | -- |  | -- | -3.4 | ↓ | 1.1 |
 | Statcast Bat Tracking |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | [Bat Speed](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 70.6 | -0.6 | ↓ | 71.2 | -0.3 | ↓ | 71.5 | +0.4 | ↑ | 71.1 | -- |  | -- | -- |  | -- | -- |  | -- | -- |  | -- | -- |  | -- |
-| [Attack Angle](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 6° | -4° | ↓ | 10° | -2° | ↓ | 12° | +7° | ↑ | 5° | -- |  | -- | -- |  | -- | -- |  | -- | -- |  | -- | -- |  | -- |
-| [Ideal Attack Angle %](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 39.3 | -6.9 | ↓ | 46.2 | -1.5 | ↓ | 47.7 | +12.3 | ↑ | 35.4 | -- |  | -- | -- |  | -- | -- |  | -- | -- |  | -- | -- |  | -- |
-| [Attack Direction](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 2° | +4° | ↑ | -2° | +3° | ↑ | -5° | -10° | ↓ | 5° | -- |  | -- | -- |  | -- | -- |  | -- | -- |  | -- | -- |  | -- |
+| [Attack Angle](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 5° | -4° | ↓ | 10° | -2° | ↓ | 12° | +7° | ↑ | 5° | -- |  | -- | -- |  | -- | -- |  | -- | -- |  | -- | -- |  | -- |
+| [Ideal Attack Angle %](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 38.4 | -7.8 | ↓ | 46.2 | -1.5 | ↓ | 47.7 | +12.3 | ↑ | 35.4 | -- |  | -- | -- |  | -- | -- |  | -- | -- |  | -- | -- |  | -- |
+| [Attack Direction](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 3° | +4° | ↑ | -2° | +3° | ↑ | -5° | -10° | ↓ | 5° | -- |  | -- | -- |  | -- | -- |  | -- | -- |  | -- | -- |  | -- |
 | [Swing Path - Tilt](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 32° | -1° | ↓ | 33° | -1° | ↓ | 34° | +1° | ↑ | 34° | -- |  | -- | -- |  | -- | -- |  | -- | -- |  | -- | -- |  | -- |
 | [Swing Length](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 7.0 | -0.3 | ↓ | 7.3 | -0.2 | ↓ | 7.5 | +0.4 | ↑ | 7.1 | -- |  | -- | -- |  | -- | -- |  | -- | -- |  | -- | -- |  | -- |
 | Statcast Pitch Metrics |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
@@ -1157,65 +1151,65 @@ View Complete Expected Home Runs Leaderboard](https://baseballsavant.mlb.com/lea
 | [Offspeed Velocity](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 87.6 | -1.6 | ↓ | 89.2 | +4.9 | ↑ | 84.3 | -7.1 | ↓ | 91.4 | -0.6 | ↓ | 92.0 | +1.8 | ↑ | 90.2 | -- |  | -- | -- |  | -- | -- |  | -- |
 | Batted Ball Results |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | [Barrels](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 0 | -10 | ↓ | 10 | -21 | ↓ | 31 | +22 | ↑ | 9 | -2 | ↓ | 11 | +11 | ↑ | 0 | -- |  | -- | -- |  | -- | +1 | ↑ | 2 |
-| [Popup %](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 2.2 | -1.5 | ↓ | 3.7 | -0.9 | ↓ | 4.6 | +1.0 | ↑ | 3.6 | -0.2 | ↓ | 3.8 | +3.8 | ↑ | 0.0 | -- |  | -- | -- |  | -- | -1.3 | ↓ | 2.8 |
-| [Flyball %](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 26.1 | +8.9 | ↑ | 17.2 | -4.4 | ↓ | 21.6 | +5.5 | ↑ | 16.1 | -3.5 | ↓ | 19.6 | +7.1 | ↑ | 12.5 | -- |  | -- | -- |  | -- | +2.9 | ↑ | 12.0 |
-| [Line Drive %](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 17.4 | -4.9 | ↓ | 22.3 | -0.8 | ↓ | 23.1 | +1.7 | ↑ | 21.4 | +3.0 | ↑ | 18.4 | +1.7 | ↑ | 16.7 | -- |  | -- | -- |  | -- | -7.2 | ↓ | 23.6 |
-| [Groundball %](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 54.3 | -2.4 | ↓ | 56.7 | +5.9 | ↑ | 50.8 | -8.1 | ↓ | 58.9 | +0.7 | ↑ | 58.2 | -12.6 | ↓ | 70.8 | -- |  | -- | -- |  | -- | +5.6 | ↑ | 61.6 |
-| [Pull %](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 37.0 | -0.7 | ↓ | 37.7 | -2.7 | ↓ | 40.4 | +6.5 | ↑ | 33.9 | -4.1 | ↓ | 38.0 | -7.8 | ↓ | 45.8 | -- |  | -- | -- |  | -- | +11.6 | ↑ | 28.7 |
-| [Straight Away %](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 37.0 | +0.3 | ↑ | 36.7 | -3.4 | ↓ | 40.1 | -2.2 | ↓ | 42.3 | +0.5 | ↑ | 41.8 | +12.6 | ↑ | 29.2 | -- |  | -- | -- |  | -- | -5.3 | ↓ | 42.6 |
-| [Opposite Field %](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 26.1 | +0.5 | ↑ | 25.6 | +6.1 | ↑ | 19.5 | -4.3 | ↓ | 23.8 | +3.5 | ↑ | 20.3 | -4.7 | ↓ | 25.0 | -- |  | -- | -- |  | -- | -5.8 | ↓ | 28.2 |
+| [Popup %](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 2.1 | -1.6 | ↓ | 3.7 | -0.9 | ↓ | 4.6 | +1.0 | ↑ | 3.6 | -0.2 | ↓ | 3.8 | +3.8 | ↑ | 0.0 | -- |  | -- | -- |  | -- | -1.3 | ↓ | 2.8 |
+| [Flyball %](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 25.5 | +8.3 | ↑ | 17.2 | -4.4 | ↓ | 21.6 | +5.5 | ↑ | 16.1 | -3.5 | ↓ | 19.6 | +7.1 | ↑ | 12.5 | -- |  | -- | -- |  | -- | +2.9 | ↑ | 12.0 |
+| [Line Drive %](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 17.0 | -5.3 | ↓ | 22.3 | -0.8 | ↓ | 23.1 | +1.7 | ↑ | 21.4 | +3.0 | ↑ | 18.4 | +1.7 | ↑ | 16.7 | -- |  | -- | -- |  | -- | -7.2 | ↓ | 23.6 |
+| [Groundball %](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 55.3 | -1.4 | ↓ | 56.7 | +5.9 | ↑ | 50.8 | -8.1 | ↓ | 58.9 | +0.7 | ↑ | 58.2 | -12.6 | ↓ | 70.8 | -- |  | -- | -- |  | -- | +5.6 | ↑ | 61.6 |
+| [Pull %](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 36.2 | -1.5 | ↓ | 37.7 | -2.7 | ↓ | 40.4 | +6.5 | ↑ | 33.9 | -4.1 | ↓ | 38.0 | -7.8 | ↓ | 45.8 | -- |  | -- | -- |  | -- | +11.6 | ↑ | 28.7 |
+| [Straight Away %](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 36.2 | -0.5 | ↓ | 36.7 | -3.4 | ↓ | 40.1 | -2.2 | ↓ | 42.3 | +0.5 | ↑ | 41.8 | +12.6 | ↑ | 29.2 | -- |  | -- | -- |  | -- | -5.3 | ↓ | 42.6 |
+| [Opposite Field %](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 27.7 | +2.1 | ↑ | 25.6 | +6.1 | ↑ | 19.5 | -4.3 | ↓ | 23.8 | +3.5 | ↑ | 20.3 | -4.7 | ↓ | 25.0 | -- |  | -- | -- |  | -- | -5.8 | ↓ | 28.2 |
 | [Weak Contact %](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 4.3 | -1.7 | ↓ | 6.0 | +2.4 | ↑ | 3.6 | -1.8 | ↓ | 5.4 | +1.6 | ↑ | 3.8 | -4.5 | ↓ | 8.3 | -- |  | -- | -- |  | -- | +1.6 | ↑ | 1.4 |
-| [Pull Airball %](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 6.5 | -6.5 | ↓ | 13.0 | -2.5 | ↓ | 15.5 | +3.0 | ↑ | 12.5 | -0.8 | ↓ | 13.3 | +9.1 | ↑ | 4.2 | -- |  | -- | -- |  | -- | +4.4 | ↑ | 6.0 |
-| [Topped Contact %](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 32.6 | -5.5 | ↓ | 38.1 | -0.5 | ↓ | 38.6 | -12.0 | ↓ | 50.6 | +3.8 | ↑ | 46.8 | -7.4 | ↓ | 54.2 | -- |  | -- | -- |  | -- | +3.6 | ↑ | 54.6 |
-| [Under Contact %](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 28.3 | +12.0 | ↑ | 16.3 | -1.6 | ↓ | 17.9 | +3.6 | ↑ | 14.3 | -1.5 | ↓ | 15.8 | -5.0 | ↓ | 20.8 | -- |  | -- | -- |  | -- | -4.3 | ↓ | 16.2 |
-| [Flare/Burner Contact %](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 32.6 | +1.4 | ↑ | 31.2 | +9.6 | ↑ | 21.6 | +3.1 | ↑ | 18.5 | -5.6 | ↓ | 24.1 | +7.4 | ↑ | 16.7 | -- |  | -- | -- |  | -- | -6.5 | ↓ | 19.9 |
+| [Pull Airball %](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 6.4 | -6.6 | ↓ | 13.0 | -2.5 | ↓ | 15.5 | +3.0 | ↑ | 12.5 | -0.8 | ↓ | 13.3 | +9.1 | ↑ | 4.2 | -- |  | -- | -- |  | -- | +4.4 | ↑ | 6.0 |
+| [Topped Contact %](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 31.9 | -6.2 | ↓ | 38.1 | -0.5 | ↓ | 38.6 | -12.0 | ↓ | 50.6 | +3.8 | ↑ | 46.8 | -7.4 | ↓ | 54.2 | -- |  | -- | -- |  | -- | +3.6 | ↑ | 54.6 |
+| [Under Contact %](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 27.7 | +11.4 | ↑ | 16.3 | -1.6 | ↓ | 17.9 | +3.6 | ↑ | 14.3 | -1.5 | ↓ | 15.8 | -5.0 | ↓ | 20.8 | -- |  | -- | -- |  | -- | -4.3 | ↓ | 16.2 |
+| [Flare/Burner Contact %](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 31.9 | +0.7 | ↑ | 31.2 | +9.6 | ↑ | 21.6 | +3.1 | ↑ | 18.5 | -5.6 | ↓ | 24.1 | +7.4 | ↑ | 16.7 | -- |  | -- | -- |  | -- | -6.5 | ↓ | 19.9 |
 | [Solid Contact %](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 0.0 | -3.7 | ↓ | 3.7 | -4.5 | ↓ | 8.2 | +3.4 | ↑ | 4.8 | +3.5 | ↑ | 1.3 | +1.3 | ↑ | 0.0 | -- |  | -- | -- |  | -- | -2.6 | ↓ | 5.6 |
 | [HR/FB %](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 0.0 | -16.2 | ↓ | 16.2 | -0.7 | ↓ | 16.9 | +2.1 | ↑ | 14.8 | -1.3 | ↓ | 16.1 | +16.1 | ↑ | 0.0 | -- |  | -- | -- |  | -- | +12.3 | ↑ | 7.7 |
 | [Popups](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 1 | -7 | ↓ | 8 | -7 | ↓ | 15 | +9 | ↑ | 6 | 0 |  | 6 | +6 | ↑ | 0 | -- |  | -- | -- |  | -- | -5 | ↓ | 6 |
 | [Flyballs](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 12 | -25 | ↓ | 37 | -34 | ↓ | 71 | +44 | ↑ | 27 | -4 | ↓ | 31 | +28 | ↑ | 3 | -- |  | -- | -- |  | -- | -16 | ↓ | 26 |
 | [Line Drives](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 8 | -40 | ↓ | 48 | -28 | ↓ | 76 | +40 | ↑ | 36 | +7 | ↑ | 29 | +25 | ↑ | 4 | -- |  | -- | -- |  | -- | -40 | ↓ | 51 |
-| [Groundballs](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 25 | -97 | ↓ | 122 | -45 | ↓ | 167 | +68 | ↑ | 99 | +7 | ↑ | 92 | +75 | ↑ | 17 | -- |  | -- | -- |  | -- | -88 | ↓ | 133 |
+| [Groundballs](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 26 | -96 | ↓ | 122 | -45 | ↓ | 167 | +68 | ↑ | 99 | +7 | ↑ | 92 | +75 | ↑ | 17 | -- |  | -- | -- |  | -- | -88 | ↓ | 133 |
 | Plate Discipline |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| [In Zone %](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 50.2 | -0.8 | ↓ | 51.0 | +3.3 | ↑ | 47.7 | -1.3 | ↓ | 49.0 | +0.5 | ↑ | 48.5 | +4.1 | ↑ | 44.4 | -- |  | -- | -- |  | -- | -2.6 | ↓ | 49.5 |
-| [Out of Zone %](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 49.8 | +0.8 | ↑ | 49.0 | -3.3 | ↓ | 52.3 | +1.3 | ↑ | 51.0 | -0.5 | ↓ | 51.5 | -4.1 | ↓ | 55.6 | -- |  | -- | -- |  | -- | +2.6 | ↑ | 50.5 |
-| [Edge %](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 39.9 | -3.0 | ↓ | 42.9 | +0.9 | ↑ | 42.0 | 0.0 |  | 42.0 | +0.4 | ↑ | 41.6 | -4.3 | ↓ | 45.9 | -- |  | -- | -- |  | -- | -4.3 | ↓ | 42.6 |
-| [Zone Swing %](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 64.1 | +1.8 | ↑ | 62.3 | -3.1 | ↓ | 65.4 | +10.2 | ↑ | 55.2 | -6.4 | ↓ | 61.6 | +2.9 | ↑ | 58.7 | -- |  | -- | -- |  | -- | -5.4 | ↓ | 60.5 |
-| [Out of Zone Swing %](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 22.4 | -1.8 | ↓ | 24.2 | -0.9 | ↓ | 25.1 | -2.9 | ↓ | 28.0 | +4.5 | ↑ | 23.5 | +2.6 | ↑ | 20.9 | -- |  | -- | -- |  | -- | +5.8 | ↑ | 23.3 |
-| [In Zone Contact %](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 88.0 | +1.9 | ↑ | 86.1 | +0.7 | ↑ | 85.4 | +3.7 | ↑ | 81.7 | -2.1 | ↓ | 83.8 | +0.5 | ↑ | 83.3 | -- |  | -- | -- |  | -- | +1.2 | ↑ | 85.6 |
-| [Out of Zone Contact %](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 80.8 | +28.7 | ↑ | 52.1 | +0.3 | ↑ | 51.8 | -1.0 | ↓ | 52.8 | -3.9 | ↓ | 56.7 | -1.6 | ↓ | 58.3 | -- |  | -- | -- |  | -- | -9.6 | ↓ | 49.3 |
-| [Whiff %](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 13.9 | -9.2 | ↓ | 23.1 | -1.5 | ↓ | 24.6 | -3.6 | ↓ | 28.2 | +4.2 | ↑ | 24.0 | -0.4 | ↓ | 24.4 | -- |  | -- | -- |  | -- | +5.6 | ↑ | 24.6 |
-| [First Strike %](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 63.1 | +3.2 | ↑ | 59.9 | -0.8 | ↓ | 60.7 | +2.6 | ↑ | 58.1 | -0.1 | ↓ | 58.2 | +15.0 | ↑ | 43.2 | -- |  | -- | -- |  | -- | +2.1 | ↑ | 58.8 |
-| [First Pitch Swing %](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 33.8 | +2.9 | ↑ | 30.9 | +1.4 | ↑ | 29.5 | +5.9 | ↑ | 23.6 | -1.1 | ↓ | 24.7 | +2.0 | ↑ | 22.7 | -- |  | -- | -- |  | -- | +0.9 | ↑ | 24.6 |
-| [Swing %](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 43.3 | -0.3 | ↓ | 43.6 | -0.7 | ↓ | 44.3 | +2.9 | ↑ | 41.4 | -0.6 | ↓ | 42.0 | +4.3 | ↑ | 37.7 | -- |  | -- | -- |  | -- | -0.2 | ↓ | 41.8 |
+| [In Zone %](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 50.0 | -0.8 | ↓ | 50.8 | +3.1 | ↑ | 47.7 | -1.1 | ↓ | 48.8 | +0.3 | ↑ | 48.5 | +4.1 | ↑ | 44.4 | -- |  | -- | -- |  | -- | -2.6 | ↓ | 49.5 |
+| [Out of Zone %](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 50.0 | +0.8 | ↑ | 49.2 | -3.1 | ↓ | 52.3 | +1.1 | ↑ | 51.2 | -0.3 | ↓ | 51.5 | -4.1 | ↓ | 55.6 | -- |  | -- | -- |  | -- | +2.6 | ↑ | 50.5 |
+| [Edge %](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 40.2 | -2.7 | ↓ | 42.9 | +0.9 | ↑ | 42.0 | 0.0 |  | 42.0 | +0.4 | ↑ | 41.6 | -4.3 | ↓ | 45.9 | -- |  | -- | -- |  | -- | -4.3 | ↓ | 42.6 |
+| [Zone Swing %](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 63.1 | +0.9 | ↑ | 62.2 | -3.2 | ↓ | 65.4 | +10.0 | ↑ | 55.4 | -6.2 | ↓ | 61.6 | +2.9 | ↑ | 58.7 | -- |  | -- | -- |  | -- | -5.4 | ↓ | 60.5 |
+| [Out of Zone Swing %](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 21.3 | -3.1 | ↓ | 24.4 | -0.7 | ↓ | 25.1 | -2.8 | ↓ | 27.9 | +4.4 | ↑ | 23.5 | +2.6 | ↑ | 20.9 | -- |  | -- | -- |  | -- | +5.7 | ↑ | 23.4 |
+| [In Zone Contact %](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 88.3 | +2.3 | ↑ | 86.0 | +0.6 | ↑ | 85.4 | +3.7 | ↑ | 81.7 | -2.1 | ↓ | 83.8 | +0.5 | ↑ | 83.3 | -- |  | -- | -- |  | -- | +1.0 | ↑ | 85.8 |
+| [Out of Zone Contact %](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 80.8 | +28.0 | ↑ | 52.8 | +1.0 | ↑ | 51.8 | -1.0 | ↓ | 52.8 | -3.9 | ↓ | 56.7 | -1.6 | ↓ | 58.3 | -- |  | -- | -- |  | -- | -9.3 | ↓ | 49.0 |
+| [Whiff %](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 13.6 | -9.5 | ↓ | 23.1 | -1.5 | ↓ | 24.6 | -3.6 | ↓ | 28.2 | +4.2 | ↑ | 24.0 | -0.4 | ↓ | 24.4 | -- |  | -- | -- |  | -- | +5.6 | ↑ | 24.6 |
+| [First Strike %](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 61.8 | +1.9 | ↑ | 59.9 | -0.8 | ↓ | 60.7 | +2.6 | ↑ | 58.1 | -0.1 | ↓ | 58.2 | +15.0 | ↑ | 43.2 | -- |  | -- | -- |  | -- | +2.1 | ↑ | 58.8 |
+| [First Pitch Swing %](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 32.4 | +1.5 | ↑ | 30.9 | +1.4 | ↑ | 29.5 | +5.9 | ↑ | 23.6 | -1.1 | ↓ | 24.7 | +2.0 | ↑ | 22.7 | -- |  | -- | -- |  | -- | +0.9 | ↑ | 24.6 |
+| [Swing %](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 42.2 | -1.4 | ↓ | 43.6 | -0.7 | ↓ | 44.3 | +2.9 | ↑ | 41.4 | -0.6 | ↓ | 42.0 | +4.3 | ↑ | 37.7 | -- |  | -- | -- |  | -- | -0.2 | ↓ | 41.8 |
 | [Meatball Swing %](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 64.7 | -8.1 | ↓ | 72.8 | -7.5 | ↓ | 80.3 | +17.8 | ↑ | 62.5 | -8.0 | ↓ | 70.5 | +3.8 | ↑ | 66.7 | -- |  | -- | -- |  | -- | +9.4 | ↑ | 64.8 |
-| [Meatball %](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 7.3 | -0.4 | ↓ | 7.7 | +0.4 | ↑ | 7.3 | +0.1 | ↑ | 7.2 | -0.2 | ↓ | 7.4 | +3.1 | ↑ | 4.3 | -- |  | -- | -- |  | -- | +0.1 | ↑ | 6.9 |
-| [Zone Swing & Miss %](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 12.0 | -1.9 | ↓ | 13.9 | -0.7 | ↓ | 14.6 | -3.7 | ↓ | 18.3 | +2.1 | ↑ | 16.2 | -0.5 | ↓ | 16.7 | -- |  | -- | -- |  | -- | -1.2 | ↓ | 14.4 |
-| [Out of Zone Swing & Miss %](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 19.2 | -28.7 | ↓ | 47.9 | -0.3 | ↓ | 48.2 | +1.0 | ↑ | 47.2 | +3.9 | ↑ | 43.3 | +1.6 | ↑ | 41.7 | -- |  | -- | -- |  | -- | +9.6 | ↑ | 50.7 |
-| [In Zone](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 117 | -495 | ↓ | 612 | -321 | ↓ | 933 | +388 | ↑ | 545 | +35 | ↑ | 510 | +418 | ↑ | 92 | -- |  | -- | -- |  | -- | -424 | ↓ | 631 |
-| [Out of Zone](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 116 | -471 | ↓ | 587 | -438 | ↓ | 1,025 | +457 | ↑ | 568 | +27 | ↑ | 541 | +426 | ↑ | 115 | -- |  | -- | -- |  | -- | -409 | ↓ | 643 |
-| [Edge](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 93 | -421 | ↓ | 514 | -308 | ↓ | 822 | +354 | ↑ | 468 | +31 | ↑ | 437 | +342 | ↑ | 95 | -- |  | -- | -- |  | -- | -374 | ↓ | 543 |
-| [In Zone Swings](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 75 | -306 | ↓ | 381 | -229 | ↓ | 610 | +309 | ↑ | 301 | -13 | ↓ | 314 | +260 | ↑ | 54 | -- |  | -- | -- |  | -- | -268 | ↓ | 382 |
-| [Out of Zone Swings](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 26 | -116 | ↓ | 142 | -115 | ↓ | 257 | +98 | ↑ | 159 | +32 | ↑ | 127 | +103 | ↑ | 24 | -- |  | -- | -- |  | -- | -82 | ↓ | 150 |
-| [In Zone Swing & Misses](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 9 | -44 | ↓ | 53 | -36 | ↓ | 89 | +34 | ↑ | 55 | +4 | ↑ | 51 | +42 | ↑ | 9 | -- |  | -- | -- |  | -- | -40 | ↓ | 55 |
-| [Out of Zone Swing & Misses](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 5 | -63 | ↓ | 68 | -56 | ↓ | 124 | +49 | ↑ | 75 | +20 | ↑ | 55 | +45 | ↑ | 10 | -- |  | -- | -- |  | -- | -35 | ↓ | 76 |
+| [Meatball %](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 7.0 | -0.7 | ↓ | 7.7 | +0.4 | ↑ | 7.3 | +0.1 | ↑ | 7.2 | -0.2 | ↓ | 7.4 | +3.1 | ↑ | 4.3 | -- |  | -- | -- |  | -- | +0.1 | ↑ | 6.9 |
+| [Zone Swing & Miss %](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 11.7 | -2.3 | ↓ | 14.0 | -0.6 | ↓ | 14.6 | -3.7 | ↓ | 18.3 | +2.1 | ↑ | 16.2 | -0.5 | ↓ | 16.7 | -- |  | -- | -- |  | -- | -1.0 | ↓ | 14.2 |
+| [Out of Zone Swing & Miss %](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 19.2 | -28.0 | ↓ | 47.2 | -1.0 | ↓ | 48.2 | +1.0 | ↑ | 47.2 | +3.9 | ↑ | 43.3 | +1.6 | ↑ | 41.7 | -- |  | -- | -- |  | -- | +9.3 | ↑ | 51.0 |
+| [In Zone](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 122 | -487 | ↓ | 609 | -324 | ↓ | 933 | +390 | ↑ | 543 | +33 | ↑ | 510 | +418 | ↑ | 92 | -- |  | -- | -- |  | -- | -423 | ↓ | 630 |
+| [Out of Zone](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 122 | -468 | ↓ | 590 | -435 | ↓ | 1,025 | +455 | ↑ | 570 | +29 | ↑ | 541 | +426 | ↑ | 115 | -- |  | -- | -- |  | -- | -410 | ↓ | 644 |
+| [Edge](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 98 | -416 | ↓ | 514 | -308 | ↓ | 822 | +354 | ↑ | 468 | +31 | ↑ | 437 | +342 | ↑ | 95 | -- |  | -- | -- |  | -- | -374 | ↓ | 543 |
+| [In Zone Swings](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 77 | -302 | ↓ | 379 | -231 | ↓ | 610 | +309 | ↑ | 301 | -13 | ↓ | 314 | +260 | ↑ | 54 | -- |  | -- | -- |  | -- | -267 | ↓ | 381 |
+| [Out of Zone Swings](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 26 | -118 | ↓ | 144 | -113 | ↓ | 257 | +98 | ↑ | 159 | +32 | ↑ | 127 | +103 | ↑ | 24 | -- |  | -- | -- |  | -- | -83 | ↓ | 151 |
+| [In Zone Swing & Misses](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 9 | -44 | ↓ | 53 | -36 | ↓ | 89 | +34 | ↑ | 55 | +4 | ↑ | 51 | +42 | ↑ | 9 | -- |  | -- | -- |  | -- | -39 | ↓ | 54 |
+| [Out of Zone Swing & Misses](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 5 | -63 | ↓ | 68 | -56 | ↓ | 124 | +49 | ↑ | 75 | +20 | ↑ | 55 | +45 | ↑ | 10 | -- |  | -- | -- |  | -- | -36 | ↓ | 77 |
 | Basic |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| [Pitches](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 233 | -966 | ↓ | 1,199 | -759 | ↓ | 1,958 | +844 | ↑ | 1,114 | +63 | ↑ | 1,051 | +844 | ↑ | 207 | -- |  | -- | -- |  | -- | -820 | ↓ | 1,274 |
-| [PA](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 66 | -248 | ↓ | 314 | -167 | ↓ | 481 | +196 | ↑ | 285 | +22 | ↑ | 263 | +219 | ↑ | 44 | -- |  | -- | -- |  | -- | -229 | ↓ | 339 |
-| [AB](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 52 | -217 | ↓ | 269 | -154 | ↓ | 423 | +176 | ↑ | 247 | +28 | ↑ | 219 | +185 | ↑ | 34 | -- |  | -- | -- |  | -- | -186 | ↓ | 284 |
+| [Pitches](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 244 | -955 | ↓ | 1,199 | -759 | ↓ | 1,958 | +844 | ↑ | 1,114 | +63 | ↑ | 1,051 | +844 | ↑ | 207 | -- |  | -- | -- |  | -- | -820 | ↓ | 1,274 |
+| [PA](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 69 | -245 | ↓ | 314 | -167 | ↓ | 481 | +196 | ↑ | 285 | +22 | ↑ | 263 | +219 | ↑ | 44 | -- |  | -- | -- |  | -- | -229 | ↓ | 339 |
+| [AB](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 54 | -215 | ↓ | 269 | -154 | ↓ | 423 | +176 | ↑ | 247 | +28 | ↑ | 219 | +185 | ↑ | 34 | -- |  | -- | -- |  | -- | -186 | ↓ | 284 |
 | [Hits](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 16 | -64 | ↓ | 80 | -32 | ↓ | 112 | +55 | ↑ | 57 | +11 | ↑ | 46 | +41 | ↑ | 5 | -- |  | -- | -- |  | -- | -43 | ↓ | 59 |
 | [Singles](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 12 | -44 | ↓ | 56 | -19 | ↓ | 75 | +34 | ↑ | 41 | +9 | ↑ | 32 | +29 | ↑ | 3 | -- |  | -- | -- |  | -- | -39 | ↓ | 50 |
 | [Doubles](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 4 | -11 | ↓ | 15 | -8 | ↓ | 23 | +12 | ↑ | 11 | +3 | ↑ | 8 | +7 | ↑ | 1 | -- |  | -- | -- |  | -- | -3 | ↓ | 6 |
 | [Triples](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 0 | -3 | ↓ | 3 | +1 | ↑ | 2 | +1 | ↑ | 1 | 0 |  | 1 | 0 |  | 1 | -- |  | -- | -- |  | -- | -1 | ↓ | 1 |
 | [Home Runs](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 0 | -6 | ↓ | 6 | -6 | ↓ | 12 | +8 | ↑ | 4 | -1 | ↓ | 5 | +5 | ↑ | 0 | -- |  | -- | -- |  | -- | 0 |  | 2 |
-| [Walks](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 12 | -20 | ↓ | 32 | -15 | ↓ | 47 | +15 | ↑ | 32 | -3 | ↓ | 35 | +25 | ↑ | 10 | -- |  | -- | -- |  | -- | -34 | ↓ | 45 |
-| [Strikeouts](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 8 | -50 | ↓ | 58 | -38 | ↓ | 96 | +15 | ↑ | 81 | +18 | ↑ | 63 | +53 | ↑ | 10 | -- |  | -- | -- |  | -- | -39 | ↓ | 70 |
-| [K%](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 12.1 | -6.4 | ↓ | 18.5 | -1.5 | ↓ | 20.0 | -8.4 | ↓ | 28.4 | +4.4 | ↑ | 24.0 | +1.3 | ↑ | 22.7 | -- |  | -- | -- |  | -- | +7.6 | ↑ | 20.6 |
-| [BB%](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 18.2 | +8.0 | ↑ | 10.2 | +0.4 | ↑ | 9.8 | -1.4 | ↓ | 11.2 | -2.1 | ↓ | 13.3 | -9.4 | ↓ | 22.7 | -- |  | -- | -- |  | -- | -3.3 | ↓ | 13.3 |
+| [Walks](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 13 | -19 | ↓ | 32 | -15 | ↓ | 47 | +15 | ↑ | 32 | -3 | ↓ | 35 | +25 | ↑ | 10 | -- |  | -- | -- |  | -- | -34 | ↓ | 45 |
+| [Strikeouts](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 9 | -49 | ↓ | 58 | -38 | ↓ | 96 | +15 | ↑ | 81 | +18 | ↑ | 63 | +53 | ↑ | 10 | -- |  | -- | -- |  | -- | -39 | ↓ | 70 |
+| [K%](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 13.0 | -5.5 | ↓ | 18.5 | -1.5 | ↓ | 20.0 | -8.4 | ↓ | 28.4 | +4.4 | ↑ | 24.0 | +1.3 | ↑ | 22.7 | -- |  | -- | -- |  | -- | +7.6 | ↑ | 20.6 |
+| [BB%](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 18.8 | +8.6 | ↑ | 10.2 | +0.4 | ↑ | 9.8 | -1.4 | ↓ | 11.2 | -2.1 | ↓ | 13.3 | -9.4 | ↓ | 22.7 | -- |  | -- | -- |  | -- | -3.3 | ↓ | 13.3 |
 | [HBP](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 0 | -8 | ↓ | 8 | -1 | ↓ | 9 | +5 | ↑ | 4 | -3 | ↓ | 7 | +7 | ↑ | 0 | -- |  | -- | -- |  | -- | -7 | ↓ | 8 |
-| [Batted Balls](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 46 | -169 | ↓ | 215 | -114 | ↓ | 329 | +161 | ↑ | 168 | +10 | ↑ | 158 | +134 | ↑ | 24 | -- |  | -- | -- |  | -- | -149 | ↓ | 216 |
-| [Number of Fastballs](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 165 | -598 | ↓ | 763 | -351 | ↓ | 1,114 | +279 | ↑ | 835 | +143 | ↑ | 692 | +516 | ↑ | 176 | -- |  | -- | -- |  | -- | -727 | ↓ | 994 |
+| [Batted Balls](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 47 | -168 | ↓ | 215 | -114 | ↓ | 329 | +161 | ↑ | 168 | +10 | ↑ | 158 | +134 | ↑ | 24 | -- |  | -- | -- |  | -- | -149 | ↓ | 216 |
+| [Number of Fastballs](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 172 | -591 | ↓ | 763 | -351 | ↓ | 1,114 | +279 | ↑ | 835 | +143 | ↑ | 692 | +516 | ↑ | 176 | -- |  | -- | -- |  | -- | -727 | ↓ | 994 |
 | [Number of Offspeed](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 7 | -65 | ↓ | 72 | -301 | ↓ | 373 | +355 | ↑ | 18 | -9 | ↓ | 27 | +20 | ↑ | 7 | -- |  | -- | -- |  | -- | +25 | ↑ | 0 |
-| [Number of Breaking](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 0 | -92 | ↓ | 92 | +92 | ↑ | 0 | -39 | ↓ | 39 | +35 | ↑ | 4 | +4 | ↑ | 0 | -- |  | -- | -- |  | -- | -131 | ↓ | 280 |
+| [Number of Breaking](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 65 | -299 | ↓ | 364 | -107 | ↓ | 471 | +211 | ↑ | 260 | -72 | ↓ | 332 | +308 | ↑ | 24 | -- |  | -- | -- |  | -- | -131 | ↓ | 280 |
 
 +
 Toggle Viewing All Player's Year to Year Stats
@@ -1236,7 +1230,7 @@ View Complete Year to Year Changes Leaderboard](https://baseballsavant.mlb.com/l
 | 2023 | Shades | 279 | .296 | 172 | 0 | 0.0 | 107 | 23 | 21.5 |
 | 2024 | Shades | 480 | .335 | 258 | 0 | 0.0 | 222 | 53 | 23.9 |
 | 2025 | Shades | 313 | .364 | 171 | 3 | 1.8 | 142 | 23 | 16.2 |
-| 2026 | Shades | 64 | .360 | 38 | 0 | 0.0 | 26 | 10 | 38.5 |
+| 2026 | Shades | 67 | .354 | 41 | 0 | 0.0 | 26 | 10 | 38.5 |
 
 _! Note: Shifts are through the 2022 season, Shaded starting from the 2023 season, **Shift:**_
 _three or more infielders are on the same side of second base, **Shade:** positioned outside of_
@@ -1258,7 +1252,7 @@ how positioning is defined here](https://baseballsavant.mlb.com/sections/visuals
 | 2023 | ![](https://baseballsavant.mlb.com/site-core/images/savant-mlb.svg) | 292 | 17.3 | 12.3% | 1.0% | 231 | 19.2 | 4.8% | 1.3% |
 | 2024 | ![](https://www.mlbstatic.com/team-logos/137.svg) | 544 | 16.4 | 18.8% | 0.7% | 343 | 18.2 | 5.5% | 2.3% |
 | 2025 | ![](https://baseballsavant.mlb.com/site-core/images/savant-mlb.svg) | 327 | 14.5 | 61.5% | 0.0% | 205 | 15.7 | 34.6% | 0.5% |
-| 2026 | ![](https://www.mlbstatic.com/team-logos/145.svg) | 45 | 16.9 | 15.6% | 0.0% | 56 | 18.6 | 3.6% | 8.9% |
+| 2026 | ![](https://www.mlbstatic.com/team-logos/145.svg) | 49 | 16.9 | 16.3% | 0.0% | 59 | 18.6 | 5.1% | 8.5% |
 
 [+\\
 View Complete Pitch Tempo Leaderboard](https://baseballsavant.mlb.com/leaderboard/pitch-tempo)
@@ -1280,14 +1274,14 @@ Jordan Hicks - 2026 Frequency of Pitches by Pitch Speed4-Seam FastballSinkerSpli
 | 2019 | ![](https://www.mlbstatic.com/team-logos/138.svg) | 0 | 1 | 1 | 0 | 153 | 0.0% | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 3.6 | 11.5 | 15.1 | -- | -- | -- |
 | 2021 | ![](https://www.mlbstatic.com/team-logos/138.svg) | 0 | 0 | 0 | 0 | 94 | 1.1% | 1 | 0 | 0 | 0 | 0 | 1 | 0 | 3.9 | 12.2 | 16.1 | 13.3 | 10.8 | 24.1 |
 | 2022 | ![](https://www.mlbstatic.com/team-logos/138.svg) | 0 | 0 | 0 | 0 | 378 | 1.1% | 3 | 1 | 0 | 0 | 0 | 3 | 1 | 3.8 | 11.7 | 15.5 | 9.0 | 11.2 | 20.2 |
-| 2023 | ![](https://www.mlbstatic.com/team-logos/138.svg) | 0 | 3 | 3 | -1 | 368 | 0.3% | 0 | 1 | 0 | 0 | 0 | 0 | 1 | 3.8 | 12.1 | 15.9 | 7.9 | 13.2 | 21.0 |
+| 2023 | ![](https://www.mlbstatic.com/team-logos/138.svg) | 0 | 3 | 4 | -1 | 368 | 0.3% | 0 | 1 | 0 | 0 | 0 | 0 | 1 | 3.8 | 12.1 | 15.9 | 7.9 | 13.2 | 21.0 |
 | 2023 | ![](https://www.mlbstatic.com/team-logos/141.svg) | 0 | 1 | 1 | 0 | 130 | 0.8% | 1 | 0 | 0 | 0 | 0 | 1 | 0 | 3.4 | 12.3 | 15.7 | 11.9 | 13.5 | 25.4 |
 | 2023 | ![](https://baseballsavant.mlb.com/site-core/images/savant-mlb.svg) | 0 | 3 | 4 | -1 | 498 | 0.4% | 1 | 1 | 0 | 0 | 0 | 1 | 1 | 3.7 | 12.1 | 15.8 | 9.9 | 13.4 | 23.2 |
 | 2024 | ![](https://www.mlbstatic.com/team-logos/137.svg) | 0 | 1 | 1 | 0 | 735 | 1.2% | 9 | 0 | 0 | 1 | 1 | 11 | 0 | 4.1 | 11.6 | 15.7 | 10.5 | 12.7 | 23.2 |
 | 2025 | ![](https://www.mlbstatic.com/team-logos/111.svg) | 0 | 1 | 1 | 0 | 156 | 0.6% | 1 | 0 | 0 | 0 | 0 | 1 | 0 | 3.8 | 11.5 | 15.3 | 11.7 | 12.1 | 23.9 |
 | 2025 | ![](https://www.mlbstatic.com/team-logos/137.svg) | 1 | 3 | 3 | 0 | 302 | 0.7% | 2 | 0 | 0 | 0 | 0 | 2 | 0 | 3.5 | 10.5 | 14.0 | 11.2 | 10.2 | 21.4 |
-| 2025 | ![](https://baseballsavant.mlb.com/site-core/images/savant-mlb.svg) | 1 | 4 | 4 | -1 | 458 | 0.7% | 3 | 0 | 0 | 0 | 0 | 3 | 0 | 3.6 | 10.8 | 14.4 | 11.4 | 10.8 | 22.2 |
-| 2026 | ![](https://www.mlbstatic.com/team-logos/145.svg) | 0 | 1 | 1 | 0 | 89 | 1.1% | 0 | 1 | 0 | 0 | 0 | 0 | 1 | 3.4 | 11.4 | 14.8 | 6.7 | 11.7 | 18.3 |
+| 2025 | ![](https://baseballsavant.mlb.com/site-core/images/savant-mlb.svg) | 1 | 3 | 4 | -1 | 458 | 0.7% | 3 | 0 | 0 | 0 | 0 | 3 | 0 | 3.6 | 10.8 | 14.4 | 11.4 | 10.8 | 22.2 |
+| 2026 | ![](https://www.mlbstatic.com/team-logos/145.svg) | 0 | 1 | 1 | 0 | 95 | 1.1% | 0 | 1 | 0 | 0 | 0 | 0 | 1 | 3.4 | 11.2 | 14.6 | 6.7 | 11.7 | 18.3 |
 
 [\+ View Complete Pitcher Running Game Leaderboard](https://baseballsavant.mlb.com/leaderboard/pitcher-running-game)
 
@@ -1306,8 +1300,8 @@ Loading Bat Tracking...
 | 2023 | ![](https://baseballsavant.mlb.com/site-core/images/savant-mlb.svg) | -- | -- | -- | -- | -- | -- | -- | -- | -- | 66 | -- | -- | -- | -- | -- | -- | -- | -- |
 | 2024 | ![](https://www.mlbstatic.com/team-logos/137.svg) | -- | -- | -- | -- | -- | -- | -- | -- | -- | 110 | -- | -- | -- | -- | -- | -- | -- | -- |
 | 2025 | ![](https://baseballsavant.mlb.com/site-core/images/savant-mlb.svg) | -- | -- | -- | -- | -- | -- | -- | -- | -- | 67 | -- | -- | -- | -- | -- | -- | -- | -- |
-| 2026 | ![](https://www.mlbstatic.com/team-logos/145.svg) | -- | -- | -- | -- | -- | -- | -- | -- | -- | 14 | -- | -- | -- | -- | -- | -- | -- | -- |
-| **Player** | ![](https://baseballsavant.mlb.com/site-core/images/savant-mlb.svg) | -- | -- | -- | -- | -- | -- | -- | -- | -- | 434 | -- | -- | -- | -- | -- | -- | -- | -- |
+| 2026 | ![](https://www.mlbstatic.com/team-logos/145.svg) | -- | -- | -- | -- | -- | -- | -- | -- | -- | 15 | -- | -- | -- | -- | -- | -- | -- | -- |
+| **Player** | ![](https://baseballsavant.mlb.com/site-core/images/savant-mlb.svg) | -- | -- | -- | -- | -- | -- | -- | -- | -- | 435 | -- | -- | -- | -- | -- | -- | -- | -- |
 
 [+\\
 View Complete Fielding Run Value Leaderboard](https://baseballsavant.mlb.com/leaderboard/fielding-run-value)
@@ -1393,31 +1387,31 @@ Created with Highcharts 6.2.0Exit VelocityPitchesChart context menuJordan Hicks 
 
 ## Run Value
 
-Jordan HicksPitcher RV (All)0.9-0.8-0.11.2-0.41.0-0.4-0.90.8-1.5-0.6-0.5-0.6
+Jordan HicksPitcher RV (All)1.2-0.8-0.11.3-0.41.0-0.4-0.90.9-2.1-0.6-0.5-0.6
 
-Jordan HicksPitcher RV (Swings)0.8-1.2-0.20.9-0.70.6-0.4-1.30.61.10.4-0.10.9
+Jordan HicksPitcher RV (Swings)1.1-1.2-0.21.0-0.70.6-0.4-1.30.61.10.4-0.10.9
 
-Jordan HicksPitcher RV (Takes)0.10.40.20.30.30.40.00.40.1-2.6-1.0-0.3-1.5
+Jordan HicksPitcher RV (Takes)0.10.40.20.40.30.40.00.40.3-3.1-1.0-0.3-1.5
 
-Jordan HicksPitcher RV (Contact)0.5-1.2-0.20.9-0.80.4-0.5-1.30.61.10.2-0.10.4
+Jordan HicksPitcher RV (Contact)0.9-1.2-0.21.0-0.80.4-0.5-1.30.61.10.2-0.10.4
 
 ## Standard
 
-Jordan HicksPitch %3113776463169519
+Jordan HicksPitch %4103875463189518
 
-Jordan HicksTotal Pitches8258171713914638221244
+Jordan HicksTotal Pitches9258201713914743221245
 
-Jordan HicksSwing % By Zone75686353655478646718274218
+Jordan HicksSwing % By Zone78686350655478645716274218
 
-Jordan HicksSwings By Zone617591177947658
+Jordan HicksSwings By Zone7175101177947658
 
-Jordan HicksK %3300005020130033050
+Jordan HicksK %25000050201333033050
 
-Jordan HicksWhiff %50000182914025017050
+Jordan HicksWhiff %43000182914025017050
 
 Jordan HicksWhiffs By Zone3000221010104
 
-Jordan HicksBatted Balls By Zone2926613723131
+Jordan HicksBatted Balls By Zone3926613723131
 
 Jordan HicksHits By Zone0511302300010
 
@@ -1431,9 +1425,9 @@ Jordan HicksHome Runs By Zone0000000000000
 
 Jordan HicksXBH By Zone0200000100010
 
-Jordan HicksStrikeouts By Zone1000011100103
+Jordan HicksStrikeouts By Zone1000011110103
 
-Jordan HicksBB %00000020006733033
+Jordan HicksBB %00000020007033033
 
 Jordan HicksGround Ball %1003350673310010057503301000
 
@@ -1449,15 +1443,15 @@ Jordan HicksBatting Average.000.6251.000.167.500.000.500.375.000.000.000.333.000
 
 Jordan HicksBACON.000.556.500.167.500.000.667.429.000.000.000.333.000
 
-Jordan HicksOBP.000.556.500.167.500.000.600.375.000.667.333.333.333
+Jordan HicksOBP.000.556.500.167.500.000.600.375.000.700.333.333.333
 
 Jordan HicksSLG.000.8751.000.167.500.000.500.500.000.000.000.667.000
 
 Jordan HicksISO.000.250.000.000.000.000.000.125.000.000.000.333.000
 
-Jordan HickswOBA.000.585.451.150.451.000.503.385.000.472.236.426.236
+Jordan HickswOBA.000.585.451.150.451.000.502.385.000.494.235.426.235
 
-Jordan HickswOBA (Contact).000.585.451.150.451.000.602.441.000.000.000.426.000
+Jordan HickswOBA (Contact).000.585.451.150.451.000.601.440.000.000.000.426.000
 
 ## Statcast
 
@@ -1465,19 +1459,19 @@ Jordan HicksAvg Exit Velocity898487969195849793738810393
 
 Jordan HicksAvg Launch Angle-181125325-16-2314221961-1829
 
-Jordan HicksBat Speed (MPH)68727275716969747066676870
+Jordan HicksBat Speed (MPH)68727274716969747066676870
 
 Jordan HicksSwing Length (ft)6.46.67.17.17.17.67.17.57.56.26.27.18.1
 
-Jordan HicksSquared up % / Swings332904436142944251404013
+Jordan HicksSquared up % / Swings292904036142944251404013
 
-Jordan HicksSquared up % / Contact672904444203344331404025
+Jordan HicksSquared up % / Contact502904044203344331404025
 
-Jordan HicksAttack Angle-14112516-23946522
+Jordan HicksAttack Angle-34110516-23946522
 
-Jordan HicksAttack Direction167-741-13153-91411-4-15
+Jordan HicksAttack Direction187-751-13153-91411-4-15
 
-Jordan HicksSwing Path (Tilt)28272732343436323530233737
+Jordan HicksSwing Path (Tilt)28272734343436323530233737
 
 Jordan HicksBarrels0000000000000
 
@@ -1491,21 +1485,21 @@ Jordan HicksHard Hit0203111410020
 
 Jordan HicksHard Hit / BIP (%)0220501710033575000670
 
-Jordan HicksHard Hit / Swings (%)01203391414442500400
+Jordan HicksHard Hit / Swings (%)01203091414442500400
 
-Jordan HicksHard Hit / Pitches (%)080186811291700170
+Jordan HicksHard Hit / Pitches (%)080156811291400170
 
-Jordan HicksxBA.084.335.503.370.275.058.185.313.183.259.005.362.033
+Jordan HicksxBA.084.335.503.370.275.058.185.313.122.259.005.362.033
 
 Jordan HicksxBA (Contact).126.298.260.370.275.115.247.357.183.259.009.362.131
 
-Jordan HicksxOBP.084.298.260.370.275.058.348.313.183.753.336.362.355
+Jordan HicksxOBP.084.298.260.370.275.058.348.313.122.778.336.362.355
 
-Jordan HicksxSLG.096.376.577.448.332.069.200.354.207.288.005.396.085
+Jordan HicksxSLG.096.376.577.448.332.069.200.354.138.288.005.396.085
 
-Jordan HicksxISO.012.042.074.077.057.012.015.041.025.030.001.034.052
+Jordan HicksxISO.012.042.074.077.057.012.015.041.017.030.001.034.052
 
-Jordan HicksxwOBA.081.276.250.357.261.055.277.292.171.551.239.332.269
+Jordan HicksxwOBA.081.276.250.357.261.055.277.292.114.565.238.332.268
 
 Jordan HicksxwOBA (Contact).121.276.250.357.261.109.226.334.171.237.008.332.195
 

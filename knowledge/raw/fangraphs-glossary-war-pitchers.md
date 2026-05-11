@@ -1,5 +1,5 @@
 ---
-source: https://library.fangraphs.com/war/war-pitchers/
+source: https://library.fangraphs.com/war/calculating-war-pitchers/
 slug: fangraphs-glossary-war-pitchers
 ---
 
@@ -7,7 +7,7 @@ slug: fangraphs-glossary-war-pitchers
 
 ​
 
-[Sign In](http://www.fangraphs.com/blogs/wp-login.php?redirect_to=https://library.fangraphs.com/war/war-pitchers/)
+[Sign In](http://www.fangraphs.com/blogs/wp-login.php?redirect_to=https://library.fangraphs.com/war/calculating-war-pitchers/)
 
 - Support Us
 
@@ -71,10 +71,10 @@ Fantasy Tools
 
 
 
+  - [Sunday Notes: Kai-Wei Teng's Sweeper Takes a Sharp 90-Degree Left Turn](https://www.fangraphs.com/blogs/sunday-notes-kai-wei-tengs-sweeper-takes-a-sharp-90-degree-left-turn)
   - [FanGraphs Weekly Mailbag: May 9, 2026](https://www.fangraphs.com/blogs/fangraphs-weekly-mailbag-may-9-2026)
   - [Things Probably Can’t Get Worse for the Reds](https://www.fangraphs.com/blogs/things-probably-cant-get-worse-for-the-reds)
   - [Mickey Moniak, Your NL Slugging Leader (For Now)](https://www.fangraphs.com/blogs/mickey-moniak-your-nl-slugging-leader-for-now)
-  - [The Cream of the Marlins Catching Crop Rises to the Top](https://www.fangraphs.com/blogs/the-cream-of-the-marlins-catching-crop-rises-to-the-top)
 
 Podcasts: [Effectively Wild](https://www.fangraphs.com/blog-roll?category=Effectively+Wild)
 
@@ -86,8 +86,8 @@ Podcasts: [Effectively Wild](https://www.fangraphs.com/blog-roll?category=Effect
 
 [RotoGraphs](https://www.fangraphs.com/rotographs)
 
-  - [Roto Riteup: May 9, 2026](https://www.fangraphs.com/fantasy/roto-riteup-may-9-2026)
-  - [The Sleeper and the Bust Episode: 1506 – 2-Start Pitchers for Week 7](https://www.fangraphs.com/fantasy/the-sleeper-and-the-bust-episode-1506-2-start-pitchers-for-week-7)
+  - [Roto Riteup: May 11, 2026](https://www.fangraphs.com/fantasy/roto-riteup-may-11-2026)
+  - [Starting Pitcher Chart – May 11th, 2026](https://www.fangraphs.com/fantasy/starting-pitcher-chart-may-11th-2026)
 
 Podcasts: [The Sleeper and The Bust](https://www.fangraphs.com/fantasy/category/podcast/) \| [Field of Streams](https://www.fangraphs.com/fantasy/category/field-of-streams/) \| [Beat the Shift](https://fantasy.fangraphs.com/category/beat-the-shift/)
 
@@ -189,7 +189,7 @@ On-Pace Leaders
 
 Today
 
-[Live Scoreboard](https://www.fangraphs.com/scores), [Probable Pitchers](https://www.fangraphs.com/leaders/major-league?pos=all&stats=pit&lg=all&qual=0&type=8&season=2026&month=0&season1=2026&ind=0&team=0&rost=0&age=0&filter=&players=p2026-05-10)
+[Live Scoreboard](https://www.fangraphs.com/scores), [Probable Pitchers](https://www.fangraphs.com/leaders/major-league?pos=all&stats=pit&lg=all&qual=0&type=8&season=2026&month=0&season1=2026&ind=0&team=0&rost=0&age=0&filter=&players=p2026-05-11)
 
 [Live Daily Leaderboards](https://www.fangraphs.com/scores/live-leaderboards)
 
@@ -215,25 +215,26 @@ Win Probability & Box Scores
 
 |     |     |
 | --- | --- |
-| [LAA (1) @ TOR (14)](https://www.fangraphs.com/scores/box-score?date=2026-05-09&hometeamid=14&dh=0) | Final |
-| [ATH (6) @ BAL (2)](https://www.fangraphs.com/scores/box-score?date=2026-05-09&hometeamid=2&dh=0) | Final |
-| [MIN (2) @ CLE (1)](https://www.fangraphs.com/scores/box-score?date=2026-05-09&hometeamid=5&dh=0) | Final/11 |
-| [CHC (0) @ TEX (6)](https://www.fangraphs.com/scores/box-score?date=2026-05-09&hometeamid=13&dh=0) | Final |
-| [DET (1) @ KCR (5)](https://www.fangraphs.com/scores/box-score?date=2026-05-09&hometeamid=7&dh=0) | Final |
-| [SEA (1) @ CHW (6)](https://www.fangraphs.com/scores/box-score?date=2026-05-09&hometeamid=4&dh=0) | Final | |  | NL Games
+| [ATH (1) @ BAL (2)](https://www.fangraphs.com/scores/box-score?date=2026-05-10&hometeamid=2&dh=0) | Final |
+| [TBR (4) @ BOS (1)](https://www.fangraphs.com/scores/box-score?date=2026-05-10&hometeamid=3&dh=0) | Final |
+| [LAA (6) @ TOR (1)](https://www.fangraphs.com/scores/box-score?date=2026-05-10&hometeamid=14&dh=0) | Final |
+| [MIN (5) @ CLE (4)](https://www.fangraphs.com/scores/box-score?date=2026-05-10&hometeamid=5&dh=0) | Final |
+| [SEA (1) @ CHW (2)](https://www.fangraphs.com/scores/box-score?date=2026-05-10&hometeamid=4&dh=0) | Final |
+| [CHC (0) @ TEX (3)](https://www.fangraphs.com/scores/box-score?date=2026-05-10&hometeamid=13&dh=0) | Final |
+| [DET (6) @ KCR (3)](https://www.fangraphs.com/scores/box-score?date=2026-05-10&hometeamid=7&dh=0) | Final | |  | NL Games
 
 
 
 |     |     |
 | --- | --- |
-| [HOU (1) @ CIN (3)](https://www.fangraphs.com/scores/box-score?date=2026-05-09&hometeamid=18&dh=0) | Final |
-| [WSN (7) @ MIA (8)](https://www.fangraphs.com/scores/box-score?date=2026-05-09&hometeamid=20&dh=0) | Final |
-| [COL (3) @ PHI (9)](https://www.fangraphs.com/scores/box-score?date=2026-05-09&hometeamid=26&dh=0) | Final |
-| [NYY (3) @ MIL (4)](https://www.fangraphs.com/scores/box-score?date=2026-05-09&hometeamid=23&dh=0) | Final/10 |
-| [NYM (1) @ ARI (2)](https://www.fangraphs.com/scores/box-score?date=2026-05-09&hometeamid=15&dh=0) | Final |
-| [STL (2) @ SDP (4)](https://www.fangraphs.com/scores/box-score?date=2026-05-09&hometeamid=29&dh=0) | Final |
-| [PIT (13) @ SFG (3)](https://www.fangraphs.com/scores/box-score?date=2026-05-09&hometeamid=30&dh=0) | Final |
-| [ATL (7) @ LAD (2)](https://www.fangraphs.com/scores/box-score?date=2026-05-09&hometeamid=22&dh=0) | Final | |
+| [WSN (2) @ MIA (5)](https://www.fangraphs.com/scores/box-score?date=2026-05-10&hometeamid=20&dh=0) | Final |
+| [COL (0) @ PHI (6)](https://www.fangraphs.com/scores/box-score?date=2026-05-10&hometeamid=26&dh=0) | Final |
+| [HOU (0) @ CIN (5)](https://www.fangraphs.com/scores/box-score?date=2026-05-10&hometeamid=18&dh=0) | Final |
+| [NYY (3) @ MIL (4)](https://www.fangraphs.com/scores/box-score?date=2026-05-10&hometeamid=23&dh=0) | Final |
+| [PIT (6) @ SFG (7)](https://www.fangraphs.com/scores/box-score?date=2026-05-10&hometeamid=30&dh=0) | Final/12 |
+| [NYM (1) @ ARI (5)](https://www.fangraphs.com/scores/box-score?date=2026-05-10&hometeamid=15&dh=0) | Final |
+| [STL (2) @ SDP (3)](https://www.fangraphs.com/scores/box-score?date=2026-05-10&hometeamid=29&dh=0) | Final/10 |
+| [ATL (7) @ LAD (2)](https://www.fangraphs.com/scores/box-score?date=2026-05-10&hometeamid=22&dh=0) | Final | |
 
 - Standings
 
@@ -265,11 +266,11 @@ Win Probability & Box Scores
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| [Yankees](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=9&players=0) | 26 | 14 | 0.0 |
-| [Rays](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=12&players=0) | 25 | 13 | 0.0 |
-| [Blue Jays](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=14&players=0) | 18 | 21 | 7.5 |
-| [Red Sox](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=3&players=0) | 17 | 22 | 8.5 |
-| [Orioles](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=2&players=0) | 17 | 23 | 9.0 |
+| [Rays](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=12&players=0) | 26 | 13 | 0.0 |
+| [Yankees](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=9&players=0) | 26 | 15 | 1.0 |
+| [Blue Jays](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=14&players=0) | 18 | 22 | 8.5 |
+| [Orioles](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=2&players=0) | 18 | 23 | 9.0 |
+| [Red Sox](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=3&players=0) | 17 | 23 | 9.5 |
 
 
 
@@ -283,11 +284,11 @@ AL Central
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| [Guardians](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=5&players=0) | 21 | 20 | 0.0 |
-| [Royals](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=7&players=0) | 19 | 21 | 1.5 |
-| [White Sox](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=4&players=0) | 18 | 21 | 2.0 |
-| [Tigers](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=6&players=0) | 18 | 22 | 2.5 |
-| [Twins](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=8&players=0) | 17 | 23 | 3.5 |
+| [Guardians](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=5&players=0) | 21 | 21 | 0.0 |
+| [White Sox](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=4&players=0) | 19 | 21 | 1.0 |
+| [Royals](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=7&players=0) | 19 | 22 | 1.5 |
+| [Tigers](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=6&players=0) | 19 | 22 | 1.5 |
+| [Twins](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=8&players=0) | 18 | 23 | 2.5 |
 
 
 
@@ -301,11 +302,11 @@ AL West
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| [Athletics](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=10&players=0) | 21 | 18 | 0.0 |
-| [Mariners](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=11&players=0) | 19 | 21 | 2.5 |
-| [Rangers](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=13&players=0) | 18 | 21 | 3.0 |
-| [Astros](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=21&players=0) | 16 | 24 | 5.5 |
-| [Angels](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=1&players=0) | 15 | 25 | 6.5 | |  | NL East
+| [Athletics](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=10&players=0) | 21 | 19 | 0.0 |
+| [Rangers](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=13&players=0) | 19 | 21 | 2.0 |
+| [Mariners](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=11&players=0) | 19 | 22 | 2.5 |
+| [Astros](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=21&players=0) | 16 | 25 | 5.5 |
+| [Angels](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=1&players=0) | 16 | 25 | 5.5 | |  | NL East
 
 
 
@@ -313,11 +314,11 @@ AL West
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| [Braves](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=16&players=0) | 27 | 13 | 0.0 |
-| [Nationals](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=24&players=0) | 19 | 21 | 8.0 |
-| [Phillies](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=26&players=0) | 18 | 22 | 9.0 |
-| [Marlins](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=20&players=0) | 18 | 22 | 9.0 |
-| [Mets](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=25&players=0) | 15 | 24 | 11.5 |
+| [Braves](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=16&players=0) | 28 | 13 | 0.0 |
+| [Phillies](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=26&players=0) | 19 | 22 | 9.0 |
+| [Marlins](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=20&players=0) | 19 | 22 | 9.0 |
+| [Nationals](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=24&players=0) | 19 | 22 | 9.0 |
+| [Mets](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=25&players=0) | 15 | 25 | 12.5 |
 
 
 
@@ -331,11 +332,11 @@ NL Central
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| [Cubs](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=17&players=0) | 27 | 13 | 0.0 |
-| [Cardinals](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=28&players=0) | 23 | 16 | 3.5 |
-| [Brewers](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=23&players=0) | 21 | 16 | 4.5 |
-| [Pirates](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=27&players=0) | 22 | 18 | 5.0 |
-| [Reds](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=18&players=0) | 21 | 19 | 6.0 |
+| [Cubs](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=17&players=0) | 27 | 14 | 0.0 |
+| [Brewers](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=23&players=0) | 22 | 16 | 3.5 |
+| [Cardinals](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=28&players=0) | 23 | 17 | 3.5 |
+| [Reds](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=18&players=0) | 22 | 19 | 5.0 |
+| [Pirates](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=27&players=0) | 22 | 19 | 5.0 |
 
 
 
@@ -349,11 +350,11 @@ NL West
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| [Dodgers](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=22&players=0) | 24 | 15 | 0.0 |
-| [Padres](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=29&players=0) | 23 | 16 | 1.0 |
-| [D-backs](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=15&players=0) | 18 | 20 | 5.5 |
-| [Rockies](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=19&players=0) | 16 | 24 | 8.5 |
-| [Giants](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=30&players=0) | 15 | 24 | 9.0 | |
+| [Dodgers](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=22&players=0) | 24 | 16 | 0.0 |
+| [Padres](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=29&players=0) | 24 | 16 | 0.0 |
+| [D-backs](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=15&players=0) | 19 | 20 | 4.5 |
+| [Giants](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=30&players=0) | 16 | 24 | 8.0 |
+| [Rockies](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=19&players=0) | 16 | 25 | 8.5 | |
 
 - Leaders
 
@@ -801,7 +802,7 @@ Guts!
 
 [Park Factors by Handedness](https://www.fangraphs.com/tools/guts?type=pfh)
 
-- [Sign In](http://www.fangraphs.com/blogs/wp-login.php?redirect_to=https://library.fangraphs.com/war/war-pitchers/)
+- [Sign In](http://www.fangraphs.com/blogs/wp-login.php?redirect_to=https://library.fangraphs.com/war/calculating-war-pitchers/)
 
 - [Intro](https://library.fangraphs.com/getting-started/)
 - [Features](https://library.fangraphs.com/features/)
@@ -898,18 +899,262 @@ Guts!
   - [WAR Misconceptions](https://library.fangraphs.com/war/limitations-war/)
 - [Business](https://library.fangraphs.com/business/)
 
-404Page Not Found
+# [WAR for Pitchers](https://library.fangraphs.com/war/calculating-war-pitchers/ "Permanent link to WAR for Pitchers")
 
-You might be looking for:
+by [Piper Slowinski](https://library.fangraphs.com/author/steve-slow/ "Posts by Piper Slowinski")
 
-- [Home](https://library.fangraphs.com/)
-- [MLB Leaderboards](https://library.fangraphs.com/leaders.aspx)
-- [MLB Playoff Odds](https://library.fangraphs.com/standings/playoff-odds)
-- [Depth Charts](https://library.fangraphs.com/depthcharts.aspx?position=ALL&teamid=1)
-- [Player Projections](https://library.fangraphs.com/projections.aspx)
-- [All Articles](https://library.fangraphs.com/blogroll.aspx)
+March 28, 2012
 
-If you still can't find what you are looking for, please [contact us](https://library.fangraphs.com/blogs/contact)!
+[Wins Above Replacement (WAR)](http://www.fangraphs.com/library/misc/war/), FanGraphs’ hallmark statistic, attempts to estimate a player’s total value relative to a free available player, such as a minor league free agent. Below is a breakdown of exactly how we calculate WAR for pitchers. If you would like to learn about WAR for position players, you can find the necessary details over at [this Library page](http://www.fangraphs.com/library/war/war-position-players/) and if you want to know about WAR in general and how to use it, check out this [page](http://www.fangraphs.com/library/misc/war/). If you want to follow along with the methodology outlined on this page using a concrete example, head to this [page](http://www.fangraphs.com/library/calculating-pitcher-war-a-complete-example/).
+
+\\*\\*\\*\*\*
+
+### Overview
+
+Calculating WAR for pitchers is conceptually straightforward, but there are many steps and a lot of notation to follow. Generally speaking, the first thing you need is some estimate of your pitcher’s value relative to league average. There are all sorts of different approaches to selecting this number. FanGraphs uses [Fielding Independent Pitching (FIP)](http://www.fangraphs.com/library/pitching/fip/), with a few adjustments, but you could use RA9, DRA, or any other metric related to pitcher performance. This post does not address the merits of choosing FIP for use in WAR.
+
+Once you have a number that you can compare to league average, you need to convert that from runs per game to wins per game. To do that, you need to divide by runs per win. This gets more complicated for pitchers than hitters because pitchers directly influence their run environment in a way that hitters do not. So instead of using the league average runs per win value, we calculate it specifically for each pitcher.
+
+Then we need to add in replacement level, which is different for starters and relievers. After that we scale the number based on innings pitched. For relievers, we also add a leverage component. Finally, we make a small uniform adjustment at the end so that the league-wide WAR value matches our target.
+
+Here’s the basic construction:
+
+WAR = \[\[(\[(League “FIP” – “FIP”) / Pitcher Specific Runs Per Win\] + Replacement Level) \* (IP/9)\] \* Leverage Multiplier for Relievers\] + League Correction
+
+### Fielding Independent Pitching (with Infield Flies!)
+
+The first thing you need to do to calculate a pitcher’s WAR is to calculate their FIP. Unfortunately for those of you playing along at home, you can’t simply take the pitcher’s FIP from their player page because we treat [infield fly balls (IFFB) as strikeouts for the purposes of WAR](http://www.fangraphs.com/blogs/infield-flies-fip-and-war/) but not for the general FIP calculation found on the player’s page. We’ll call this ifFIP to avoid confusion. Here is the formula:
+
+ifFIP = _((13\*HR)+(3\*(BB+HBP))-(2\*(K+IFFB)))/IP + ifFIP constant_
+
+This is the traditional FIP formula, but with IFFB added in as strikeouts. However, keep in mind that you also need to calculate a special ifFIP constant and can’t just grab “cFIP” from our guts page.
+
+_ifFIP Constant = lgERA – (((13\*lgHR)+(3\*(lgBB+lgHBP))-(2\*(lgK+lgIFFB)))/lgIP)_
+
+### Scaling ifFIP to RA9
+
+When we’re working with FIP in general, we know that it’s on the ERA scale. That is, league average ERA and league average FIP are equal. For the purposes of WAR, we want to put FIP on the same scale as RA9. Making this adjustment is simple, just find the difference between MLB average RA9 and ERA, and then add it to ifFIP.
+
+_Adjustment = lgRA9 – lgERA_
+
+_FIPR9 = ifFIP + Adjustment_
+
+Now we have a new metric that we have called FIPR9. This is FIP, with infield flies, on an RA9 scale.
+
+### Park Adjustment
+
+Now that we have FIPR9, we need to adjust it for the pitcher’s home park. On our park factors page, you will see a park factor labeled “FIP,” which is the park factored designed specifically based on the FIP components. To park adjust, simply divided FIPR9 by the FIP park factor over 100.
+
+_pFIPR9 = FIPR9 / (PF/100)_
+
+pFIPR9 is the number we’re going to use as our measure of pitcher value. It’s FIP with infield flies adjusted for park and scaled to RA9.
+
+### Compare to AL/NL Average
+
+The next step is to determine how the pitcher compares to his league’s average. To do this, you need to calculate the FIPR9 for that specific league (i.e., AL or NL) based on the process above. You can skip the park factor because it will be 100. Once you have that, subtract the pitcher from the league:
+
+_Runs Above Average Per 9 (RAAP9) = AL or NL FIPR9 – pFIPR9_
+
+This gives you the number of runs above average per nine innings that the pitcher is relative to his league. I have invented the abbreviation RAAP9 so that we can keep the notation straight.
+
+### Dynamic Runs Per Win
+
+As noted above, pitchers directly influence their run environment based on how well they pitch. As a result, we don’t simply use the league average Runs Per Win (RPW) value, we use a dynamic equation that creates a unique RPW value based on the pitcher’s innings per game and pFIPR9. Here’s how it works:
+
+_Dynamic RPW (dRPW) = ( **\[**(\[(18 – IP/G)\*(AL or NL FIPR9)\] + \[(IP/G)\*pFIPR9\]) / 18 **\]** \+ 2)\*1.5_
+
+I recognize this looks like a disaster, but I tried to alternate the parenthesis format to give you a chance to get the order of operations right. Let’s focus on what’s inside the bold red brackets first. Inside those brackets we are calculating the average run environment for games our pitcher pitched in. There are 18 pitcher innings in a typical MLB game but our pitcher only impacts the run environment directly in a portion of those innings. Let’s pull out the part of the equation inside the red brackets:
+
+_(\[ **(18 – IP/G)**\*(AL or NL FIPR9)\] + \[ **(IP/G)**\*pFIPR9\]) / 18_
+
+The bold terms are setting up a weighted average. On the left it’s the innings per game our pitcher is not on the mound and on the right it’s the innings per game our pitcher is on the mound. We multiply the left term by the league average and the right term by our pitcher’s pFIPR9. Then we divide by 18 to re-scale it to runs per nine scale.
+
+You’ll note that we also need to add that value to 2 and multiply it by 1.5. You’re probably wondering why we’re doing that, and the simple answer is that it’s a straightforward way to convert [Runs Per Game into Runs Per Win](http://www.fangraphs.com/library/misc/war/converting-runs-to-wins/). You could use a more complex process known as [Pythagpat](http://walksaber.blogspot.com/2009/01/runs-per-win-from-pythagenpat.html), but the values will almost the [same](http://www.beyondtheboxscore.com/2011/2/16/1995013/when-do-10-runs-not-equal-a-win-baseball-databank-data-dump-2-2). This is equivalent to how we handle the conversion for position players. The big difference for pitchers is inside the bold red brackets.
+
+### Converting to Wins Per Game
+
+So far we have RAAP9 which is a runs per game metric. We also have dRPW which is a runs per win metric. If we divide RAAP9 by dRPW, we can create a metric that is on the scale of wins per game above average.
+
+_Wins Per Game Above Average (WPGAA) = RAAP9 / dRPW_
+
+### Replacement Level
+
+So far we have the pitcher’s performance relative to AL/NL average. But we’re shooting for wins above replacement, so we need to know the difference between an average pitcher and a replacement level pitcher. The formula looks complicated, but that’s only because it’s designed to handle relievers and starters at once. We’ll break it in half in a moment.
+
+_Replacement Level = 0.03\*(1 – GS/G) + 0.12\*(GS/G)_
+
+In other words, you want 0.03 times the share of your games that took place as a reliever plus 0.12 times the share of your games that took place as a starter. If the pitcher was a reliever only, replacement level is 0.03. If the pitcher was a starter only, the replacement level is 0.12. You only need the formula if they split time between both roles, and even then, it makes more sense to simply calculate their WAR separately as a reliever and starter and add them together at the end.
+
+### Scaling to Innings Pitched
+
+We have wins per game above average (WPGAA) and replacement level on a wins per game scale, so our next step is to add them together.
+
+_WPGAR = WPGAA + Replacement Level_
+
+That leaves us with wins per game above replacement (WPGAR). The next step is to get rid of the “per game” because we’re interested in wins above replacement (WAR). To do that, we need to multiply by IP/9.
+
+_“WAR” = WPGAR \* (IP/9)_
+
+You’ll notice “WAR” in quotes because we have to make a couple of minor tweaks before we are completely finished.
+
+### Leverage
+
+We want to give relievers who pitch in higher leverage spots more credit, but we have to make an adjustment to their leverage index first. The idea behind WAR is that we are comparing a player to a replacement level player. For a starting pitcher, that’s easy enough to do. If you get hurt, you’re replaced by someone from Triple-A. But relief pitchers have a hierarchy. If the closer gets hurt, a Triple-A player doesn’t slot into the closer’s role. Rather, everyone in the pen moves up a slot and the Triple-A arm takes the lowest rung on the ladder. As a result, we want to account for this by considering the reliever’s role in the WAR calculation.  You may hear this referred to as “chaining.”
+
+_LI Multiplier = (1 + gmLI) / 2_
+
+Essentially, we’re regressing the pitcher’s average leverage index halfway toward average to account for the chaining effect. Once you have the _LI Multiplier,_ multiply it by “WAR” for relievers. You can ignore this step for starters.
+
+### Final Adjustments
+
+There is one final step to take in order to ensure that MLB league-wide pitcher WAR sums to 430 each season. That value is based on our assumption that there are 1,000 WAR per season (i.e., that replacement level is a 0.294 winning percentage) and that the position player/pitcher split is 57%/43%. These assumptions are subject to debate, but even if you change the values to something else, this final correction is necessary, just with different values.
+
+Essentially what we need to do is make a uniform adjustment per IP. For 2016, that adjustment was -0.000682902 per IP (called WARIP). We multiply that by the pitcher’s IP to get the correction.
+
+_Correction = WARIP \* IP_
+
+The number changes year to year, but it’s generally in the range of -0.0007 and -0.0012. (Check back for a file that lists the corrections for each year and how to calculate them.)
+
+Finally, you take your “WAR” value and add the correction and you’re done.
+
+_WAR = “WAR” + Correction_
+
+### Important Notes
+
+● FanGraphs’ main WAR for pitchers is based on FIP with infield flies counted as strikeouts. We also have a version of WAR called RA9-WAR that uses RA9 instead of FIP.
+
+● We use a special FIP-based park effect when computing WAR which you can find [here](http://www.fangraphs.com/guts.aspx?type=pf&teamid=0&season=2015). Our park factors assume the pitcher plays half his games at home and half in collectively neutral parks. It does not account directly for the actual breakdown of the parks they have pitched in that year. In other words, if a Rockies pitcher has made all of his starts at home, our park factor will not give him enough credit for how difficult that is.
+
+● Leverage is included for relievers.
+
+● Our version of WAR does not adjust for opponent strength.
+
+Here is Dave Cameron’s entire Pitcher WAR introduction series from about a decade ago. Some specific information is out of date, but it’s still a useful read:
+
+- [Part 1](http://www.fangraphs.com/blogs/pitcher-win-values-explained-part-one) – Introduction
+- [Part 2](http://www.fangraphs.com/blogs/pitcher-win-values-explained-part-two) – FIP
+- [Part 3](http://www.fangraphs.com/blogs/pitcher-win-values-explained-part-three) – Replacement Level
+- [Part 4](http://www.fangraphs.com/blogs/pitcher-win-values-explained-part-four) – Run Scale Conversion
+- [Part 5](http://www.fangraphs.com/blogs/pitcher-win-values-explained-part-five) – Runs to Wins Adjustment
+- [Part 6](http://www.fangraphs.com/blogs/pitcher-win-values-explained-part-six) – Park Adjustments
+- [Part 7](http://www.fangraphs.com/blogs/pitcher-win-values-explained-part-seven) – Calculations
+
+_-Neil Weinberg_
+
+[WAR Misconceptions](https://library.fangraphs.com/war/limitations-war/)
+
+[WAR for Position Players](https://library.fangraphs.com/war/war-position-players/)
+
+Piper was the editor-in-chief of [DRaysBay](http://www.draysbay.com/) and the keeper of the [FanGraphs Library](http://saberlibrary.com/).
+
+[Login](https://library.fangraphs.com/wp-login.php?redirect_to=https%3A%2F%2Flibrary.fangraphs.com%2Fwar%2Fcalculating-war-pitchers%2F)
+
+Please login to comment
+
+4 Comments
+
+Oldest
+
+NewestMost Voted
+
+Inline Feedbacks
+
+View all comments
+
+mlinz
+
+13 years ago
+
+Is innings pitched factored into these calculations in any way?
+
+0
+
+pepperidgefarmremembers
+
+4 years ago
+
+Reply to
+[mlinz](https://library.fangraphs.com/war/calculating-war-pitchers/#comment-201234)
+
+That would be covered in the (IP/9) portion of the equation
+
+0
+
+oak1
+
+1 year ago
+
+Anywhere I can find the WARIP figure for other years?
+
+0
+
+oak1
+
+1 year ago
+
+The Stroman example is great! But the value arrived at is 3.6 and his player page now says 3.3. One issue may be the park factor. Says 101 in the write up but FIP PF is 100 on Guts. Changing that brings the value to 3.5. Another issue is the WARIP may have changed. Any other issues that may be that may explain the discrepancy?
+
+0
+
+[![](https://www.fangraphs.com/images/30a_fangraphs.png)](https://blogs.fangraphs.com/)
+
+[Sunday Notes: Kai-Wei Teng's Sweeper Takes a Sharp 90-Degree Left Turn](https://blogs.fangraphs.com/sunday-notes-kai-wei-tengs-sweeper-takes-a-sharp-90-degree-left-turn/)
+
+5/10 – [David Laurila](https://www.fangraphs.com/blog-roll?author=25048) [21](https://blogs.fangraphs.com/sunday-notes-kai-wei-tengs-sweeper-takes-a-sharp-90-degree-left-turn//#comments)
+
+[FanGraphs Weekly Mailbag: May 9, 2026](https://blogs.fangraphs.com/fangraphs-weekly-mailbag-may-9-2026/)
+
+5/9 – [Matt Martell](https://www.fangraphs.com/blog-roll?author=153421) [24](https://blogs.fangraphs.com/fangraphs-weekly-mailbag-may-9-2026//#comments)
+
+[Things Probably Can’t Get Worse for the Reds](https://blogs.fangraphs.com/things-probably-cant-get-worse-for-the-reds/)
+
+5/8 – [Kiri Oler](https://www.fangraphs.com/blog-roll?author=166180) [5](https://blogs.fangraphs.com/things-probably-cant-get-worse-for-the-reds//#comments)
+
+[Mickey Moniak, Your NL Slugging Leader (For Now)](https://blogs.fangraphs.com/mickey-moniak-your-nl-slugging-leader-for-now/)
+
+5/8 – [Jay Jaffe](https://www.fangraphs.com/blog-roll?author=169789) [3](https://blogs.fangraphs.com/mickey-moniak-your-nl-slugging-leader-for-now//#comments)
+
+[The Cream of the Marlins Catching Crop Rises to the Top](https://blogs.fangraphs.com/the-cream-of-the-marlins-catching-crop-rises-to-the-top/)
+
+5/8 – [Jake Mailhot](https://www.fangraphs.com/blog-roll?author=10708)
+
+[Eric Longenhagen Prospects Chat: 5/8/2026](https://blogs.fangraphs.com/eric-longenhagen-prospects-chat-5-8-2026/)
+
+5/8 – [Eric Longenhagen](https://www.fangraphs.com/blog-roll?author=81295) [21](https://blogs.fangraphs.com/eric-longenhagen-prospects-chat-5-8-2026//#comments)
+
+[The Old Matt Olson Is Back](https://blogs.fangraphs.com/the-old-matt-olson-is-back/)
+
+5/8 – [Michael Baumann](https://www.fangraphs.com/blog-roll?author=198829) [7](https://blogs.fangraphs.com/the-old-matt-olson-is-back//#comments)
+
+[Five Things I Liked (Or Didn't Like) This Week, May 8](https://blogs.fangraphs.com/five-things-i-liked-or-didnt-like-this-week-may-8/)
+
+5/8 – [Ben Clemens](https://www.fangraphs.com/blog-roll?author=164011) [21](https://blogs.fangraphs.com/five-things-i-liked-or-didnt-like-this-week-may-8//#comments)
+
+[Effectively Wild Episode 2476: Bodies, BABIPs, Batter's Boxes, and Birds](https://blogs.fangraphs.com/effectively-wild-episode-2476-bodies-babips-batters-boxes-and-birds/)
+
+5/8 – [Ben Lindbergh](https://www.fangraphs.com/blog-roll?author=38267)
+
+[RosterResource Chat - 5/7/26](https://blogs.fangraphs.com/rosterresource-chat-5-7-26/)
+
+5/7 – [Jason Martinez](https://www.fangraphs.com/blog-roll?author=151408)
+
+[The All or Nothing Luke Raley](https://blogs.fangraphs.com/the-all-or-nothing-luke-raley/)
+
+5/7 – [Ryan Blake](https://www.fangraphs.com/blog-roll?author=200227) [13](https://blogs.fangraphs.com/the-all-or-nothing-luke-raley//#comments)
+
+[Spencer Medick Addresses Splitter Spin](https://blogs.fangraphs.com/spencer-medick-addresses-splitter-spin/)
+
+5/7 – [David Laurila](https://www.fangraphs.com/blog-roll?author=25048) [2](https://blogs.fangraphs.com/spencer-medick-addresses-splitter-spin//#comments)
+
+Insert
+
+You are going to send email to
+
+Send
+
+Move Comment
+
+Move
 
 Updated: Friday, May 8, 2026 5:01 AM ETUpdated: 5/8/2026 5:01 AM ET
 
