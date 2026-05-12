@@ -24,13 +24,6 @@ MLB_AVG_ERA_2024 = 4.33
 
 st.title("⚾ SF Giants Pitching Analytics")
 st.caption("2024 Season · Powered by MLB Stats API + Snowflake + dbt")
-st.markdown(
-    f"<div style='text-align:center; padding: 0.4rem 0 1.2rem;'>"
-    f"<div style='font-size:0.8rem; color:#888; letter-spacing:0.08em; text-transform:uppercase;'>2024 MLB Avg ERA</div>"
-    f"<div style='font-size:3rem; font-weight:700; line-height:1.1; color:#27251F;'>{MLB_AVG_ERA_2024:.2f}</div>"
-    f"</div>",
-    unsafe_allow_html=True,
-)
 
 
 # ── Connection ────────────────────────────────────────────────────────────────
@@ -99,6 +92,20 @@ def load_season_kpis(player_id: int):
         )
         return cur.fetchone()
 
+
+
+@st.cache_data(ttl=600)
+def load_giants_era():
+    with get_connection() as conn:
+        cur = conn.cursor()
+        cur.execute(
+            """
+            SELECT ROUND((SUM(earned_runs) / NULLIF(SUM(innings_pitched), 0)) * 9, 2)
+            FROM MART.FACT_PITCHER_GAME
+            """
+        )
+        row = cur.fetchone()
+        return float(row[0]) if row and row[0] is not None else None
 
 
 @st.cache_data(ttl=600)
@@ -254,6 +261,23 @@ def load_pitcher_era_rankings(start_date, end_date) -> pd.DataFrame:
         rows = cur.fetchall()
     return pd.DataFrame(rows, columns=["full_name", "era"])
 
+
+# ── Page header benchmarks ────────────────────────────────────────────────────
+
+giants_era = load_giants_era()
+
+def _era_stat(label, value):
+    return (
+        f"<div style='text-align:center; padding: 0.4rem 0 1.2rem;'>"
+        f"<div style='font-size:0.8rem; color:#888; letter-spacing:0.08em; text-transform:uppercase;'>{label}</div>"
+        f"<div style='font-size:3rem; font-weight:700; line-height:1.1; color:#27251F;'>{value}</div>"
+        f"</div>"
+    )
+
+hdr_left, hdr_right = st.columns(2)
+hdr_left.markdown(_era_stat("2024 MLB Avg ERA", f"{MLB_AVG_ERA_2024:.2f}"), unsafe_allow_html=True)
+if giants_era is not None:
+    hdr_right.markdown(_era_stat("2024 Giants Staff ERA", f"{giants_era:.2f}"), unsafe_allow_html=True)
 
 # ── Pitcher selector ──────────────────────────────────────────────────────────
 
