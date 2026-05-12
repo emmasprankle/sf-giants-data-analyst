@@ -190,7 +190,12 @@ def load_comparison_stats(player_ids: tuple) -> pd.DataFrame:
                 s.season_bb_per_9,
                 ROUND(SUM(f.strikes) / NULLIF(SUM(f.pitches_thrown), 0) * 100, 1) AS strike_pct,
                 s.total_ip,
-                s.games
+                s.games,
+                ROUND(
+                    ((13 * SUM(f.home_runs)) + (3 * SUM(f.walks)) - (2 * SUM(f.strikeouts)))
+                    / NULLIF(SUM(f.innings_pitched), 0) + 3.17,
+                    2
+                ) AS fip
             FROM MART.MART_PITCHER_SEASON s
             JOIN MART.FACT_PITCHER_GAME f ON s.player_id = f.player_id
             WHERE s.player_id IN ({placeholders})
@@ -201,7 +206,7 @@ def load_comparison_stats(player_ids: tuple) -> pd.DataFrame:
             player_ids,
         )
         rows = cur.fetchall()
-    return pd.DataFrame(rows, columns=["full_name", "era", "whip", "k_per_9", "bb_per_9", "strike_pct", "total_ip", "games"])
+    return pd.DataFrame(rows, columns=["full_name", "era", "whip", "k_per_9", "bb_per_9", "strike_pct", "total_ip", "games", "fip"])
 
 
 @st.cache_data(ttl=600)
@@ -311,17 +316,17 @@ scorecard(cols[4], "Strike%",  season[4], lambda v: f"{v:.1%}")
 
 if season_fip is not None and season and season[0] is not None:
     era_fip_gap = round(float(season[0]) - float(season_fip), 2)
-    delta_label = f"{era_fip_gap:+.2f} vs FIP"
+    delta_label = f"{era_fip_gap:+.2f} ERA−FIP gap"
     cols[5].metric(
-        "ERA − FIP",
+        "FIP",
         f"{float(season_fip):.2f}",
         delta=delta_label,
         delta_color="inverse",
-        help="FIP (Fielding Independent Pitching) isolates what the pitcher controls. "
-             "ERA − FIP > 0 means ERA will likely drop; < 0 means ERA will likely rise.",
+        help="FIP (Fielding Independent Pitching) isolates what the pitcher controls: Ks, BBs, HRs. "
+             "Gap > 0 means ERA will likely drop; gap < 0 means ERA will likely rise.",
     )
 else:
-    cols[5].metric("ERA − FIP", "—")
+    cols[5].metric("FIP", "—")
 
 # ── Staff context callout cards ───────────────────────────────────────────────
 
@@ -657,6 +662,7 @@ else:
     # ── Stats table ───────────────────────────────────────────────────────────
     table_df = comp_df.copy()
     table_df["ERA"]      = table_df["era"].apply(lambda v: f"{float(v):.2f}" if v is not None else "—")
+    table_df["FIP"]      = table_df["fip"].apply(lambda v: f"{float(v):.2f}" if v is not None else "—")
     table_df["WHIP"]     = table_df["whip"].apply(lambda v: f"{float(v):.3f}" if v is not None else "—")
     table_df["K/9"]      = table_df["k_per_9"].apply(lambda v: f"{float(v):.2f}" if v is not None else "—")
     table_df["BB/9"]     = table_df["bb_per_9"].apply(lambda v: f"{float(v):.2f}" if v is not None else "—")
@@ -665,13 +671,14 @@ else:
     table_df["G"]        = table_df["games"].apply(lambda v: str(int(v)) if v is not None else "—")
     table_df = table_df.rename(columns={"full_name": "Pitcher"})
     st.dataframe(
-        table_df[["Pitcher", "ERA", "WHIP", "K/9", "BB/9", "Strike%", "IP", "G"]].set_index("Pitcher"),
+        table_df[["Pitcher", "ERA", "FIP", "WHIP", "K/9", "BB/9", "Strike%", "IP", "G"]].set_index("Pitcher"),
         use_container_width=True,
     )
 
     # ── Bar charts per metric ─────────────────────────────────────────────────
     chart_metrics = [
         ("era",        "ERA"),
+        ("fip",        "FIP"),
         ("whip",       "WHIP"),
         ("k_per_9",    "K/9"),
         ("bb_per_9",   "BB/9"),
