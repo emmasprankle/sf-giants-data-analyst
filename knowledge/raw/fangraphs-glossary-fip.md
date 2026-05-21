@@ -71,10 +71,10 @@ Fantasy Tools
 
 
 
-  - [Brendan Gawlowski Prospects Chat: 5/19/26](https://www.fangraphs.com/blogs/brendan-gawlowski-prospects-chat-5-19-26)
-  - [Timely Play Has Put the Padres in First Place](https://www.fangraphs.com/blogs/timely-play-has-put-the-padres-in-first-place)
-  - [Jay Jaffe FanGraphs Chat – 5/19/26](https://www.fangraphs.com/blogs/jay-jaffe-fangraphs-chat-5-19-26)
-  - [Red Sox Southpaw Tyler Samaniego Isn't Perfect Anymore](https://www.fangraphs.com/blogs/red-sox-southpaw-tyler-samaniego-isnt-perfect-anymore)
+  - [Effectively Wild Episode 2481: Tarp Off the First](https://www.fangraphs.com/blogs/effectively-wild-episode-2481-tarp-off-the-first)
+  - [Royce Lewis and Ryan Jeffers’ Hamate Bone Are Broken](https://www.fangraphs.com/blogs/royce-lewis-and-ryan-jeffers-hamate-bone-are-broken)
+  - [Elly De La Cruz Does It Right](https://www.fangraphs.com/blogs/elly-de-la-cruz-does-it-right)
+  - [A Bayesian Check-In On Our Playoff Odds at the Quarter-Season Mark](https://www.fangraphs.com/blogs/a-bayesian-check-in-on-our-playoff-odds-at-the-quarter-season-mark)
 
 Podcasts: [Effectively Wild](https://www.fangraphs.com/blog-roll?category=Effectively+Wild)
 
@@ -86,8 +86,8 @@ Podcasts: [Effectively Wild](https://www.fangraphs.com/blog-roll?category=Effect
 
 [RotoGraphs](https://www.fangraphs.com/rotographs)
 
-  - [Roto Riteup: May 20, 2026](https://www.fangraphs.com/fantasy/roto-riteup-may-20-2026)
-  - [Ottoneu Hot Right Now: May 19, 2026](https://www.fangraphs.com/fantasy/ottoneu-hot-right-now-may-19-2026)
+  - [Roto Riteup: May 21, 2026](https://www.fangraphs.com/fantasy/roto-riteup-may-21-2026)
+  - [Mining the News (5/20/26)](https://www.fangraphs.com/fantasy/mining-the-news-5-20-26)
 
 Podcasts: [The Sleeper and The Bust](https://www.fangraphs.com/fantasy/category/podcast/) \| [Field of Streams](https://www.fangraphs.com/fantasy/category/field-of-streams/) \| [Beat the Shift](https://fantasy.fangraphs.com/category/beat-the-shift/)
 
@@ -189,7 +189,7 @@ On-Pace Leaders
 
 Today
 
-[Live Scoreboard](https://www.fangraphs.com/scores), [Probable Pitchers](https://www.fangraphs.com/leaders/major-league?pos=all&stats=pit&lg=all&qual=0&type=8&season=2026&month=0&season1=2026&ind=0&team=0&rost=0&age=0&filter=&players=p2026-05-20)
+[Live Scoreboard](https://www.fangraphs.com/scores), [Probable Pitchers](https://www.fangraphs.com/leaders/major-league?pos=all&stats=pit&lg=all&qual=0&type=8&season=2026&month=0&season1=2026&ind=0&team=0&rost=0&age=0&filter=&players=p2026-05-21)
 
 [Live Daily Leaderboards](https://www.fangraphs.com/scores/live-leaderboards)
 
@@ -215,26 +215,26 @@ Win Probability & Box Scores
 
 |     |     |
 | --- | --- |
-| [CLE (4) @ DET (3)](https://www.fangraphs.com/scores/box-score?date=2026-05-19&hometeamid=6&dh=0) | Final |
-| [BAL (1) @ TBR (4)](https://www.fangraphs.com/scores/box-score?date=2026-05-19&hometeamid=12&dh=0) | Final |
-| [TOR (4) @ NYY (5)](https://www.fangraphs.com/scores/box-score?date=2026-05-19&hometeamid=9&dh=0) | Final |
-| [BOS (7) @ KCR (1)](https://www.fangraphs.com/scores/box-score?date=2026-05-19&hometeamid=7&dh=0) | Final |
-| [HOU (2) @ MIN (1)](https://www.fangraphs.com/scores/box-score?date=2026-05-19&hometeamid=8&dh=0) | Final |
-| [ATH (14) @ LAA (6)](https://www.fangraphs.com/scores/box-score?date=2026-05-19&hometeamid=1&dh=0) | Final |
-| [CHW (2) @ SEA (1)](https://www.fangraphs.com/scores/box-score?date=2026-05-19&hometeamid=11&dh=0) | Final | |  | NL Games
+| [BAL (3) @ TBR (5)](https://www.fangraphs.com/scores/box-score?date=2026-05-20&hometeamid=12&dh=0) | Final |
+| [HOU (1) @ MIN (4)](https://www.fangraphs.com/scores/box-score?date=2026-05-20&hometeamid=8&dh=0) | Final |
+| [CHW (4) @ SEA (5)](https://www.fangraphs.com/scores/box-score?date=2026-05-20&hometeamid=11&dh=0) | Final |
+| [CLE (3) @ DET (2)](https://www.fangraphs.com/scores/box-score?date=2026-05-20&hometeamid=6&dh=0) | Final/10 |
+| [TOR (2) @ NYY (1)](https://www.fangraphs.com/scores/box-score?date=2026-05-20&hometeamid=9&dh=0) | Final |
+| [BOS (4) @ KCR (3)](https://www.fangraphs.com/scores/box-score?date=2026-05-20&hometeamid=7&dh=0) | Final |
+| [ATH (6) @ LAA (5)](https://www.fangraphs.com/scores/box-score?date=2026-05-20&hometeamid=1&dh=0) | Final/10 | |  | NL Games
 
 
 
 |     |     |
 | --- | --- |
-| [ATL (8) @ MIA (4)](https://www.fangraphs.com/scores/box-score?date=2026-05-19&hometeamid=20&dh=0) | Final |
-| [CIN (4) @ PHI (1)](https://www.fangraphs.com/scores/box-score?date=2026-05-19&hometeamid=26&dh=0) | Final |
-| [NYM (6) @ WSN (9)](https://www.fangraphs.com/scores/box-score?date=2026-05-19&hometeamid=24&dh=0) | Final |
-| [MIL (5) @ CHC (2)](https://www.fangraphs.com/scores/box-score?date=2026-05-19&hometeamid=17&dh=0) | Final |
-| [PIT (6) @ STL (9)](https://www.fangraphs.com/scores/box-score?date=2026-05-19&hometeamid=28&dh=0) | Final/10 |
-| [TEX (10) @ COL (0)](https://www.fangraphs.com/scores/box-score?date=2026-05-19&hometeamid=19&dh=0) | Final |
-| [LAD (5) @ SDP (4)](https://www.fangraphs.com/scores/box-score?date=2026-05-19&hometeamid=29&dh=0) | Final |
-| [SFG (3) @ ARI (5)](https://www.fangraphs.com/scores/box-score?date=2026-05-19&hometeamid=15&dh=0) | Final | |
+| [CIN (9) @ PHI (4)](https://www.fangraphs.com/scores/box-score?date=2026-05-20&hometeamid=26&dh=0) | Final |
+| [TEX (5) @ COL (4)](https://www.fangraphs.com/scores/box-score?date=2026-05-20&hometeamid=19&dh=0) | Final |
+| [SFG (3) @ ARI (6)](https://www.fangraphs.com/scores/box-score?date=2026-05-20&hometeamid=15&dh=0) | Final |
+| [ATL (9) @ MIA (1)](https://www.fangraphs.com/scores/box-score?date=2026-05-20&hometeamid=20&dh=0) | Final |
+| [NYM (4) @ WSN (8)](https://www.fangraphs.com/scores/box-score?date=2026-05-20&hometeamid=24&dh=0) | Final |
+| [MIL (5) @ CHC (0)](https://www.fangraphs.com/scores/box-score?date=2026-05-20&hometeamid=17&dh=0) | Final |
+| [PIT (7) @ STL (0)](https://www.fangraphs.com/scores/box-score?date=2026-05-20&hometeamid=28&dh=0) | Final |
+| [LAD (4) @ SDP (0)](https://www.fangraphs.com/scores/box-score?date=2026-05-20&hometeamid=29&dh=0) | Final | |
 
 - Standings
 
@@ -266,11 +266,11 @@ Win Probability & Box Scores
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| [Rays](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=12&players=0) | 32 | 15 | 0.0 |
-| [Yankees](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=9&players=0) | 30 | 19 | 3.0 |
-| [Blue Jays](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=14&players=0) | 21 | 27 | 11.5 |
-| [Red Sox](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=3&players=0) | 21 | 27 | 11.5 |
-| [Orioles](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=2&players=0) | 21 | 28 | 12.0 |
+| [Rays](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=12&players=0) | 33 | 15 | 0.0 |
+| [Yankees](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=9&players=0) | 30 | 20 | 4.0 |
+| [Red Sox](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=3&players=0) | 22 | 27 | 11.5 |
+| [Blue Jays](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=14&players=0) | 22 | 27 | 11.5 |
+| [Orioles](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=2&players=0) | 21 | 29 | 13.0 |
 
 
 
@@ -284,11 +284,11 @@ AL Central
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| [Guardians](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=5&players=0) | 28 | 22 | 0.0 |
-| [White Sox](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=4&players=0) | 25 | 23 | 2.0 |
-| [Twins](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=8&players=0) | 22 | 27 | 5.5 |
-| [Royals](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=7&players=0) | 20 | 29 | 7.5 |
-| [Tigers](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=6&players=0) | 20 | 29 | 7.5 |
+| [Guardians](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=5&players=0) | 29 | 22 | 0.0 |
+| [White Sox](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=4&players=0) | 25 | 24 | 3.0 |
+| [Twins](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=8&players=0) | 23 | 27 | 5.5 |
+| [Royals](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=7&players=0) | 20 | 30 | 8.5 |
+| [Tigers](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=6&players=0) | 20 | 30 | 8.5 |
 
 
 
@@ -302,11 +302,11 @@ AL West
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| [Athletics](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=10&players=0) | 24 | 24 | 0.0 |
-| [Rangers](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=13&players=0) | 23 | 25 | 1.0 |
-| [Mariners](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=11&players=0) | 23 | 27 | 2.0 |
-| [Astros](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=21&players=0) | 20 | 30 | 5.0 |
-| [Angels](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=1&players=0) | 17 | 32 | 7.5 | |  | NL East
+| [Athletics](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=10&players=0) | 25 | 24 | 0.0 |
+| [Rangers](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=13&players=0) | 24 | 25 | 1.0 |
+| [Mariners](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=11&players=0) | 24 | 27 | 2.0 |
+| [Astros](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=21&players=0) | 20 | 31 | 6.0 |
+| [Angels](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=1&players=0) | 17 | 33 | 8.5 | |  | NL East
 
 
 
@@ -314,11 +314,11 @@ AL West
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| [Braves](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=16&players=0) | 33 | 16 | 0.0 |
-| [Phillies](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=26&players=0) | 25 | 24 | 8.0 |
-| [Nationals](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=24&players=0) | 24 | 25 | 9.0 |
-| [Marlins](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=20&players=0) | 22 | 27 | 11.0 |
-| [Mets](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=25&players=0) | 21 | 27 | 11.5 |
+| [Braves](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=16&players=0) | 34 | 16 | 0.0 |
+| [Phillies](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=26&players=0) | 25 | 25 | 9.0 |
+| [Nationals](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=24&players=0) | 25 | 25 | 9.0 |
+| [Marlins](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=20&players=0) | 22 | 28 | 12.0 |
+| [Mets](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=25&players=0) | 21 | 28 | 12.5 |
 
 
 
@@ -332,11 +332,11 @@ NL Central
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| [Brewers](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=23&players=0) | 28 | 18 | 0.0 |
-| [Cubs](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=17&players=0) | 29 | 20 | 0.5 |
-| [Cardinals](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=28&players=0) | 28 | 19 | 0.5 |
-| [Reds](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=18&players=0) | 25 | 24 | 4.5 |
-| [Pirates](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=27&players=0) | 24 | 24 | 5.0 |
+| [Brewers](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=23&players=0) | 29 | 18 | 0.0 |
+| [Cubs](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=17&players=0) | 29 | 21 | 1.5 |
+| [Cardinals](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=28&players=0) | 28 | 20 | 1.5 |
+| [Reds](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=18&players=0) | 26 | 24 | 4.5 |
+| [Pirates](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=27&players=0) | 25 | 24 | 5.0 |
 
 
 
@@ -350,11 +350,11 @@ NL West
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| [Dodgers](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=22&players=0) | 30 | 19 | 0.0 |
-| [Padres](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=29&players=0) | 29 | 19 | 0.5 |
-| [D-backs](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=15&players=0) | 24 | 23 | 5.0 |
-| [Giants](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=30&players=0) | 20 | 29 | 10.0 |
-| [Rockies](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=19&players=0) | 19 | 30 | 11.0 | |
+| [Dodgers](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=22&players=0) | 31 | 19 | 0.0 |
+| [Padres](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=29&players=0) | 29 | 20 | 1.5 |
+| [D-backs](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=15&players=0) | 25 | 23 | 5.0 |
+| [Giants](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=30&players=0) | 20 | 30 | 11.0 |
+| [Rockies](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=19&players=0) | 19 | 31 | 12.0 | |
 
 - Leaders
 
@@ -1239,17 +1239,41 @@ When I try to calculate FIP- game by game for each starting pitcher of each seas
 
 [![](https://www.fangraphs.com/images/30a_fangraphs.png)](https://blogs.fangraphs.com/)
 
+[Effectively Wild Episode 2481: Tarp Off the First](https://blogs.fangraphs.com/effectively-wild-episode-2481-tarp-off-the-first/)
+
+5/21 – [Ben Lindbergh](https://www.fangraphs.com/blog-roll?author=38267)
+
+[Royce Lewis and Ryan Jeffers’ Hamate Bone Are Broken](https://blogs.fangraphs.com/royce-lewis-and-ryan-jeffers-hamate-bone-are-broken/)
+
+5/20 – [Dan Szymborski](https://www.fangraphs.com/blog-roll?author=30942) [10](https://blogs.fangraphs.com/royce-lewis-and-ryan-jeffers-hamate-bone-are-broken//#comments)
+
+[More FanGraphs Simulation Features: Historical Players, Park Factors and More!](https://blogs.fangraphs.com/more-fangraphs-simulation-features-historical-players-park-factors-and-more/)
+
+5/20 – [David Appelman](https://www.fangraphs.com/blog-roll?author=1) [4](https://blogs.fangraphs.com/more-fangraphs-simulation-features-historical-players-park-factors-and-more//#comments)
+
+[Elly De La Cruz Does It Right](https://blogs.fangraphs.com/elly-de-la-cruz-does-it-right/)
+
+5/20 – [Ryan Blake](https://www.fangraphs.com/blog-roll?author=200227) [5](https://blogs.fangraphs.com/elly-de-la-cruz-does-it-right//#comments)
+
+[A Bayesian Check-In On Our Playoff Odds at the Quarter-Season Mark](https://blogs.fangraphs.com/a-bayesian-check-in-on-our-playoff-odds-at-the-quarter-season-mark/)
+
+5/20 – [Ben Clemens](https://www.fangraphs.com/blog-roll?author=164011) [49](https://blogs.fangraphs.com/a-bayesian-check-in-on-our-playoff-odds-at-the-quarter-season-mark//#comments)
+
+[Miguel Vargas Has Been Abducted and Replaced by a Replicant. I Hope the Old Version Never Comes Back.](https://blogs.fangraphs.com/miguel-vargas-has-been-abducted-and-replaced-by-a-replicant-i-hope-the-old-version-never-comes-back/)
+
+5/20 – [Michael Baumann](https://www.fangraphs.com/blog-roll?author=198829) [37](https://blogs.fangraphs.com/miguel-vargas-has-been-abducted-and-replaced-by-a-replicant-i-hope-the-old-version-never-comes-back//#comments)
+
 [Brendan Gawlowski Prospects Chat: 5/19/26](https://blogs.fangraphs.com/brendan-gawlowski-prospects-chat-5-19-26/)
 
-5/19 – [Brendan Gawlowski](https://www.fangraphs.com/blog-roll?author=173407) [1](https://blogs.fangraphs.com/brendan-gawlowski-prospects-chat-5-19-26//#comments)
+5/19 – [Brendan Gawlowski](https://www.fangraphs.com/blog-roll?author=173407) [2](https://blogs.fangraphs.com/brendan-gawlowski-prospects-chat-5-19-26//#comments)
 
 [Timely Play Has Put the Padres in First Place](https://blogs.fangraphs.com/timely-play-has-put-the-padres-in-first-place/)
 
-5/19 – [Jay Jaffe](https://www.fangraphs.com/blog-roll?author=169789) [18](https://blogs.fangraphs.com/timely-play-has-put-the-padres-in-first-place//#comments)
+5/19 – [Jay Jaffe](https://www.fangraphs.com/blog-roll?author=169789) [22](https://blogs.fangraphs.com/timely-play-has-put-the-padres-in-first-place//#comments)
 
 [Jay Jaffe FanGraphs Chat – 5/19/26](https://blogs.fangraphs.com/jay-jaffe-fangraphs-chat-5-19-26/)
 
-5/19 – [Jay Jaffe](https://www.fangraphs.com/blog-roll?author=169789) [17](https://blogs.fangraphs.com/jay-jaffe-fangraphs-chat-5-19-26//#comments)
+5/19 – [Jay Jaffe](https://www.fangraphs.com/blog-roll?author=169789) [22](https://blogs.fangraphs.com/jay-jaffe-fangraphs-chat-5-19-26//#comments)
 
 [Red Sox Southpaw Tyler Samaniego Isn't Perfect Anymore](https://blogs.fangraphs.com/red-sox-southpaw-tyler-samaniego-isnt-perfect-anymore/)
 
@@ -1257,35 +1281,11 @@ When I try to calculate FIP- game by game for each starting pitcher of each seas
 
 [Brayan Bello Is Going Through It](https://blogs.fangraphs.com/brayan-bello-is-going-through-it/)
 
-5/19 – [Michael Baumann](https://www.fangraphs.com/blog-roll?author=198829) [4](https://blogs.fangraphs.com/brayan-bello-is-going-through-it//#comments)
+5/19 – [Michael Baumann](https://www.fangraphs.com/blog-roll?author=198829) [6](https://blogs.fangraphs.com/brayan-bello-is-going-through-it//#comments)
 
 [Job Posting: Colorado Rockies - Multiple Openings](https://blogs.fangraphs.com/job-posting-colorado-rockies-multiple-openings-2/)
 
 5/19 – [David Appelman](https://www.fangraphs.com/blog-roll?author=1)
-
-[Cristopher Sánchez, Continuously Improving](https://blogs.fangraphs.com/cristopher-sanchez-continuously-improving/)
-
-5/19 – [Ben Clemens](https://www.fangraphs.com/blog-roll?author=164011) [26](https://blogs.fangraphs.com/cristopher-sanchez-continuously-improving//#comments)
-
-[Effectively Wild Episode 2480: The Most Embarrassing Baseball Play](https://blogs.fangraphs.com/effectively-wild-episode-2480-the-most-embarrassing-baseball-play/)
-
-5/19 – [Ben Lindbergh](https://www.fangraphs.com/blog-roll?author=38267)
-
-[Colt Emerson Debuts in Seattle Amid AL West Skid](https://blogs.fangraphs.com/colt-emerson-debuts-in-seattle-amid-al-west-skid/)
-
-5/18 – [Ryan Blake](https://www.fangraphs.com/blog-roll?author=200227) [9](https://blogs.fangraphs.com/colt-emerson-debuts-in-seattle-amid-al-west-skid//#comments)
-
-[Ben Clemens FanGraphs Chat - 5/18/26](https://blogs.fangraphs.com/ben-clemens-fangraphs-chat-5-18-26/)
-
-5/18 – [Ben Clemens](https://www.fangraphs.com/blog-roll?author=164011) [14](https://blogs.fangraphs.com/ben-clemens-fangraphs-chat-5-18-26//#comments)
-
-[FanGraphs Power Rankings: May 11–17](https://blogs.fangraphs.com/fangraphs-power-rankings-may-11-17/)
-
-5/18 – [Jake Mailhot](https://www.fangraphs.com/blog-roll?author=10708) [20](https://blogs.fangraphs.com/fangraphs-power-rankings-may-11-17//#comments)
-
-[Everybody Who’s Anybody Is Getting Loose Bodies, and Now It’s Blake Snell’s Turn](https://blogs.fangraphs.com/everybody-whos-anybody-is-getting-loose-bodies-and-now-its-blake-snells-turn/)
-
-5/18 – [Jay Jaffe](https://www.fangraphs.com/blog-roll?author=169789) [20](https://blogs.fangraphs.com/everybody-whos-anybody-is-getting-loose-bodies-and-now-its-blake-snells-turn//#comments)
 
 Insert
 

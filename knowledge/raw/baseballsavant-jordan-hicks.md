@@ -5,138 +5,66 @@ slug: baseballsavant-jordan-hicks
 
 [Preview Matchup\\
 \\
-Abbott vs. Nola\\
+Cantillo vs. Mize\\
 \\
 |     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/113.svg) | CIN |  | 1:05 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/143.svg) | PHI |  |](https://baseballsavant.mlb.com/preview?game_pk=823462&game_date=2026-5-20)
+| ![](https://www.mlbstatic.com/team-logos/114.svg) | CLE |  | 1:10 PM |\\
+| ![](https://www.mlbstatic.com/team-logos/116.svg) | DET |  |](https://baseballsavant.mlb.com/preview?game_pk=824274&game_date=2026-5-21)
 
 [Preview Matchup\\
 \\
-Baz vs. TBA\\
+Ashcraft vs. May\\
 \\
 |     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/110.svg) | BAL |  | 1:10 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/139.svg) | TB |  |](https://baseballsavant.mlb.com/preview?game_pk=822977&game_date=2026-5-20)
+| ![](https://www.mlbstatic.com/team-logos/134.svg) | PIT |  | 1:15 PM |\\
+| ![](https://www.mlbstatic.com/team-logos/138.svg) | STL |  |](https://baseballsavant.mlb.com/preview?game_pk=823056&game_date=2026-5-21)
 
 [Preview Matchup\\
 \\
-Burrows vs. Ryan\\
+Peterson vs. Cavalli\\
 \\
 |     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/117.svg) | HOU |  | 1:40 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/142.svg) | MIN |  |](https://baseballsavant.mlb.com/preview?game_pk=823703&game_date=2026-5-20)
+| ![](https://www.mlbstatic.com/team-logos/121.svg) | NYM |  | 4:05 PM |\\
+| ![](https://www.mlbstatic.com/team-logos/120.svg) | WSH |  |](https://baseballsavant.mlb.com/preview?game_pk=822733&game_date=2026-5-21)
 
 [Preview Matchup\\
 \\
-Leiter vs. Freeland\\
-\\
-|     |     |     |     |\\
-| --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/140.svg) | TEX |  | 3:10 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/115.svg) | COL |  |](https://baseballsavant.mlb.com/preview?game_pk=824355&game_date=2026-5-20)
-
-[Preview Matchup\\
-\\
-Mahle vs. Kelly\\
-\\
-|     |     |     |     |\\
-| --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/137.svg) | SF |  | 3:40 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/109.svg) | AZ |  |](https://baseballsavant.mlb.com/preview?game_pk=825084&game_date=2026-5-20)
-
-[Preview Matchup\\
-\\
-Burke vs. Hancock\\
-\\
-|     |     |     |     |\\
-| --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/145.svg) | CWS |  | 4:10 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/136.svg) | SEA |  |](https://baseballsavant.mlb.com/preview?game_pk=823134&game_date=2026-5-20)
-
-[Preview Matchup\\
-\\
-Bibee vs. TBA\\
-\\
-|     |     |     |     |\\
-| --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/114.svg) | CLE |  | 6:40 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/116.svg) | DET |  |](https://baseballsavant.mlb.com/preview?game_pk=824273&game_date=2026-5-20)
-
-[Preview Matchup\\
-\\
-Sale vs. Junk\\
+Strider vs. Alcantara\\
 \\
 |     |     |     |     |\\
 | --- | --- | --- | --- |\\
 | ![](https://www.mlbstatic.com/team-logos/144.svg) | ATL |  | 6:40 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/146.svg) | MIA |  |](https://baseballsavant.mlb.com/preview?game_pk=823866&game_date=2026-5-20)
+| ![](https://www.mlbstatic.com/team-logos/146.svg) | MIA |  |](https://baseballsavant.mlb.com/preview?game_pk=823864&game_date=2026-5-21)
 
 [Preview Matchup\\
 \\
-Thornton vs. Littell\\
-\\
-|     |     |     |     |\\
-| --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/121.svg) | NYM |  | 6:45 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/120.svg) | WSH |  |](https://baseballsavant.mlb.com/preview?game_pk=822735&game_date=2026-5-20)
-
-[Preview Matchup\\
-\\
-Yesavage vs. Schlittler\\
+Fisher vs. Rodón\\
 \\
 |     |     |     |     |\\
 | --- | --- | --- | --- |\\
 | ![](https://www.mlbstatic.com/team-logos/141.svg) | TOR |  | 7:05 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/147.svg) | NYY |  |](https://baseballsavant.mlb.com/preview?game_pk=823547&game_date=2026-5-20)
+| ![](https://www.mlbstatic.com/team-logos/147.svg) | NYY |  |](https://baseballsavant.mlb.com/preview?game_pk=823545&game_date=2026-5-21)
 
 [Preview Matchup\\
 \\
-Early vs. Wacha\\
-\\
-|     |     |     |     |\\
-| --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/111.svg) | BOS |  | 7:40 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/118.svg) | KC |  |](https://baseballsavant.mlb.com/preview?game_pk=824111&game_date=2026-5-20)
-
-[Preview Matchup\\
-\\
-Harrison vs. Cabrera\\
-\\
-|     |     |     |     |\\
-| --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/158.svg) | MIL |  | 7:40 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/112.svg) | CHC |  |](https://baseballsavant.mlb.com/preview?game_pk=824678&game_date=2026-5-20)
-
-[Preview Matchup\\
-\\
-Mlodzinski vs. McGreevy\\
-\\
-|     |     |     |     |\\
-| --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/134.svg) | PIT |  | 7:45 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/138.svg) | STL |  |](https://baseballsavant.mlb.com/preview?game_pk=823057&game_date=2026-5-20)
-
-[Preview Matchup\\
-\\
-Ohtani vs. Vásquez\\
-\\
-|     |     |     |     |\\
-| --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/119.svg) | LAD |  | 8:40 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/135.svg) | SD |  |](https://baseballsavant.mlb.com/preview?game_pk=823299&game_date=2026-5-20)
-
-[Preview Matchup\\
-\\
-Civale vs. Kochanowicz\\
+Severino vs. Soriano\\
 \\
 |     |     |     |     |\\
 | --- | --- | --- | --- |\\
 | ![](https://www.mlbstatic.com/team-logos/133.svg) | ATH |  | 9:38 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/108.svg) | LAA |  |](https://baseballsavant.mlb.com/preview?game_pk=824032&game_date=2026-5-20)
+| ![](https://www.mlbstatic.com/team-logos/108.svg) | LAA |  |](https://baseballsavant.mlb.com/preview?game_pk=824031&game_date=2026-5-21)
+
+[Preview Matchup\\
+\\
+Agnos vs. Rodriguez\\
+\\
+|     |     |     |     |\\
+| --- | --- | --- | --- |\\
+| ![](https://www.mlbstatic.com/team-logos/115.svg) | COL |  | 9:40 PM |\\
+| ![](https://www.mlbstatic.com/team-logos/109.svg) | AZ |  |](https://baseballsavant.mlb.com/preview?game_pk=825083&game_date=2026-5-21)
 
 <
 
@@ -166,15 +94,15 @@ Cypress Creek (TX) HS
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2024 | 4 | 7 | 4.10 | 29 | 20 | 1 | 109.2 | 96 | 1.45 |
 | 2025 | 2 | 7 | 6.95 | 34 | 9 | 2 | 67.1 | 58 | 1.66 |
-| 2026 | 0 | 1 | 5.19 | 19 | 0 | 1 | 17.1 | 15 | 2.08 |
-| 8 Seasons | 17 | 36 | 4.44 | 294 | 37 | 36 | 437.2 | 424 | 1.42 |
+| 2026 | 0 | 1 | 5.60 | 20 | 0 | 1 | 17.2 | 15 | 2.09 |
+| 8 Seasons | 17 | 36 | 4.46 | 295 | 37 | 36 | 438 | 424 | 1.42 |
 
 |  | G | W-L | ERA | IP | SO | WHIP |
 | --- | --- | --- | --- | --- | --- | --- |
 | 2024 | 29 | 4-7 | 4.10 | 109.2 | 96 | 1.45 |
 | 2025 | 34 | 2-7 | 6.95 | 67.1 | 58 | 1.66 |
-| 2026 | 19 | 0-1 | 5.19 | 17.1 | 15 | 2.08 |
-| 8 Seasons | 294 | 17-36 | 4.44 | 437.2 | 424 | 1.42 |
+| 2026 | 20 | 0-1 | 5.60 | 17.2 | 15 | 2.09 |
+| 8 Seasons | 295 | 17-36 | 4.46 | 438 | 424 | 1.42 |
 
 Player Apps
 
@@ -223,7 +151,7 @@ vs. LHH71%20%4%5%Pitchvs. RHH53%43%3%1%60%SI34%ST3%FF3%FS
 MLB Percentile Rankings
 
 
-![](https://baseballsavant.mlb.com/sections/evp/images/play.png)ValuesavantPOORAVERAGEGREATPitching Run Value-3NOT QUALIFIED26Fastball Run Value-3NOT QUALIFIED19Breaking Run Value1NOT QUALIFIED58Offspeed Run Value0NOT QUALIFIED34PitchingxERA3.87NOT QUALIFIED52xBA.235NOT QUALIFIED59Fastball Velo98.3NOT QUALIFIED95Avg Exit Velo91.2NOT QUALIFIED10Chase %19.9NOT QUALIFIED1Whiff %18.3NOT QUALIFIED9K %17.6NOT QUALIFIED21BB %20.0NOT QUALIFIED1Barrel %0.0NOT QUALIFIED98Hard-Hit %34.6NOT QUALIFIED74GB %55.8NOT QUALIFIED93Extension6.3NOT QUALIFIED30
+![](https://baseballsavant.mlb.com/sections/evp/images/play.png)ValuesavantPOORAVERAGEGREATPitching Run Value-3NOT QUALIFIED26Fastball Run Value-3NOT QUALIFIED19Breaking Run Value1NOT QUALIFIED58Offspeed Run Value0NOT QUALIFIED35PitchingxERA3.88NOT QUALIFIED52xBA.235NOT QUALIFIED60Fastball Velo98.3NOT QUALIFIED95Avg Exit Velo91.2NOT QUALIFIED10Chase %19.9NOT QUALIFIED1Whiff %18.3NOT QUALIFIED8K %17.6NOT QUALIFIED21BB %20.0NOT QUALIFIED1Barrel %0.0NOT QUALIFIED98Hard-Hit %34.6NOT QUALIFIED74GB %55.8NOT QUALIFIED93Extension6.3NOT QUALIFIED30
 
 20262026
 
@@ -249,7 +177,7 @@ Movement Profile (Induced Break)
 ?
 
 
-MLB AVG.7.3 INCHES RISEARM ANGLE31°12"24"6"12"18"24"12"24"12"24"7.8 INCHES TAIL3.8 INCHES DROP13.3 INCHES TAIL9.9 INCHES RISE6.0 INCHES BREAK1.3 INCHES RISEAVG17.3 INCHES TAIL7.3 INCHES RISEAVG1B3BMOVES TOWARD︎MORERISEMOREDROPUSAGEMPHRHP AVGSinker60%98.494.3Sweeper34%87.483.44-Seam3%97.895.1Split3%88.086.7SAMPLE100 PITCH
+MLB AVG.7.3 INCHES RISEARM ANGLE31°12"24"6"12"18"24"12"24"12"24"7.8 INCHES TAIL3.8 INCHES DROP13.3 INCHES TAIL9.9 INCHES RISE6.0 INCHES BREAK1.3 INCHES RISEAVG17.3 INCHES TAIL7.3 INCHES RISEAVG1B3BMOVES TOWARD︎MORERISEMOREDROPUSAGEMPHRHP AVGSinker60%98.494.3Sweeper34%87.483.44-Seam3%97.895.1Split3%88.086.9SAMPLE100 PITCH
 
 [Statcast](https://baseballsavant.mlb.com/savant-player/jordan-hicks-663855#statcast) [Standard](https://baseballsavant.mlb.com/savant-player/jordan-hicks-663855#standard) [Splits](https://baseballsavant.mlb.com/savant-player/jordan-hicks-663855#splits) [Game Logs](https://baseballsavant.mlb.com/savant-player/jordan-hicks-663855#gamelogs)
 
@@ -348,8 +276,8 @@ Click for Chart.
 |  | 2025 | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | NL | 217 | 1 | 5 | 6.47 | 13 | 9 | 0 | 48.2 | 55 | 36 | 35 | 3 | 20 | 43 | 1.54 |
 |  | 2025 | ![](https://www.mlbstatic.com/team-logos/111.svg)BOS | AL | 97 | 1 | 2 | 8.20 | 21 | 0 | 2 | 18.2 | 25 | 20 | 17 | 3 | 12 | 15 | 1.98 |
 |  | 2025 | ![](https://www.mlbstatic.com/team-logos/.svg)2 Teams |  | 314 | 2 | 7 | 6.95 | 34 | 9 | 2 | 67.1 | 80 | 56 | 52 | 6 | 32 | 58 | 1.66 |
-|  | 2026 | ![](https://www.mlbstatic.com/team-logos/145.svg)CWS | AL | 85 | 0 | 1 | 5.19 | 19 | 0 | 1 | 17.1 | 19 | 10 | 10 | 0 | 17 | 15 | 2.08 |
-|  | 8 Seasons | ![](https://www.mlbstatic.com/team-logos/.svg)5 Teams |  | 1921 | 17 | 36 | 4.44 | 294 | 37 | 36 | 437.2 | 394 | 232 | 216 | 31 | 229 | 424 | 1.42 |
+|  | 2026 | ![](https://www.mlbstatic.com/team-logos/145.svg)CWS | AL | 87 | 0 | 1 | 5.60 | 20 | 0 | 1 | 17.2 | 20 | 11 | 11 | 1 | 17 | 15 | 2.09 |
+|  | 8 Seasons | ![](https://www.mlbstatic.com/team-logos/.svg)5 Teams |  | 1923 | 17 | 36 | 4.46 | 295 | 37 | 36 | 438.0 | 395 | 233 | 217 | 32 | 229 | 424 | 1.42 |
 
 \*: All Star Season,
 Rankings AL/NL: Top 5101520,
@@ -371,8 +299,8 @@ Click for Chart.
 | 2025 | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | NL | P | 13 | 9 | 48.2 | 10 | 4 | 6 | 0 | 0 |  | 1.000 |
 | 2025 | ![](https://www.mlbstatic.com/team-logos/111.svg)BOS | AL | P | 21 | 0 | 18.2 | 1 | 0 | 1 | 0 | 0 |  | 1.000 |
 | 2025 | ![](https://www.mlbstatic.com/team-logos/.svg)2 Teams |  | P | 34 | 9 | 67.1 | 11 | 4 | 7 | 0 | 0 |  | 1.000 |
-| 2026 | ![](https://www.mlbstatic.com/team-logos/145.svg)CWS | AL | P | 19 | 0 | 17.1 | 4 | 0 | 4 | 0 | 0 |  | 1.000 |
-| 8 Seasons | ![](https://www.mlbstatic.com/team-logos/.svg)5 Teams |  | P | 294 | 37 | 437.2 | 101 | 44 | 55 | 2 | 3 |  | .980 |
+| 2026 | ![](https://www.mlbstatic.com/team-logos/145.svg)CWS | AL | P | 20 | 0 | 17.2 | 4 | 0 | 4 | 0 | 0 |  | 1.000 |
+| 8 Seasons | ![](https://www.mlbstatic.com/team-logos/.svg)5 Teams |  | P | 295 | 37 | 438.0 | 101 | 44 | 55 | 2 | 3 |  | .980 |
 
 ## [Spray Chart](https://baseballsavant.mlb.com/savant-player/jordan-hicks-663855?stats=statcast-r-pitching-mlb\#spray-chart)
 
@@ -540,7 +468,7 @@ Save Image
 | Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Chicago White Sox | MLB | vs Left |  |  |  | 16 |  |  | 6.1 | 33 | 7 |  |  | 0 | 7 | 8 | 2.21 |
-| Chicago White Sox | MLB | vs Right |  |  |  | 19 |  |  | 10.2 | 52 | 12 |  |  | 0 | 10 | 7 | 2.06 |
+| Chicago White Sox | MLB | vs Right |  |  |  | 20 |  |  | 11.0 | 54 | 13 |  |  | 1 | 10 | 7 | 2.09 |
 
 ### [Monthly Splits](https://baseballsavant.mlb.com/savant-player/jordan-hicks-663855?stats=statcast-r-pitching-mlb\#monthly-splits)
 
@@ -548,33 +476,33 @@ Save Image
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Chicago White Sox | MLB | March | 0 | 0 | 11.57 | 3 | 0 | 1 | 2.1 | 13 | 2 | 3 | 3 | 0 | 5 | 2 | 3.00 |
 | Chicago White Sox | MLB | April | 0 | 1 | 2.61 | 11 | 0 | 0 | 10.1 | 49 | 13 | 3 | 3 | 0 | 7 | 5 | 1.94 |
-| Chicago White Sox | MLB | May | 0 | 0 | 7.71 | 5 | 0 | 0 | 4.2 | 23 | 4 | 4 | 4 | 0 | 5 | 8 | 1.93 |
-| Chicago White Sox | MLB | Pre All-Star | 0 | 1 | 5.19 | 19 | 0 | 1 | 17.1 | 85 | 19 | 10 | 10 | 0 | 17 | 15 | 2.08 |
+| Chicago White Sox | MLB | May | 0 | 0 | 9.00 | 6 | 0 | 0 | 5.0 | 25 | 5 | 5 | 5 | 1 | 5 | 8 | 2.00 |
+| Chicago White Sox | MLB | Pre All-Star | 0 | 1 | 5.60 | 20 | 0 | 1 | 17.2 | 87 | 20 | 11 | 11 | 1 | 17 | 15 | 2.09 |
 
 ### [Baserunner Splits](https://baseballsavant.mlb.com/savant-player/jordan-hicks-663855?stats=statcast-r-pitching-mlb\#baserunner-splits)
 
 | Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Chicago White Sox | MLB | Bases Empty |  |  |  | 16 |  |  | 5.0 | 33 | 10 |  |  | 0 | 6 | 3 | 3.20 |
+| Chicago White Sox | MLB | Bases Empty |  |  |  | 17 |  |  | 5.1 | 34 | 10 |  |  | 0 | 6 | 3 | 3.00 |
 | Chicago White Sox | MLB | Bases Loaded |  |  |  | 6 |  |  | 2.0 | 7 | 0 |  |  | 0 | 2 | 1 | 1.00 |
 | Chicago White Sox | MLB | Runner at 1st |  |  |  | 14 |  |  | 4.1 | 16 | 3 |  |  | 0 | 2 | 5 | 1.15 |
 | Chicago White Sox | MLB | Runners at 1st & 2nd |  |  |  | 5 |  |  | 1.0 | 4 | 2 |  |  | 0 | 0 | 0 | 2.00 |
 | Chicago White Sox | MLB | Runners at 1st & 3rd |  |  |  | 5 |  |  | 2.0 | 9 | 1 |  |  | 0 | 2 | 3 | 1.50 |
 | Chicago White Sox | MLB | Runner at 2nd |  |  |  | 8 |  |  | 1.2 | 10 | 3 |  |  | 0 | 2 | 2 | 3.00 |
 | Chicago White Sox | MLB | Runners at 2nd & 3rd |  |  |  | 2 |  |  | 0.1 | 3 | 0 |  |  | 0 | 2 | 1 | 6.00 |
-| Chicago White Sox | MLB | Runner at 3rd |  |  |  | 4 |  |  | 0.2 | 3 | 0 |  |  | 0 | 1 | 0 | 1.50 |
-| Chicago White Sox | MLB | Scoring Position |  |  |  | 14 |  |  | 7.2 | 36 | 6 |  |  | 0 | 9 | 7 | 1.96 |
+| Chicago White Sox | MLB | Runner at 3rd |  |  |  | 5 |  |  | 0.2 | 4 | 1 |  |  | 1 | 1 | 0 | 3.00 |
+| Chicago White Sox | MLB | Scoring Position |  |  |  | 15 |  |  | 7.2 | 37 | 7 |  |  | 1 | 9 | 7 | 2.09 |
 
 ### [Game Type Splits](https://baseballsavant.mlb.com/savant-player/jordan-hicks-663855?stats=statcast-r-pitching-mlb\#game-type-splits)
 
 | Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Chicago White Sox | MLB | Home Games | 0 | 1 | 6.48 | 9 | 0 | 0 | 8.1 | 44 | 10 | 6 | 6 | 0 | 9 | 8 | 2.28 |
-| Chicago White Sox | MLB | Away Games | 0 | 0 | 4.00 | 10 | 0 | 1 | 9.0 | 41 | 9 | 4 | 4 | 0 | 8 | 7 | 1.89 |
-| Chicago White Sox | MLB | Day Games | 0 | 1 | 5.06 | 11 | 0 | 0 | 10.2 | 50 | 10 | 6 | 6 | 0 | 11 | 7 | 1.97 |
+| Chicago White Sox | MLB | Away Games | 0 | 0 | 4.82 | 11 | 0 | 1 | 9.1 | 43 | 10 | 5 | 5 | 1 | 8 | 7 | 1.93 |
+| Chicago White Sox | MLB | Day Games | 0 | 1 | 5.73 | 12 | 0 | 0 | 11.0 | 52 | 11 | 7 | 7 | 1 | 11 | 7 | 2.00 |
 | Chicago White Sox | MLB | Night Games | 0 | 0 | 5.40 | 8 | 0 | 1 | 6.2 | 35 | 9 | 4 | 4 | 0 | 6 | 8 | 2.25 |
 | Chicago White Sox | MLB | Leading Off Inning |  |  |  | 17 |  |  | 3.1 | 18 | 6 |  |  | 0 | 1 | 2 | 2.10 |
-| Chicago White Sox | MLB | Late / Close |  |  |  | 5 |  |  | 4.1 | 20 | 5 |  |  | 0 | 2 | 2 | 1.62 |
+| Chicago White Sox | MLB | Late / Close |  |  |  | 6 |  |  | 4.1 | 21 | 6 |  |  | 1 | 2 | 2 | 1.85 |
 
 ### [Outs Splits](https://baseballsavant.mlb.com/savant-player/jordan-hicks-663855?stats=statcast-r-pitching-mlb\#out-splits)
 
@@ -582,7 +510,7 @@ Save Image
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Chicago White Sox | MLB | No Outs |  |  |  | 17 |  |  | 6.1 | 27 | 8 |  |  | 0 | 1 | 5 | 1.42 |
 | Chicago White Sox | MLB | One Out |  |  |  | 16 |  |  | 6.1 | 32 | 6 |  |  | 0 | 8 | 3 | 2.21 |
-| Chicago White Sox | MLB | Two Outs |  |  |  | 15 |  |  | 4.1 | 26 | 5 |  |  | 0 | 8 | 7 | 3.00 |
+| Chicago White Sox | MLB | Two Outs |  |  |  | 16 |  |  | 4.2 | 28 | 6 |  |  | 1 | 8 | 7 | 3.00 |
 
 ### [Inning Splits](https://baseballsavant.mlb.com/savant-player/jordan-hicks-663855?stats=statcast-r-pitching-mlb\#inning-splits)
 
@@ -591,7 +519,7 @@ Save Image
 | Chicago White Sox | MLB | Fourth Inning |  |  | 0.00 | 2 |  |  | 1.0 | 5 | 2 | 0 | 0 | 0 | 1 | 0 | 3.00 |
 | Chicago White Sox | MLB | Fifth Inning |  |  | 0.00 | 2 |  |  | 1.2 | 9 | 2 | 0 | 0 | 0 | 1 | 1 | 1.80 |
 | Chicago White Sox | MLB | Sixth Inning |  |  | 40.50 | 1 |  |  | 0.2 | 7 | 2 | 3 | 3 | 0 | 4 | 0 | 9.00 |
-| Chicago White Sox | MLB | Seventh Inning |  |  | 0.00 | 6 |  |  | 5.2 | 23 | 3 | 0 | 0 | 0 | 4 | 9 | 1.24 |
+| Chicago White Sox | MLB | Seventh Inning |  |  | 1.50 | 7 |  |  | 6.0 | 25 | 4 | 1 | 1 | 1 | 4 | 9 | 1.33 |
 | Chicago White Sox | MLB | Eighth Inning |  |  | 11.81 | 9 |  |  | 5.1 | 28 | 8 | 7 | 7 | 0 | 5 | 3 | 2.44 |
 | Chicago White Sox | MLB | Ninth Inning |  |  | 0.00 | 2 |  |  | 2.0 | 8 | 1 | 0 | 0 | 0 | 1 | 2 | 1.00 |
 | Chicago White Sox | MLB | Extra Innings |  |  | 0.00 | 1 |  |  | 1.0 | 5 | 1 | 0 | 0 | 0 | 1 | 0 | 2.00 |
@@ -669,7 +597,8 @@ Save Image
 | [2026-05-13](https://baseballsavant.mlb.com/gamefeed?gamePk=824603&game_date=2026-05-13) | ![](https://www.mlbstatic.com/team-logos/145.svg)Chicago White Sox | ![](https://www.mlbstatic.com/team-logos/118.svg)Kansas City Royals | 0 | 0 | 3.45 | 1 | 0 | 0 | 1.0 | 1 | 0 | 0 | 0 | 0 | 3 | 1.91 | [![](https://baseballsavant.mlb.com/sections/gamefeed/images/pitch-report-icon.png)](https://baseballsavant.mlb.com/player-scroll/game?gamePk=824603&player_id=663855) |
 | [2026-05-15](https://baseballsavant.mlb.com/gamefeed?gamePk=824601&game_date=2026-05-15) | ![](https://www.mlbstatic.com/team-logos/145.svg)Chicago White Sox | ![](https://www.mlbstatic.com/team-logos/112.svg)Chicago Cubs | 0 | 0 | 5.51 | 1 | 0 | 0 | 0.2 | 1 | 4 | 4 | 0 | 4 | 1 | 2.14 | [![](https://baseballsavant.mlb.com/sections/gamefeed/images/pitch-report-icon.png)](https://baseballsavant.mlb.com/player-scroll/game?gamePk=824601&player_id=663855) |
 | [2026-05-18](https://baseballsavant.mlb.com/gamefeed?gamePk=823137&game_date=2026-05-18) | ![](https://www.mlbstatic.com/team-logos/136.svg)Seattle Mariners | ![](https://www.mlbstatic.com/team-logos/145.svg)Chicago White Sox | 0 | 0 | 5.19 | 1 | 0 | 0 | 1.0 | 1 | 0 | 0 | 0 | 0 | 2 | 2.08 | [![](https://baseballsavant.mlb.com/sections/gamefeed/images/pitch-report-icon.png)](https://baseballsavant.mlb.com/player-scroll/game?gamePk=823137&player_id=663855) |
-| May | ![](https://www.mlbstatic.com/team-logos/145.svg)Chicago White Sox | ![](https://www.mlbstatic.com/team-logos/.svg) | 0 | 0 | 7.71 | 5 | 0 | 0 | 4.2 | 4 | 4 | 4 | 0 | 5 | 8 | 1.93 |  |
+| [2026-05-20](https://baseballsavant.mlb.com/gamefeed?gamePk=823134&game_date=2026-05-20) | ![](https://www.mlbstatic.com/team-logos/136.svg)Seattle Mariners | ![](https://www.mlbstatic.com/team-logos/145.svg)Chicago White Sox | 0 | 0 | 5.60 | 1 | 0 | 0 | 0.1 | 1 | 1 | 1 | 1 | 0 | 0 | 2.09 | [![](https://baseballsavant.mlb.com/sections/gamefeed/images/pitch-report-icon.png)](https://baseballsavant.mlb.com/player-scroll/game?gamePk=823134&player_id=663855) |
+| May | ![](https://www.mlbstatic.com/team-logos/145.svg)Chicago White Sox | ![](https://www.mlbstatic.com/team-logos/.svg) | 0 | 0 | 9.00 | 6 | 0 | 0 | 5.0 | 5 | 5 | 5 | 1 | 5 | 8 | 2.00 |  |
 
 | Date | Home Tm | Away Tm | W | L | ERA | G | GS | SV | IP | H | R | ER | HR | BB | SO | WHIP |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -695,7 +624,7 @@ Save Image
 | 2023 | 26 | 1114 | 168 | 9 | 5.4 | 3.2 | 86.7 | 109.7 | -0.1 | 27.4 | .207 | .311 | .296 | .283 | .333 | 35.9 | 28.4 | 11.2 | 3.29 | 3.33 |
 | 2024 | 27 | 1958 | 329 | 31 | 9.5 | 6.4 | 89.6 | 112.3 | 8.9 | 34.7 | .251 | .425 | .336 | .338 | .376 | 42.2 | 20.0 | 9.8 | 4.10 | 4.74 |
 | 2025 | 28 | 1199 | 215 | 10 | 4.7 | 3.2 | 90.0 | 115.2 | 5.8 | 31.6 | .266 | .381 | .364 | .330 | .353 | 45.6 | 18.5 | 10.2 | 6.95 | 4.58 |
-| 2026 | 29 | 318 | 52 | 0 | 0.0 | 0.0 | 91.2 | 110.9 | 11.7 | 23.1 | .235 | .272 | .365 | .312 | .279 | 34.6 | 17.6 | 20.0 | 5.19 | 3.87 |
+| 2026 | 29 | 318 | 52 | 0 | 0.0 | 0.0 | 91.2 | 110.9 | 11.7 | 23.1 | .235 | .272 | .365 | .312 | .279 | 34.6 | 17.6 | 20.0 | 5.19 | 3.88 |
 | **Player** |  | 7575 | 1229 | 66 | 5.6 | 3.4 | 88.4 | 115.2 | 4.1 | 29.6 | .228 | .343 | .313 | .308 | .332 | 37.3 | 22.1 | 11.9 |  |  |
 | **MLB** |  |  |  |  | 7.6 | 4.9 | 88.6 | 122.9 | 12.5 | 33.3 | .243 | .408 | .315 | .316 | .369 | 37.0 | 22.2 | 8.4 |  |  |
 
@@ -891,9 +820,9 @@ On the right, Induced Movement (or IVB) is reported without gravity, and attempt
 | --- | --- | --- |
 | Year | Pitch | Team | Hand | # | MPH | Vertical<br>Drop | vs.<br>Comparable | Horizontal<br>Break | vs.<br>Comparable | Vertical<br>Break | vs. Avg | Horizontal<br>Break | vs. Avg |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2026 | 4-Seam Fastball | ![](https://www.mlbstatic.com/team-logos/145.svg)CWS | R | 11 | 97.8 | 19.0 | -5.8 | 13.3ARM | 5.5 | 9.9 | -6.1 | 13.3ARM | 5.5 |
-| 2026 | Split-Finger | ![](https://www.mlbstatic.com/team-logos/145.svg)CWS | R | 8 | 88.0 | 39.3 | 6.8 | 7.8ARM | -4.0 | -3.8 | 6.6 | 7.8ARM | -3.9 |
-| 2026 | Sweeper | ![](https://www.mlbstatic.com/team-logos/145.svg)CWS | R | 109 | 87.4 | 34.6 | -2.3 | 6.0GLV | -5.6 | 1.3 | -0.1 | 6.0GLV | -7.8 |
+| 2026 | 4-Seam Fastball | ![](https://www.mlbstatic.com/team-logos/145.svg)CWS | R | 11 | 97.8 | 19.0 | -5.9 | 13.3ARM | 5.5 | 9.9 | -6.1 | 13.3ARM | 5.5 |
+| 2026 | Split-Finger | ![](https://www.mlbstatic.com/team-logos/145.svg)CWS | R | 8 | 88.0 | 39.3 | 6.8 | 7.8ARM | -4.1 | -3.8 | 6.7 | 7.8ARM | -3.9 |
+| 2026 | Sweeper | ![](https://www.mlbstatic.com/team-logos/145.svg)CWS | R | 109 | 87.4 | 34.6 | -2.3 | 6.0GLV | -5.6 | 1.3 | -0.1 | 6.0GLV | -7.9 |
 | 2026 | Sinker | ![](https://www.mlbstatic.com/team-logos/145.svg)CWS | R | 190 | 98.4 | 21.0 | 0.6 | 17.3ARM | 1.4 | 7.3 | 0.4 | 17.3ARM | 1.9 |
 | 2025 | 4-Seam Fastball | ![](https://www.mlbstatic.com/team-logos/111.svg)BOS | R | 111 | 97.4 | 15.7 | -2.3 | 10.5ARM | 2.6 | 13.3 | -2.5 | 10.5ARM | 2.9 |
 | 2025 | Sinker | ![](https://www.mlbstatic.com/team-logos/111.svg)BOS | R | 652 | 97.5 | 21.4 | 0.3 | 16.2ARM | 1.0 | 7.5 | -0.1 | 16.2ARM | 1.1 |
@@ -1114,7 +1043,7 @@ These run values are **leveraged**, meaning the base/out situation at the time o
 | 2023 | 63 | 76 | 40 | 62 | 84 | 100 | 27 |  | 89 | 38 | 65 | 83 | 15 | 85 | 72 | 96 | 61 |
 | 2024 | 14 | 11 | 40 | 53 | 16 | 59 | 3 |  | 27 | 13 | 42 | 26 | 24 | 18 | 20 | 85 | 60 |
 | 2025 | 11 | 19 | 8 | 41 | 22 | 92 | 2 |  | 33 | 8 | 30 | 20 | 18 | 93 | 11 | 95 | 57 |
-| 2026 | 26 | 19 | 58 | 34 | 52 | 95 | 1 |  | 10 | 1 | 9 | 21 | 1 | 98 | 74 | 93 | 30 |
+| 2026 | 26 | 19 | 58 | 35 | 52 | 95 | 1 |  | 10 | 1 | 8 | 21 | 1 | 98 | 74 | 93 | 30 |
 
 [+\\
 View Complete Percentile Rankings Leaderboard](https://baseballsavant.mlb.com/leaderboard/percentile-rankings?type=pitcher)
@@ -1226,7 +1155,7 @@ View Complete Expected Home Runs Leaderboard](https://baseballsavant.mlb.com/lea
 | Statcast Bat Tracking |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | [Bat Speed](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 70.9 | -0.3 | ↓ | 71.2 | -0.3 | ↓ | 71.5 | +0.4 | ↑ | 71.1 | -- |  | -- | -- |  | -- | -- |  | -- | -- |  | -- | -- |  | -- |
 | [Attack Angle](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 7° | -3° | ↓ | 10° | -2° | ↓ | 12° | +7° | ↑ | 5° | -- |  | -- | -- |  | -- | -- |  | -- | -- |  | -- | -- |  | -- |
-| [Ideal Attack Angle %](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 35.4 | -10.8 | ↓ | 46.2 | -1.5 | ↓ | 47.7 | +12.3 | ↑ | 35.4 | -- |  | -- | -- |  | -- | -- |  | -- | -- |  | -- | -- |  | -- |
+| [Ideal Attack Angle %](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 35.7 | -10.5 | ↓ | 46.2 | -1.5 | ↓ | 47.7 | +12.3 | ↑ | 35.4 | -- |  | -- | -- |  | -- | -- |  | -- | -- |  | -- | -- |  | -- |
 | [Attack Direction](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 0° | +2° | ↑ | -2° | +3° | ↑ | -5° | -10° | ↓ | 5° | -- |  | -- | -- |  | -- | -- |  | -- | -- |  | -- | -- |  | -- |
 | [Swing Path - Tilt](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 31° | -1° | ↓ | 33° | -1° | ↓ | 34° | +1° | ↑ | 34° | -- |  | -- | -- |  | -- | -- |  | -- | -- |  | -- | -- |  | -- |
 | [Swing Length](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 7.1 | -0.2 | ↓ | 7.3 | -0.2 | ↓ | 7.5 | +0.4 | ↑ | 7.1 | -- |  | -- | -- |  | -- | -- |  | -- | -- |  | -- | -- |  | -- |
@@ -1385,8 +1314,8 @@ Loading Bat Tracking...
 | 2023 | ![](https://baseballsavant.mlb.com/site-core/images/savant-mlb.svg) | -- | -- | -- | -- | -- | -- | -- | -- | -- | 66 | -- | -- | -- | -- | -- | -- | -- | -- |
 | 2024 | ![](https://www.mlbstatic.com/team-logos/137.svg) | -- | -- | -- | -- | -- | -- | -- | -- | -- | 110 | -- | -- | -- | -- | -- | -- | -- | -- |
 | 2025 | ![](https://baseballsavant.mlb.com/site-core/images/savant-mlb.svg) | -- | -- | -- | -- | -- | -- | -- | -- | -- | 67 | -- | -- | -- | -- | -- | -- | -- | -- |
-| 2026 | ![](https://www.mlbstatic.com/team-logos/145.svg) | -- | -- | -- | -- | -- | -- | -- | -- | -- | 16 | -- | -- | -- | -- | -- | -- | -- | -- |
-| **Player** | ![](https://baseballsavant.mlb.com/site-core/images/savant-mlb.svg) | -- | -- | -- | -- | -- | -- | -- | -- | -- | 437 | -- | -- | -- | -- | -- | -- | -- | -- |
+| 2026 | ![](https://www.mlbstatic.com/team-logos/145.svg) | -- | -- | -- | -- | -- | -- | -- | -- | -- | 17 | -- | -- | -- | -- | -- | -- | -- | -- |
+| **Player** | ![](https://baseballsavant.mlb.com/site-core/images/savant-mlb.svg) | -- | -- | -- | -- | -- | -- | -- | -- | -- | 438 | -- | -- | -- | -- | -- | -- | -- | -- |
 
 [+\\
 View Complete Fielding Run Value Leaderboard](https://baseballsavant.mlb.com/leaderboard/fielding-run-value)
@@ -1544,17 +1473,17 @@ Jordan HicksAvg Exit Velocity96848796919584989273889293
 
 Jordan HicksAvg Launch Angle-121125325-16-2312351961-529
 
-Jordan HicksBat Speed (MPH)69727274707069737267676971
+Jordan HicksBat Speed (MPH)69727274707069737268676971
 
-Jordan HicksSwing Length (ft)6.46.67.17.17.17.77.17.57.86.46.27.18.2
+Jordan HicksSwing Length (ft)6.46.67.17.17.17.77.17.57.86.66.27.18.2
 
 Jordan HicksSquared up % / Swings33280403113294517130438
 
 Jordan HicksSquared up % / Contact502904036173350251404325
 
-Jordan HicksAttack Angle03110717-241236424
+Jordan HicksAttack Angle03110717-241246424
 
-Jordan HicksAttack Direction137-75-1-16152-161411-2-26
+Jordan HicksAttack Direction137-75-1-16152-161311-2-26
 
 Jordan HicksSwing Path (Tilt)26282734333436323229233734
 
@@ -1584,7 +1513,7 @@ Jordan HicksxSLG.192.335.577.448.285.069.160.390.089.288.005.499.057
 
 Jordan HicksxISO.013.037.074.077.049.012.012.045.013.030.001.056.035
 
-Jordan HicksxwOBA.165.248.250.357.224.055.231.323.178.577.238.470.305
+Jordan HicksxwOBA.165.248.250.357.224.055.231.323.178.577.238.470.304
 
 Jordan HicksxwOBA (Contact).220.276.250.357.261.109.226.363.120.237.008.412.195
 
