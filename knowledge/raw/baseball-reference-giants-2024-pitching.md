@@ -3,7 +3,7 @@ source: https://www.baseball-reference.com/teams/SFG/2024-pitching.shtml
 slug: baseball-reference-giants-2024-pitching
 ---
 
-![2024 San Francisco Giants Logo](https://cdn.ssref.net/req/202605010/tlogo/br/SFG-2024.png)
+![2024 San Francisco Giants Logo](https://cdn.ssref.net/req/202605201/tlogo/br/SFG-2024.png)
 
 [via Sports Logos.net](http://www.sportslogos.net/)
 
