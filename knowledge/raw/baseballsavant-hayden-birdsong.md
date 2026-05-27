@@ -5,120 +5,138 @@ slug: baseballsavant-hayden-birdsong
 
 [Preview Matchup\\
 \\
-Brown vs. Mlodzinski\\
+Pérez vs. Gausman\\
 \\
 |     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/112.svg) | CHC |  | 1:35 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/134.svg) | PIT |  |](https://baseballsavant.mlb.com/preview?game_pk=823380&game_date=2026-5-25)
+| ![](https://www.mlbstatic.com/team-logos/146.svg) | MIA |  | 1:07 PM |\\
+| ![](https://www.mlbstatic.com/team-logos/141.svg) | TOR |  |](https://baseballsavant.mlb.com/preview?game_pk=822809&game_date=2026-5-27)
 
 [Preview Matchup\\
 \\
-McClanahan vs. Bradish\\
+Mikolas vs. Williams\\
 \\
 |     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/139.svg) | TB |  | 1:35 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/110.svg) | BAL |  |](https://baseballsavant.mlb.com/preview?game_pk=824838&game_date=2026-5-25)
+| ![](https://www.mlbstatic.com/team-logos/120.svg) | WSH |  | 1:10 PM |\\
+| ![](https://www.mlbstatic.com/team-logos/114.svg) | CLE |  |](https://baseballsavant.mlb.com/preview?game_pk=824432&game_date=2026-5-27)
 
 [Preview Matchup\\
 \\
-Matthews vs. Kay\\
+May vs. TBA\\
 \\
 |     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/142.svg) | MIN |  | 2:10 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/145.svg) | CWS |  |](https://baseballsavant.mlb.com/preview?game_pk=824598&game_date=2026-5-25)
+| ![](https://www.mlbstatic.com/team-logos/138.svg) | STL |  | 1:40 PM |\\
+| ![](https://www.mlbstatic.com/team-logos/158.svg) | MIL |  |](https://baseballsavant.mlb.com/preview?game_pk=823783&game_date=2026-5-27)
 
 [Preview Matchup\\
 \\
-Liberatore vs. Misiorowski\\
+Gilbert vs. Springs\\
 \\
 |     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/138.svg) | STL |  | 2:10 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/158.svg) | MIL |  |](https://baseballsavant.mlb.com/preview?game_pk=823784&game_date=2026-5-25)
+| ![](https://www.mlbstatic.com/team-logos/136.svg) | SEA |  | 3:05 PM |\\
+| ![](https://www.mlbstatic.com/team-logos/133.svg) | ATH |  |](https://baseballsavant.mlb.com/preview?game_pk=825003&game_date=2026-5-27)
 
 [Preview Matchup\\
 \\
-Warren vs. Wacha\\
+Soroka vs. McDonald\\
 \\
 |     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/147.svg) | NYY |  | 3:40 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/118.svg) | KC |  |](https://baseballsavant.mlb.com/preview?game_pk=824107&game_date=2026-5-25)
+| ![](https://www.mlbstatic.com/team-logos/109.svg) | AZ |  | 3:45 PM |\\
+| ![](https://www.mlbstatic.com/team-logos/137.svg) | SF |  |](https://baseballsavant.mlb.com/preview?game_pk=823217&game_date=2026-5-27)
 
 [Preview Matchup\\
 \\
-Lodolo vs. McLean\\
+Sánchez vs. Buehler\\
 \\
 |     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/113.svg) | CIN |  | 4:10 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/121.svg) | NYM |  |](https://baseballsavant.mlb.com/preview?game_pk=823625&game_date=2026-5-25)
+| ![](https://www.mlbstatic.com/team-logos/143.svg) | PHI |  | 4:10 PM |\\
+| ![](https://www.mlbstatic.com/team-logos/135.svg) | SD |  |](https://baseballsavant.mlb.com/preview?game_pk=823295&game_date=2026-5-27)
 
 [Preview Matchup\\
 \\
-Kelly vs. Roupp\\
+Matz vs. TBA\\
 \\
 |     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/109.svg) | AZ |  | 5:05 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/137.svg) | SF |  |](https://baseballsavant.mlb.com/preview?game_pk=823219&game_date=2026-5-25)
+| ![](https://www.mlbstatic.com/team-logos/139.svg) | TB |  | 6:35 PM |\\
+| ![](https://www.mlbstatic.com/team-logos/110.svg) | BAL |  |](https://baseballsavant.mlb.com/preview?game_pk=824836&game_date=2026-5-27)
 
 [Preview Matchup\\
 \\
-Littell vs. Bibee\\
+Soriano vs. Mize\\
 \\
 |     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/120.svg) | WSH |  | 6:10 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/114.svg) | CLE |  |](https://baseballsavant.mlb.com/preview?game_pk=824437&game_date=2026-5-25)
+| ![](https://www.mlbstatic.com/team-logos/108.svg) | LAA |  | 6:40 PM |\\
+| ![](https://www.mlbstatic.com/team-logos/116.svg) | DET |  |](https://baseballsavant.mlb.com/preview?game_pk=824270&game_date=2026-5-27)
 
 [Preview Matchup\\
 \\
-Luzardo vs. Vásquez\\
+Taillon vs. Chandler\\
 \\
 |     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/143.svg) | PHI |  | 6:40 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/135.svg) | SD |  |](https://baseballsavant.mlb.com/preview?game_pk=823296&game_date=2026-5-25)
+| ![](https://www.mlbstatic.com/team-logos/112.svg) | CHC |  | 6:40 PM |\\
+| ![](https://www.mlbstatic.com/team-logos/134.svg) | PIT |  |](https://baseballsavant.mlb.com/preview?game_pk=823376&game_date=2026-5-27)
 
 [Preview Matchup\\
 \\
-Imai vs. Rocker\\
+Elder vs. Early\\
 \\
 |     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/117.svg) | HOU |  | 7:05 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/140.svg) | TEX |  |](https://baseballsavant.mlb.com/preview?game_pk=822899&game_date=2026-5-25)
+| ![](https://www.mlbstatic.com/team-logos/144.svg) | ATL |  | 6:45 PM |\\
+| ![](https://www.mlbstatic.com/team-logos/111.svg) | BOS |  |](https://baseballsavant.mlb.com/preview?game_pk=824756&game_date=2026-5-27)
 
 [Preview Matchup\\
 \\
-Junk vs. Yesavage\\
+Abbott vs. Brazobán\\
 \\
 |     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/146.svg) | MIA |  | 7:07 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/141.svg) | TOR |  |](https://baseballsavant.mlb.com/preview?game_pk=822812&game_date=2026-5-25)
+| ![](https://www.mlbstatic.com/team-logos/113.svg) | CIN |  | 7:10 PM |\\
+| ![](https://www.mlbstatic.com/team-logos/121.svg) | NYM |  |](https://baseballsavant.mlb.com/preview?game_pk=823626&game_date=2026-5-27)
 
 [Preview Matchup\\
 \\
-Gordon vs. Sheehan\\
+Prielipp vs. Martin\\
 \\
 |     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/115.svg) | COL |  | 9:10 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/119.svg) | LAD |  |](https://baseballsavant.mlb.com/preview?game_pk=823948&game_date=2026-5-25)
+| ![](https://www.mlbstatic.com/team-logos/142.svg) | MIN |  | 7:40 PM |\\
+| ![](https://www.mlbstatic.com/team-logos/145.svg) | CWS |  |](https://baseballsavant.mlb.com/preview?game_pk=824596&game_date=2026-5-27)
 
 [Preview Matchup\\
 \\
-Castillo vs. Civale\\
+Cole vs. Cameron\\
 \\
 |     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/136.svg) | SEA |  | 9:40 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/133.svg) | ATH |  |](https://baseballsavant.mlb.com/preview?game_pk=825005&game_date=2026-5-25)
+| ![](https://www.mlbstatic.com/team-logos/147.svg) | NYY |  | 7:40 PM |\\
+| ![](https://www.mlbstatic.com/team-logos/118.svg) | KC |  |](https://baseballsavant.mlb.com/preview?game_pk=824104&game_date=2026-5-27)
+
+[Preview Matchup\\
+\\
+Burrows vs. deGrom\\
+\\
+|     |     |     |     |\\
+| --- | --- | --- | --- |\\
+| ![](https://www.mlbstatic.com/team-logos/117.svg) | HOU |  | 8:05 PM |\\
+| ![](https://www.mlbstatic.com/team-logos/140.svg) | TEX |  |](https://baseballsavant.mlb.com/preview?game_pk=822897&game_date=2026-5-27)
+
+[Preview Matchup\\
+\\
+Sugano vs. Ohtani\\
+\\
+|     |     |     |     |\\
+| --- | --- | --- | --- |\\
+| ![](https://www.mlbstatic.com/team-logos/115.svg) | COL |  | 10:10 PM |\\
+| ![](https://www.mlbstatic.com/team-logos/119.svg) | LAD |  |](https://baseballsavant.mlb.com/preview?game_pk=823947&game_date=2026-5-27)
 
 <
 
@@ -179,7 +197,7 @@ vs. LHH43%19%24%13%1%Pitchvs. RHH45%31%9%13%2%44%FF24%SL17%CH13%CU2%SV
 MLB Percentile Rankings
 
 
-![](https://baseballsavant.mlb.com/sections/evp/images/play.png)ValuesavantPOORAVERAGEGREATPitching Run Value-4NOT QUALIFIED26Fastball Run Value0NOT QUALIFIED40Breaking Run Value-4NOT QUALIFIED18Offspeed Run Value0NOT QUALIFIED61PitchingxERA4.70NOT QUALIFIED18xBA.228NOT QUALIFIED65Fastball Velo95.5NOT QUALIFIED69Avg Exit Velo89.8NOT QUALIFIED36Chase %25.3NOT QUALIFIED15Whiff %28.4NOT QUALIFIED74K %22.8NOT QUALIFIED51BB %12.4NOT QUALIFIED4Barrel %9.6NOT QUALIFIED26Hard-Hit %46.8NOT QUALIFIED7GB %34.0NOT QUALIFIED12Extension6.5NOT QUALIFIED57
+![](https://baseballsavant.mlb.com/sections/evp/images/play.png)ValuesavantPOORAVERAGEGREATPitching Run Value-4NOT QUALIFIED26Fastball Run Value0NOT QUALIFIED40Breaking Run Value-4NOT QUALIFIED18Offspeed Run Value0NOT QUALIFIED61PitchingxERA4.70NOT QUALIFIED18xBA.227NOT QUALIFIED67Fastball Velo95.5NOT QUALIFIED69Avg Exit Velo89.8NOT QUALIFIED36Chase %25.3NOT QUALIFIED15Whiff %28.4NOT QUALIFIED74K %22.8NOT QUALIFIED51BB %12.4NOT QUALIFIED4Barrel %9.6NOT QUALIFIED26Hard-Hit %46.8NOT QUALIFIED7GB %34.0NOT QUALIFIED12Extension6.5NOT QUALIFIED57
 
 20252025
 
@@ -588,7 +606,7 @@ No Minor League Hitting Statistics.
 ## [Statcast Statistics](https://baseballsavant.mlb.com/savant-player/hayden-birdsong-806185?stats=statcast-r-pitching-mlb\#statcast-statistics)
 
 | 2024 | 22 | 1388 | 180 | 16 | 8.9 | 5.1 | 92.0 | 112.5 | 13.8 | 32.8 | .228 | .414 | .321 | .335 | .407 | 50.0 | 27.9 | 13.7 | 4.75 | 4.64 |
-| 2025 | 23 | 1194 | 188 | 18 | 9.6 | 6.0 | 89.8 | 113.0 | 20.0 | 36.2 | .228 | .420 | .338 | .334 | .374 | 46.8 | 22.8 | 12.4 | 4.80 | 4.70 |
+| 2025 | 23 | 1194 | 188 | 18 | 9.6 | 6.0 | 89.8 | 113.0 | 20.0 | 36.2 | .227 | .420 | .338 | .334 | .374 | 46.8 | 22.8 | 12.4 | 4.80 | 4.70 |
 | **Player** |  | 2582 | 368 | 34 | 9.2 | 5.5 | 90.9 | 113.0 | 17.0 | 34.5 | .228 | .417 | .329 | .335 | .390 | 48.4 | 25.4 | 13.1 |  |  |
 | **MLB** |  |  |  |  | 7.6 | 4.9 | 88.6 | 122.9 | 12.5 | 33.3 | .243 | .408 | .315 | .316 | .369 | 37.0 | 22.2 | 8.4 |  |  |
 
@@ -754,7 +772,7 @@ On the right, Induced Movement (or IVB) is reported without gravity, and attempt
 | 2024 | Changeup | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 256 | 88.1 | 37.0 | 7.4 | 10.8ARM | -3.3 | -1.9 | 6.8 | 10.8ARM | -3.4 |
 | 2024 | Slider | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 254 | 86.4 | 35.4 | 0.7 | 1.5GLV | -2.7 | 1.1 | 0.6 | 1.5GLV | -3.1 |
 | 2024 | 4-Seam Fastball | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 619 | 95.8 | 13.5 | -0.2 | 9.5ARM | 2.7 | 16.4 | 0.6 | 9.5ARM | 2.0 |
-| 2024 | Curveball | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 259 | 80.5 | 55.8 | 3.2 | 5.7GLV | -1.8 | -13.5 | 3.5 | 5.7GLV | -3.7 |
+| 2024 | Curveball | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 259 | 80.5 | 55.8 | 3.2 | 5.7GLV | -1.7 | -13.5 | 3.5 | 5.7GLV | -3.7 |
 
 ! Note: Years are in reverse order.
 
@@ -765,7 +783,7 @@ On the right, Induced Movement (or IVB) is reported without gravity, and attempt
 | Team | RV/100 | Run Value | Pitches | % | PA | BA | SLG | wOBA | Whiff% | K% | PutAway % | xBA | xSLG | xwOBA | Hard Hit % |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2025 | 4-Seam Fastball | ![](https://www.mlbstatic.com/team-logos/137.svg) | -0.1 | 0 | 527 | 44.1 | 135 | .204 | .466 | .362 | 21.1 | 17.0 | 16.4 | .198 | .433 | .358 | 44.6 |
-| 2025 | Slider | ![](https://www.mlbstatic.com/team-logos/137.svg) | -0.8 | -2 | 291 | 24.4 | 72 | .323 | .462 | .397 | 30.4 | 16.7 | 19.0 | .251 | .434 | .325 | 38.9 |
+| 2025 | Slider | ![](https://www.mlbstatic.com/team-logos/137.svg) | -0.8 | -2 | 291 | 24.4 | 72 | .323 | .462 | .397 | 30.4 | 16.7 | 19.0 | .251 | .434 | .324 | 38.9 |
 | 2025 | Changeup | ![](https://www.mlbstatic.com/team-logos/137.svg) | 0.2 | 0 | 201 | 16.8 | 55 | .212 | .231 | .241 | 39.8 | 36.4 | 25.0 | .246 | .346 | .280 | 56.3 |
 | 2025 | Curveball | ![](https://www.mlbstatic.com/team-logos/137.svg) | -0.8 | -1 | 155 | 13.0 | 33 | .241 | .448 | .341 | 36.0 | 39.4 | 28.9 | .216 | .393 | .312 | 62.5 |
 | 2025 | Slurve | ![](https://www.mlbstatic.com/team-logos/137.svg) | -3.4 | -1 | 20 | 1.7 | 3 | .333 | 1.333 | .667 | 22.2 | 0.0 | 0.0 | .527 | 1.236 | .731 | 66.7 |
@@ -938,7 +956,7 @@ View Complete Expected Home Runs Leaderboard](https://baseballsavant.mlb.com/lea
 | --- | --- | --- | --- | --- |
 | Results |  |  |  |  |
 | [BA](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | .242 | +.026 | ↑ | .216 |
-| [xBA](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | .228 | .000 |  | .228 |
+| [xBA](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | .227 | -.001 | ↓ | .228 |
 | [OBP](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | .347 | +.015 | ↑ | .332 |
 | [xOBP](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | .337 | -.006 | ↓ | .343 |
 | [SLG](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | .425 | +.035 | ↑ | .390 |
@@ -1281,18 +1299,18 @@ Hayden BirdsongHard Hit / Swings (%)2112103431182026118973
 
 Hayden BirdsongHard Hit / Pitches (%)1486202413111772321
 
-Hayden BirdsongxBA.189.198.044.311.301.233.279.303.268.177.330.114.093
+Hayden BirdsongxBA.189.198.042.311.301.233.279.303.268.177.330.114.093
 
-Hayden BirdsongxBA (Contact).264.279.061.371.301.270.478.367.329.262.390.388.307
+Hayden BirdsongxBA (Contact).264.279.058.371.301.270.478.367.329.262.390.388.307
 
-Hayden BirdsongxOBP.189.219.044.307.301.233.279.332.268.551.455.372.436
+Hayden BirdsongxOBP.189.219.042.307.301.233.279.332.268.551.455.372.436
 
-Hayden BirdsongxSLG.385.451.064.581.703.452.406.469.411.371.384.222.102
+Hayden BirdsongxSLG.385.451.062.581.703.452.406.469.411.371.384.222.102
 
 Hayden BirdsongxISO.196.253.020.270.402.219.128.166.144.194.055.108.009
 
-Hayden BirdsongxwOBA.239.288.047.374.417.288.295.346.293.440.384.302.317
+Hayden BirdsongxwOBA.239.288.046.374.417.288.295.346.293.440.384.302.317
 
-Hayden BirdsongxwOBA (Contact).335.367.065.453.417.333.506.401.361.338.370.482.287
+Hayden BirdsongxwOBA (Contact).335.367.063.453.417.333.506.401.361.338.370.482.287
 
 Loading Chart...
