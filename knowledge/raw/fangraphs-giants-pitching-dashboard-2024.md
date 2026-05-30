@@ -767,11 +767,11 @@ Currently viewing seasons between
 
 2024 and 2024
 
-Load / Save ReportCustom ReportsCustom Players
+Load / Save ReportCustom ReportsCustom PlayersCustom Teams
 
 StatsPitch-Level DataPitch Modeling
 
-Load / Save ReportCustom ReportsCustom Players
+Load / Save ReportCustom ReportsCustom PlayersCustom Teams
 
 League Presets
 

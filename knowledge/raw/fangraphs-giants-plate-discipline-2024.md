@@ -767,11 +767,11 @@ Currently viewing seasons between
 
 2024 and 2024
 
-Load / Save ReportCustom ReportsCustom Players
+Load / Save ReportCustom ReportsCustom PlayersCustom Teams
 
 StatsPitch-Level DataPitch Modeling
 
-Load / Save ReportCustom ReportsCustom Players
+Load / Save ReportCustom ReportsCustom PlayersCustom Teams
 
 League Presets
 
@@ -1195,3 +1195,13 @@ of 2
 Page Size:3050100200Infinity
 
 1 - 30 of 31 results
+
+Support FanGraphs
+
+Become a Member
+
+Please consider becoming a FanGraphs Member. All the great work that you've come to rely on is made possible by Member support, including analysis, stats, projections, RosterResource, prospect coverage, and podcasts.
+
+Already a Member: [Log In](https://blogs.fangraphs.com/wp-login.php?redirect_to=https://www.fangraphs.com/)
+
+[Sign Me Up](https://plus.fangraphs.com/product/fangraphs-membership/)
