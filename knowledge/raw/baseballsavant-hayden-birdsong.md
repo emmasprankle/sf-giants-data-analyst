@@ -5,78 +5,78 @@ slug: baseballsavant-hayden-birdsong
 
 [|     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/144.svg) | ATL | 8 | Final |\\
-| ![](https://www.mlbstatic.com/team-logos/113.svg) | CIN | 3 |](https://baseballsavant.mlb.com/gamefeed?gamePk=824515)
+| ![](https://www.mlbstatic.com/team-logos/116.svg) | DET | 1 | Final |\\
+| ![](https://www.mlbstatic.com/team-logos/145.svg) | CWS | 7 |](https://baseballsavant.mlb.com/gamefeed?gamePk=824593)
 
 [|     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/135.svg) | SD | 7 | Final |\\
-| ![](https://www.mlbstatic.com/team-logos/120.svg) | WSH | 5 |](https://baseballsavant.mlb.com/gamefeed?gamePk=822732)
+| ![](https://www.mlbstatic.com/team-logos/135.svg) | SD | 4 | Final |\\
+| ![](https://www.mlbstatic.com/team-logos/120.svg) | WSH | 9 |](https://baseballsavant.mlb.com/gamefeed?gamePk=822731)
 
 [|     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/142.svg) | MIN | 5 | Final |\\
-| ![](https://www.mlbstatic.com/team-logos/134.svg) | PIT | 6 |](https://baseballsavant.mlb.com/gamefeed?gamePk=823377)
+| ![](https://www.mlbstatic.com/team-logos/118.svg) | KC | 6 | Final |\\
+| ![](https://www.mlbstatic.com/team-logos/140.svg) | TEX | 7 |](https://baseballsavant.mlb.com/gamefeed?gamePk=822893)
 
 [|     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/141.svg) | TOR | 6 | Final |\\
-| ![](https://www.mlbstatic.com/team-logos/110.svg) | BAL | 5 |](https://baseballsavant.mlb.com/gamefeed?gamePk=824835)
+| ![](https://www.mlbstatic.com/team-logos/141.svg) | TOR | 5 | Final |\\
+| ![](https://www.mlbstatic.com/team-logos/110.svg) | BAL | 6 |](https://baseballsavant.mlb.com/gamefeed?gamePk=824833)
 
 [|     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/111.svg) | BOS | 3 | Final |\\
-| ![](https://www.mlbstatic.com/team-logos/114.svg) | CLE | 4 |](https://baseballsavant.mlb.com/gamefeed?gamePk=824433)
+| ![](https://www.mlbstatic.com/team-logos/142.svg) | MIN | 9 | Final |\\
+| ![](https://www.mlbstatic.com/team-logos/134.svg) | PIT | 10 |](https://baseballsavant.mlb.com/gamefeed?gamePk=823375)
 
 [|     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/108.svg) | LAA | 5 | Final |\\
-| ![](https://www.mlbstatic.com/team-logos/139.svg) | TB | 8 |](https://baseballsavant.mlb.com/gamefeed?gamePk=822978)
+| ![](https://www.mlbstatic.com/team-logos/111.svg) | BOS | 9 | Final |\\
+| ![](https://www.mlbstatic.com/team-logos/114.svg) | CLE | 1 |](https://baseballsavant.mlb.com/gamefeed?gamePk=824431)
 
 [|     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/146.svg) | MIA | 7 | Final |\\
-| ![](https://www.mlbstatic.com/team-logos/121.svg) | NYM | 9 |](https://baseballsavant.mlb.com/gamefeed?gamePk=823623)
+| ![](https://www.mlbstatic.com/team-logos/108.svg) | LAA | 14 | Final |\\
+| ![](https://www.mlbstatic.com/team-logos/139.svg) | TB | 3 |](https://baseballsavant.mlb.com/gamefeed?gamePk=822975)
 
 [|     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/112.svg) | CHC | 5 | Final |\\
-| ![](https://www.mlbstatic.com/team-logos/138.svg) | STL | 6 |](https://baseballsavant.mlb.com/gamefeed?gamePk=823055)
+| ![](https://www.mlbstatic.com/team-logos/146.svg) | MIA | 1 | Final |\\
+| ![](https://www.mlbstatic.com/team-logos/121.svg) | NYM | 6 |](https://baseballsavant.mlb.com/gamefeed?gamePk=823622)
 
 [|     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/116.svg) | DET | 3 | Final |\\
-| ![](https://www.mlbstatic.com/team-logos/145.svg) | CWS | 4 |](https://baseballsavant.mlb.com/gamefeed?gamePk=824594)
+| ![](https://www.mlbstatic.com/team-logos/158.svg) | MIL | 2 | Final |\\
+| ![](https://www.mlbstatic.com/team-logos/117.svg) | HOU | 9 |](https://baseballsavant.mlb.com/gamefeed?gamePk=824190)
 
 [|     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/118.svg) | KC | 1 | Final |\\
-| ![](https://www.mlbstatic.com/team-logos/140.svg) | TEX | 9 |](https://baseballsavant.mlb.com/gamefeed?gamePk=822894)
+| ![](https://www.mlbstatic.com/team-logos/112.svg) | CHC | 6 | Final |\\
+| ![](https://www.mlbstatic.com/team-logos/138.svg) | STL | 1 |](https://baseballsavant.mlb.com/gamefeed?gamePk=823054)
 
 [|     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/158.svg) | MIL | 5 | Final |\\
-| ![](https://www.mlbstatic.com/team-logos/117.svg) | HOU | 4 |](https://baseballsavant.mlb.com/gamefeed?gamePk=824191)
+| ![](https://www.mlbstatic.com/team-logos/144.svg) | ATL | 5 | Final |\\
+| ![](https://www.mlbstatic.com/team-logos/113.svg) | CIN | 2 |](https://baseballsavant.mlb.com/gamefeed?gamePk=824513)
 
 [|     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/137.svg) | SF | 6 | Final |\\
-| ![](https://www.mlbstatic.com/team-logos/115.svg) | COL | 8 |](https://baseballsavant.mlb.com/gamefeed?gamePk=824353)
+| ![](https://www.mlbstatic.com/team-logos/137.svg) | SF | 3 | Final |\\
+| ![](https://www.mlbstatic.com/team-logos/115.svg) | COL | 8 |](https://baseballsavant.mlb.com/gamefeed?gamePk=824352)
 
 [|     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/147.svg) | NYY | 8 | Final |\\
-| ![](https://www.mlbstatic.com/team-logos/133.svg) | ATH | 2 |](https://baseballsavant.mlb.com/gamefeed?gamePk=825002)
+| ![](https://www.mlbstatic.com/team-logos/147.svg) | NYY | 4 | Final |\\
+| ![](https://www.mlbstatic.com/team-logos/133.svg) | ATH | 6 |](https://baseballsavant.mlb.com/gamefeed?gamePk=825000)
 
 [|     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/109.svg) | AZ | 6 | Final |\\
-| ![](https://www.mlbstatic.com/team-logos/136.svg) | SEA | 7 |](https://baseballsavant.mlb.com/gamefeed?gamePk=823135)
+| ![](https://www.mlbstatic.com/team-logos/109.svg) | AZ | 1 | Final |\\
+| ![](https://www.mlbstatic.com/team-logos/136.svg) | SEA | 5 |](https://baseballsavant.mlb.com/gamefeed?gamePk=823132)
 
 [|     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/143.svg) | PHI | 2 | Final |\\
-| ![](https://www.mlbstatic.com/team-logos/119.svg) | LAD | 4 |](https://baseballsavant.mlb.com/gamefeed?gamePk=823946)
+| ![](https://www.mlbstatic.com/team-logos/143.svg) | PHI | 4 | Final |\\
+| ![](https://www.mlbstatic.com/team-logos/119.svg) | LAD | 3 |](https://baseballsavant.mlb.com/gamefeed?gamePk=823945)
 
 <
 
