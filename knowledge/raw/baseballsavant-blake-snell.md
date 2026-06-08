@@ -5,138 +5,75 @@ slug: baseballsavant-blake-snell
 
 [Preview Matchup\\
 \\
-Chandler vs. Elder\\
+Hancock vs. TBA\\
 \\
 |     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/134.svg) | PIT |  | 1:35 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/144.svg) | ATL |  |](https://baseballsavant.mlb.com/preview?game_pk=824916&game_date=2026-6-7)
+| ![](https://www.mlbstatic.com/team-logos/136.svg) | SEA |  | 6:35 PM |\\
+| ![](https://www.mlbstatic.com/team-logos/110.svg) | BAL |  |](https://baseballsavant.mlb.com/preview?game_pk=824829&game_date=2026-6-8)
 
 [Preview Matchup\\
 \\
-Gilbert vs. Nola\\
+Early vs. Seymour\\
 \\
 |     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/145.svg) | CWS |  | 1:35 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/143.svg) | PHI |  |](https://baseballsavant.mlb.com/preview?game_pk=823453&game_date=2026-6-7)
+| ![](https://www.mlbstatic.com/team-logos/111.svg) | BOS |  | 6:40 PM |\\
+| ![](https://www.mlbstatic.com/team-logos/139.svg) | TB |  |](https://baseballsavant.mlb.com/preview?game_pk=822972&game_date=2026-6-8)
 
 [Preview Matchup\\
 \\
-Suarez vs. Schlittler\\
+Warren vs. Williams\\
 \\
 |     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/111.svg) | BOS |  | 1:35 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/147.svg) | NYY |  |](https://baseballsavant.mlb.com/preview?game_pk=823537&game_date=2026-6-7)
+| ![](https://www.mlbstatic.com/team-logos/147.svg) | NYY |  | 6:40 PM |\\
+| ![](https://www.mlbstatic.com/team-logos/114.svg) | CLE |  |](https://baseballsavant.mlb.com/preview?game_pk=824427&game_date=2026-6-8)
 
 [Preview Matchup\\
 \\
-Baz vs. Gausman\\
+Sánchez vs. Corbin\\
 \\
 |     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/110.svg) | BAL |  | 1:37 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/141.svg) | TOR |  |](https://baseballsavant.mlb.com/preview?game_pk=822807&game_date=2026-6-7)
+| ![](https://www.mlbstatic.com/team-logos/143.svg) | PHI |  | 7:07 PM |\\
+| ![](https://www.mlbstatic.com/team-logos/141.svg) | TOR |  |](https://baseballsavant.mlb.com/preview?game_pk=822806&game_date=2026-6-8)
 
 [Preview Matchup\\
 \\
-Castillo vs. Flaherty\\
+Arrighetti vs. Rodriguez\\
 \\
 |     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/136.svg) | SEA |  | 1:40 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/116.svg) | DET |  |](https://baseballsavant.mlb.com/preview?game_pk=824268&game_date=2026-6-7)
+| ![](https://www.mlbstatic.com/team-logos/117.svg) | HOU |  | 9:38 PM |\\
+| ![](https://www.mlbstatic.com/team-logos/108.svg) | LAA |  |](https://baseballsavant.mlb.com/preview?game_pk=824025&game_date=2026-6-8)
 
 [Preview Matchup\\
 \\
-Jax vs. Alcantara\\
+Abbott vs. Buehler\\
 \\
 |     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/139.svg) | TB |  | 1:40 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/146.svg) | MIA |  |](https://baseballsavant.mlb.com/preview?game_pk=823857&game_date=2026-6-7)
+| ![](https://www.mlbstatic.com/team-logos/113.svg) | CIN |  | 9:40 PM |\\
+| ![](https://www.mlbstatic.com/team-logos/135.svg) | SD |  |](https://baseballsavant.mlb.com/preview?game_pk=823289&game_date=2026-6-8)
 
 [Preview Matchup\\
 \\
-Jump vs. Burrows\\
+Mikolas vs. Webb\\
 \\
 |     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/133.svg) | ATH |  | 2:10 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/117.svg) | HOU |  |](https://baseballsavant.mlb.com/preview?game_pk=824183&game_date=2026-6-7)
+| ![](https://www.mlbstatic.com/team-logos/120.svg) | WSH |  | 9:45 PM |\\
+| ![](https://www.mlbstatic.com/team-logos/137.svg) | SF |  |](https://baseballsavant.mlb.com/preview?game_pk=823218&game_date=2026-6-8)
 
 [Preview Matchup\\
 \\
-Cameron vs. Prielipp\\
+Harrison vs. Springs\\
 \\
 |     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/118.svg) | KC |  | 2:10 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/142.svg) | MIN |  |](https://baseballsavant.mlb.com/preview?game_pk=823696&game_date=2026-6-7)
-
-[Preview Matchup\\
-\\
-Lowder vs. McGreevy\\
-\\
-|     |     |     |     |\\
-| --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/113.svg) | CIN |  | 2:15 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/138.svg) | STL |  |](https://baseballsavant.mlb.com/preview?game_pk=823047&game_date=2026-6-7)
-
-[Preview Matchup\\
-\\
-Cantillo vs. deGrom\\
-\\
-|     |     |     |     |\\
-| --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/114.svg) | CLE |  | 2:35 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/140.svg) | TEX |  |](https://baseballsavant.mlb.com/preview?game_pk=822890&game_date=2026-6-7)
-
-[Preview Matchup\\
-\\
-Drohan vs. Freeland\\
-\\
-|     |     |     |     |\\
-| --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/158.svg) | MIL |  | 3:10 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/115.svg) | COL |  |](https://baseballsavant.mlb.com/preview?game_pk=824349&game_date=2026-6-7)
-
-[Preview Matchup\\
-\\
-Cavalli vs. Soroka\\
-\\
-|     |     |     |     |\\
-| --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/120.svg) | WSH |  | 3:15 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/109.svg) | AZ |  |](https://baseballsavant.mlb.com/preview?game_pk=825074&game_date=2026-6-7)
-
-[Preview Matchup\\
-\\
-Soriano vs. Sheehan\\
-\\
-|     |     |     |     |\\
-| --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/108.svg) | LAA |  | 4:10 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/119.svg) | LAD |  |](https://baseballsavant.mlb.com/preview?game_pk=823941&game_date=2026-6-7)
-
-[Preview Matchup\\
-\\
-Brazobán vs. Vásquez\\
-\\
-|     |     |     |     |\\
-| --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/121.svg) | NYM |  | 4:10 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/135.svg) | SD |  |](https://baseballsavant.mlb.com/preview?game_pk=823291&game_date=2026-6-7)
-
-[Preview Matchup\\
-\\
-McDonald vs. Taillon\\
-\\
-|     |     |     |     |\\
-| --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/137.svg) | SF |  | 8:30 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/112.svg) | CHC |  |](https://baseballsavant.mlb.com/preview?game_pk=824670&game_date=2026-6-7)
+| ![](https://www.mlbstatic.com/team-logos/158.svg) | MIL |  | 10:05 PM |\\
+| ![](https://www.mlbstatic.com/team-logos/133.svg) | ATH |  |](https://baseballsavant.mlb.com/preview?game_pk=824998&game_date=2026-6-8)
 
 <
 
@@ -267,7 +204,7 @@ Movement Profile (Induced Break)
 ?
 
 
-MLB AVG.17.7 INCHES RISEARM ANGLE57°12"24"6"12"18"24"12"24"12"24"13.1 INCHES TAIL7.7 INCHES RISEAVG4.4 INCHES BREAK6.3 INCHES RISEAVG14.7 INCHES BREAK8.9 INCHES DROPAVG4.5 INCHES TAIL17.7 INCHES RISEAVG1B3BMOVES TOWARD︎MORERISEMOREDROPUSAGEMPHLHP AVG4-Seam42%95.993.4Curve21%80.679.5Slider19%88.984.7Change18%85.784.7SAMPLE100 PITCH
+MLB AVG.17.7 INCHES RISEARM ANGLE57°12"24"6"12"18"24"12"24"12"24"13.1 INCHES TAIL7.7 INCHES RISEAVG4.4 INCHES BREAK6.3 INCHES RISEAVG14.7 INCHES BREAK8.9 INCHES DROPAVG4.5 INCHES TAIL17.7 INCHES RISEAVG1B3BMOVES TOWARD︎MORERISEMOREDROPUSAGEMPHLHP AVG4-Seam42%95.993.4Curve21%80.679.6Slider19%88.984.8Change18%85.784.7SAMPLE100 PITCH
 
 [Statcast](https://baseballsavant.mlb.com/savant-player/blake-snell-605483#statcast) [Standard](https://baseballsavant.mlb.com/savant-player/blake-snell-605483#standard) [Splits](https://baseballsavant.mlb.com/savant-player/blake-snell-605483#splits) [Game Logs](https://baseballsavant.mlb.com/savant-player/blake-snell-605483#gamelogs)
 
@@ -994,7 +931,7 @@ Blake Snell's Pitches in 3d](https://baseballsavant.mlb.com/visuals/pitch3d?play
 
 ![](https://content.mlb.com/images/headshots/current/60x60/579328.png)[2024 - Yusei Kikuchi](https://baseballsavant.mlb.com/savant-player/579328)
 
-![](https://content.mlb.com/images/headshots/current/60x60/666205.png)[2021 - Kyle Muller](https://baseballsavant.mlb.com/savant-player/666205)
+![](https://content.mlb.com/images/headshots/current/60x60/656713.png)[2019 - Brendan McKay](https://baseballsavant.mlb.com/savant-player/656713)
 
 \-\-\- [Compare\\
 All Similar Pitchers](https://baseballsavant.mlb.com/affinity-pitchers-bySHV#players=pitchers&player=605483-L)
@@ -1150,10 +1087,10 @@ On the right, Induced Movement (or IVB) is reported without gravity, and attempt
 | --- | --- | --- |
 | Year | Pitch | Team | Hand | # | MPH | Vertical<br>Drop | vs.<br>Comparable | Horizontal<br>Break | vs.<br>Comparable | Vertical<br>Break | vs. Avg | Horizontal<br>Break | vs. Avg |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2026 | Slider | ![](https://www.mlbstatic.com/team-logos/119.svg)LAD | L | 15 | 88.9 | 28.0 | -4.4 | 4.4GLV | 0.4 | 6.3 | -5.0 | 4.4GLV | -0.2 |
-| 2026 | Changeup | ![](https://www.mlbstatic.com/team-logos/119.svg)LAD | L | 14 | 85.7 | 29.5 | -1.8 | 13.1ARM | -1.2 | 7.7 | -3.3 | 13.1ARM | -1.0 |
-| 2026 | Curveball | ![](https://www.mlbstatic.com/team-logos/119.svg)LAD | L | 16 | 80.6 | 51.1 | -2.6 | 14.7GLV | 7.5 | -8.9 | -1.2 | 14.7GLV | 6.3 |
-| 2026 | 4-Seam Fastball | ![](https://www.mlbstatic.com/team-logos/119.svg)LAD | L | 32 | 95.9 | 12.0 | 0.5 | 4.5ARM | -1.4 | 17.7 | 1.8 | 4.5ARM | -3.5 |
+| 2026 | Slider | ![](https://www.mlbstatic.com/team-logos/119.svg)LAD | L | 15 | 88.9 | 28.0 | -4.4 | 4.4GLV | 0.4 | 6.3 | -5.0 | 4.4GLV | -0.1 |
+| 2026 | Changeup | ![](https://www.mlbstatic.com/team-logos/119.svg)LAD | L | 14 | 85.7 | 29.5 | -1.7 | 13.1ARM | -1.2 | 7.7 | -3.2 | 13.1ARM | -0.9 |
+| 2026 | Curveball | ![](https://www.mlbstatic.com/team-logos/119.svg)LAD | L | 16 | 80.6 | 51.1 | -2.5 | 14.7GLV | 7.5 | -8.9 | -1.2 | 14.7GLV | 6.4 |
+| 2026 | 4-Seam Fastball | ![](https://www.mlbstatic.com/team-logos/119.svg)LAD | L | 32 | 95.9 | 12.0 | 0.5 | 4.5ARM | -1.5 | 17.7 | 1.8 | 4.5ARM | -3.5 |
 | 2025 | Curveball | ![](https://www.mlbstatic.com/team-logos/119.svg)LAD | L | 223 | 80.6 | 49.0 | -4.8 | 12.4GLV | 5.7 | -6.7 | -3.0 | 12.4GLV | 4.6 |
 | 2025 | Changeup | ![](https://www.mlbstatic.com/team-logos/119.svg)LAD | L | 243 | 85.5 | 27.5 | -3.6 | 13.0ARM | -1.0 | 9.9 | -4.7 | 13.0ARM | -1.2 |
 | 2025 | 4-Seam Fastball | ![](https://www.mlbstatic.com/team-logos/119.svg)LAD | L | 448 | 95.1 | 12.4 | 0.7 | 4.5ARM | -1.4 | 17.8 | 1.9 | 4.5ARM | -3.6 |
@@ -1207,7 +1144,7 @@ On the right, Induced Movement (or IVB) is reported without gravity, and attempt
 
 | Team | RV/100 | Run Value | Pitches | % | PA | BA | SLG | wOBA | Whiff% | K% | PutAway % | xBA | xSLG | xwOBA | Hard Hit % |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2026 | 4-Seam Fastball | ![](https://www.mlbstatic.com/team-logos/119.svg) | -3.0 | -1 | 32 | 41.6 | 6 | .750 | .750 | .683 | 20.0 | 0.0 | 0.0 | .420 | .456 | .494 | 0.0 |
+| 2026 | 4-Seam Fastball | ![](https://www.mlbstatic.com/team-logos/119.svg) | -2.9 | -1 | 32 | 41.6 | 6 | .750 | .750 | .683 | 20.0 | 0.0 | 0.0 | .420 | .456 | .494 | 0.0 |
 | 2026 | Curveball | ![](https://www.mlbstatic.com/team-logos/119.svg) | -1.5 | 0 | 16 | 20.8 | 6 | .167 | .167 | .300 | 50.0 | 50.0 | 27.3 | .085 | .091 | .080 | 0.0 |
 | 2026 | Slider | ![](https://www.mlbstatic.com/team-logos/119.svg) | -1.7 | 0 | 15 | 19.5 | 4 | .250 | .250 | .225 | 50.0 | 50.0 | 33.3 | .284 | .356 | .276 | 100.0 |
 | 2026 | Changeup | ![](https://www.mlbstatic.com/team-logos/119.svg) | -1.0 | 0 | 14 | 18.2 | 2 | .500 | .500 | .450 | 55.6 | 0.0 | 0.0 | .483 | .614 | .480 | 0.0 |
@@ -1791,7 +1728,7 @@ Created with Highcharts 6.2.0Exit VelocityPitchesChart context menuBlake Snell E
 
 ## Run Value
 
-Blake SnellPitcher RV (All)-0.3-0.50.20.60.30.3-0.4-0.30.4-1.6-0.10.4-0.5
+Blake SnellPitcher RV (All)-0.3-0.50.20.60.30.3-0.4-0.40.4-1.6-0.10.4-0.5
 
 Blake SnellPitcher RV (Swings)-0.5-0.50.10.60.20.1-0.4-0.40.4-0.90.10.7-0.2
 
@@ -1853,7 +1790,7 @@ Blake SnellSLG1.0001.000.000.000.0001.000.000.0001.000.000.500
 
 Blake SnellISO.000.000.000.000.000.000.000.000.000.000.000
 
-Blake SnellwOBA.896.896.000.000.000.896.000.000.831.000.533
+Blake SnellwOBA.896.896.000.000.000.896.000.000.831.000.532
 
 Blake SnellwOBA (Contact).896.896.000.000.896.000.000.896.000.896
 
