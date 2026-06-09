@@ -3,41 +3,25 @@ source: https://baseballsavant.mlb.com/savant-player/kyle-harrison-690986
 slug: baseballsavant-kyle-harrison
 ---
 
-[Preview Matchup\\
-\\
-Hancock vs. TBA\\
-\\
-|     |     |     |     |\\
+[|     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/136.svg) | SEA |  | 6:35 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/110.svg) | BAL |  |](https://baseballsavant.mlb.com/preview?game_pk=824829&game_date=2026-6-8)
+| ![](https://www.mlbstatic.com/team-logos/136.svg) | SEA | 6 | 8th |\\
+| ![](https://www.mlbstatic.com/team-logos/110.svg) | BAL | 2 |](https://baseballsavant.mlb.com/gamefeed?gamePk=824829)
 
-[Preview Matchup\\
-\\
-Early vs. Seymour\\
-\\
-|     |     |     |     |\\
+[|     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/111.svg) | BOS |  | 6:40 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/139.svg) | TB |  |](https://baseballsavant.mlb.com/preview?game_pk=822972&game_date=2026-6-8)
+| ![](https://www.mlbstatic.com/team-logos/111.svg) | BOS | 1 | 7th |\\
+| ![](https://www.mlbstatic.com/team-logos/139.svg) | TB | 2 |](https://baseballsavant.mlb.com/gamefeed?gamePk=822972)
 
-[Preview Matchup\\
-\\
-Warren vs. Williams\\
-\\
-|     |     |     |     |\\
+[|     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/147.svg) | NYY |  | 6:40 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/114.svg) | CLE |  |](https://baseballsavant.mlb.com/preview?game_pk=824427&game_date=2026-6-8)
+| ![](https://www.mlbstatic.com/team-logos/147.svg) | NYY | 4 | 6th |\\
+| ![](https://www.mlbstatic.com/team-logos/114.svg) | CLE | 5 |](https://baseballsavant.mlb.com/gamefeed?gamePk=824427)
 
-[Preview Matchup\\
-\\
-Sánchez vs. Corbin\\
-\\
-|     |     |     |     |\\
+[|     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/143.svg) | PHI |  | 7:07 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/141.svg) | TOR |  |](https://baseballsavant.mlb.com/preview?game_pk=822806&game_date=2026-6-8)
+| ![](https://www.mlbstatic.com/team-logos/143.svg) | PHI | 5 | 6th |\\
+| ![](https://www.mlbstatic.com/team-logos/141.svg) | TOR | 2 |](https://baseballsavant.mlb.com/gamefeed?gamePk=822806)
 
 [Preview Matchup\\
 \\
@@ -59,7 +43,7 @@ Abbott vs. Buehler\\
 
 [Preview Matchup\\
 \\
-Mikolas vs. Webb\\
+Lovelady vs. Webb\\
 \\
 |     |     |     |     |\\
 | --- | --- | --- | --- |\\
@@ -430,8 +414,8 @@ No Minor League Hitting Statistics.
 | ![](https://www.mlbstatic.com/team-logos/319.svg) | 07/07/2023 | National League Futures activated LHP Kyle Harrison. |
 | ![](https://www.mlbstatic.com/team-logos/105.svg) | 07/06/2023 | Sacramento River Cats placed LHP Kyle Harrison on the 7-day injured list. |
 | ![](https://www.mlbstatic.com/team-logos/105.svg) | 03/30/2023 | LHP Kyle Harrison assigned to Sacramento River Cats from Richmond Flying Squirrels. |
-| ![](https://www.mlbstatic.com/team-logos/137.svg) | 02/06/2023 | San Francisco Giants invited non-roster LHP Kyle Harrison to spring training. |
 | ![](https://www.mlbstatic.com/team-logos/137.svg) | 02/06/2023 | LHP Kyle Harrison roster status changed by San Francisco Giants. |
+| ![](https://www.mlbstatic.com/team-logos/137.svg) | 02/06/2023 | San Francisco Giants invited non-roster LHP Kyle Harrison to spring training. |
 | ![](https://www.mlbstatic.com/team-logos/3410.svg) | 07/21/2022 | Richmond Flying Squirrels activated LHP Kyle Harrison from the temporarily inactive list. |
 | ![](https://www.mlbstatic.com/team-logos/3410.svg) | 07/16/2022 | Richmond Flying Squirrels placed LHP Kyle Harrison on the temporarily inactive list. |
 | ![](https://www.mlbstatic.com/team-logos/319.svg) | 07/07/2022 | National League Futures activated LHP Kyle Harrison. |
