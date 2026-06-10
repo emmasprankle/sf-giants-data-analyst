@@ -5,75 +5,138 @@ slug: baseballsavant-expected-stats-giants-2024
 
 [Preview Matchup\\
 \\
-Hancock vs. TBA\\
+Bennett vs. Rasmussen\\
+\\
+|     |     |     |     |\\
+| --- | --- | --- | --- |\\
+| ![](https://www.mlbstatic.com/team-logos/111.svg) | BOS |  | 1:10 PM |\\
+| ![](https://www.mlbstatic.com/team-logos/139.svg) | TB |  |](https://baseballsavant.mlb.com/preview?game_pk=822970&game_date=2026-6-10)
+
+[Preview Matchup\\
+\\
+Rodón vs. Messick\\
+\\
+|     |     |     |     |\\
+| --- | --- | --- | --- |\\
+| ![](https://www.mlbstatic.com/team-logos/147.svg) | NYY |  | 1:10 PM |\\
+| ![](https://www.mlbstatic.com/team-logos/114.svg) | CLE |  |](https://baseballsavant.mlb.com/preview?game_pk=824428&game_date=2026-6-10)
+
+[Preview Matchup\\
+\\
+Griffin vs. Ray\\
+\\
+|     |     |     |     |\\
+| --- | --- | --- | --- |\\
+| ![](https://www.mlbstatic.com/team-logos/120.svg) | WSH |  | 3:45 PM |\\
+| ![](https://www.mlbstatic.com/team-logos/137.svg) | SF |  |](https://baseballsavant.mlb.com/preview?game_pk=823215&game_date=2026-6-10)
+
+[Preview Matchup\\
+\\
+Singer vs. King\\
+\\
+|     |     |     |     |\\
+| --- | --- | --- | --- |\\
+| ![](https://www.mlbstatic.com/team-logos/113.svg) | CIN |  | 4:10 PM |\\
+| ![](https://www.mlbstatic.com/team-logos/135.svg) | SD |  |](https://baseballsavant.mlb.com/preview?game_pk=823287&game_date=2026-6-10)
+
+[Preview Matchup\\
+\\
+Kirby vs. Young\\
 \\
 |     |     |     |     |\\
 | --- | --- | --- | --- |\\
 | ![](https://www.mlbstatic.com/team-logos/136.svg) | SEA |  | 6:35 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/110.svg) | BAL |  |](https://baseballsavant.mlb.com/preview?game_pk=824829&game_date=2026-6-8)
+| ![](https://www.mlbstatic.com/team-logos/110.svg) | BAL |  |](https://baseballsavant.mlb.com/preview?game_pk=824831&game_date=2026-6-10)
 
 [Preview Matchup\\
 \\
-Early vs. Seymour\\
+Ohtani vs. Jones\\
 \\
 |     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/111.svg) | BOS |  | 6:40 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/139.svg) | TB |  |](https://baseballsavant.mlb.com/preview?game_pk=822972&game_date=2026-6-8)
+| ![](https://www.mlbstatic.com/team-logos/119.svg) | LAD |  | 6:40 PM |\\
+| ![](https://www.mlbstatic.com/team-logos/134.svg) | PIT |  |](https://baseballsavant.mlb.com/preview?game_pk=823372&game_date=2026-6-10)
 
 [Preview Matchup\\
 \\
-Warren vs. Williams\\
+TBA vs. Valdez\\
 \\
 |     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/147.svg) | NYY |  | 6:40 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/114.svg) | CLE |  |](https://baseballsavant.mlb.com/preview?game_pk=824427&game_date=2026-6-8)
+| ![](https://www.mlbstatic.com/team-logos/142.svg) | MIN |  | 6:40 PM |\\
+| ![](https://www.mlbstatic.com/team-logos/116.svg) | DET |  |](https://baseballsavant.mlb.com/preview?game_pk=824266&game_date=2026-6-10)
 
 [Preview Matchup\\
 \\
-Sánchez vs. Corbin\\
+Nelson vs. Gusto\\
+\\
+|     |     |     |     |\\
+| --- | --- | --- | --- |\\
+| ![](https://www.mlbstatic.com/team-logos/109.svg) | AZ |  | 6:40 PM |\\
+| ![](https://www.mlbstatic.com/team-logos/146.svg) | MIA |  |](https://baseballsavant.mlb.com/preview?game_pk=823856&game_date=2026-6-10)
+
+[Preview Matchup\\
+\\
+Luzardo vs. Scherzer\\
 \\
 |     |     |     |     |\\
 | --- | --- | --- | --- |\\
 | ![](https://www.mlbstatic.com/team-logos/143.svg) | PHI |  | 7:07 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/141.svg) | TOR |  |](https://baseballsavant.mlb.com/preview?game_pk=822806&game_date=2026-6-8)
+| ![](https://www.mlbstatic.com/team-logos/141.svg) | TOR |  |](https://baseballsavant.mlb.com/preview?game_pk=822804&game_date=2026-6-10)
 
 [Preview Matchup\\
 \\
-Arrighetti vs. Rodriguez\\
+Pallante vs. Warren\\
+\\
+|     |     |     |     |\\
+| --- | --- | --- | --- |\\
+| ![](https://www.mlbstatic.com/team-logos/138.svg) | STL |  | 7:10 PM |\\
+| ![](https://www.mlbstatic.com/team-logos/121.svg) | NYM |  |](https://baseballsavant.mlb.com/preview?game_pk=823618&game_date=2026-6-10)
+
+[Preview Matchup\\
+\\
+Gore vs. Lugo\\
+\\
+|     |     |     |     |\\
+| --- | --- | --- | --- |\\
+| ![](https://www.mlbstatic.com/team-logos/140.svg) | TEX |  | 7:40 PM |\\
+| ![](https://www.mlbstatic.com/team-logos/118.svg) | KC |  |](https://baseballsavant.mlb.com/preview?game_pk=824103&game_date=2026-6-10)
+
+[Preview Matchup\\
+\\
+Sale vs. TBA\\
+\\
+|     |     |     |     |\\
+| --- | --- | --- | --- |\\
+| ![](https://www.mlbstatic.com/team-logos/144.svg) | ATL |  | 7:40 PM |\\
+| ![](https://www.mlbstatic.com/team-logos/145.svg) | CWS |  |](https://baseballsavant.mlb.com/preview?game_pk=824590&game_date=2026-6-10)
+
+[Preview Matchup\\
+\\
+Imanaga vs. Lorenzen\\
+\\
+|     |     |     |     |\\
+| --- | --- | --- | --- |\\
+| ![](https://www.mlbstatic.com/team-logos/112.svg) | CHC |  | 8:40 PM |\\
+| ![](https://www.mlbstatic.com/team-logos/115.svg) | COL |  |](https://baseballsavant.mlb.com/preview?game_pk=824348&game_date=2026-6-10)
+
+[Preview Matchup\\
+\\
+Sproat vs. Perkins\\
+\\
+|     |     |     |     |\\
+| --- | --- | --- | --- |\\
+| ![](https://www.mlbstatic.com/team-logos/158.svg) | MIL |  | 9:05 PM |\\
+| ![](https://www.mlbstatic.com/team-logos/133.svg) | ATH |  |](https://baseballsavant.mlb.com/preview?game_pk=824996&game_date=2026-6-10)
+
+[Preview Matchup\\
+\\
+Lambert vs. Detmers\\
 \\
 |     |     |     |     |\\
 | --- | --- | --- | --- |\\
 | ![](https://www.mlbstatic.com/team-logos/117.svg) | HOU |  | 9:38 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/108.svg) | LAA |  |](https://baseballsavant.mlb.com/preview?game_pk=824025&game_date=2026-6-8)
-
-[Preview Matchup\\
-\\
-Abbott vs. Buehler\\
-\\
-|     |     |     |     |\\
-| --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/113.svg) | CIN |  | 9:40 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/135.svg) | SD |  |](https://baseballsavant.mlb.com/preview?game_pk=823289&game_date=2026-6-8)
-
-[Preview Matchup\\
-\\
-Mikolas vs. Webb\\
-\\
-|     |     |     |     |\\
-| --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/120.svg) | WSH |  | 9:45 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/137.svg) | SF |  |](https://baseballsavant.mlb.com/preview?game_pk=823218&game_date=2026-6-8)
-
-[Preview Matchup\\
-\\
-Harrison vs. Springs\\
-\\
-|     |     |     |     |\\
-| --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/158.svg) | MIL |  | 10:05 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/133.svg) | ATH |  |](https://baseballsavant.mlb.com/preview?game_pk=824998&game_date=2026-6-8)
+| ![](https://www.mlbstatic.com/team-logos/108.svg) | LAA |  |](https://baseballsavant.mlb.com/preview?game_pk=824022&game_date=2026-6-10)
 
 <
 
@@ -83,7 +146,7 @@ Harrison vs. Springs\\
 
 # Expected Statistics                                                                                                   Leaderboard
 
-Top PerformersCustom LeaderboardsHot StovePark FactorsTimer InfractionsABS ChallengesBat TrackingBatted Ball ProfileSwing Path/Attack AngleExit Velocity & BarrelsExpected StatisticsHome RunsPercentile RankingsPitch Arsenal StatsPitch TempoRolling WindowsRun ValueYear to Year ChangesSarah Langs Birthday IndexActive SpinArm AngleBat TrackingExit Velocity & BarrelsExpected StatisticsHome RunsPercentile RankingsPitch Arsenal StatsPitch ArsenalsPitch MovementPitch TempoRunning GameSpin Direction - ComparisonSpin Direction - PitchesRun ValueYear to Year ChangesArm StrengthArm ValueCatcher BlockingCatcher FramingCatcher Pop TimeCatcher ThrowingCatcher StanceOutfield Catch ProbabilityOutfield Directional OAAOutfielder JumpOuts Above AverageRun ValueFielding Run ValueBaserunning Run ValueBasestealingExtra Bases TakenSprint Speed 90ft Running Splits Batting StanceBatter PositioningFielder - AllFielder - SituationalPitcher PositioningTeam Positioning
+Top PerformersCustom LeaderboardsHot StovePark FactorsTimer InfractionsABS ChallengesBat TrackingBatted Ball ProfileExit Velocity & BarrelsExpected StatisticsHome RunsPercentile RankingsPitch Arsenal StatsPitch TempoRolling WindowsRun ValueSarah Langs Birthday IndexSwing Path/Attack AngleYear to Year ChangesActive SpinArm AngleBat TrackingExit Velocity & BarrelsExpected StatisticsHome RunsPercentile RankingsPitch Arsenal StatsPitch ArsenalsPitch MovementPitch TempoRunning GameRun ValueSpin Direction - ComparisonSpin Direction - PitchesSwing Timing + Miss DistanceYear to Year ChangesFielding Run ValueArm StrengthArm ValueCatcher BlockingCatcher FramingCatcher Pop TimeCatcher StanceCatcher ThrowingOutfield Catch ProbabilityOutfield Directional OAAOutfielder JumpOuts Above AverageBaserunning Run ValueBasestealingExtra Bases TakenSprint Speed 90ft Running Splits Batter PositioningBatting StanceFielder - AllFielder - SituationalPitcher PositioningTeam Positioning
 
 Expected Outcome stats help to remove defense and ballpark from the
 equation to express the skill shown at the moment of batted ball
