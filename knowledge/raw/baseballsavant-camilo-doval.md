@@ -5,138 +5,93 @@ slug: baseballsavant-camilo-doval
 
 [Preview Matchup\\
 \\
-Liberatore vs. Prielipp\\
+Gusto vs. Wheeler\\
 \\
 |     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/138.svg) | STL |  | 2:10 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/142.svg) | MIN |  |](https://baseballsavant.mlb.com/preview?game_pk=823694&game_date=2026-6-13)
+| ![](https://www.mlbstatic.com/team-logos/146.svg) | MIA |  | 6:40 PM |\\
+| ![](https://www.mlbstatic.com/team-logos/143.svg) | PHI |  |](https://baseballsavant.mlb.com/preview?game_pk=823452&game_date=2026-6-15)
 
 [Preview Matchup\\
 \\
-Schlittler vs. Gausman\\
+Spence vs. Alvarez\\
 \\
 |     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/147.svg) | NYY |  | 3:07 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/141.svg) | TOR |  |](https://baseballsavant.mlb.com/preview?game_pk=822802&game_date=2026-6-13)
+| ![](https://www.mlbstatic.com/team-logos/118.svg) | KC |  | 6:45 PM |\\
+| ![](https://www.mlbstatic.com/team-logos/120.svg) | WSH |  |](https://baseballsavant.mlb.com/preview?game_pk=822724&game_date=2026-6-15)
 
 [Preview Matchup\\
 \\
-Vásquez vs. Gibson\\
+Myers vs. Burns\\
 \\
 |     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/135.svg) | SD |  | 4:05 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/110.svg) | BAL |  |](https://baseballsavant.mlb.com/preview?game_pk=824828&game_date=2026-6-13)
+| ![](https://www.mlbstatic.com/team-logos/121.svg) | NYM |  | 7:10 PM |\\
+| ![](https://www.mlbstatic.com/team-logos/113.svg) | CIN |  |](https://baseballsavant.mlb.com/preview?game_pk=824505&game_date=2026-6-15)
 
 [Preview Matchup\\
 \\
-Castillo vs. Cavalli\\
+TBA vs. May\\
 \\
 |     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/136.svg) | SEA |  | 4:05 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/120.svg) | WSH |  |](https://baseballsavant.mlb.com/preview?game_pk=822725&game_date=2026-6-13)
+| ![](https://www.mlbstatic.com/team-logos/135.svg) | SD |  | 7:45 PM |\\
+| ![](https://www.mlbstatic.com/team-logos/138.svg) | STL |  |](https://baseballsavant.mlb.com/preview?game_pk=823046&game_date=2026-6-15)
 
 [Preview Matchup\\
 \\
-Bachar vs. Chandler\\
+Lorenzen vs. Imanaga\\
 \\
 |     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/146.svg) | MIA |  | 4:05 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/134.svg) | PIT |  |](https://baseballsavant.mlb.com/preview?game_pk=823369&game_date=2026-6-13)
+| ![](https://www.mlbstatic.com/team-logos/115.svg) | COL |  | 8:05 PM |\\
+| ![](https://www.mlbstatic.com/team-logos/112.svg) | CHC |  |](https://baseballsavant.mlb.com/preview?game_pk=824666&game_date=2026-6-15)
 
 [Preview Matchup\\
 \\
-Soroka vs. Lowder\\
+TBA vs. Gore\\
 \\
 |     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/109.svg) | AZ |  | 4:10 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/113.svg) | CIN |  |](https://baseballsavant.mlb.com/preview?game_pk=824508&game_date=2026-6-13)
+| ![](https://www.mlbstatic.com/team-logos/142.svg) | MIN |  | 8:05 PM |\\
+| ![](https://www.mlbstatic.com/team-logos/140.svg) | TEX |  |](https://baseballsavant.mlb.com/preview?game_pk=822887&game_date=2026-6-15)
 
 [Preview Matchup\\
 \\
-Skubal vs. Cantillo\\
+Melton vs. Teng\\
 \\
 |     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/116.svg) | DET |  | 4:10 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/114.svg) | CLE |  |](https://baseballsavant.mlb.com/preview?game_pk=824426&game_date=2026-6-13)
+| ![](https://www.mlbstatic.com/team-logos/116.svg) | DET |  | 8:10 PM |\\
+| ![](https://www.mlbstatic.com/team-logos/117.svg) | HOU |  |](https://baseballsavant.mlb.com/preview?game_pk=824181&game_date=2026-6-15)
 
 [Preview Matchup\\
 \\
-deGrom vs. Suarez\\
+Ureña vs. Nelson\\
 \\
 |     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/140.svg) | TEX |  | 4:10 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/111.svg) | BOS |  |](https://baseballsavant.mlb.com/preview?game_pk=824749&game_date=2026-6-13)
+| ![](https://www.mlbstatic.com/team-logos/108.svg) | LAA |  | 9:40 PM |\\
+| ![](https://www.mlbstatic.com/team-logos/109.svg) | AZ |  |](https://baseballsavant.mlb.com/preview?game_pk=825071&game_date=2026-6-15)
 
 [Preview Matchup\\
 \\
-Pérez vs. TBA\\
+Jones vs. Ginn\\
 \\
 |     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/144.svg) | ATL |  | 4:10 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/121.svg) | NYM |  |](https://baseballsavant.mlb.com/preview?game_pk=823616&game_date=2026-6-13)
+| ![](https://www.mlbstatic.com/team-logos/134.svg) | PIT |  | 9:40 PM |\\
+| ![](https://www.mlbstatic.com/team-logos/133.svg) | ATH |  |](https://baseballsavant.mlb.com/preview?game_pk=824993&game_date=2026-6-15)
 
 [Preview Matchup\\
 \\
-Yamamoto vs. Burke\\
+Martinez vs. Lauer\\
 \\
 |     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/119.svg) | LAD |  | 4:10 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/145.svg) | CWS |  |](https://baseballsavant.mlb.com/preview?game_pk=824587&game_date=2026-6-13)
-
-[Preview Matchup\\
-\\
-Burrows vs. Cameron\\
-\\
-|     |     |     |     |\\
-| --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/117.svg) | HOU |  | 7:10 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/118.svg) | KC |  |](https://baseballsavant.mlb.com/preview?game_pk=824100&game_date=2026-6-13)
-
-[Preview Matchup\\
-\\
-Nola vs. Drohan\\
-\\
-|     |     |     |     |\\
-| --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/143.svg) | PHI |  | 7:10 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/158.svg) | MIL |  |](https://baseballsavant.mlb.com/preview?game_pk=823776&game_date=2026-6-13)
-
-[Preview Matchup\\
-\\
-Freeland vs. Estes\\
-\\
-|     |     |     |     |\\
-| --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/115.svg) | COL |  | 10:05 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/133.svg) | ATH |  |](https://baseballsavant.mlb.com/preview?game_pk=824995&game_date=2026-6-13)
-
-[Preview Matchup\\
-\\
-Brown vs. McDonald\\
-\\
-|     |     |     |     |\\
-| --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/112.svg) | CHC |  | 10:05 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/137.svg) | SF |  |](https://baseballsavant.mlb.com/preview?game_pk=823213&game_date=2026-6-13)
-
-[Preview Matchup\\
-\\
-Jax vs. Soriano\\
-\\
-|     |     |     |     |\\
-| --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/139.svg) | TB |  | 10:07 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/108.svg) | LAA |  |](https://baseballsavant.mlb.com/preview?game_pk=824019&game_date=2026-6-13)
+| ![](https://www.mlbstatic.com/team-logos/139.svg) | TB |  | 10:10 PM |\\
+| ![](https://www.mlbstatic.com/team-logos/119.svg) | LAD |  |](https://baseballsavant.mlb.com/preview?game_pk=823938&game_date=2026-6-15)
 
 <
 
@@ -159,15 +114,15 @@ R/R \|
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2024 | 5 | 3 | 4.88 | 62 | 0 | 23 | 59 | 78 | 1.58 |
 | 2025 | 4 | 3 | 3.58 | 69 | 0 | 16 | 65.1 | 72 | 1.32 |
-| 2026 | 2 | 0 | 5.26 | 30 | 0 | 1 | 25.2 | 23 | 1.21 |
-| 6 Seasons | 28 | 19 | 3.54 | 327 | 0 | 109 | 312.1 | 377 | 1.28 |
+| 2026 | 3 | 0 | 5.06 | 31 | 0 | 1 | 26.2 | 25 | 1.16 |
+| 6 Seasons | 29 | 19 | 3.53 | 328 | 0 | 109 | 313.1 | 379 | 1.27 |
 
 |  | G | W-L | ERA | IP | SO | WHIP |
 | --- | --- | --- | --- | --- | --- | --- |
 | 2024 | 62 | 5-3 | 4.88 | 59 | 78 | 1.58 |
 | 2025 | 69 | 4-3 | 3.58 | 65.1 | 72 | 1.32 |
-| 2026 | 30 | 2-0 | 5.26 | 25.2 | 23 | 1.21 |
-| 6 Seasons | 327 | 28-19 | 3.54 | 312.1 | 377 | 1.28 |
+| 2026 | 31 | 3-0 | 5.06 | 26.2 | 25 | 1.16 |
+| 6 Seasons | 328 | 29-19 | 3.53 | 313.1 | 379 | 1.27 |
 
 Player Apps
 
@@ -208,7 +163,7 @@ vs. LHH43%34%18%5%Pitchvs. RHH45%28%27%<1%44%SI31%FC22%SL3%CH
 MLB Percentile Rankings
 
 
-![](https://baseballsavant.mlb.com/sections/evp/images/play.png)ValuesavantPOORAVERAGEGREATPitching Run Value-1NOT QUALIFIED40Fastball Run Value3NOT QUALIFIED73Breaking Run Value-4NOT QUALIFIED12Offspeed Run Value0NOT QUALIFIED45PitchingxERA2.80NOT QUALIFIED89xBA.231NOT QUALIFIED65Fastball Velo98.3NOT QUALIFIED95Avg Exit Velo90.7NOT QUALIFIED13Chase %30.8NOT QUALIFIED54Whiff %26.0NOT QUALIFIED57K %21.3NOT QUALIFIED44BB %4.6NOT QUALIFIED97Barrel %3.8NOT QUALIFIED90Hard-Hit %48.8NOT QUALIFIED4GB %57.5NOT QUALIFIED96Extension6.2NOT QUALIFIED24
+![](https://baseballsavant.mlb.com/sections/evp/images/play.png)ValuesavantPOORAVERAGEGREATPitching Run Value-1NOT QUALIFIED40Fastball Run Value4NOT QUALIFIED73Breaking Run Value-4NOT QUALIFIED11Offspeed Run Value0NOT QUALIFIED44PitchingxERA2.80NOT QUALIFIED89xBA.231NOT QUALIFIED65Fastball Velo98.3NOT QUALIFIED95Avg Exit Velo90.7NOT QUALIFIED12Chase %30.8NOT QUALIFIED54Whiff %26.0NOT QUALIFIED57K %21.3NOT QUALIFIED44BB %4.6NOT QUALIFIED97Barrel %3.8NOT QUALIFIED90Hard-Hit %48.8NOT QUALIFIED4GB %57.5NOT QUALIFIED96Extension6.2NOT QUALIFIED24
 
 20262026
 
@@ -323,8 +278,8 @@ Click for Chart.
 |  | 2025 | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | NL | 191 | 4 | 2 | 3.09 | 47 | 0 | 15 | 46.2 | 32 | 20 | 16 | 2 | 24 | 50 | 1.20 |
 |  | 2025 | ![](https://www.mlbstatic.com/team-logos/147.svg)NYY | AL | 87 | 0 | 1 | 4.82 | 22 | 0 | 1 | 18.2 | 19 | 14 | 10 | 2 | 11 | 22 | 1.61 |
 |  | 2025 | ![](https://www.mlbstatic.com/team-logos/.svg)2 Teams |  | 278 | 4 | 3 | 3.58 | 69 | 0 | 16 | 65.1 | 51 | 34 | 26 | 4 | 35 | 72 | 1.32 |
-|  | 2026 | ![](https://www.mlbstatic.com/team-logos/147.svg)NYY | AL | 108 | 2 | 0 | 5.26 | 30 | 0 | 1 | 25.2 | 26 | 15 | 15 | 4 | 5 | 23 | 1.21 |
-|  | 6 Seasons | ![](https://www.mlbstatic.com/team-logos/.svg)2 Teams |  | 1333 | 28 | 19 | 3.54 | 327 | 0 | 109 | 312.1 | 255 | 153 | 123 | 24 | 144 | 377 | 1.28 |
+|  | 2026 | ![](https://www.mlbstatic.com/team-logos/147.svg)NYY | AL | 111 | 3 | 0 | 5.06 | 31 | 0 | 1 | 26.2 | 26 | 15 | 15 | 4 | 5 | 25 | 1.16 |
+|  | 6 Seasons | ![](https://www.mlbstatic.com/team-logos/.svg)2 Teams |  | 1336 | 29 | 19 | 3.53 | 328 | 0 | 109 | 313.1 | 255 | 153 | 123 | 24 | 144 | 379 | 1.27 |
 
 \*: All Star Season,
 Rankings AL/NL: Top 5101520,
@@ -342,8 +297,8 @@ Click for Chart.
 | 2025 | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | NL | P | 47 | 0 | 46.2 | 7 | 2 | 5 | 0 | 1 |  | 1.000 |
 | 2025 | ![](https://www.mlbstatic.com/team-logos/147.svg)NYY | AL | P | 22 | 0 | 18.2 | 3 | 1 | 1 | 1 | 0 |  | .667 |
 | 2025 | ![](https://www.mlbstatic.com/team-logos/.svg)2 Teams |  | P | 69 | 0 | 65.1 | 10 | 3 | 6 | 1 | 1 |  | .900 |
-| 2026 | ![](https://www.mlbstatic.com/team-logos/147.svg)NYY | AL | P | 30 | 0 | 25.2 | 4 | 1 | 3 | 0 | 0 |  | 1.000 |
-| 6 Seasons | ![](https://www.mlbstatic.com/team-logos/.svg)2 Teams |  | P | 327 | 0 | 312.1 | 57 | 22 | 30 | 5 | 3 |  | .912 |
+| 2026 | ![](https://www.mlbstatic.com/team-logos/147.svg)NYY | AL | P | 31 | 0 | 26.2 | 4 | 1 | 3 | 0 | 0 |  | 1.000 |
+| 6 Seasons | ![](https://www.mlbstatic.com/team-logos/.svg)2 Teams |  | P | 328 | 0 | 313.1 | 57 | 22 | 30 | 5 | 3 |  | .912 |
 
 ## [Spray Chart](https://baseballsavant.mlb.com/savant-player/camilo-doval-666808?stats=statcast-r-pitching-mlb\#spray-chart)
 
@@ -409,7 +364,7 @@ Save Image
 
 | Year | BP | Rank |
 | --- | --- | --- |
-| 2026 | 30 | 21st in AL |
+| 2026 | 31 | 20th in AL |
 | 2023 | 69 | 10th in NL |
 | 2022 | 68 | 6th in NL |
 
@@ -497,8 +452,8 @@ Save Image
 
 | Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| New York Yankees | MLB | vs Left |  |  |  | 27 |  |  | 10.2 | 53 | 19 |  |  | 2 | 3 | 10 | 2.06 |
-| New York Yankees | MLB | vs Right |  |  |  | 27 |  |  | 14.2 | 55 | 7 |  |  | 2 | 2 | 13 | 0.61 |
+| New York Yankees | MLB | vs Left |  |  |  | 28 |  |  | 11.0 | 54 | 19 |  |  | 2 | 3 | 11 | 2.00 |
+| New York Yankees | MLB | vs Right |  |  |  | 28 |  |  | 15.1 | 57 | 7 |  |  | 2 | 2 | 14 | 0.59 |
 
 ### [Monthly Splits](https://baseballsavant.mlb.com/savant-player/camilo-doval-666808?stats=statcast-r-pitching-mlb\#monthly-splits)
 
@@ -507,14 +462,14 @@ Save Image
 | New York Yankees | MLB | March | 0 | 0 | 0.00 | 3 | 0 | 0 | 2.1 | 8 | 0 | 0 | 0 | 0 | 0 | 3 | 0.00 |
 | New York Yankees | MLB | April | 1 | 0 | 9.00 | 9 | 0 | 0 | 8.0 | 37 | 10 | 8 | 8 | 3 | 2 | 8 | 1.50 |
 | New York Yankees | MLB | May | 0 | 0 | 3.27 | 13 | 0 | 1 | 11.0 | 42 | 8 | 4 | 4 | 1 | 2 | 6 | 0.91 |
-| New York Yankees | MLB | June | 1 | 0 | 6.23 | 5 | 0 | 0 | 4.1 | 21 | 8 | 3 | 3 | 0 | 1 | 6 | 2.08 |
-| New York Yankees | MLB | Pre All-Star | 2 | 0 | 5.26 | 30 | 0 | 1 | 25.2 | 108 | 26 | 15 | 15 | 4 | 5 | 23 | 1.21 |
+| New York Yankees | MLB | June | 2 | 0 | 5.06 | 6 | 0 | 0 | 5.1 | 24 | 8 | 3 | 3 | 0 | 1 | 8 | 1.69 |
+| New York Yankees | MLB | Pre All-Star | 3 | 0 | 5.06 | 31 | 0 | 1 | 26.2 | 111 | 26 | 15 | 15 | 4 | 5 | 25 | 1.16 |
 
 ### [Baserunner Splits](https://baseballsavant.mlb.com/savant-player/camilo-doval-666808?stats=statcast-r-pitching-mlb\#baserunner-splits)
 
 | Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| New York Yankees | MLB | Bases Empty |  |  |  | 27 |  |  | 13.1 | 58 | 12 |  |  | 3 | 4 | 13 | 1.20 |
+| New York Yankees | MLB | Bases Empty |  |  |  | 28 |  |  | 14.1 | 61 | 12 |  |  | 3 | 4 | 15 | 1.12 |
 | New York Yankees | MLB | Bases Loaded |  |  |  | 2 |  |  | 1.0 | 4 | 1 |  |  | 0 | 0 | 2 | 1.00 |
 | New York Yankees | MLB | Runner at 1st |  |  |  | 14 |  |  | 3.0 | 13 | 5 |  |  | 1 | 0 | 2 | 1.67 |
 | New York Yankees | MLB | Runners at 1st & 2nd |  |  |  | 3 |  |  | 0.1 | 3 | 2 |  |  | 0 | 0 | 1 | 6.00 |
@@ -529,19 +484,19 @@ Save Image
 | Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | New York Yankees | MLB | Home Games | 1 | 0 | 8.25 | 13 | 0 | 1 | 12.0 | 54 | 16 | 11 | 11 | 3 | 2 | 13 | 1.50 |
-| New York Yankees | MLB | Away Games | 1 | 0 | 2.63 | 17 | 0 | 0 | 13.2 | 54 | 10 | 4 | 4 | 1 | 3 | 10 | 0.95 |
-| New York Yankees | MLB | Day Games | 0 | 0 | 5.06 | 6 | 0 | 0 | 5.1 | 22 | 4 | 3 | 3 | 0 | 2 | 6 | 1.13 |
+| New York Yankees | MLB | Away Games | 2 | 0 | 2.45 | 18 | 0 | 0 | 14.2 | 57 | 10 | 4 | 4 | 1 | 3 | 12 | 0.89 |
+| New York Yankees | MLB | Day Games | 1 | 0 | 4.26 | 7 | 0 | 0 | 6.1 | 25 | 4 | 3 | 3 | 0 | 2 | 8 | 0.95 |
 | New York Yankees | MLB | Night Games | 2 | 0 | 5.31 | 24 | 0 | 1 | 20.1 | 86 | 22 | 12 | 12 | 4 | 3 | 17 | 1.23 |
-| New York Yankees | MLB | Leading Off Inning |  |  |  | 22 |  |  | 4.1 | 22 | 5 |  |  | 0 | 3 | 5 | 1.85 |
-| New York Yankees | MLB | Late / Close |  |  |  | 11 |  |  | 6.2 | 30 | 10 |  |  | 3 | 0 | 4 | 1.50 |
+| New York Yankees | MLB | Leading Off Inning |  |  |  | 23 |  |  | 4.2 | 23 | 5 |  |  | 0 | 3 | 6 | 1.71 |
+| New York Yankees | MLB | Late / Close |  |  |  | 12 |  |  | 7.2 | 33 | 10 |  |  | 3 | 0 | 6 | 1.30 |
 
 ### [Outs Splits](https://baseballsavant.mlb.com/savant-player/camilo-doval-666808?stats=statcast-r-pitching-mlb\#out-splits)
 
 | Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| New York Yankees | MLB | No Outs |  |  |  | 24 |  |  | 8.0 | 37 | 9 |  |  | 0 | 3 | 9 | 1.50 |
-| New York Yankees | MLB | One Out |  |  |  | 28 |  |  | 8.2 | 36 | 10 |  |  | 3 | 1 | 10 | 1.27 |
-| New York Yankees | MLB | Two Outs |  |  |  | 26 |  |  | 8.2 | 35 | 7 |  |  | 1 | 1 | 4 | 0.92 |
+| New York Yankees | MLB | No Outs |  |  |  | 25 |  |  | 8.1 | 38 | 9 |  |  | 0 | 3 | 10 | 1.44 |
+| New York Yankees | MLB | One Out |  |  |  | 29 |  |  | 9.0 | 37 | 10 |  |  | 3 | 1 | 11 | 1.22 |
+| New York Yankees | MLB | Two Outs |  |  |  | 27 |  |  | 9.0 | 36 | 7 |  |  | 1 | 1 | 4 | 0.89 |
 
 ### [Inning Splits](https://baseballsavant.mlb.com/savant-player/camilo-doval-666808?stats=statcast-r-pitching-mlb\#inning-splits)
 
@@ -549,7 +504,7 @@ Save Image
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | New York Yankees | MLB | Sixth Inning |  |  | 0.00 | 1 |  |  | 0.2 | 3 | 1 | 0 | 0 | 0 | 0 | 0 | 1.50 |
 | New York Yankees | MLB | Seventh Inning |  |  | 3.00 | 12 |  |  | 9.0 | 33 | 4 | 3 | 3 | 2 | 2 | 6 | 0.67 |
-| New York Yankees | MLB | Eighth Inning |  |  | 9.00 | 13 |  |  | 11.0 | 51 | 17 | 11 | 11 | 2 | 2 | 14 | 1.73 |
+| New York Yankees | MLB | Eighth Inning |  |  | 8.25 | 14 |  |  | 12.0 | 54 | 17 | 11 | 11 | 2 | 2 | 16 | 1.58 |
 | New York Yankees | MLB | Ninth Inning |  |  | 1.80 | 5 |  |  | 5.0 | 21 | 4 | 1 | 1 | 0 | 1 | 3 | 1.00 |
 
 ### [Platoon Splits](https://baseballsavant.mlb.com/savant-player/camilo-doval-666808?stats=statcast-r-pitching-mlb\#milb-platoon-splits)
@@ -638,7 +593,8 @@ Save Image
 | [2026-06-08](https://baseballsavant.mlb.com/gamefeed?gamePk=824427&game_date=2026-06-08) | ![](https://www.mlbstatic.com/team-logos/114.svg)Cleveland Guardians | ![](https://www.mlbstatic.com/team-logos/147.svg)New York Yankees | 0 | 0 | 5.70 | 1 | 0 | 0 | 0.1 | 2 | 0 | 0 | 0 | 0 | 0 | 1.18 | [![](https://baseballsavant.mlb.com/sections/gamefeed/images/pitch-report-icon.png)](https://baseballsavant.mlb.com/player-scroll/game?gamePk=824427&player_id=666808) |
 | [2026-06-09](https://baseballsavant.mlb.com/gamefeed?gamePk=824429&game_date=2026-06-09) | ![](https://www.mlbstatic.com/team-logos/114.svg)Cleveland Guardians | ![](https://www.mlbstatic.com/team-logos/147.svg)New York Yankees | 1 | 0 | 5.47 | 1 | 0 | 0 | 1.0 | 1 | 0 | 0 | 0 | 0 | 0 | 1.18 | [![](https://baseballsavant.mlb.com/sections/gamefeed/images/pitch-report-icon.png)](https://baseballsavant.mlb.com/player-scroll/game?gamePk=824429&player_id=666808) |
 | [2026-06-12](https://baseballsavant.mlb.com/gamefeed?gamePk=822803&game_date=2026-06-12) | ![](https://www.mlbstatic.com/team-logos/141.svg)Toronto Blue Jays | ![](https://www.mlbstatic.com/team-logos/147.svg)New York Yankees | 0 | 0 | 5.26 | 1 | 0 | 0 | 1.0 | 1 | 0 | 0 | 0 | 1 | 2 | 1.21 | [![](https://baseballsavant.mlb.com/sections/gamefeed/images/pitch-report-icon.png)](https://baseballsavant.mlb.com/player-scroll/game?gamePk=822803&player_id=666808) |
-| June | ![](https://www.mlbstatic.com/team-logos/147.svg)New York Yankees | ![](https://www.mlbstatic.com/team-logos/.svg) | 1 | 0 | 6.23 | 5 | 0 | 0 | 4.1 | 8 | 3 | 3 | 0 | 1 | 6 | 2.08 |  |
+| [2026-06-14](https://baseballsavant.mlb.com/gamefeed?gamePk=822801&game_date=2026-06-14) | ![](https://www.mlbstatic.com/team-logos/141.svg)Toronto Blue Jays | ![](https://www.mlbstatic.com/team-logos/147.svg)New York Yankees | 1 | 0 | 5.06 | 1 | 0 | 0 | 1.0 | 0 | 0 | 0 | 0 | 0 | 2 | 1.16 | [![](https://baseballsavant.mlb.com/sections/gamefeed/images/pitch-report-icon.png)](https://baseballsavant.mlb.com/player-scroll/game?gamePk=822801&player_id=666808) |
+| June | ![](https://www.mlbstatic.com/team-logos/147.svg)New York Yankees | ![](https://www.mlbstatic.com/team-logos/.svg) | 2 | 0 | 5.06 | 6 | 0 | 0 | 5.1 | 8 | 3 | 3 | 0 | 1 | 8 | 1.69 |  |
 
 | Date | Home Tm | Away Tm | W | L | ERA | G | GS | SV | IP | H | R | ER | HR | BB | SO | WHIP |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -678,21 +634,21 @@ Doval relies on 4 pitches.
 
 Sinker
 
-(43.6%) ,
+(43.5%) ,
 
 Cutter
 
-(32.2%) ,
+(30.2%) ,
 
 Slider
 
-(21.4%) ,
+(23.3%) ,
 
 Changeup
 
-(2.8%) ,
+(3.0%) ,
 
-Sinker173 Pitches (43.6%)
+Sinker187 Pitches (43.5%)
 
 - All PitchesSwing & MissesBase HitsRight Handed BatterLeft Handed BatterAhead In CountBehind In CountEven Count2 Strikes▾
 
@@ -735,10 +691,10 @@ Breaking: Slider, Curve, Knuckle, Sweeper, Slurve, Other
 
 ## [Pitch Tracking](https://baseballsavant.mlb.com/savant-player/camilo-doval-666808?stats=statcast-r-pitching-mlb\#pitch_tracking)
 
-| 2026 | Sinker | 173 | 85 | 88 | 43.6 | 98.2 | 50 | 47 | 9 | 7 | 1 | 0 | 1 | 8 | 41 | .191 | .243 | .277 | .317 | .206 | .249 | 89.4 | 5 | 2535 | 6.2 | 19.8 | 23.5 |
-| 2026 | Cutter | 128 | 56 | 72 | 32.2 | 98.4 | 28 | 24 | 7 | 6 | 1 | 0 | 0 | 3 | 22 | .292 | .199 | .333 | .234 | .312 | .238 | 89.3 | 9 | 2575 | 6.2 | 19.2 | 12.5 |
-| 2026 | Slider | 85 | 47 | 38 | 21.4 | 88.5 | 25 | 25 | 9 | 4 | 2 | 0 | 3 | 10 | 15 | .360 | .245 | .800 | .525 | .493 | .322 | 92.6 | -1 | 2629 | 6.3 | 45.8 | 26.3 |
-| 2026 | Changeup | 11 | 1 | 10 | 2.8 | 94.1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 1850 | 6.3 | 50.0 |  |
+| 2026 | Sinker | 187 | 94 | 93 | 43.5 | 98.3 | 54 | 51 | 10 | 8 | 1 | 0 | 1 | 10 | 43 | .196 | .250 | .275 | .323 | .207 | .254 | 90.0 | 5 | 2533 | 6.2 | 20.6 | 27.0 |
+| 2026 | Cutter | 130 | 58 | 72 | 30.2 | 98.4 | 29 | 24 | 7 | 6 | 1 | 0 | 0 | 3 | 22 | .292 | .199 | .333 | .234 | .325 | .254 | 89.3 | 9 | 2573 | 6.2 | 18.9 | 12.5 |
+| 2026 | Slider | 100 | 62 | 38 | 23.3 | 88.6 | 28 | 28 | 9 | 4 | 2 | 0 | 3 | 12 | 16 | .321 | .220 | .714 | .470 | .439 | .289 | 92.1 | 3 | 2642 | 6.2 | 46.3 | 26.1 |
+| 2026 | Changeup | 13 | 1 | 12 | 3.0 | 94.2 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 1826 | 6.2 | 50.0 |  |
 | 2025 | Slider | 529 | 277 | 252 | 48.0 | 89.1 | 156 | 140 | 28 | 21 | 5 | 0 | 2 | 59 | 81 | .200 | .190 | .279 | .271 | .256 | .249 | 86.1 | 2 | 2627 | 6.4 | 41.1 | 28.2 |
 | 2025 | Cutter | 439 | 234 | 205 | 39.8 | 98.2 | 91 | 72 | 17 | 13 | 2 | 0 | 2 | 10 | 64 | .236 | .271 | .347 | .444 | .332 | .376 | 89.7 | 12 | 2541 | 6.4 | 16.5 | 11.8 |
 | 2025 | Sinker | 135 | 85 | 50 | 12.2 | 96.6 | 28 | 26 | 6 | 4 | 2 | 0 | 0 | 3 | 23 | .231 | .235 | .308 | .333 | .265 | .277 | 88.8 | 0 | 2421 | 6.4 | 12.9 | 11.1 |
@@ -952,7 +908,7 @@ These run values are **context-neutral**, meaning they do not take into account 
 | 2024 | ![](https://www.mlbstatic.com/team-logos/137.svg) | 268 | 1,116 | 5 | 6 | -7 | -6 | -2 |
 | 2025 | ![](https://www.mlbstatic.com/team-logos/147.svg) | 275 | 1,104 | 6 | 9 | -2 | -5 | 7 |
 | 2026 | ![](https://www.mlbstatic.com/team-logos/147.svg) | 108 | 415 | 4 | -3 | 0 | -2 | -1 |
-| Player |  | 1,317 | 5,346 | 31 | 44 | -19 | 31 | 30 |
+| Player |  | 1,317 | 5,346 | 32 | 44 | -19 | 32 | 30 |
 
 [+\\
 View Complete Pitching Run Value Leaderboard](https://baseballsavant.mlb.com/leaderboard/swing-take?type=All&year=2026&group=Pitcher)
@@ -1002,8 +958,8 @@ These run values are **leveraged**, meaning the base/out situation at the time o
 | 2022 | 73 | 29 | 96 |  | 86 | 98 | 95 |  | 94 | 44 | 83 | 81 | 15 | 89 | 62 | 96 | 67 |
 | 2023 | 81 | 81 | 76 |  | 94 | 96 | 86 |  | 53 | 58 | 92 | 92 | 35 | 89 | 35 | 88 | 68 |
 | 2024 | 34 | 10 | 89 |  | 77 | 95 | 74 |  | 30 | 48 | 95 | 87 | 1 | 30 | 15 | 98 | 44 |
-| 2025 | 69 | 55 | 79 |  | 68 | 85 | 84 |  | 66 | 61 | 74 | 74 | 3 | 84 | 50 | 91 | 42 |
-| 2026 | 40 | 73 | 12 | 45 | 89 | 95 | 96 |  | 13 | 54 | 57 | 44 | 97 | 90 | 4 | 96 | 24 |
+| 2025 | 69 | 55 | 79 |  | 67 | 85 | 84 |  | 66 | 61 | 74 | 74 | 3 | 84 | 50 | 91 | 42 |
+| 2026 | 40 | 73 | 11 | 44 | 89 | 95 | 96 |  | 12 | 54 | 57 | 44 | 97 | 90 | 4 | 96 | 24 |
 
 [+\\
 View Complete Percentile Rankings Leaderboard](https://baseballsavant.mlb.com/leaderboard/percentile-rankings?type=pitcher)
@@ -1201,7 +1157,7 @@ View Complete Year to Year Changes Leaderboard](https://baseballsavant.mlb.com/l
 | 2023 | Shades | 271 | .258 | 133 | 5 | 3.8 | 138 | 49 | 35.5 |
 | 2024 | Shades | 266 | .322 | 135 | 1 | 0.7 | 131 | 18 | 13.7 |
 | 2025 | Shades | 275 | .282 | 149 | 2 | 1.3 | 126 | 33 | 26.2 |
-| 2026 | Shades | 103 | .304 | 51 | 6 | 11.8 | 52 | 30 | 57.7 |
+| 2026 | Shades | 108 | .305 | 55 | 7 | 12.7 | 53 | 30 | 56.6 |
 
 _! Note: Shifts are through the 2022 season, Shaded starting from the 2023 season, **Shift:**_
 _three or more infielders are on the same side of second base, **Shade:** positioned outside of_
@@ -1221,7 +1177,7 @@ how positioning is defined here](https://baseballsavant.mlb.com/sections/visuals
 | 2023 | ![](https://www.mlbstatic.com/team-logos/137.svg) | 235 | 16.1 | 29.8% | 0.0% | 224 | 17.9 | 9.8% | 1.3% |
 | 2024 | ![](https://www.mlbstatic.com/team-logos/137.svg) | 264 | 16.1 | 20.5% | 0.4% | 239 | 17.5 | 2.9% | 0.4% |
 | 2025 | ![](https://baseballsavant.mlb.com/site-core/images/savant-mlb.svg) | 254 | 17.2 | 8.7% | 0.8% | 204 | 18.3 | 2.5% | 1.5% |
-| 2026 | ![](https://www.mlbstatic.com/team-logos/147.svg) | 102 | 18.1 | 1.0% | 2.9% | 52 | 20.1 | 0.0% | 1.9% |
+| 2026 | ![](https://www.mlbstatic.com/team-logos/147.svg) | 113 | 18.2 | 0.9% | 2.7% | 58 | 20.2 | 0.0% | 3.4% |
 
 [+\\
 View Complete Pitch Tempo Leaderboard](https://baseballsavant.mlb.com/leaderboard/pitch-tempo)
@@ -1241,12 +1197,12 @@ Camilo Doval - 2026 Frequency of Pitches by Pitch SpeedChangeupCutterSinkerSlide
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021 | ![](https://www.mlbstatic.com/team-logos/137.svg) | 0 | 1 | 1 | 0 | 167 | 0.0% | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 3.2 | 12.3 | 15.5 | -- | -- | -- |
 | 2022 | ![](https://www.mlbstatic.com/team-logos/137.svg) | 0 | 1 | 1 | 0 | 426 | 0.7% | 2 | 1 | 0 | 0 | 0 | 2 | 1 | 3.8 | 11.7 | 15.5 | 12.3 | 12.9 | 25.1 |
-| 2023 | ![](https://www.mlbstatic.com/team-logos/137.svg) | -2 | -9 | -10 | 0 | 472 | 3.0% | 9 | 5 | 0 | 2 | 0 | 11 | 5 | 4.4 | 12.3 | 16.8 | 14.8 | 12.7 | 27.5 |
+| 2023 | ![](https://www.mlbstatic.com/team-logos/137.svg) | -2 | -10 | -10 | 0 | 472 | 3.0% | 9 | 5 | 0 | 2 | 0 | 11 | 5 | 4.4 | 12.3 | 16.8 | 14.8 | 12.7 | 27.5 |
 | 2024 | ![](https://www.mlbstatic.com/team-logos/137.svg) | -1 | -4 | -4 | 0 | 406 | 2.0% | 8 | 0 | 0 | 0 | 0 | 8 | 0 | 4.5 | 12.2 | 16.7 | 15.4 | 12.6 | 28.0 |
 | 2025 | ![](https://www.mlbstatic.com/team-logos/147.svg) | -1 | -2 | -2 | 0 | 132 | 2.3% | 3 | 0 | 0 | 0 | 1 | 4 | 0 | 4.2 | 12.5 | 16.7 | 19.1 | 12.6 | 31.7 |
 | 2025 | ![](https://www.mlbstatic.com/team-logos/137.svg) | -1 | -4 | -4 | -1 | 273 | 2.2% | 5 | 1 | 0 | 2 | 0 | 7 | 1 | 4.2 | 11.6 | 15.8 | 16.3 | 13.9 | 30.1 |
 | 2025 | ![](https://baseballsavant.mlb.com/site-core/images/savant-mlb.svg) | -2 | -7 | -6 | -1 | 405 | 2.2% | 8 | 1 | 0 | 2 | 1 | 11 | 1 | 4.2 | 11.9 | 16.1 | 17.2 | 13.5 | 30.7 |
-| 2026 | ![](https://www.mlbstatic.com/team-logos/147.svg) | 0 | -3 | -4 | 2 | 97 | 6.2% | 6 | 0 | 1 | 0 | 0 | 6 | 1 | 5.4 | 11.7 | 17.1 | 16.4 | 12.5 | 28.9 |
+| 2026 | ![](https://www.mlbstatic.com/team-logos/147.svg) | 0 | -2 | -4 | 2 | 114 | 5.3% | 6 | 0 | 1 | 0 | 0 | 6 | 1 | 5.1 | 11.4 | 16.5 | 16.4 | 12.5 | 28.9 |
 
 [\+ View Complete Pitcher Running Game Leaderboard](https://baseballsavant.mlb.com/leaderboard/pitcher-running-game)
 
@@ -1263,8 +1219,8 @@ Loading Bat Tracking...
 | 2023 | ![](https://www.mlbstatic.com/team-logos/137.svg) | -- | -- | -- | -- | -- | -- | -- | -- | -- | 68 | -- | -- | -- | -- | -- | -- | -- | -- |
 | 2024 | ![](https://www.mlbstatic.com/team-logos/137.svg) | -- | -- | -- | -- | -- | -- | -- | -- | -- | 59 | -- | -- | -- | -- | -- | -- | -- | -- |
 | 2025 | ![](https://baseballsavant.mlb.com/site-core/images/savant-mlb.svg) | -- | -- | -- | -- | -- | -- | -- | -- | -- | 65 | -- | -- | -- | -- | -- | -- | -- | -- |
-| 2026 | ![](https://www.mlbstatic.com/team-logos/147.svg) | -- | -- | -- | -- | -- | -- | -- | -- | -- | 25 | -- | -- | -- | -- | -- | -- | -- | -- |
-| **Player** | ![](https://baseballsavant.mlb.com/site-core/images/savant-mlb.svg) | -- | -- | -- | -- | -- | -- | -- | -- | -- | 311 | -- | -- | -- | -- | -- | -- | -- | -- |
+| 2026 | ![](https://www.mlbstatic.com/team-logos/147.svg) | -- | -- | -- | -- | -- | -- | -- | -- | -- | 26 | -- | -- | -- | -- | -- | -- | -- | -- |
+| **Player** | ![](https://baseballsavant.mlb.com/site-core/images/savant-mlb.svg) | -- | -- | -- | -- | -- | -- | -- | -- | -- | 312 | -- | -- | -- | -- | -- | -- | -- | -- |
 
 [+\\
 View Complete Fielding Run Value Leaderboard](https://baseballsavant.mlb.com/leaderboard/fielding-run-value)
@@ -1318,7 +1274,7 @@ Save Chart
 
 ## [Histograms](https://baseballsavant.mlb.com/savant-player/camilo-doval-666808?stats=statcast-r-pitching-mlb\#statcast-histograms)
 
-Created with Highcharts 6.2.0Exit VelocityPitchesChart context menuCamilo Doval Exit Velocity Histogram20253035404550556065707580859095100105110115120050100150200250
+Created with Highcharts 6.2.0Exit VelocityPitchesChart context menuCamilo Doval Exit Velocity Histogram20253035404550556065707580859095100105110115120050100150200250300
 
 - Exit VelocityLaunch AnglePitch VelocityBat SpeedSwing LengthAttack AngleAttack DirectionSwing Path TiltPercent Squared UpArm Angle▾
 
@@ -1350,35 +1306,35 @@ Created with Highcharts 6.2.0Exit VelocityPitchesChart context menuCamilo Doval 
 
 ## Run Value
 
-Camilo DovalPitcher RV (All)1.61.4-0.60.70.31.11.9-5.20.4-2.4-0.10.20.0
+Camilo DovalPitcher RV (All)1.71.5-0.61.00.41.32.0-5.30.7-2.2-0.30.20.0
 
-Camilo DovalPitcher RV (Swings)1.51.1-0.80.30.00.81.5-5.40.10.20.51.52.6
+Camilo DovalPitcher RV (Swings)1.51.2-0.80.40.11.01.6-5.60.40.60.51.72.7
 
-Camilo DovalPitcher RV (Takes)0.10.30.20.50.30.30.40.20.3-2.7-0.6-1.3-2.6
+Camilo DovalPitcher RV (Takes)0.20.30.20.60.30.30.40.30.3-2.8-0.8-1.5-2.8
 
-Camilo DovalPitcher RV (Contact)1.40.5-1.00.30.00.81.0-5.60.0-0.10.30.5-0.1
+Camilo DovalPitcher RV (Contact)1.40.6-1.00.40.10.81.1-5.80.0-0.20.30.7-0.1
 
 ## Standard
 
-Camilo DovalPitch %4537556871541419
+Camilo DovalPitch %4437555871531420
 
-Camilo DovalTotal Pitches15181127201922322860145477
+Camilo DovalTotal Pitches16191231212023363063156084
 
-Camilo DovalSwing % By Zone67615567756868847113364335
+Camilo DovalSwing % By Zone63635865767070837316334235
 
-Camilo DovalSwings By Zone10116181513152720852327
+Camilo DovalSwings By Zone101272016141630221052529
 
-Camilo DovalK %0332590202501350333053
+Camilo DovalK %0332590332502260252756
 
-Camilo DovalWhiff %20361707040111525403970
+Camilo DovalWhiff %20331406738102330404069
 
-Camilo DovalWhiffs By Zone24101063322919
+Camilo DovalWhiffs By Zone241011635321020
 
-Camilo DovalBatted Balls By Zone4231011461771175
+Camilo DovalBatted Balls By Zone4231011461971185
 
-Camilo DovalHits By Zone0024311631022
+Camilo DovalHits By Zone0024311731022
 
-Camilo DovalSingles By Zone0014211221012
+Camilo DovalSingles By Zone0014211321012
 
 Camilo DovalDoubles By Zone0010000110010
 
@@ -1388,82 +1344,82 @@ Camilo DovalHome Runs By Zone0000100300000
 
 Camilo DovalXBH By Zone0010100410010
 
-Camilo DovalStrikeouts By Zone0111012012138
+Camilo DovalStrikeouts By Zone0111022023139
 
-Camilo DovalBB %0000000002533013
+Camilo DovalBB %0000000002050013
 
-Camilo DovalGround Ball %50506750455067537110008680
+Camilo DovalGround Ball %50506750455067537110007580
 
-Camilo DovalLine Drive %050020362517181400020
+Camilo DovalLine Drive %050020362517211400020
 
-Camilo DovalFlyball %25002018250291400140
+Camilo DovalFlyball %25002018250261400250
 
 Camilo DovalPopup %2503310001700010000
 
-Camilo DovalBABIP.000.000.667.400.200.250.167.214.4291.000.000.286.400
+Camilo DovalBABIP.000.000.667.400.200.250.167.250.4291.000.000.250.400
 
-Camilo DovalBatting Average.000.000.500.400.273.200.125.353.375.333.000.222.154
+Camilo DovalBatting Average.000.000.500.400.273.167.125.368.333.250.000.200.143
 
-Camilo DovalBACON.000.000.667.400.273.250.167.353.4291.000.000.286.400
+Camilo DovalBACON.000.000.667.400.273.250.167.368.4291.000.000.250.400
 
-Camilo DovalOBP.000.000.500.364.273.200.125.353.375.500.333.200.267
+Camilo DovalOBP.000.000.500.364.273.167.125.368.333.400.500.182.250
 
-Camilo DovalSLG.000.000.750.400.545.200.125.941.500.333.000.333.154
+Camilo DovalSLG.000.000.750.400.545.167.125.895.444.250.000.300.143
 
-Camilo DovalISO.000.000.250.000.273.000.000.588.125.000.000.111.000
+Camilo DovalISO.000.000.250.000.273.000.000.526.111.000.000.100.000
 
-Camilo DovalwOBA.000.000.541.325.351.179.112.544.382.399.234.216.213
+Camilo DovalwOBA.000.000.540.325.350.149.112.533.339.319.351.196.199
 
-Camilo DovalwOBA (Contact).000.000.722.358.351.224.149.544.437.895.000.309.358
+Camilo DovalwOBA (Contact).000.000.720.358.350.224.149.533.436.894.000.270.358
 
 ## Statcast
 
-Camilo DovalAvg Exit Velocity90868393969192928594869074
+Camilo DovalAvg Exit Velocity90868393969192938594868974
 
-Camilo DovalAvg Launch Angle24-2628105375-102634-8
+Camilo DovalAvg Launch Angle24-2628105375-1026310-8
 
-Camilo DovalBat Speed (MPH)72717075727374727366707472
+Camilo DovalBat Speed (MPH)72717175727373727267707472
 
-Camilo DovalSwing Length (ft)6.87.06.97.27.37.17.77.77.76.87.07.57.9
+Camilo DovalSwing Length (ft)6.87.06.87.37.27.37.77.67.86.97.07.68.0
 
-Camilo DovalSquared up % / Swings20917396715274420132094
+Camilo DovalSquared up % / Swings20814356314254718102083
 
-Camilo DovalSquared up % / Contact25142039711544502417331413
+Camilo DovalSquared up % / Contact25131735671540522414331311
 
-Camilo DovalAttack Angle71093101013121337715
+Camilo DovalAttack Angle79104101112121457715
 
-Camilo DovalAttack Direction6423-21-8-4-71413-4-16
+Camilo DovalAttack Direction6421-2-1-7-3-81313-4-16
 
-Camilo DovalSwing Path (Tilt)27282831293336353225243635
+Camilo DovalSwing Path (Tilt)27292731303336353225243635
 
 Camilo DovalBarrels0001000200000
 
-Camilo DovalBarrels / BIP (%)000100001200000
+Camilo DovalBarrels / BIP (%)000100001100000
 
-Camilo DovalBarrels / Swings (%)0006000700000
+Camilo DovalBarrels / Swings (%)0005000700000
 
-Camilo DovalBarrels / Pitches (%)0004000600000
+Camilo DovalBarrels / Pitches (%)0003000600000
 
-Camilo DovalHard Hit1116824830031
+Camilo DovalHard Hit11168241030031
 
-Camilo DovalHard Hit / BIP (%)255033607350674743004320
+Camilo DovalHard Hit / BIP (%)255033607350675343003820
 
-Camilo DovalHard Hit / Swings (%)1091733531527301500134
+Camilo DovalHard Hit / Swings (%)1081430501425331400123
 
-Camilo DovalHard Hit / Pitches (%)7692240111825110061
+Camilo DovalHard Hit / Pitches (%)6581938101728100051
 
-Camilo DovalxBA.166.121.209.325.361.219.152.381.221.143.005.179.058
+Camilo DovalxBA.166.121.209.325.361.183.152.412.197.107.005.163.054
 
-Camilo DovalxBA (Contact).166.283.279.325.361.274.203.381.253.429.009.230.150
+Camilo DovalxBA (Contact).166.283.279.325.361.274.203.412.253.429.009.204.150
 
-Camilo DovalxOBP.166.188.209.295.361.219.152.381.221.357.336.161.183
+Camilo DovalxOBP.166.188.209.295.361.183.152.412.197.286.502.149.172
 
-Camilo DovalxSLG.288.121.243.424.497.275.202.784.258.183.006.204.062
+Camilo DovalxSLG.288.121.243.424.497.230.202.783.230.137.006.187.058
 
-Camilo DovalxISO.123.001.034.099.136.056.050.402.037.040.002.025.005
+Camilo DovalxISO.123.001.034.099.136.047.050.371.033.030.002.024.004
 
-Camilo DovalxwOBA.192.199.194.294.371.216.152.488.211.283.236.152.140
+Camilo DovalxwOBA.192.199.194.294.371.180.152.503.187.226.353.140.131
 
-Camilo DovalxwOBA (Contact).192.299.259.324.371.270.203.488.241.431.008.217.138
+Camilo DovalxwOBA (Contact).192.299.259.324.371.270.203.503.241.431.008.193.138
 
 Loading Chart...
