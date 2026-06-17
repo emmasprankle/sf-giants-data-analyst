@@ -5,93 +5,134 @@ slug: baseballsavant-jordan-hicks
 
 [Preview Matchup\\
 \\
-Gusto vs. Wheeler\\
+McLean vs. Lodolo\\
 \\
 |     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/146.svg) | MIA |  | 6:40 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/143.svg) | PHI |  |](https://baseballsavant.mlb.com/preview?game_pk=823452&game_date=2026-6-15)
+| ![](https://www.mlbstatic.com/team-logos/121.svg) | NYM |  | 12:40 PM |\\
+| ![](https://www.mlbstatic.com/team-logos/113.svg) | CIN |  |](https://baseballsavant.mlb.com/preview?game_pk=824503&game_date=2026-6-17)
 
 [Preview Matchup\\
 \\
-Spence vs. Alvarez\\
+Avila vs. Littell\\
 \\
 |     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/118.svg) | KC |  | 6:45 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/120.svg) | WSH |  |](https://baseballsavant.mlb.com/preview?game_pk=822724&game_date=2026-6-15)
+| ![](https://www.mlbstatic.com/team-logos/118.svg) | KC |  | 1:05 PM |\\
+| ![](https://www.mlbstatic.com/team-logos/120.svg) | WSH |  |](https://baseballsavant.mlb.com/preview?game_pk=822721&game_date=2026-6-17)
 
 [Preview Matchup\\
 \\
-Myers vs. Burns\\
+Alcantara vs. Painter\\
 \\
 |     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/121.svg) | NYM |  | 7:10 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/113.svg) | CIN |  |](https://baseballsavant.mlb.com/preview?game_pk=824505&game_date=2026-6-15)
+| ![](https://www.mlbstatic.com/team-logos/146.svg) | MIA |  | 1:05 PM |\\
+| ![](https://www.mlbstatic.com/team-logos/143.svg) | PHI |  |](https://baseballsavant.mlb.com/preview?game_pk=823450&game_date=2026-6-17)
+
+[|     |     |     |     |\\
+| --- | --- | --- | --- |\\
+| ![](https://www.mlbstatic.com/team-logos/137.svg) | SF | 3 | 2nd |\\
+| ![](https://www.mlbstatic.com/team-logos/144.svg) | ATL | 2 |](https://baseballsavant.mlb.com/gamefeed?gamePk=824912)
 
 [Preview Matchup\\
 \\
-TBA vs. May\\
+Mize vs. Lambert\\
 \\
 |     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/135.svg) | SD |  | 7:45 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/138.svg) | STL |  |](https://baseballsavant.mlb.com/preview?game_pk=823046&game_date=2026-6-15)
+| ![](https://www.mlbstatic.com/team-logos/116.svg) | DET |  | 2:10 PM |\\
+| ![](https://www.mlbstatic.com/team-logos/117.svg) | HOU |  |](https://baseballsavant.mlb.com/preview?game_pk=824178&game_date=2026-6-17)
 
 [Preview Matchup\\
 \\
-Lorenzen vs. Imanaga\\
+TBA vs. Leahy\\
+\\
+|     |     |     |     |\\
+| --- | --- | --- | --- |\\
+| ![](https://www.mlbstatic.com/team-logos/135.svg) | SD |  | 2:15 PM |\\
+| ![](https://www.mlbstatic.com/team-logos/138.svg) | STL |  |](https://baseballsavant.mlb.com/preview?game_pk=823044&game_date=2026-6-17)
+
+[Preview Matchup\\
+\\
+McClanahan vs. Ohtani\\
+\\
+|     |     |     |     |\\
+| --- | --- | --- | --- |\\
+| ![](https://www.mlbstatic.com/team-logos/139.svg) | TB |  | 3:10 PM |\\
+| ![](https://www.mlbstatic.com/team-logos/119.svg) | LAD |  |](https://baseballsavant.mlb.com/preview?game_pk=823940&game_date=2026-6-17)
+
+[Preview Matchup\\
+\\
+Aldegheri vs. Rodriguez\\
+\\
+|     |     |     |     |\\
+| --- | --- | --- | --- |\\
+| ![](https://www.mlbstatic.com/team-logos/108.svg) | LAA |  | 3:40 PM |\\
+| ![](https://www.mlbstatic.com/team-logos/109.svg) | AZ |  |](https://baseballsavant.mlb.com/preview?game_pk=825072&game_date=2026-6-17)
+
+[Preview Matchup\\
+\\
+Scherzer vs. Bennett\\
+\\
+|     |     |     |     |\\
+| --- | --- | --- | --- |\\
+| ![](https://www.mlbstatic.com/team-logos/141.svg) | TOR |  | 6:45 PM |\\
+| ![](https://www.mlbstatic.com/team-logos/111.svg) | BOS |  |](https://baseballsavant.mlb.com/preview?game_pk=824746&game_date=2026-6-17)
+
+[Preview Matchup\\
+\\
+Kay vs. Rodón\\
+\\
+|     |     |     |     |\\
+| --- | --- | --- | --- |\\
+| ![](https://www.mlbstatic.com/team-logos/145.svg) | CWS |  | 7:05 PM |\\
+| ![](https://www.mlbstatic.com/team-logos/147.svg) | NYY |  |](https://baseballsavant.mlb.com/preview?game_pk=823536&game_date=2026-6-17)
+
+[Preview Matchup\\
+\\
+TBA vs. Ritchie\\
+\\
+|     |     |     |     |\\
+| --- | --- | --- | --- |\\
+| ![](https://www.mlbstatic.com/team-logos/137.svg) | SF |  | 7:15 PM |\\
+| ![](https://www.mlbstatic.com/team-logos/144.svg) | ATL |  |](https://baseballsavant.mlb.com/preview?game_pk=824913&game_date=2026-6-17)
+
+[Preview Matchup\\
+\\
+Williams vs. Sproat\\
+\\
+|     |     |     |     |\\
+| --- | --- | --- | --- |\\
+| ![](https://www.mlbstatic.com/team-logos/114.svg) | CLE |  | 7:40 PM |\\
+| ![](https://www.mlbstatic.com/team-logos/158.svg) | MIL |  |](https://baseballsavant.mlb.com/preview?game_pk=823774&game_date=2026-6-17)
+
+[Preview Matchup\\
+\\
+Sullivan vs. Assad\\
 \\
 |     |     |     |     |\\
 | --- | --- | --- | --- |\\
 | ![](https://www.mlbstatic.com/team-logos/115.svg) | COL |  | 8:05 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/112.svg) | CHC |  |](https://baseballsavant.mlb.com/preview?game_pk=824666&game_date=2026-6-15)
+| ![](https://www.mlbstatic.com/team-logos/112.svg) | CHC |  |](https://baseballsavant.mlb.com/preview?game_pk=824668&game_date=2026-6-17)
 
 [Preview Matchup\\
 \\
-TBA vs. Gore\\
-\\
-|     |     |     |     |\\
-| --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/142.svg) | MIN |  | 8:05 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/140.svg) | TEX |  |](https://baseballsavant.mlb.com/preview?game_pk=822887&game_date=2026-6-15)
-
-[Preview Matchup\\
-\\
-Melton vs. Teng\\
-\\
-|     |     |     |     |\\
-| --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/116.svg) | DET |  | 8:10 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/117.svg) | HOU |  |](https://baseballsavant.mlb.com/preview?game_pk=824181&game_date=2026-6-15)
-
-[Preview Matchup\\
-\\
-Ureña vs. Nelson\\
-\\
-|     |     |     |     |\\
-| --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/108.svg) | LAA |  | 9:40 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/109.svg) | AZ |  |](https://baseballsavant.mlb.com/preview?game_pk=825071&game_date=2026-6-15)
-
-[Preview Matchup\\
-\\
-Jones vs. Ginn\\
+Ashcraft vs. Civale\\
 \\
 |     |     |     |     |\\
 | --- | --- | --- | --- |\\
 | ![](https://www.mlbstatic.com/team-logos/134.svg) | PIT |  | 9:40 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/133.svg) | ATH |  |](https://baseballsavant.mlb.com/preview?game_pk=824993&game_date=2026-6-15)
+| ![](https://www.mlbstatic.com/team-logos/133.svg) | ATH |  |](https://baseballsavant.mlb.com/preview?game_pk=824992&game_date=2026-6-17)
 
 [Preview Matchup\\
 \\
-Martinez vs. Lauer\\
+Bradish vs. Kirby\\
 \\
 |     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/139.svg) | TB |  | 10:10 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/119.svg) | LAD |  |](https://baseballsavant.mlb.com/preview?game_pk=823938&game_date=2026-6-15)
+| ![](https://www.mlbstatic.com/team-logos/110.svg) | BAL |  | 9:40 PM |\\
+| ![](https://www.mlbstatic.com/team-logos/136.svg) | SEA |  |](https://baseballsavant.mlb.com/preview?game_pk=823127&game_date=2026-6-17)
 
 <
 
@@ -365,13 +406,13 @@ Save Image
 | 2021 | Memphis Redbirds | AAA E | AAA | 0 | 0 | 15.00 | 3 | 3 | 0 | 3.0 | 5 | 5 | 5 | 2 | 3 | 3 | 2.67 |
 | 2022 | Memphis Redbirds | INT | AAA | 0 | 0 | 12.60 | 4 | 1 | 0 | 5.0 | 7 | 7 | 7 | 1 | 4 | 5 | 2.20 |
 | 2025 | Worcester Red Sox | INT | AAA | 0 | 0 | 10.80 | 2 | 1 | 0 | 1.2 | 4 | 2 | 2 | 1 | 2 | 2 | 3.60 |
-| 2026 | Charlotte Knights | INT | AAA | 0 | 0 | 0.00 | 1 | 0 | 0 | 1.0 | 2 | 0 | 0 | 0 | 0 | 2 | 2.00 |
+| 2026 | Charlotte Knights | INT | AAA | 0 | 1 | 16.20 | 2 | 0 | 0 | 1.2 | 3 | 3 | 3 | 1 | 2 | 4 | 3.00 |
 |  | Johnson City Doughboys | APP | ROK | 2 | 1 | 4.20 | 6 | 6 | 0 | 30.0 | 33 | 20 | 14 | 1 | 13 | 20 | 1.53 |
-|  | 3 Teams |  | AAA | 0 | 0 | 11.81 | 10 | 5 | 0 | 10.2 | 18 | 14 | 14 | 4 | 9 | 12 | 2.53 |
+|  | 3 Teams |  | AAA | 0 | 1 | 13.50 | 11 | 5 | 0 | 11.1 | 19 | 17 | 17 | 5 | 11 | 14 | 2.65 |
 |  | Palm Beach Cardinals | FSL | A+ | 0 | 1 | 1.00 | 8 | 5 | 1 | 27.0 | 21 | 3 | 3 | 0 | 6 | 32 | 1.00 |
 |  | Peoria Chiefs | MID | A | 8 | 2 | 3.35 | 14 | 14 | 0 | 78.0 | 75 | 36 | 29 | 3 | 39 | 63 | 1.46 |
 |  | State College Spikes | MLBDL | A(Short) | 4 | 1 | 1.76 | 6 | 6 | 0 | 30.2 | 25 | 8 | 6 | 0 | 16 | 22 | 1.34 |
-| Career Minors | 7 Teams |  |  | 14 | 5 | 3.37 | 44 | 36 | 1 | 176.1 | 172 | 81 | 66 | 8 | 83 | 149 | 1.45 |
+| Career Minors | 7 Teams |  |  | 14 | 6 | 3.51 | 45 | 36 | 1 | 177.0 | 173 | 84 | 69 | 9 | 85 | 151 | 1.46 |
 
 ## [Standard Minor League Fielding Statistics](https://baseballsavant.mlb.com/savant-player/jordan-hicks-663855?stats=statcast-r-pitching-mlb\#standard-milb-fielding-stats)
 
@@ -386,13 +427,13 @@ Save Image
 | 2021 | Memphis Redbirds | AAA E | AAA | P | 3 | 3 | 3.0 | 0 | 0 | 0 | 0 | 0 |  | .000 |
 | 2022 | Memphis Redbirds | INT | AAA | P | 4 | 1 | 5.0 | 1 | 0 | 1 | 0 | 1 |  | 1.000 |
 | 2025 | Worcester Red Sox | INT | AAA | P | 2 | 1 | 1.2 | 0 | 0 | 0 | 0 | 0 |  | .000 |
-| 2026 | Charlotte Knights | INT | AAA | P | 1 | 0 | 1.0 | 0 | 0 | 0 | 0 | 0 |  | .000 |
+| 2026 | Charlotte Knights | INT | AAA | P | 2 | 0 | 1.2 | 0 | 0 | 0 | 0 | 0 |  | .000 |
 |  | Johnson City Doughboys | APP | ROK | P | 6 | 6 | 30.0 | 5 | 1 | 2 | 2 | 0 |  | .600 |
-|  | 3 Teams |  | AAA | P | 10 | 5 | 10.2 | 1 | 0 | 1 | 0 | 1 |  | 1.000 |
+|  | 3 Teams |  | AAA | P | 11 | 5 | 11.1 | 1 | 0 | 1 | 0 | 1 |  | 1.000 |
 |  | Palm Beach Cardinals | FSL | A+ | P | 8 | 5 | 27.0 | 6 | 0 | 5 | 1 | 0 |  | .833 |
 |  | Peoria Chiefs | MID | A | P | 14 | 14 | 78.0 | 26 | 12 | 11 | 3 | 2 |  | .885 |
 |  | State College Spikes | MLBDL | A(Short) | P | 6 | 6 | 30.2 | 10 | 4 | 4 | 2 | 1 |  | .800 |
-| Career Minors | 7 Teams |  |  | P | 44 | 36 | 176.1 | 48 | 17 | 23 | 8 | 4 |  | .833 |
+| Career Minors | 7 Teams |  |  | P | 45 | 36 | 177.0 | 48 | 17 | 23 | 8 | 4 |  | .833 |
 
 ## [Rankings](https://baseballsavant.mlb.com/savant-player/jordan-hicks-663855?stats=statcast-r-pitching-mlb\#rankings)
 
@@ -556,45 +597,47 @@ Save Image
 
 | Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Charlotte Knights | Triple-A | vs Left |  |  |  | 1 |  |  | 0.2 | 2 | 0 |  |  | 0 | 0 | 1 | 0.00 |
-| Charlotte Knights | Triple-A | vs Right |  |  |  | 1 |  |  | 0.1 | 3 | 2 |  |  | 0 | 0 | 1 | 6.00 |
+| Charlotte Knights | Triple-A | vs Left |  |  |  | 2 |  |  | 0.2 | 4 | 1 |  |  | 1 | 1 | 1 | 3.00 |
+| Charlotte Knights | Triple-A | vs Right |  |  |  | 2 |  |  | 1.0 | 6 | 2 |  |  | 0 | 1 | 3 | 3.00 |
 
 ### [Monthly Splits](https://baseballsavant.mlb.com/savant-player/jordan-hicks-663855?stats=statcast-r-pitching-mlb\#milb-monthly-splits)
 
 | Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Charlotte Knights | Triple-A | June | 0 | 0 | 0.00 | 1 | 0 | 0 | 1.0 | 5 | 2 | 0 | 0 | 0 | 0 | 2 | 2.00 |
-| Charlotte Knights | Triple-A | First Half | 0 | 0 | 0.00 | 1 | 0 | 0 | 1.0 | 5 | 2 | 0 | 0 | 0 | 0 | 2 | 2.00 |
+| Charlotte Knights | Triple-A | June | 0 | 1 | 16.20 | 2 | 0 | 0 | 1.2 | 10 | 3 | 3 | 3 | 1 | 2 | 4 | 3.00 |
+| Charlotte Knights | Triple-A | First Half | 0 | 1 | 16.20 | 2 | 0 | 0 | 1.2 | 10 | 3 | 3 | 3 | 1 | 2 | 4 | 3.00 |
 
 ### [Baserunner Splits](https://baseballsavant.mlb.com/savant-player/jordan-hicks-663855?stats=statcast-r-pitching-mlb\#milb-baserunner-splits)
 
 | Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Charlotte Knights | Triple-A | Bases Empty |  |  |  | 1 |  |  | 0.1 | 2 | 1 |  |  | 0 | 0 | 1 | 3.00 |
-| Charlotte Knights | Triple-A | Runner at 1st |  |  |  | 1 |  |  | 0.0 | 1 | 1 |  |  | 0 | 0 | 0 | -.-- |
-| Charlotte Knights | Triple-A | Runners at 1st & 2nd |  |  |  | 1 |  |  | 0.2 | 2 | 0 |  |  | 0 | 0 | 1 | 0.00 |
-| Charlotte Knights | Triple-A | Scoring Position |  |  |  | 1 |  |  | 0.2 | 2 | 0 |  |  | 0 | 0 | 1 | 0.00 |
+| Charlotte Knights | Triple-A | Bases Empty |  |  |  | 2 |  |  | 0.1 | 3 | 1 |  |  | 0 | 1 | 1 | 6.00 |
+| Charlotte Knights | Triple-A | Runner at 1st |  |  |  | 2 |  |  | 0.1 | 3 | 1 |  |  | 0 | 1 | 1 | 6.00 |
+| Charlotte Knights | Triple-A | Runners at 1st & 2nd |  |  |  | 2 |  |  | 1.0 | 4 | 1 |  |  | 1 | 0 | 2 | 1.00 |
+| Charlotte Knights | Triple-A | Scoring Position |  |  |  | 2 |  |  | 1.0 | 4 | 1 |  |  | 1 | 0 | 2 | 1.00 |
 
 ### [Game Type Splits](https://baseballsavant.mlb.com/savant-player/jordan-hicks-663855?stats=statcast-r-pitching-mlb\#milb-game-type-splits)
 
 | Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Charlotte Knights | Triple-A | Home Games | 0 | 0 | 0.00 | 1 | 0 | 0 | 1.0 | 5 | 2 | 0 | 0 | 0 | 0 | 2 | 2.00 |
-| Charlotte Knights | Triple-A | Night Games | 0 | 0 | 0.00 | 1 | 0 | 0 | 1.0 | 5 | 2 | 0 | 0 | 0 | 0 | 2 | 2.00 |
-| Charlotte Knights | Triple-A | Leading Off Inning |  |  |  | 1 |  |  | 0.1 | 1 | 0 |  |  | 0 | 0 | 1 | 0.00 |
+| Charlotte Knights | Triple-A | Away Games | 0 | 1 | 40.50 | 1 | 0 | 0 | 0.2 | 5 | 1 | 3 | 3 | 1 | 2 | 2 | 4.50 |
+| Charlotte Knights | Triple-A | Night Games | 0 | 1 | 16.20 | 2 | 0 | 0 | 1.2 | 10 | 3 | 3 | 3 | 1 | 2 | 4 | 3.00 |
+| Charlotte Knights | Triple-A | Leading Off Inning |  |  |  | 2 |  |  | 0.1 | 2 | 0 |  |  | 0 | 1 | 1 | 3.00 |
 
 ### [Outs Splits](https://baseballsavant.mlb.com/savant-player/jordan-hicks-663855?stats=statcast-r-pitching-mlb\#milb-out-splits)
 
 | Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Charlotte Knights | Triple-A | No Outs |  |  |  | 1 |  |  | 0.1 | 1 | 0 |  |  | 0 | 0 | 1 | 0.00 |
-| Charlotte Knights | Triple-A | One Out |  |  |  | 1 |  |  | 0.1 | 3 | 2 |  |  | 0 | 0 | 1 | 6.00 |
-| Charlotte Knights | Triple-A | Two Outs |  |  |  | 1 |  |  | 0.1 | 1 | 0 |  |  | 0 | 0 | 0 | 0.00 |
+| Charlotte Knights | Triple-A | No Outs |  |  |  | 2 |  |  | 0.2 | 3 | 0 |  |  | 0 | 1 | 2 | 1.50 |
+| Charlotte Knights | Triple-A | One Out |  |  |  | 2 |  |  | 0.2 | 5 | 2 |  |  | 0 | 1 | 2 | 4.50 |
+| Charlotte Knights | Triple-A | Two Outs |  |  |  | 2 |  |  | 0.1 | 2 | 1 |  |  | 1 | 0 | 0 | 3.00 |
 
 ### [Inning Splits](https://baseballsavant.mlb.com/savant-player/jordan-hicks-663855?stats=statcast-r-pitching-mlb\#milb-inning-splits)
 
 | Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Charlotte Knights | Triple-A | Fourth Inning |  |  | 40.50 | 1 |  |  | 0.2 | 5 | 1 | 3 | 3 | 1 | 2 | 2 | 4.50 |
 | Charlotte Knights | Triple-A | Sixth Inning |  |  | 0.00 | 1 |  |  | 1.0 | 5 | 2 | 0 | 0 | 0 | 0 | 2 | 2.00 |
 
 | Date | Home Tm | Away Tm | W | L | ERA | G | GS | SV | IP | H | R | ER | HR | BB | SO | WHIP |  |
@@ -626,7 +669,8 @@ Save Image
 | Date | Home Tm | Away Tm | W | L | ERA | G | GS | SV | IP | H | R | ER | HR | BB | SO | WHIP |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [2026-06-13](https://baseballsavant.mlb.com/gamefeed?gamePk=816869&game_date=2026-06-13) | Charlotte Knights | Oklahoma City Comets | 0 | 0 | 0.00 | 1 | 0 | 0 | 1.0 | 2 | 0 | 0 | 0 | 0 | 2 | 2.00 | [![](https://baseballsavant.mlb.com/sections/gamefeed/images/pitch-report-icon.png)](https://baseballsavant.mlb.com/player-scroll/game?gamePk=816869&player_id=663855) |
-| June | Charlotte Knights |  | 0 | 0 | 0.00 | 1 | 0 | 0 | 1.0 | 2 | 0 | 0 | 0 | 0 | 2 | 2.00 |  |
+| [2026-06-16](https://baseballsavant.mlb.com/gamefeed?gamePk=816945&game_date=2026-06-16) | Buffalo Bisons | Charlotte Knights | 0 | 1 | 16.20 | 1 | 0 | 0 | 0.2 | 1 | 3 | 3 | 1 | 2 | 2 | 3.00 | [![](https://baseballsavant.mlb.com/sections/gamefeed/images/pitch-report-icon.png)](https://baseballsavant.mlb.com/player-scroll/game?gamePk=816945&player_id=663855) |
+| June | Charlotte Knights |  | 0 | 1 | 16.20 | 2 | 0 | 0 | 1.2 | 3 | 3 | 3 | 1 | 2 | 4 | 3.00 |  |
 
 - PitchingFielding▾
 
@@ -842,42 +886,42 @@ On the right, Induced Movement (or IVB) is reported without gravity, and attempt
 | --- | --- | --- |
 | Year | Pitch | Team | Hand | # | MPH | Vertical<br>Drop | vs.<br>Comparable | Horizontal<br>Break | vs.<br>Comparable | Vertical<br>Break | vs. Avg | Horizontal<br>Break | vs. Avg |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2026 | 4-Seam Fastball | ![](https://www.mlbstatic.com/team-logos/145.svg)CWS | R | 12 | 97.9 | 18.5 | -5.4 | 13.5ARM | 5.6 | 10.2 | -5.7 | 13.5ARM | 5.7 |
+| 2026 | 4-Seam Fastball | ![](https://www.mlbstatic.com/team-logos/145.svg)CWS | R | 12 | 97.9 | 18.5 | -5.4 | 13.5ARM | 5.7 | 10.2 | -5.7 | 13.5ARM | 5.7 |
 | 2026 | Split-Finger | ![](https://www.mlbstatic.com/team-logos/145.svg)CWS | R | 8 | 88.0 | 39.3 | 7.1 | 7.8ARM | -4.0 | -3.8 | 6.8 | 7.8ARM | -3.8 |
 | 2026 | Sweeper | ![](https://www.mlbstatic.com/team-logos/145.svg)CWS | R | 110 | 87.4 | 34.6 | -2.4 | 5.9GLV | -5.7 | 1.3 | -0.2 | 5.9GLV | -7.9 |
 | 2026 | Sinker | ![](https://www.mlbstatic.com/team-logos/145.svg)CWS | R | 193 | 98.4 | 21.0 | 0.7 | 17.3ARM | 1.6 | 7.3 | 0.3 | 17.3ARM | 2.0 |
 | 2025 | 4-Seam Fastball | ![](https://www.mlbstatic.com/team-logos/111.svg)BOS | R | 111 | 97.4 | 15.7 | -2.3 | 10.5ARM | 2.6 | 13.3 | -2.5 | 10.5ARM | 2.9 |
 | 2025 | Sinker | ![](https://www.mlbstatic.com/team-logos/111.svg)BOS | R | 652 | 97.5 | 21.4 | 0.4 | 16.2ARM | 1.0 | 7.5 | -0.1 | 16.2ARM | 1.1 |
 | 2025 | Split-Finger | ![](https://www.mlbstatic.com/team-logos/111.svg)BOS | R | 72 | 89.2 | 32.1 | 0.9 | 10.0ARM | -2.0 | 2.4 | 0.7 | 10.0ARM | -1.3 |
-| 2025 | Slider | ![](https://www.mlbstatic.com/team-logos/111.svg)BOS | R | 92 | 84.3 | 42.3 | 5.4 | 3.6GLV | -1.5 | -3.9 | 5.7 | 3.6GLV | -0.7 |
+| 2025 | Slider | ![](https://www.mlbstatic.com/team-logos/111.svg)BOS | R | 92 | 84.3 | 42.3 | 5.4 | 3.6GLV | -1.4 | -3.9 | 5.7 | 3.6GLV | -0.6 |
 | 2025 | Sweeper | ![](https://www.mlbstatic.com/team-logos/111.svg)BOS | R | 272 | 82.5 | 38.2 | -1.0 | 10.6GLV | -3.3 | 2.1 | -1.2 | 10.6GLV | -3.3 |
-| 2024 | 4-Seam Fastball | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 105 | 95.3 | 17.0 | -2.7 | 10.4ARM | 2.9 | 13.2 | -2.6 | 10.4ARM | 2.9 |
+| 2024 | Sweeper | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 471 | 81.1 | 39.0 | -1.3 | 12.2GLV | -2.0 | 2.6 | -1.3 | 12.2GLV | -1.7 |
 | 2024 | Split-Finger | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 373 | 84.3 | 39.7 | 5.1 | 5.1ARM | -4.9 | -1.3 | 3.9 | 5.1ARM | -5.6 |
 | 2024 | Sinker | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 1009 | 94.5 | 25.2 | 2.7 | 15.9ARM | 0.8 | 5.5 | 1.7 | 15.9ARM | 1.1 |
-| 2024 | Sweeper | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 471 | 81.1 | 39.0 | -1.3 | 12.2GLV | -2.0 | 2.6 | -1.3 | 12.2GLV | -1.7 |
-| 2023 | Sinker | ![](https://www.mlbstatic.com/team-logos/141.svg)TOR | R | 714 | 100.1 | 19.0 | 0.8 | 15.8ARM | 1.0 | 8.5 | -0.7 | 15.8ARM | 0.9 |
-| 2023 | 4-Seam Fastball | ![](https://www.mlbstatic.com/team-logos/141.svg)TOR | R | 121 | 100.3 | 11.3 | 0.3 | 6.6ARM | -1.9 | 16.0 | 0.2 | 6.6ARM | -0.9 |
+| 2024 | 4-Seam Fastball | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 105 | 95.3 | 17.0 | -2.7 | 10.4ARM | 2.9 | 13.2 | -2.6 | 10.4ARM | 2.9 |
 | 2023 | Split-Finger | ![](https://www.mlbstatic.com/team-logos/141.svg)TOR | R | 18 | 91.4 | 33.7 | 4.2 | 10.1ARM | -1.1 | -0.8 | 4.1 | 10.1ARM | -1.0 |
-| 2023 | Slider | ![](https://www.mlbstatic.com/team-logos/141.svg)TOR | R | 39 | 86.9 | 38.5 | 4.2 | 4.5GLV | 0.3 | -2.3 | 3.8 | 4.5GLV | -0.4 |
+| 2023 | Sinker | ![](https://www.mlbstatic.com/team-logos/141.svg)TOR | R | 714 | 100.1 | 19.0 | 0.8 | 15.8ARM | 1.0 | 8.5 | -0.7 | 15.8ARM | 0.9 |
 | 2023 | Sweeper | ![](https://www.mlbstatic.com/team-logos/141.svg)TOR | R | 221 | 86.8 | 36.2 | -0.5 | 12.4GLV | 0.7 | 0.4 | 0.9 | 12.4GLV | -1.5 |
+| 2023 | 4-Seam Fastball | ![](https://www.mlbstatic.com/team-logos/141.svg)TOR | R | 121 | 100.3 | 11.3 | 0.3 | 6.6ARM | -1.9 | 16.0 | 0.2 | 6.6ARM | -0.9 |
+| 2023 | Slider | ![](https://www.mlbstatic.com/team-logos/141.svg)TOR | R | 39 | 86.9 | 38.5 | 4.2 | 4.5GLV | 0.3 | -2.3 | 3.8 | 4.5GLV | -0.4 |
+| 2022 | Split-Finger | ![](https://www.mlbstatic.com/team-logos/138.svg)STL | R | 1 | 92.0 | 38.2 | 9.9 | 13.4ARM | 4.3 | -5.6 | 9.7 | 13.4ARM | 2.0 |
 | 2022 | Sweeper | ![](https://www.mlbstatic.com/team-logos/138.svg)STL | R | 328 | 84.7 | 38.7 | 1.7 | 11.9GLV | -0.4 | -0.4 | 1.8 | 11.9GLV | -2.0 |
 | 2022 | Slider | ![](https://www.mlbstatic.com/team-logos/138.svg)STL | R | 4 | 89.1 | 31.3 | -0.1 | 4.1GLV | 0.4 | 3.5 | -1.7 | 4.1GLV | -1.3 |
-| 2022 | Split-Finger | ![](https://www.mlbstatic.com/team-logos/138.svg)STL | R | 1 | 92.0 | 38.2 | 9.9 | 13.4ARM | 4.3 | -5.6 | 9.7 | 13.4ARM | 2.0 |
+| 2022 | Sinker | ![](https://www.mlbstatic.com/team-logos/138.svg)STL | R | 679 | 99.4 | 19.7 | 1.8 | 15.8ARM | 0.8 | 8.0 | 0.3 | 15.8ARM | 1.1 |
 | 2022 | 4-Seam Fastball | ![](https://www.mlbstatic.com/team-logos/138.svg)STL | R | 13 | 99.0 | 18.5 | -6.6 | 12.0ARM | 4.4 | 9.5 | -6.7 | 12.0ARM | 4.6 |
 | 2022 | Changeup | ![](https://www.mlbstatic.com/team-logos/138.svg)STL | R | 26 | 92.0 | 23.7 | -2.8 | 15.7ARM | 0.7 | 8.8 | -2.9 | 15.7ARM | 1.5 |
-| 2022 | Sinker | ![](https://www.mlbstatic.com/team-logos/138.svg)STL | R | 679 | 99.4 | 19.7 | 1.8 | 15.8ARM | 0.8 | 8.0 | 0.3 | 15.8ARM | 1.1 |
 | 2021 | 4-Seam Fastball | ![](https://www.mlbstatic.com/team-logos/138.svg)STL | R | 3 | 100.5 | 9.5 | 1.2 | 7.3ARM | 0.8 | 17.6 | 1.4 | 7.3ARM | 0.1 |
 | 2021 | Cutter | ![](https://www.mlbstatic.com/team-logos/138.svg)STL | R | 32 | 88.1 | 32.6 | -5.3 | 3.7GLV | 0.8 | 2.7 | -5.2 | 3.7GLV | 0.9 |
+| 2021 | Sweeper | ![](https://www.mlbstatic.com/team-logos/138.svg)STL | R | 24 | 85.7 | 36.6 | -0.7 | 10.0GLV | -1.2 | 0.8 | -0.2 | 10.0GLV | -4.0 |
 | 2021 | Sinker | ![](https://www.mlbstatic.com/team-logos/138.svg)STL | R | 141 | 99.2 | 15.4 | -1.0 | 14.9ARM | 0.3 | 12.5 | -3.7 | 14.9ARM | 0.1 |
 | 2021 | Split-Finger | ![](https://www.mlbstatic.com/team-logos/138.svg)STL | R | 7 | 90.2 | 32.2 | 2.5 | 9.1ARM | 0.4 | 1.5 | 2.5 | 9.1ARM | -1.6 |
-| 2021 | Sweeper | ![](https://www.mlbstatic.com/team-logos/138.svg)STL | R | 24 | 85.7 | 36.6 | -0.7 | 10.0GLV | -1.2 | 0.8 | -0.2 | 10.0GLV | -4.0 |
 | 2019 | Changeup | ![](https://www.mlbstatic.com/team-logos/138.svg)STL | R | 10 | 90.3 | 33.1 | 5.3 | 7.1ARM | -7.2 | 1.3 | 5.6 | 7.1ARM | -6.4 |
 | 2019 | Split-Finger | ![](https://www.mlbstatic.com/team-logos/138.svg)STL | R | 15 | 91.2 | 32.4 | 3.0 | 4.8ARM | -5.9 | 1.0 | 3.4 | 4.8ARM | -5.3 |
+| 2019 | Sinker | ![](https://www.mlbstatic.com/team-logos/138.svg)STL | R | 266 | 101.1 | 16.6 | 0.3 | 15.8ARM | 1.0 | 10.3 | -1.2 | 15.8ARM | 0.9 |
 | 2019 | 4-Seam Fastball | ![](https://www.mlbstatic.com/team-logos/138.svg)STL | R | 1 | 100.9 | 11.7 | 0.2 | 9.3ARM | 1.7 | 15.4 | -0.2 | 9.3ARM | 1.8 |
 | 2019 | Slider | ![](https://www.mlbstatic.com/team-logos/138.svg)STL | R | 149 | 86.9 | 38.1 | 3.9 | 10.7GLV | 6.8 | -1.1 | 3.0 | 10.7GLV | 5.7 |
-| 2019 | Sinker | ![](https://www.mlbstatic.com/team-logos/138.svg)STL | R | 266 | 101.1 | 16.6 | 0.3 | 15.8ARM | 1.0 | 10.3 | -1.2 | 15.8ARM | 0.9 |
-| 2018 | Sinker | ![](https://www.mlbstatic.com/team-logos/138.svg)STL | R | 975 | 100.5 | 18.7 | 0.9 | 13.8ARM | 0.0 | 8.4 | 0.9 | 13.8ARM | -0.9 |
 | 2018 | Slider | ![](https://www.mlbstatic.com/team-logos/138.svg)STL | R | 280 | 86.2 | 38.9 | 4.3 | 11.6GLV | 7.4 | -1.4 | 3.2 | 11.6GLV | 6.5 |
+| 2018 | Sinker | ![](https://www.mlbstatic.com/team-logos/138.svg)STL | R | 975 | 100.5 | 18.7 | 0.9 | 13.8ARM | 0.0 | 8.4 | 0.9 | 13.8ARM | -0.9 |
 | 2018 | 4-Seam Fastball | ![](https://www.mlbstatic.com/team-logos/138.svg)STL | R | 19 | 101.0 | 13.6 | -1.9 | 5.7ARM | -2.2 | 13.3 | -2.4 | 5.7ARM | -1.5 |
 
 ! Note: Years are in reverse order.
@@ -891,9 +935,9 @@ On the right, Induced Movement (or IVB) is reported without gravity, and attempt
 | Team | RV/100 | Run Value | Pitches | % | PA | BA | SLG | wOBA | Whiff% | K% | PutAway % | xBA | xSLG | xwOBA | Hard Hit % |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2026 | Sinker | ![](https://www.mlbstatic.com/team-logos/145.svg) | -1.4 | -3 | 193 | 59.8 | 56 | .318 | .432 | .425 | 6.4 | 10.7 | 15.4 | .272 | .311 | .340 | 33.3 |
-| 2026 | Sweeper | ![](https://www.mlbstatic.com/team-logos/145.svg) | -0.9 | -1 | 110 | 34.1 | 23 | .235 | .412 | .357 | 37.8 | 26.1 | 17.1 | .223 | .404 | .351 | 41.7 |
-| 2026 | 4-Seam Fastball | ![](https://www.mlbstatic.com/team-logos/145.svg) | 2.0 | 0 | 12 | 3.7 | 2 | .000 | .000 | .000 | 40.0 | 50.0 | 10.0 | .046 | .051 | .044 | 0.0 |
-| 2026 | Split-Finger | ![](https://www.mlbstatic.com/team-logos/145.svg) | -6.6 | -1 | 8 | 2.5 | 4 | .500 | .500 | .450 | 33.3 | 50.0 | 40.0 | .211 | .242 | .198 | 50.0 |
+| 2026 | Sweeper | ![](https://www.mlbstatic.com/team-logos/145.svg) | -0.8 | -1 | 110 | 34.1 | 23 | .235 | .412 | .357 | 37.8 | 26.1 | 17.1 | .223 | .404 | .351 | 41.7 |
+| 2026 | 4-Seam Fastball | ![](https://www.mlbstatic.com/team-logos/145.svg) | 2.1 | 0 | 12 | 3.7 | 2 | .000 | .000 | .000 | 40.0 | 50.0 | 10.0 | .046 | .051 | .044 | 0.0 |
+| 2026 | Split-Finger | ![](https://www.mlbstatic.com/team-logos/145.svg) | -6.5 | -1 | 8 | 2.5 | 4 | .500 | .500 | .450 | 33.3 | 50.0 | 40.0 | .211 | .242 | .198 | 50.0 |
 | 2025 | Sinker | ![](https://www.mlbstatic.com/team-logos/111.svg) | -0.5 | -3 | 652 | 54.4 | 183 | .303 | .426 | .382 | 9.6 | 12.6 | 19.2 | .276 | .380 | .339 | 48.1 |
 | 2025 | Sweeper | ![](https://www.mlbstatic.com/team-logos/111.svg) | -1.8 | -5 | 272 | 22.7 | 58 | .286 | .592 | .435 | 43.9 | 22.4 | 16.7 | .225 | .427 | .342 | 30.6 |
 | 2025 | 4-Seam Fastball | ![](https://www.mlbstatic.com/team-logos/111.svg) | -1.5 | -2 | 111 | 9.3 | 33 | .267 | .267 | .269 | 20.4 | 30.3 | 16.7 | .362 | .452 | .373 | 52.4 |
@@ -1428,7 +1472,7 @@ Created with Highcharts 6.2.0Exit VelocityPitchesChart context menuJordan Hicks 
 
 Jordan HicksPitcher RV (All)0.9-0.30.11.4-0.11.00.1-2.91.3-2.4-0.7-1.0-1.4
 
-Jordan HicksPitcher RV (Swings)0.5-0.8-0.11.0-0.80.6-0.4-3.41.11.30.4-0.51.7
+Jordan HicksPitcher RV (Swings)0.5-0.8-0.11.0-0.80.6-0.4-3.31.11.30.4-0.51.7
 
 Jordan HicksPitcher RV (Takes)0.40.50.20.40.70.40.50.50.2-3.7-1.1-0.5-3.1
 
