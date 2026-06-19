@@ -1118,6 +1118,16 @@ Forkball+
 
 Data Export \[ [Members Only](https://plus.fangraphs.com/product/fangraphs-membership/)\]
 
+Beta
+
+Heat Map:
+
+Off
+
+On
+
+Heat Map
+
 | # | Name | Team | O-Swing%<br>O-Swing% - Percentage of pitches a batter swings at outside the strike zone | Z-Swing%<br>Z-Swing% - Percentage of pitches a batter swings at inside the strike zone. | Swing%<br>Swing% - Total percentage of pitches a batter swings at | O-Contact%<br>O-Contact% - Percentage of times a batter makes contact with the ball when swinging at pitches thrown outside the strike zone | Z-Contact%<br>Z-Contact% - Percentage of times a batter makes contact with the ball when swinging at pitches thrown inside the strike zone | Contact%<br>Contact% - Total percentage of contact made when swinging at all pitches | Zone%<br>Zone% - Percentage of pitches seen inside the strike zone | F-Strike%<br>F-Strike% - First pitch strike percentage | SwStr%<br>SwStr% - Percentage of Strikes that were swung at and missed | CStr%<br>CStr% - Called strike percent | CSW%<br>CSW% - Called + swinging strike percent |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1 | [Ryan Walker](https://www.fangraphs.com/players/ryan-walker/20423/stats?position=P) | [SFG](https://www.fangraphs.com/leaders/major-league?pos=all&stats=pit&lg=all&qual=0&type=5&team=30&season=2024&season1=2024) | 32.4% | 61.4% | 45.7% | 54.9% | 84.2% | 72.9% | 45.7% | 63.6% | 12.4% | 21.2% | 33.6% |
@@ -1187,11 +1197,31 @@ Data Export \[ [Members Only](https://plus.fangraphs.com/product/fangraphs-membe
 of 2
 
 Page Size:3050100200Infinity
+
+Beta
+
+Heat Map:
+
+Off
+
+On
+
+Heat Map
 
 1 - 30 of 31 results
 
 of 2
 
 Page Size:3050100200Infinity
+
+Beta
+
+Heat Map:
+
+Off
+
+On
+
+Heat Map
 
 1 - 30 of 31 results

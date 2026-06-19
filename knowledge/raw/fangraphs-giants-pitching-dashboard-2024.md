@@ -1118,6 +1118,16 @@ Forkball+
 
 Data Export \[ [Members Only](https://plus.fangraphs.com/product/fangraphs-membership/)\]
 
+Beta
+
+Heat Map:
+
+Off
+
+On
+
+Heat Map
+
 | # | Name | Team | W<br>W - Wins | L<br>L - Losses | SV<br>SV - Saves | G<br>G - Games Pitched | GS<br>GS - Games Started | IP<br>IP - Innings Pitched | \-\- Line Break -- | K/9<br>K/9 - Strikeouts per 9 Innings ((SO\*9)/IP) | BB/9<br>BB/9 - Walks per 9 Innings ((BB\*9)/IP) | HR/9<br>HR/9 - Home Runs per 9 Innings ((HR\*9)/IP) | BABIP<br>BABIP - Batting Average on Balls in Play | LOB%<br>LOB% - Left on Base Percentage | GB%<br>GB% - Ground Ball Percentage (GB/BIP) | HR/FB<br>HR/FB - Home Run to Fly Ball Ratio | \-\- Line Break -- | vFA (pi)<br>vFA - Fourseam Fastball velocity (Pitch Info) | \-\- Line Break -- | ERA<br>ERA - Earned Run Average ((ER\*9)/IP) | xERA<br>xERA - Expected ERA | FIP<br>FIP - Fielder Independent Pitching on an ERA scale | xFIP<br>xFIP - Expected Fielder Independent Pitching where Home Runs are calculated as 10.5% of Fly Balls induced | \-\- Line Break -- | WAR<br>WAR - Wins Above Replacement |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1 | [Logan Webb](https://www.fangraphs.com/players/logan-webb/17995/stats?position=P) | [SFG](https://www.fangraphs.com/leaders/major-league?pos=all&stats=pit&lg=all&qual=0&type=8&team=30&season=2024&season1=2024) | 13 | 10 | 0 | 33 | 33 | 204.2 |  | 7.56 | 2.20 | 0.48 | .315 | 71.7% | 56.8% | 7.9% |  | 92.8 |  | 3.47 | 4.37 | 2.95 | 3.28 |  | 4.4 |
@@ -1187,11 +1197,31 @@ Data Export \[ [Members Only](https://plus.fangraphs.com/product/fangraphs-membe
 of 2
 
 Page Size:3050100200Infinity
+
+Beta
+
+Heat Map:
+
+Off
+
+On
+
+Heat Map
 
 1 - 30 of 31 results
 
 of 2
 
 Page Size:3050100200Infinity
+
+Beta
+
+Heat Map:
+
+Off
+
+On
+
+Heat Map
 
 1 - 30 of 31 results

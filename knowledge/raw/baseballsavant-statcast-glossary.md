@@ -3,136 +3,52 @@ source: https://baseballsavant.mlb.com/csv-docs
 slug: baseballsavant-statcast-glossary
 ---
 
-[Preview Matchup\\
-\\
-McLean vs. Lodolo\\
-\\
-|     |     |     |     |\\
+[|     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/121.svg) | NYM |  | 12:40 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/113.svg) | CIN |  |](https://baseballsavant.mlb.com/preview?game_pk=824503&game_date=2026-6-17)
-
-[Preview Matchup\\
-\\
-Avila vs. Littell\\
-\\
-|     |     |     |     |\\
-| --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/118.svg) | KC |  | 1:05 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/120.svg) | WSH |  |](https://baseballsavant.mlb.com/preview?game_pk=822721&game_date=2026-6-17)
-
-[Preview Matchup\\
-\\
-Alcantara vs. Painter\\
-\\
-|     |     |     |     |\\
-| --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/146.svg) | MIA |  | 1:05 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/143.svg) | PHI |  |](https://baseballsavant.mlb.com/preview?game_pk=823450&game_date=2026-6-17)
+| ![](https://www.mlbstatic.com/team-logos/141.svg) | TOR | 4 | Final |\\
+| ![](https://www.mlbstatic.com/team-logos/111.svg) | BOS | 3 |](https://baseballsavant.mlb.com/gamefeed?gamePk=824748&game_date=2026-06-18)
 
 [|     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/137.svg) | SF | 3 | 2nd |\\
-| ![](https://www.mlbstatic.com/team-logos/144.svg) | ATL | 2 |](https://baseballsavant.mlb.com/gamefeed?gamePk=824912)
+| ![](https://www.mlbstatic.com/team-logos/114.svg) | CLE | 4 | Final |\\
+| ![](https://www.mlbstatic.com/team-logos/158.svg) | MIL | 2 |](https://baseballsavant.mlb.com/gamefeed?gamePk=823772&game_date=2026-06-18)
 
-[Preview Matchup\\
-\\
-Mize vs. Lambert\\
+[|     |     |     |     |\\
+| --- | --- | --- | --- |\\
+| ![](https://www.mlbstatic.com/team-logos/142.svg) | MIN | 9 | Final |\\
+| ![](https://www.mlbstatic.com/team-logos/140.svg) | TEX | 3 |](https://baseballsavant.mlb.com/gamefeed?gamePk=822889&game_date=2026-06-18)
+
+[|     |     |     |     |\\
+| --- | --- | --- | --- |\\
+| ![](https://www.mlbstatic.com/team-logos/110.svg) | BAL | 0 | Final |\\
+| ![](https://www.mlbstatic.com/team-logos/136.svg) | SEA | 3 |](https://baseballsavant.mlb.com/gamefeed?gamePk=823125&game_date=2026-06-18)
+
+[|     |     |     |     |\\
+| --- | --- | --- | --- |\\
+| ![](https://www.mlbstatic.com/team-logos/121.svg) | NYM | 6 | Final |\\
+| ![](https://www.mlbstatic.com/team-logos/143.svg) | PHI | 4 |](https://baseballsavant.mlb.com/gamefeed?gamePk=823448&game_date=2026-06-18)
+
+[|     |     |     |     |\\
+| --- | --- | --- | --- |\\
+| ![](https://www.mlbstatic.com/team-logos/145.svg) | CWS | 5 | Final |\\
+| ![](https://www.mlbstatic.com/team-logos/147.svg) | NYY | 1 |](https://baseballsavant.mlb.com/gamefeed?gamePk=823533&game_date=2026-06-18)
+
+[|     |     |     |     |\\
+| --- | --- | --- | --- |\\
+| ![](https://www.mlbstatic.com/team-logos/138.svg) | STL | 6 | Final |\\
+| ![](https://www.mlbstatic.com/team-logos/118.svg) | KC | 14 |](https://baseballsavant.mlb.com/gamefeed?gamePk=824098&game_date=2026-06-18)
+
+[|     |     |     |     |\\
+| --- | --- | --- | --- |\\
+| ![](https://www.mlbstatic.com/team-logos/108.svg) | LAA | 0 | Final |\\
+| ![](https://www.mlbstatic.com/team-logos/133.svg) | ATH | 5 |](https://baseballsavant.mlb.com/gamefeed?gamePk=824989&game_date=2026-06-18)
+
+[Roupp vs. Pérez\\
 \\
 |     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/116.svg) | DET |  | 2:10 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/117.svg) | HOU |  |](https://baseballsavant.mlb.com/preview?game_pk=824178&game_date=2026-6-17)
-
-[Preview Matchup\\
-\\
-TBA vs. Leahy\\
-\\
-|     |     |     |     |\\
-| --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/135.svg) | SD |  | 2:15 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/138.svg) | STL |  |](https://baseballsavant.mlb.com/preview?game_pk=823044&game_date=2026-6-17)
-
-[Preview Matchup\\
-\\
-McClanahan vs. Ohtani\\
-\\
-|     |     |     |     |\\
-| --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/139.svg) | TB |  | 3:10 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/119.svg) | LAD |  |](https://baseballsavant.mlb.com/preview?game_pk=823940&game_date=2026-6-17)
-
-[Preview Matchup\\
-\\
-Aldegheri vs. Rodriguez\\
-\\
-|     |     |     |     |\\
-| --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/108.svg) | LAA |  | 3:40 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/109.svg) | AZ |  |](https://baseballsavant.mlb.com/preview?game_pk=825072&game_date=2026-6-17)
-
-[Preview Matchup\\
-\\
-Scherzer vs. Bennett\\
-\\
-|     |     |     |     |\\
-| --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/141.svg) | TOR |  | 6:45 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/111.svg) | BOS |  |](https://baseballsavant.mlb.com/preview?game_pk=824746&game_date=2026-6-17)
-
-[Preview Matchup\\
-\\
-Kay vs. Rodón\\
-\\
-|     |     |     |     |\\
-| --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/145.svg) | CWS |  | 7:05 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/147.svg) | NYY |  |](https://baseballsavant.mlb.com/preview?game_pk=823536&game_date=2026-6-17)
-
-[Preview Matchup\\
-\\
-TBA vs. Ritchie\\
-\\
-|     |     |     |     |\\
-| --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/137.svg) | SF |  | 7:15 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/144.svg) | ATL |  |](https://baseballsavant.mlb.com/preview?game_pk=824913&game_date=2026-6-17)
-
-[Preview Matchup\\
-\\
-Williams vs. Sproat\\
-\\
-|     |     |     |     |\\
-| --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/114.svg) | CLE |  | 7:40 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/158.svg) | MIL |  |](https://baseballsavant.mlb.com/preview?game_pk=823774&game_date=2026-6-17)
-
-[Preview Matchup\\
-\\
-Sullivan vs. Assad\\
-\\
-|     |     |     |     |\\
-| --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/115.svg) | COL |  | 8:05 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/112.svg) | CHC |  |](https://baseballsavant.mlb.com/preview?game_pk=824668&game_date=2026-6-17)
-
-[Preview Matchup\\
-\\
-Ashcraft vs. Civale\\
-\\
-|     |     |     |     |\\
-| --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/134.svg) | PIT |  | 9:40 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/133.svg) | ATH |  |](https://baseballsavant.mlb.com/preview?game_pk=824992&game_date=2026-6-17)
-
-[Preview Matchup\\
-\\
-Bradish vs. Kirby\\
-\\
-|     |     |     |     |\\
-| --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/110.svg) | BAL |  | 9:40 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/136.svg) | SEA |  |](https://baseballsavant.mlb.com/preview?game_pk=823127&game_date=2026-6-17)
+| ![](https://www.mlbstatic.com/team-logos/137.svg) | SF |  | PPD |\\
+| ![](https://www.mlbstatic.com/team-logos/144.svg) | ATL |  |](https://baseballsavant.mlb.com/gamefeed?gamePk=824911&game_date=2026-06-18)
 
 <
 

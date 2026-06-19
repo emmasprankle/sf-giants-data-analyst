@@ -3,136 +3,52 @@ source: https://baseballsavant.mlb.com/savant-player/hayden-birdsong-806185
 slug: baseballsavant-hayden-birdsong
 ---
 
-[Preview Matchup\\
-\\
-McLean vs. Lodolo\\
-\\
-|     |     |     |     |\\
+[|     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/121.svg) | NYM |  | 12:40 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/113.svg) | CIN |  |](https://baseballsavant.mlb.com/preview?game_pk=824503&game_date=2026-6-17)
-
-[Preview Matchup\\
-\\
-Avila vs. Littell\\
-\\
-|     |     |     |     |\\
-| --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/118.svg) | KC |  | 1:05 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/120.svg) | WSH |  |](https://baseballsavant.mlb.com/preview?game_pk=822721&game_date=2026-6-17)
-
-[Preview Matchup\\
-\\
-Alcantara vs. Painter\\
-\\
-|     |     |     |     |\\
-| --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/146.svg) | MIA |  | 1:05 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/143.svg) | PHI |  |](https://baseballsavant.mlb.com/preview?game_pk=823450&game_date=2026-6-17)
+| ![](https://www.mlbstatic.com/team-logos/141.svg) | TOR | 4 | Final |\\
+| ![](https://www.mlbstatic.com/team-logos/111.svg) | BOS | 3 |](https://baseballsavant.mlb.com/gamefeed?gamePk=824748&game_date=2026-06-18)
 
 [|     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/137.svg) | SF | 3 | 2nd |\\
-| ![](https://www.mlbstatic.com/team-logos/144.svg) | ATL | 2 |](https://baseballsavant.mlb.com/gamefeed?gamePk=824912)
+| ![](https://www.mlbstatic.com/team-logos/114.svg) | CLE | 4 | Final |\\
+| ![](https://www.mlbstatic.com/team-logos/158.svg) | MIL | 2 |](https://baseballsavant.mlb.com/gamefeed?gamePk=823772&game_date=2026-06-18)
 
-[Preview Matchup\\
-\\
-Mize vs. Lambert\\
+[|     |     |     |     |\\
+| --- | --- | --- | --- |\\
+| ![](https://www.mlbstatic.com/team-logos/142.svg) | MIN | 9 | Final |\\
+| ![](https://www.mlbstatic.com/team-logos/140.svg) | TEX | 3 |](https://baseballsavant.mlb.com/gamefeed?gamePk=822889&game_date=2026-06-18)
+
+[|     |     |     |     |\\
+| --- | --- | --- | --- |\\
+| ![](https://www.mlbstatic.com/team-logos/110.svg) | BAL | 0 | Final |\\
+| ![](https://www.mlbstatic.com/team-logos/136.svg) | SEA | 3 |](https://baseballsavant.mlb.com/gamefeed?gamePk=823125&game_date=2026-06-18)
+
+[|     |     |     |     |\\
+| --- | --- | --- | --- |\\
+| ![](https://www.mlbstatic.com/team-logos/121.svg) | NYM | 6 | Final |\\
+| ![](https://www.mlbstatic.com/team-logos/143.svg) | PHI | 4 |](https://baseballsavant.mlb.com/gamefeed?gamePk=823448&game_date=2026-06-18)
+
+[|     |     |     |     |\\
+| --- | --- | --- | --- |\\
+| ![](https://www.mlbstatic.com/team-logos/145.svg) | CWS | 5 | Final |\\
+| ![](https://www.mlbstatic.com/team-logos/147.svg) | NYY | 1 |](https://baseballsavant.mlb.com/gamefeed?gamePk=823533&game_date=2026-06-18)
+
+[|     |     |     |     |\\
+| --- | --- | --- | --- |\\
+| ![](https://www.mlbstatic.com/team-logos/138.svg) | STL | 6 | Final |\\
+| ![](https://www.mlbstatic.com/team-logos/118.svg) | KC | 14 |](https://baseballsavant.mlb.com/gamefeed?gamePk=824098&game_date=2026-06-18)
+
+[|     |     |     |     |\\
+| --- | --- | --- | --- |\\
+| ![](https://www.mlbstatic.com/team-logos/108.svg) | LAA | 0 | Final |\\
+| ![](https://www.mlbstatic.com/team-logos/133.svg) | ATH | 5 |](https://baseballsavant.mlb.com/gamefeed?gamePk=824989&game_date=2026-06-18)
+
+[Roupp vs. Pérez\\
 \\
 |     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/116.svg) | DET |  | 2:10 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/117.svg) | HOU |  |](https://baseballsavant.mlb.com/preview?game_pk=824178&game_date=2026-6-17)
-
-[Preview Matchup\\
-\\
-TBA vs. Leahy\\
-\\
-|     |     |     |     |\\
-| --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/135.svg) | SD |  | 2:15 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/138.svg) | STL |  |](https://baseballsavant.mlb.com/preview?game_pk=823044&game_date=2026-6-17)
-
-[Preview Matchup\\
-\\
-McClanahan vs. Ohtani\\
-\\
-|     |     |     |     |\\
-| --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/139.svg) | TB |  | 3:10 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/119.svg) | LAD |  |](https://baseballsavant.mlb.com/preview?game_pk=823940&game_date=2026-6-17)
-
-[Preview Matchup\\
-\\
-Aldegheri vs. Rodriguez\\
-\\
-|     |     |     |     |\\
-| --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/108.svg) | LAA |  | 3:40 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/109.svg) | AZ |  |](https://baseballsavant.mlb.com/preview?game_pk=825072&game_date=2026-6-17)
-
-[Preview Matchup\\
-\\
-Scherzer vs. Bennett\\
-\\
-|     |     |     |     |\\
-| --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/141.svg) | TOR |  | 6:45 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/111.svg) | BOS |  |](https://baseballsavant.mlb.com/preview?game_pk=824746&game_date=2026-6-17)
-
-[Preview Matchup\\
-\\
-Kay vs. Rodón\\
-\\
-|     |     |     |     |\\
-| --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/145.svg) | CWS |  | 7:05 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/147.svg) | NYY |  |](https://baseballsavant.mlb.com/preview?game_pk=823536&game_date=2026-6-17)
-
-[Preview Matchup\\
-\\
-TBA vs. Ritchie\\
-\\
-|     |     |     |     |\\
-| --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/137.svg) | SF |  | 7:15 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/144.svg) | ATL |  |](https://baseballsavant.mlb.com/preview?game_pk=824913&game_date=2026-6-17)
-
-[Preview Matchup\\
-\\
-Williams vs. Sproat\\
-\\
-|     |     |     |     |\\
-| --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/114.svg) | CLE |  | 7:40 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/158.svg) | MIL |  |](https://baseballsavant.mlb.com/preview?game_pk=823774&game_date=2026-6-17)
-
-[Preview Matchup\\
-\\
-Sullivan vs. Assad\\
-\\
-|     |     |     |     |\\
-| --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/115.svg) | COL |  | 8:05 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/112.svg) | CHC |  |](https://baseballsavant.mlb.com/preview?game_pk=824668&game_date=2026-6-17)
-
-[Preview Matchup\\
-\\
-Ashcraft vs. Civale\\
-\\
-|     |     |     |     |\\
-| --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/134.svg) | PIT |  | 9:40 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/133.svg) | ATH |  |](https://baseballsavant.mlb.com/preview?game_pk=824992&game_date=2026-6-17)
-
-[Preview Matchup\\
-\\
-Bradish vs. Kirby\\
-\\
-|     |     |     |     |\\
-| --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/110.svg) | BAL |  | 9:40 PM |\\
-| ![](https://www.mlbstatic.com/team-logos/136.svg) | SEA |  |](https://baseballsavant.mlb.com/preview?game_pk=823127&game_date=2026-6-17)
+| ![](https://www.mlbstatic.com/team-logos/137.svg) | SF |  | PPD |\\
+| ![](https://www.mlbstatic.com/team-logos/144.svg) | ATL |  |](https://baseballsavant.mlb.com/gamefeed?gamePk=824911&game_date=2026-06-18)
 
 <
 
@@ -657,9 +573,9 @@ Hayden Birdsong's Pitches in 3d](https://baseballsavant.mlb.com/visuals/pitch3d?
 
 ![](https://content.mlb.com/images/headshots/current/60x60/683004.png)[2024 - Jack Leiter](https://baseballsavant.mlb.com/savant-player/683004)
 
-![](https://content.mlb.com/images/headshots/current/60x60/680732.png)[2024 - Sean Burke](https://baseballsavant.mlb.com/savant-player/680732)
-
 ![](https://content.mlb.com/images/headshots/current/60x60/665622.png)[2024 - Luis Medina](https://baseballsavant.mlb.com/savant-player/665622)
+
+![](https://content.mlb.com/images/headshots/current/60x60/680732.png)[2024 - Sean Burke](https://baseballsavant.mlb.com/savant-player/680732)
 
 ![](https://content.mlb.com/images/headshots/current/60x60/663554.png)[2024 - Casey Mize](https://baseballsavant.mlb.com/savant-player/663554)
 
@@ -721,7 +637,7 @@ Breaking: Slider, Curve, Knuckle, Sweeper, Slurve, Other
 | 2024 | 6.1 | 25.0 | 23.9 | 24.4 | 11.7 | 8.9 | 5.1 |
 | 2025 | 4.3 | 24.5 | 28.7 | 22.9 | 10.1 | 9.6 | 6.0 |
 | **Player** | 5.2 | 24.7 | 26.4 | 23.6 | 10.9 | 9.2 | 5.5 |
-| **MLB** | 4.0 | 32.3 | 24.9 | 24.4 | 5.9 | 7.6 | 4.9 |
+| **MLB** | 4.0 | 32.3 | 25.0 | 24.4 | 5.9 | 7.6 | 4.9 |
 
 ! Note: All figures in this table cover the period 2015-present.
 
@@ -1166,7 +1082,7 @@ Save Chart
 
 Created with Highcharts 6.2.0Exit VelocityPitchesChart context menuHayden Birdsong Exit Velocity Histogram202530354045505560657075808590951001051101151200255075100125
 
-- Exit VelocityLaunch AnglePitch VelocityBat SpeedSwing LengthAttack AngleAttack DirectionSwing Path TiltPercent Squared UpArm Angle▾
+- Exit VelocityLaunch AnglePitch VelocityBat SpeedSwing LengthAttack AngleAttack DirectionSwing Path TiltPercent Squared UpArm AngleMiss Distance▾
 
 - PitchesPitch PercentageSwingsBatted BallsHitsHome Runs▾
 

@@ -22,7 +22,7 @@ Pitcher
 **Team:** [Milwaukee Brewers](https://www.baseball-reference.com/teams/MIL/2026.shtml) (majors)
 
 
-**[Born:](https://www.baseball-reference.com/bio/)**[August 12](https://www.baseball-reference.com/friv/birthdays.cgi?month=8&day=12), [2001](https://www.baseball-reference.com/leagues/majors/2001-births.shtml)(Age: 24-309d)
+**[Born:](https://www.baseball-reference.com/bio/)**[August 12](https://www.baseball-reference.com/friv/birthdays.cgi?month=8&day=12), [2001](https://www.baseball-reference.com/leagues/majors/2001-births.shtml)(Age: 24-311d)
 
 in San Jose, [CA](https://www.baseball-reference.com/bio/CA_born.shtml)us
 
@@ -32,7 +32,7 @@ in San Jose, [CA](https://www.baseball-reference.com/bio/CA_born.shtml)us
 
 **[Debut:](https://www.baseball-reference.com/leagues/majors/2023-debuts.shtml)** [August 22, 2023](https://www.baseball-reference.com/tools/route.cgi?dest=debut&id=harriky01&game_id=PHI202308220)
 (Age 22-010d,
-22,995th in major league history)
+22,994th in major league history)
 
 
 [vs. PHI](https://www.baseball-reference.com/boxes/PHI/PHI202308220.shtml) 3.1 IP, 5 H, 5 SO, 1 BB, 2 ER
@@ -100,7 +100,7 @@ More bio, uniform, draft, salary info
 
 2.3
 
-3.7
+3.8
 
 **W**
 
@@ -158,9 +158,9 @@ More bio, uniform, draft, salary info
 
 [![](https://cdn.ssref.net/req/202605271/images/klecko/mlbtr.png)](http://www.mlbtraderumors.com/)
 
-**6/15** Mark P The Weekend Chat is now open! We’ll begin things officially once a few questions start to pile up… Garrett I’m interested in your Nationals strategy if you were in charge of the
+**6/18** Brewers right-hander Quinn Priester will undergo thoracic outlet decompression surgery on Monday, Priester himself tells Adam McCalvy of MLB.com (video link). Priester, who’s spent the entire season
 
-[See More at MLBTradeRumors](https://www.mlbtraderumors.com/2026/06/mlbtr-live-chat-132.html)
+[See More at MLBTradeRumors](https://www.mlbtraderumors.com/2026/06/quinn-priester-brewers-season-ending-surgery-thoracic-outlet.html)
 
 **Kyle Harrison** Menu
 
@@ -309,7 +309,7 @@ More Kyle Harrison Pages at Baseball Reference
 
 | Date | Tm |  | Opp | Result | App,Dec | DR | IP | H | R | ER | BB | SO | HR | HBP | WP | IBB | PO | BK | BF | Pit | Str | StL | StS | GB | FB | LD | PU | Unk | GmSc | IR | IS | WPA | aLI | cWPA | acLI | RE24 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [2026-06-14](https://www.baseball-reference.com/boxes/MIL/MIL202606140.shtml) | [MIL](https://www.baseball-reference.com/teams/MIL/2026.shtml) |  | [PHI](https://www.baseball-reference.com/teams/PHI/2026.shtml) | W, 4-0 | GS-6, W | 5 | 6.0 | 3 | 0 | 0 | 0 | 3 | 0 | 1 | 0 | 0 | 0 | 0 | 21 | 80 | 55 | 11 | 9 | 7 | 10 | 3 | 1 | 0 | 69 |  |  | 0.289 | 0.70 | 0.1% | 0.60 | 3.080 |
+| [2026-06-14](https://www.baseball-reference.com/boxes/MIL/MIL202606140.shtml) | [MIL](https://www.baseball-reference.com/teams/MIL/2026.shtml) |  | [PHI](https://www.baseball-reference.com/teams/PHI/2026.shtml) | W, 4-0 | GS-6, W | 5 | 6.0 | 3 | 0 | 0 | 0 | 3 | 0 | 1 | 0 | 0 | 0 | 0 | 21 | 80 | 55 | 11 | 9 | 7 | 10 | 3 | 1 | 0 | 69 |  |  | 0.289 | 0.70 | 0.1% | 0.60 | 3.074 |
 | [2026-06-08](https://www.baseball-reference.com/boxes/ATH/ATH202606080.shtml) | [MIL](https://www.baseball-reference.com/teams/MIL/2026.shtml) | @ | [ATH](https://www.baseball-reference.com/teams/ATH/2026.shtml) | W, 15-14 (12) | GS-3 | 5 | 2.1 | 8 | 8 | 8 | 2 | 4 | 3 | 0 | 0 | 0 | 0 | 0 | 17 | 71 | 43 | 13 | 8 | 4 | 7 | 1 | 1 | 0 | 11 |  |  | -0.682 | 1.12 | -0.2% | 0.62 | -6.759 |
 | [2026-06-02](https://www.baseball-reference.com/boxes/MIL/MIL202606020.shtml) | [MIL](https://www.baseball-reference.com/teams/MIL/2026.shtml) |  | [SFG](https://www.baseball-reference.com/teams/SFG/2026.shtml) | W, 8-3 | GS-6, W | 6 | 5.2 | 4 | 1 | 1 | 2 | 12 | 1 | 0 | 0 | 0 | 0 | 0 | 23 | 106 | 70 | 20 | 19 | 2 | 7 | 4 | 1 | 0 | 67 |  |  | 0.183 | 0.80 | 0.2% | 1.24 | 1.839 |
 | [2026-05-26](https://www.baseball-reference.com/boxes/MIL/MIL202605260.shtml) | [MIL](https://www.baseball-reference.com/teams/MIL/2026.shtml) |  | [STL](https://www.baseball-reference.com/teams/STL/2026.shtml) | W, 6-0 | GS-6, W | 5 | 6.0 | 4 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 23 | 92 | 65 | 16 | 4 | 8 | 13 | 9 | 0 | 0 | 66 |  |  | 0.300 | 0.86 | 0.2% | 1.13 | 3.107 |
@@ -341,14 +341,14 @@ Regular Season
 | [2025](https://www.baseball-reference.com/players/gl.fcgi?id=harriky01&t=p&year=2025) | 23 | [SFG](https://www.baseball-reference.com/teams/SFG/2025.shtml) | [NL](https://www.baseball-reference.com/leagues/NL/2025.shtml) | 0.2 | 1 | 1 | .500 | 4.56 | 8 | 4 | 2 | 0 | 0 | 0 | 23.2 | 21 | 12 | 12 | 4 | 9 | 1 | 25 | 0 | 0 | 0 | 100 | 88 | 4.36 | 1.268 | 8.0 | 1.5 | 3.4 | 9.5 | 2.78 |  |
 | [2025](https://www.baseball-reference.com/players/gl.fcgi?id=harriky01&t=p&year=2025) | 23 | [BOS](https://www.baseball-reference.com/teams/BOS/2025.shtml) | [AL](https://www.baseball-reference.com/leagues/AL/2025.shtml) | 0.3 | 0 | 0 |  | 3.00 | 3 | 2 | 0 | 0 | 0 | 0 | 12.0 | 14 | 4 | 4 | 0 | 5 | 0 | 13 | 1 | 0 | 1 | 56 | 138 | 2.47 | 1.583 | 10.5 | 0.0 | 3.8 | 9.8 | 2.60 |  |
 | [2026](https://www.baseball-reference.com/players/gl.fcgi?id=harriky01&t=p&year=2026) | 24 | [MIL](https://www.baseball-reference.com/teams/MIL/2026.shtml) | [NL](https://www.baseball-reference.com/leagues/NL/2026.shtml) | 2.3 | 8 | 1 | .889 | 2.47 | 13 | 13 | 0 | 0 | 0 | 0 | 65.2 | 54 | 18 | 18 | 7 | 18 | 0 | 80 | 4 | 0 | 2 | 267 | 168 | 3.05 | 1.096 | 7.4 | 1.0 | 2.5 | 11.0 | 4.44 |  |
-| 4 Yrs | 3.7 | 17 | 10 | .630 | 3.91 | 55 | 50 | 2 | 0 | 0 | 0 | 260.1 | 243 | 118 | 113 | 37 | 85 | 1 | 271 | 16 | 1 | 5 | 1102 | 103 | 4.09 | 1.260 | 8.4 | 1.3 | 2.9 | 9.4 | 3.19 |  |
+| 4 Yrs | 3.8 | 17 | 10 | .630 | 3.91 | 55 | 50 | 2 | 0 | 0 | 0 | 260.1 | 243 | 118 | 113 | 37 | 85 | 1 | 271 | 16 | 1 | 5 | 1102 | 103 | 4.09 | 1.260 | 8.4 | 1.3 | 2.9 | 9.4 | 3.19 |  |
 | 162 Game Avg | 2.4 | 11 | 6 | .630 | 3.91 | 36 | 32 | 1 | 0 | 0 | 0 | 168 | 157 | 76 | 73 | 24 | 55 | 1 | 176 | 10 | 1 | 3 | 714 | 103 | 4.09 | 1.260 | 8.4 | 1.3 | 2.9 | 9.4 | 3.19 |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | SFG (3 Yrs) | 1.2 | 9 | 9 | .500 | 4.48 | 39 | 35 | 2 | 0 | 0 | 0 | 182.2 | 175 | 96 | 91 | 30 | 62 | 1 | 178 | 11 | 1 | 2 | 779 | 89 | 4.56 | 1.297 | 8.6 | 1.5 | 3.1 | 8.8 | 2.87 |  |
 | MIL (1 Yr) | 2.3 | 8 | 1 | .889 | 2.47 | 13 | 13 | 0 | 0 | 0 | 0 | 65.2 | 54 | 18 | 18 | 7 | 18 | 0 | 80 | 4 | 0 | 2 | 267 | 168 | 3.05 | 1.096 | 7.4 | 1.0 | 2.5 | 11.0 | 4.44 |  |
 | BOS (1 Yr) | 0.3 | 0 | 0 |  | 3.00 | 3 | 2 | 0 | 0 | 0 | 0 | 12.0 | 14 | 4 | 4 | 0 | 5 | 0 | 13 | 1 | 0 | 1 | 56 | 138 | 2.47 | 1.583 | 10.5 | 0.0 | 3.8 | 9.8 | 2.60 |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| NL (4 Yrs) | 3.4 | 17 | 10 | .630 | 3.95 | 52 | 48 | 2 | 0 | 0 | 0 | 248.1 | 229 | 114 | 109 | 37 | 80 | 1 | 258 | 15 | 1 | 4 | 1046 | 102 | 4.16 | 1.244 | 8.3 | 1.3 | 2.9 | 9.4 | 3.23 |  |
+| NL (4 Yrs) | 3.5 | 17 | 10 | .630 | 3.95 | 52 | 48 | 2 | 0 | 0 | 0 | 248.1 | 229 | 114 | 109 | 37 | 80 | 1 | 258 | 15 | 1 | 4 | 1046 | 102 | 4.16 | 1.244 | 8.3 | 1.3 | 2.9 | 9.4 | 3.23 |  |
 | AL (1 Yr) | 0.3 | 0 | 0 |  | 3.00 | 3 | 2 | 0 | 0 | 0 | 0 | 12.0 | 14 | 4 | 4 | 0 | 5 | 0 | 13 | 1 | 0 | 1 | 56 | 138 | 2.47 | 1.583 | 10.5 | 0.0 | 3.8 | 9.8 | 2.60 |  |
 
 Standard Pitching Table
@@ -364,15 +364,15 @@ Standard Pitching Table
 | [2025](https://www.baseball-reference.com/players/gl.fcgi?id=harriky01&t=p&year=2025) | 23 | 2TM | 2LG | 35.2 | 11 | 6 | 16 | 4.04 | 4.34 | 0.14 | 0.09 | 0.16 | 103 | 4.58 | 2 | 0.2 | 0.63 | -0.1 | 0.5 | 5 | .521 | .500 |  |
 | [2025](https://www.baseball-reference.com/players/gl.fcgi?id=harriky01&t=p&year=2025) | 23 | [SFG](https://www.baseball-reference.com/teams/SFG/2025.shtml) | [NL](https://www.baseball-reference.com/leagues/NL/2025.shtml) | 23.2 | 8 | 4 | 12 | 4.56 | 4.25 | 0.05 | 0.09 | 0.23 | 103 | 4.65 | 0 | 0.0 | 0.58 | 0.0 | 0.2 | 2 | .504 | .500 |  |
 | [2025](https://www.baseball-reference.com/players/gl.fcgi?id=harriky01&t=p&year=2025) | 23 | [BOS](https://www.baseball-reference.com/teams/BOS/2025.shtml) | [AL](https://www.baseball-reference.com/leagues/AL/2025.shtml) | 12.0 | 3 | 2 | 4 | 3.00 | 4.51 | 0.30 | 0.08 | 0.00 | 104 | 4.45 | 2 | 0.2 | 0.83 | 0.0 | 0.3 | 3 | .568 | .501 |  |
-| [2026](https://www.baseball-reference.com/players/gl.fcgi?id=harriky01&t=p&year=2026) | 24 | [MIL](https://www.baseball-reference.com/teams/MIL/2026.shtml) | [NL](https://www.baseball-reference.com/leagues/NL/2026.shtml) | 65.2 | 13 | 13 | 18 | 2.47 | 4.70 | 0.26 | 0.22 | 0.00 | 99 | 4.59 | 16 | 1.7 |  | -0.1 | 2.3 | 22 | .633 | .511 |  |
-| 4 Yrs | 260.1 | 55 | 50 | 118 | 4.08 | 4.56 | 0.08 | 0.20 | 0.02 | 97 | 4.56 | 14 | 1.5 | 0.63 | -0.2 | 3.7 | 38 | .528 | .502 |  |
-| 162 Game Avg | 168 | 36 | 32 | 76 | 4.08 | 4.56 | 0.08 | 0.20 | 0.02 | 97 | 4.56 | 9 | 1.0 | 0.63 | -0.2 | 2.4 | 25 | .528 | .502 |  |
+| [2026](https://www.baseball-reference.com/players/gl.fcgi?id=harriky01&t=p&year=2026) | 24 | [MIL](https://www.baseball-reference.com/teams/MIL/2026.shtml) | [NL](https://www.baseball-reference.com/leagues/NL/2026.shtml) | 65.2 | 13 | 13 | 18 | 2.47 | 4.70 | 0.23 | 0.22 | 0.00 | 99 | 4.62 | 16 | 1.8 |  | -0.1 | 2.3 | 22 | .635 | .511 |  |
+| 4 Yrs | 260.1 | 55 | 50 | 118 | 4.08 | 4.56 | 0.07 | 0.20 | 0.02 | 97 | 4.56 | 14 | 1.5 | 0.63 | -0.2 | 3.8 | 39 | .528 | .502 |  |
+| 162 Game Avg | 168 | 36 | 32 | 76 | 4.08 | 4.56 | 0.07 | 0.20 | 0.02 | 97 | 4.56 | 9 | 1.0 | 0.63 | -0.2 | 2.4 | 25 | .528 | .502 |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | SFG (3 Yrs) | 182.2 | 39 | 35 | 96 | 4.73 | 4.51 | 0.00 | 0.19 | 0.03 | 96 | 4.55 | -4 | -0.4 | 0.58 | -0.2 | 1.2 | 14 | .489 | .499 |  |
-| MIL (1 Yr) | 65.2 | 13 | 13 | 18 | 2.47 | 4.70 | 0.26 | 0.22 | 0.00 | 99 | 4.59 | 16 | 1.7 |  | -0.1 | 2.3 | 22 | .633 | .511 |  |
+| MIL (1 Yr) | 65.2 | 13 | 13 | 18 | 2.47 | 4.70 | 0.23 | 0.22 | 0.00 | 99 | 4.62 | 16 | 1.8 |  | -0.1 | 2.3 | 22 | .635 | .511 |  |
 | BOS (1 Yr) | 12.0 | 3 | 2 | 4 | 3.00 | 4.51 | 0.30 | 0.08 | 0.00 | 104 | 4.45 | 2 | 0.2 | 0.83 | 0.0 | 0.3 | 3 | .568 | .501 |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| NL (4 Yrs) | 248.1 | 52 | 48 | 114 | 4.13 | 4.56 | 0.07 | 0.20 | 0.02 | 97 | 4.56 | 12 | 1.3 | 0.58 | -0.2 | 3.4 | 35 | .525 | .502 |  |
+| NL (4 Yrs) | 248.1 | 52 | 48 | 114 | 4.13 | 4.56 | 0.06 | 0.20 | 0.02 | 97 | 4.57 | 12 | 1.3 | 0.58 | -0.2 | 3.5 | 35 | .526 | .502 |  |
 | AL (1 Yr) | 12.0 | 3 | 2 | 4 | 3.00 | 4.51 | 0.30 | 0.08 | 0.00 | 104 | 4.45 | 2 | 0.2 | 0.83 | 0.0 | 0.3 | 3 | .568 | .501 |  |
 
 Value Pitching Table
@@ -392,8 +392,8 @@ Regular Season
 | [2025](https://www.baseball-reference.com/players/gl.fcgi?id=harriky01&t=p&year=2025) | 23 | 2TM | 2LG | 35.2 | .248 | .321 | .404 | .725 | .313 | 2.6 | 24.4 | 9.0 | 89.2 | 42.7 | 29.1 | 36.9 | 26.2 | 0.61 | 0.1 | 0.2% | 1.40 |  |
 | [2025](https://www.baseball-reference.com/players/gl.fcgi?id=harriky01&t=p&year=2025) | 23 | [SFG](https://www.baseball-reference.com/teams/SFG/2025.shtml) | [NL](https://www.baseball-reference.com/leagues/NL/2025.shtml) | 23.2 | .231 | .300 | .440 | .740 | .274 | 4.0 | 25.0 | 9.0 | 91.0 | 48.5 | 30.3 | 33.3 | 27.3 | 0.52 | 0.0 | 0.0% | 0.93 |  |
 | [2025](https://www.baseball-reference.com/players/gl.fcgi?id=harriky01&t=p&year=2025) | 23 | [BOS](https://www.baseball-reference.com/teams/BOS/2025.shtml) | [AL](https://www.baseball-reference.com/leagues/AL/2025.shtml) | 12.0 | .280 | .357 | .340 | .697 | .378 | 0.0 | 23.2 | 8.9 | 86.0 | 32.4 | 27.0 | 43.2 | 24.3 | 0.80 | 0.1 | 0.3% | 0.48 |  |
-| [2026](https://www.baseball-reference.com/players/gl.fcgi?id=harriky01&t=p&year=2026) | 24 | [MIL](https://www.baseball-reference.com/teams/MIL/2026.shtml) | [NL](https://www.baseball-reference.com/leagues/NL/2026.shtml) | 65.2 | .220 | .285 | .351 | .636 | .297 | 2.6 | 30.0 | 6.7 | 88.1 | 31.5 | 27.9 | 33.9 | 28.5 | 0.53 | 1.1 | 1.0% | 13.97 |  |
-| 4 Yrs | 260.1 | .245 | .312 | .412 | .724 | .298 | 3.4 | 24.6 | 7.7 | 89.5 | 40.3 | 25.3 | 36.6 | 29.9 | 0.59 | 0.6 | 0.8% | 11.21 |  |
+| [2026](https://www.baseball-reference.com/players/gl.fcgi?id=harriky01&t=p&year=2026) | 24 | [MIL](https://www.baseball-reference.com/teams/MIL/2026.shtml) | [NL](https://www.baseball-reference.com/leagues/NL/2026.shtml) | 65.2 | .220 | .285 | .351 | .636 | .297 | 2.6 | 30.0 | 6.7 | 88.1 | 31.5 | 27.9 | 33.9 | 28.5 | 0.53 | 1.1 | 1.0% | 13.96 |  |
+| 4 Yrs | 260.1 | .245 | .312 | .412 | .724 | .298 | 3.4 | 24.6 | 7.7 | 89.5 | 40.3 | 25.3 | 36.6 | 29.9 | 0.59 | 0.6 | 0.8% | 11.20 |  |
 | MLB Average |  | .245 | .316 | .405 | .721 | .292 | 3.1 | 22.4 | 8.5 | 88.5 | 39.8 | 23.8 | 41.8 | 26.4 | 0.73 |  |  |  |  |
 
 Advanced Pitching Table
@@ -423,7 +423,17 @@ Powered by ![Stathead Logo](https://cdn.ssref.net/req/202101292/logos/stathead-l
 - [Player News RSS Feed](https://www.baseball-reference.com/players/news.fcgi?id=harriky01&rss=1)
 - Show/Hide More Stories
 
+- **6/18** [MLBTradeRumors: Quinn Priester To Undergo Thoracic Outlet Surgery](https://www.mlbtraderumors.com/2026/06/quinn-priester-brewers-season-ending-surgery-thoracic-outlet.html): _Brewers right-hander Quinn Priester will undergo thoracic outlet_...
+
+- **6/18** [Brewer Fanatic: Jacob Misiorowski & Kyle Harrison Are The Best Duo In Baseball](https://brewerfanatic.com/videos/milwaukee-brewers/jacob-misiorowski-kyle-harrison-are-the-best-duo-in-baseball-r425/): _Jacob Misiorowski is the best pitcher in baseball, officially_...
+
+- **6/17** [Cubs Insider: The Rundown: Underwhelming Cubs Lose Again, Pitching Injuries Mounting, Soccer Fans Take Over Yankee Stadium](http://www.cubsinsider.com/2026/06/17/the-rundown-underwhelming-cubs-lose-again-pitching-injuries-mounting-soccer-fans-take-over-yankee-stadium/): _“It’s gonna take a lot to drag me away from you. There’s_...
+
+- **6/17** [Cubs Insider: The Rundown: Underwhelming Cubs Lose Again, Pitching Injuries Mounting, Soccer Fans Take Over Yankee Stadium](https://www.cubsinsider.com/2026/06/17/the-rundown-underwhelming-cubs-lose-again-pitching-injuries-mounting-soccer-fans-take-over-yankee-stadium/): _“It’s gonna take a lot to drag me away from you. There’s_...
+
 - **6/16** [Cubs Insider: The Rundown: Cubs Win in Extras, PCA Hits for Reverse Cycle, Misiorowski Tosses a Wood and a Maddux](http://www.cubsinsider.com/2026/06/16/the-rundown-cubs-win-in-extras-pca-hits-for-reverse-cycle-misiorowski-tosses-a-wood-and-a-maddux/): _“A pie in the face for being a sleepy bull-toad.”_...
+
+- Show 17 more stories
 
 - **6/16** [Cubs Insider: The Rundown: Cubs Win in Extras, PCA Hits for Reverse Cycle, Misiorowski Tosses a Wood and a Maddux](https://www.cubsinsider.com/2026/06/16/the-rundown-cubs-win-in-extras-pca-hits-for-reverse-cycle-misiorowski-tosses-a-wood-and-a-maddux/): _“A pie in the face for being a sleepy bull-toad.”_...
 
@@ -432,8 +442,6 @@ Powered by ![Stathead Logo](https://cdn.ssref.net/req/202101292/logos/stathead-l
 - **6/15** [Last Word on Sports: What Should the Red Sox Do with Struggling Third Baseman?](https://lastwordonsports.com/baseball/2026/06/15/what-the-red-sox-should-do-with-struggling-third-baseman/): _In the eyes of many fans, the struggling Red Sox had a disappointing_...
 
 - **6/15** [RotoWire: Tosses six shutout innings](https://www.rotowire.com/baseball/player/kyle-harrison-16741?refer=SportsRef): _Harrison (8-1) allowed three hits and hit one batter while striking_...
-
-- Show 17 more stories
 
 - **6/15** [DiamondCentric: MLB Power Rankings: Brewers Charging, Marlins & Blue Jays Surprise](https://diamondcentric.net/news-rumors/major-league-baseball/mlb-power-rankings-brewers-charging-marlins-blue-jays-surprise-r9939/): _The San Francisco Giants find themselves near the bottom of_...
 
@@ -462,16 +470,6 @@ _Runs_...
 - **6/12** [MLBTradeRumors: Brewers Pause Quinn Priester’s Rehab Assignment](https://www.mlbtraderumors.com/2026/06/brewers-pause-quinn-priesters-rehab-assignment.html): _The Brewers are once again pausing the rehab assignment of Quinn_...
 
 - **6/12** [Brewer Fanatic: A New Way to See Why Jacob Misiorowski's Fastball Dominates Hitters](https://brewerfanatic.com/news-rumors/milwaukee-brewers/a-new-way-to-see-why-jacob-misiorowskis-fastball-dominates-hitters-r4640/): _At this point, most of the baseball world knows Jacob Misiorowski_...
-
-- **6/11** [Brewer Fanatic: The Brewers' Four Fastball Monsters Each Make Hitters Late Differently](https://brewerfanatic.com/news-rumors/milwaukee-brewers/the-brewers-four-fastball-monsters-each-make-hitters-late-differently-r4639/): _Hitters love to boast about what they could time up, if you_...
-
-- **6/10** [Brewer Fanatic: Milwaukee Brewers Pitcher of the Month: May 2026](https://brewerfanatic.com/news-rumors/milwaukee-brewers/milwaukee-brewers-pitcher-of-the-month-may-2026-r4633/): _Honorable Mentions_
-_Logan Henderson_
-_4 GS, 21 IP, 2.14 ERA,_...
-
-- **6/10** [Last Word on Sports: 2026 Boston Red Sox Player Grades So Far This Season](https://lastwordonsports.com/baseball/2026/06/09/boston-red-sox-grades/): _There's no question that the 2026 Boston Red Sox haven't lived_...
-
-- **6/10** [Last Word on Sports: Red Sox Keeping General Manager Breslow Despite Displeased Fanbase](https://lastwordonsports.com/baseball/2026/06/09/red-sox-keeping-general-manager-breslow-despite-displeased-fanbase/): _The Boston Red Sox's season has not seemed to go the way general_...
 
 
 ## Appearances
@@ -549,12 +547,6 @@ Wins
 
 [2026 NL](https://www.baseball-reference.com/leagues/NL/2026-pitching-leaders.shtml)  .889 (2nd)
 
-#### Adj. Pitching Runs
-
-<strong>Adjusted Pitching Runs</strong><br>A set of formulas developed by Gary Gillette, Pete Palmer and others<br>that estimates a pitcher&#x2019;s total contributions<br>to a team&#x2019;s runs total via linear weights.<br>0.0 is an avg performance, <0 is worse than avg and >0 is better than avg
-
-[2026 NL](https://www.baseball-reference.com/leagues/NL/2026-pitching-leaders.shtml)  13 (10th)
-
 #### Adj. Pitching Wins
 
 <strong>Adjusted Pitching Wins</strong><br>A set of formulas developed by Gary Gillette, Pete Palmer and others<br>that estimates a pitcher&#x2019;s total contributions<br>to a team&#x2019;s wins with his arm.<br>0.0 is an avg performance, <0 is worse than avg and >0 is better than avg
@@ -572,9 +564,9 @@ Wins
 |     |
 | --- |
 | [Gray Ink](https://www.baseball-reference.com/about/leader_glossary.shtml#gray_ink) |
-| Pitching -<br> **7** (2204th),<br> _Average_<br>_HOFer ≈ 185_ |
+| Pitching -<br> **7** (2207th),<br> _Average_<br>_HOFer ≈ 185_ |
 | [JAWS](https://www.baseball-reference.com/about/jaws.shtml) |
-| [Starting Pitcher **(1637th)**](https://www.baseball-reference.com/leaders/jaws_P.shtml):<br>**3.7** career WAR<br> \| **3.7** 7yr-peak WAR<br> \| **3.7** JAWS<br> \| **3.7** S-JAWS<br> \| **2.4** WAR/162<br>   Average HOF P (out of 67):<br>     73.0 career WAR \| 49.8 7yr-peak WAR \| 61.4 JAWS<br> \| 56.8 S-JAWS<br> \| 4.5 WAR/162 |
+| [Starting Pitcher **(1634th)**](https://www.baseball-reference.com/leaders/jaws_P.shtml):<br>**3.8** career WAR<br> \| **3.8** 7yr-peak WAR<br> \| **3.8** JAWS<br> \| **3.8** S-JAWS<br> \| **2.4** WAR/162<br>   Average HOF P (out of 67):<br>     73.0 career WAR \| 49.8 7yr-peak WAR \| 61.4 JAWS<br> \| 56.8 S-JAWS<br> \| 4.5 WAR/162 |
 
 ## Similarity Scores
 
