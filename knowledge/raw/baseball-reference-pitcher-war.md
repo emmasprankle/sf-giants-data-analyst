@@ -3,6 +3,8 @@ source: https://www.baseball-reference.com/about/war_explained_pitch.shtml
 slug: baseball-reference-pitcher-war
 ---
 
+We're hiring a Senior Software Engineer and Software Engineer to join our team! Learn more and [apply here](https://sports-reference-llc.breezy.hr/).
+
 **About** Menu
 
 - [About Baseball Reference](https://www.baseball-reference.com/about/)
