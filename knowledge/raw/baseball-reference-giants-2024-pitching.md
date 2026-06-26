@@ -3,7 +3,7 @@ source: https://www.baseball-reference.com/teams/SFG/2024-pitching.shtml
 slug: baseball-reference-giants-2024-pitching
 ---
 
-We're hiring a Senior Software Engineer and Software Engineer to join our team! Learn more and [apply here](https://sports-reference-llc.breezy.hr/).
+We're hiring a Senior Software Engineer to join our team! Learn more and [apply here](https://sports-reference-llc.breezy.hr/p/9befdf74c0e5-senior-software-engineer).
 
 ![2024 San Francisco Giants Logo](https://cdn.ssref.net/req/202606180/tlogo/br/SFG-2024.png)
 
