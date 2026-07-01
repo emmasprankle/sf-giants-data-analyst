@@ -5,78 +5,78 @@ slug: baseballsavant-hayden-birdsong
 
 [|     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/120.svg) | WSH | 6 | Final |\\
-| ![](https://www.mlbstatic.com/team-logos/110.svg) | BAL | 4 |](https://baseballsavant.mlb.com/gamefeed?gamePk=824821&game_date=2026-06-28)
+| ![](https://www.mlbstatic.com/team-logos/145.svg) | CWS | 9 | Final |\\
+| ![](https://www.mlbstatic.com/team-logos/110.svg) | BAL | 3 |](https://baseballsavant.mlb.com/gamefeed?gamePk=824819&game_date=2026-06-30)
 
 [|     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/113.svg) | CIN | 4 | Final |\\
-| ![](https://www.mlbstatic.com/team-logos/134.svg) | PIT | 9 |](https://baseballsavant.mlb.com/gamefeed?gamePk=823362&game_date=2026-06-28)
+| ![](https://www.mlbstatic.com/team-logos/140.svg) | TEX | 4 | Final |\\
+| ![](https://www.mlbstatic.com/team-logos/114.svg) | CLE | 2 |](https://baseballsavant.mlb.com/gamefeed?gamePk=824418&game_date=2026-06-30)
 
 [|     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/140.svg) | TEX | 3 | Final |\\
-| ![](https://www.mlbstatic.com/team-logos/141.svg) | TOR | 2 |](https://baseballsavant.mlb.com/gamefeed?gamePk=822795&game_date=2026-06-28)
+| ![](https://www.mlbstatic.com/team-logos/134.svg) | PIT | 0 | Final |\\
+| ![](https://www.mlbstatic.com/team-logos/143.svg) | PHI | 8 |](https://baseballsavant.mlb.com/gamefeed?gamePk=823445&game_date=2026-06-30)
 
 [|     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/117.svg) | HOU | 7 | Final |\\
-| ![](https://www.mlbstatic.com/team-logos/116.svg) | DET | 5 |](https://baseballsavant.mlb.com/gamefeed?gamePk=824256&game_date=2026-06-28)
+| ![](https://www.mlbstatic.com/team-logos/116.svg) | DET | 9 | Final |\\
+| ![](https://www.mlbstatic.com/team-logos/147.svg) | NYY | 3 |](https://baseballsavant.mlb.com/gamefeed?gamePk=823528&game_date=2026-06-30)
 
 [|     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/136.svg) | SEA | 5 | Final |\\
-| ![](https://www.mlbstatic.com/team-logos/114.svg) | CLE | 6 |](https://baseballsavant.mlb.com/gamefeed?gamePk=824422&game_date=2026-06-28)
+| ![](https://www.mlbstatic.com/team-logos/121.svg) | NYM | 3 | Final |\\
+| ![](https://www.mlbstatic.com/team-logos/141.svg) | TOR | 0 |](https://baseballsavant.mlb.com/gamefeed?gamePk=822793&game_date=2026-06-30)
 
 [|     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/109.svg) | AZ | 1 | Final |\\
-| ![](https://www.mlbstatic.com/team-logos/139.svg) | TB | 5 |](https://baseballsavant.mlb.com/gamefeed?gamePk=822959&game_date=2026-06-28)
+| ![](https://www.mlbstatic.com/team-logos/120.svg) | WSH | 8 | Final |\\
+| ![](https://www.mlbstatic.com/team-logos/111.svg) | BOS | 1 |](https://baseballsavant.mlb.com/gamefeed?gamePk=824742&game_date=2026-06-30)
 
 [|     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/143.svg) | PHI | 5 | Final |\\
-| ![](https://www.mlbstatic.com/team-logos/121.svg) | NYM | 4 |](https://baseballsavant.mlb.com/gamefeed?gamePk=823608&game_date=2026-06-28)
+| ![](https://www.mlbstatic.com/team-logos/138.svg) | STL | 5 | Final |\\
+| ![](https://www.mlbstatic.com/team-logos/144.svg) | ATL | 3 |](https://baseballsavant.mlb.com/gamefeed?gamePk=824907&game_date=2026-06-30)
 
 [|     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/115.svg) | COL | 2 | Final |\\
-| ![](https://www.mlbstatic.com/team-logos/142.svg) | MIN | 3 |](https://baseballsavant.mlb.com/gamefeed?gamePk=823686&game_date=2026-06-28)
+| ![](https://www.mlbstatic.com/team-logos/139.svg) | TB | 10 | Final |\\
+| ![](https://www.mlbstatic.com/team-logos/118.svg) | KC | 4 |](https://baseballsavant.mlb.com/gamefeed?gamePk=824096&game_date=2026-06-30)
 
 [|     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/118.svg) | KC | 5 | Final |\\
-| ![](https://www.mlbstatic.com/team-logos/145.svg) | CWS | 4 |](https://baseballsavant.mlb.com/gamefeed?gamePk=824580&game_date=2026-06-28)
+| ![](https://www.mlbstatic.com/team-logos/113.svg) | CIN | 2 | Final |\\
+| ![](https://www.mlbstatic.com/team-logos/158.svg) | MIL | 7 |](https://baseballsavant.mlb.com/gamefeed?gamePk=823768&game_date=2026-06-30)
 
 [|     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/112.svg) | CHC | 4 | Final |\\
-| ![](https://www.mlbstatic.com/team-logos/158.svg) | MIL | 3 |](https://baseballsavant.mlb.com/gamefeed?gamePk=823769&game_date=2026-06-28)
+| ![](https://www.mlbstatic.com/team-logos/135.svg) | SD | 7 | Final |\\
+| ![](https://www.mlbstatic.com/team-logos/112.svg) | CHC | 9 |](https://baseballsavant.mlb.com/gamefeed?gamePk=824661&game_date=2026-06-30)
 
 [|     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/146.svg) | MIA | 1 | Final |\\
-| ![](https://www.mlbstatic.com/team-logos/138.svg) | STL | 2 |](https://baseballsavant.mlb.com/gamefeed?gamePk=823037&game_date=2026-06-28)
+| ![](https://www.mlbstatic.com/team-logos/142.svg) | MIN | 4 | Final |\\
+| ![](https://www.mlbstatic.com/team-logos/117.svg) | HOU | 6 |](https://baseballsavant.mlb.com/gamefeed?gamePk=824175&game_date=2026-06-30)
 
 [|     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/133.svg) | ATH | 1 | Final |\\
-| ![](https://www.mlbstatic.com/team-logos/108.svg) | LAA | 4 |](https://baseballsavant.mlb.com/gamefeed?gamePk=824011&game_date=2026-06-28)
+| ![](https://www.mlbstatic.com/team-logos/146.svg) | MIA | 14 | Final |\\
+| ![](https://www.mlbstatic.com/team-logos/115.svg) | COL | 3 |](https://baseballsavant.mlb.com/gamefeed?gamePk=824338&game_date=2026-06-30)
 
 [|     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/144.svg) | ATL | 2 | Final |\\
-| ![](https://www.mlbstatic.com/team-logos/137.svg) | SF | 3 |](https://baseballsavant.mlb.com/gamefeed?gamePk=823204&game_date=2026-06-28)
+| ![](https://www.mlbstatic.com/team-logos/119.svg) | LAD | 9 | Final |\\
+| ![](https://www.mlbstatic.com/team-logos/133.svg) | ATH | 3 |](https://baseballsavant.mlb.com/gamefeed?gamePk=824984&game_date=2026-06-30)
 
 [|     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/119.svg) | LAD | 4 | Final |\\
-| ![](https://www.mlbstatic.com/team-logos/135.svg) | SD | 2 |](https://baseballsavant.mlb.com/gamefeed?gamePk=823281&game_date=2026-06-28)
+| ![](https://www.mlbstatic.com/team-logos/108.svg) | LAA | 3 | Final |\\
+| ![](https://www.mlbstatic.com/team-logos/136.svg) | SEA | 8 |](https://baseballsavant.mlb.com/gamefeed?gamePk=823122&game_date=2026-06-30)
 
 [|     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/147.svg) | NYY | 4 | Final |\\
-| ![](https://www.mlbstatic.com/team-logos/111.svg) | BOS | 5 |](https://baseballsavant.mlb.com/gamefeed?gamePk=824744&game_date=2026-06-28)
+| ![](https://www.mlbstatic.com/team-logos/137.svg) | SF | 2 | Final |\\
+| ![](https://www.mlbstatic.com/team-logos/109.svg) | AZ | 8 |](https://baseballsavant.mlb.com/gamefeed?gamePk=825066&game_date=2026-06-30)
 
 <
 
@@ -601,9 +601,9 @@ Hayden Birdsong's Pitches in 3d](https://baseballsavant.mlb.com/visuals/pitch3d?
 
 ![](https://content.mlb.com/images/headshots/current/60x60/683004.png)[2024 - Jack Leiter](https://baseballsavant.mlb.com/savant-player/683004)
 
-![](https://content.mlb.com/images/headshots/current/60x60/680732.png)[2024 - Sean Burke](https://baseballsavant.mlb.com/savant-player/680732)
-
 ![](https://content.mlb.com/images/headshots/current/60x60/665622.png)[2024 - Luis Medina](https://baseballsavant.mlb.com/savant-player/665622)
+
+![](https://content.mlb.com/images/headshots/current/60x60/680732.png)[2024 - Sean Burke](https://baseballsavant.mlb.com/savant-player/680732)
 
 ![](https://content.mlb.com/images/headshots/current/60x60/663554.png)[2024 - Casey Mize](https://baseballsavant.mlb.com/savant-player/663554)
 
@@ -656,7 +656,7 @@ Breaking: Slider, Curve, Knuckle, Sweeper, Slurve, Other
 | 2024 | 41.1 | 58.9 | 33.3 | 22.2 | 3.3 | 36.7 | 40.0 | 23.3 | 20.6 | 15.0 | 5.6 | 16.1 | 25.0 | 17.8 |
 | 2025 | 34.0 | 66.0 | 30.3 | 24.5 | 11.2 | 38.3 | 35.6 | 26.1 | 16.5 | 13.3 | 4.3 | 21.8 | 22.3 | 21.8 |
 | **Player** | 37.5 | 62.5 | 31.8 | 23.4 | 7.3 | 37.5 | 37.8 | 24.7 | 18.5 | 14.1 | 4.9 | 19.0 | 23.6 | 19.8 |
-| **MLB** | 44.2 | 55.8 | 24.2 | 24.6 | 7.1 | 37.4 | 37.3 | 25.1 | 20.7 | 17.6 | 5.8 | 16.8 | 19.7 | 19.2 |
+| **MLB** | 44.2 | 55.8 | 24.2 | 24.6 | 7.1 | 37.5 | 37.3 | 25.1 | 20.7 | 17.6 | 5.8 | 16.8 | 19.7 | 19.3 |
 
 ! Note: All figures in this table cover the period 2015-present.
 
