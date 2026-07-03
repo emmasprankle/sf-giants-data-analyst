@@ -767,7 +767,7 @@ Currently viewing seasons between
 
 2024 and 2024
 
-Load / Save ReportCustom ReportsCustom PlayersCustom Teams
+Load / Save ReportCustom ReportCustom PlayersCustom Teams
 
 StatsPitch-Level DataPitch Modeling
 
@@ -1118,8 +1118,6 @@ Forkball+
 
 Data Export \[ [Members Only](https://plus.fangraphs.com/product/fangraphs-membership/)\]
 
-Beta
-
 Heat Map:
 
 Off
@@ -1197,8 +1195,6 @@ Heat Map
 of 2
 
 Page Size:3050100200Infinity
-
-Beta
 
 Heat Map:
 
@@ -1213,8 +1209,6 @@ Heat Map
 of 2
 
 Page Size:3050100200Infinity
-
-Beta
 
 Heat Map:
 
