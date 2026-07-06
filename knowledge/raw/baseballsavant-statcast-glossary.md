@@ -5,78 +5,78 @@ slug: baseballsavant-statcast-glossary
 
 [|     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/134.svg) | PIT | 7 | Final |\\
-| ![](https://www.mlbstatic.com/team-logos/120.svg) | WSH | 1 |](https://baseballsavant.mlb.com/gamefeed?gamePk=822716&game_date=2026-07-04)
+| ![](https://www.mlbstatic.com/team-logos/121.svg) | NYM | 10 | Final |\\
+| ![](https://www.mlbstatic.com/team-logos/144.svg) | ATL | 9 |](https://baseballsavant.mlb.com/gamefeed?gamePk=824902&game_date=2026-07-05)
 
 [|     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/142.svg) | MIN | 11 | Final |\\
-| ![](https://www.mlbstatic.com/team-logos/147.svg) | NYY | 4 |](https://baseballsavant.mlb.com/gamefeed?gamePk=823526&game_date=2026-07-04)
+| ![](https://www.mlbstatic.com/team-logos/134.svg) | PIT | 11 | Final |\\
+| ![](https://www.mlbstatic.com/team-logos/120.svg) | WSH | 5 |](https://baseballsavant.mlb.com/gamefeed?gamePk=822715&game_date=2026-07-05)
 
 [|     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/116.svg) | DET | 3 | Final |\\
-| ![](https://www.mlbstatic.com/team-logos/140.svg) | TEX | 0 |](https://baseballsavant.mlb.com/gamefeed?gamePk=822882&game_date=2026-07-04)
+| ![](https://www.mlbstatic.com/team-logos/110.svg) | BAL | 2 | Final |\\
+| ![](https://www.mlbstatic.com/team-logos/113.svg) | CIN | 3 |](https://baseballsavant.mlb.com/gamefeed?gamePk=824497&game_date=2026-07-05)
 
 [|     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/141.svg) | TOR | 0 | Final |\\
-| ![](https://www.mlbstatic.com/team-logos/136.svg) | SEA | 11 |](https://baseballsavant.mlb.com/gamefeed?gamePk=823118&game_date=2026-07-04)
+| ![](https://www.mlbstatic.com/team-logos/142.svg) | MIN | 6 | Final |\\
+| ![](https://www.mlbstatic.com/team-logos/147.svg) | NYY | 1 |](https://baseballsavant.mlb.com/gamefeed?gamePk=823525&game_date=2026-07-05)
 
 [|     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/110.svg) | BAL | 8 | Final |\\
-| ![](https://www.mlbstatic.com/team-logos/113.svg) | CIN | 5 |](https://baseballsavant.mlb.com/gamefeed?gamePk=824499&game_date=2026-07-04)
+| ![](https://www.mlbstatic.com/team-logos/145.svg) | CWS | 7 | Final |\\
+| ![](https://www.mlbstatic.com/team-logos/114.svg) | CLE | 6 |](https://baseballsavant.mlb.com/gamefeed?gamePk=824413&game_date=2026-07-05)
 
 [|     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/139.svg) | TB | 8 | Final |\\
-| ![](https://www.mlbstatic.com/team-logos/117.svg) | HOU | 10 |](https://baseballsavant.mlb.com/gamefeed?gamePk=824171&game_date=2026-07-04)
+| ![](https://www.mlbstatic.com/team-logos/138.svg) | STL | 4 | Final |\\
+| ![](https://www.mlbstatic.com/team-logos/112.svg) | CHC | 6 |](https://baseballsavant.mlb.com/gamefeed?gamePk=824656&game_date=2026-07-05)
 
 [|     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/145.svg) | CWS | 3 | Final |\\
-| ![](https://www.mlbstatic.com/team-logos/114.svg) | CLE | 1 |](https://baseballsavant.mlb.com/gamefeed?gamePk=824415&game_date=2026-07-04)
+| ![](https://www.mlbstatic.com/team-logos/143.svg) | PHI | 2 | Final |\\
+| ![](https://www.mlbstatic.com/team-logos/118.svg) | KC | 5 |](https://baseballsavant.mlb.com/gamefeed?gamePk=824091&game_date=2026-07-05)
 
 [|     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/138.svg) | STL | 3 | Final |\\
-| ![](https://www.mlbstatic.com/team-logos/112.svg) | CHC | 0 |](https://baseballsavant.mlb.com/gamefeed?gamePk=824658&game_date=2026-07-04)
+| ![](https://www.mlbstatic.com/team-logos/139.svg) | TB | 0 | Final |\\
+| ![](https://www.mlbstatic.com/team-logos/117.svg) | HOU | 2 |](https://baseballsavant.mlb.com/gamefeed?gamePk=824172&game_date=2026-07-05)
 
 [|     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/121.svg) | NYM | 3 | Final |\\
-| ![](https://www.mlbstatic.com/team-logos/144.svg) | ATL | 14 |](https://baseballsavant.mlb.com/gamefeed?gamePk=824903&game_date=2026-07-04)
+| ![](https://www.mlbstatic.com/team-logos/116.svg) | DET | 6 | Final |\\
+| ![](https://www.mlbstatic.com/team-logos/140.svg) | TEX | 3 |](https://baseballsavant.mlb.com/gamefeed?gamePk=822879&game_date=2026-07-05)
 
 [|     |     |     |     |\\
 | --- | --- | --- | --- |\\
 | ![](https://www.mlbstatic.com/team-logos/137.svg) | SF | 6 | Final |\\
-| ![](https://www.mlbstatic.com/team-logos/115.svg) | COL | 4 |](https://baseballsavant.mlb.com/gamefeed?gamePk=824334&game_date=2026-07-04)
-
-[|     |     |     |     |\\
-| --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/143.svg) | PHI | 6 | Final |\\
-| ![](https://www.mlbstatic.com/team-logos/118.svg) | KC | 1 |](https://baseballsavant.mlb.com/gamefeed?gamePk=824092&game_date=2026-07-04)
-
-[|     |     |     |     |\\
-| --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/111.svg) | BOS | 8 | Final |\\
-| ![](https://www.mlbstatic.com/team-logos/108.svg) | LAA | 1 |](https://baseballsavant.mlb.com/gamefeed?gamePk=824012&game_date=2026-07-04)
-
-[|     |     |     |     |\\
-| --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/146.svg) | MIA | 7 | Final |\\
-| ![](https://www.mlbstatic.com/team-logos/133.svg) | ATH | 2 |](https://baseballsavant.mlb.com/gamefeed?gamePk=824983&game_date=2026-07-04)
+| ![](https://www.mlbstatic.com/team-logos/115.svg) | COL | 7 |](https://baseballsavant.mlb.com/gamefeed?gamePk=824333&game_date=2026-07-05)
 
 [|     |     |     |     |\\
 | --- | --- | --- | --- |\\
 | ![](https://www.mlbstatic.com/team-logos/158.svg) | MIL | 3 | Final |\\
-| ![](https://www.mlbstatic.com/team-logos/109.svg) | AZ | 4 |](https://baseballsavant.mlb.com/gamefeed?gamePk=825063&game_date=2026-07-04)
+| ![](https://www.mlbstatic.com/team-logos/109.svg) | AZ | 2 |](https://baseballsavant.mlb.com/gamefeed?gamePk=825061&game_date=2026-07-05)
 
 [|     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/135.svg) | SD | 0 | Final |\\
-| ![](https://www.mlbstatic.com/team-logos/119.svg) | LAD | 3 |](https://baseballsavant.mlb.com/gamefeed?gamePk=823932&game_date=2026-07-04)
+| ![](https://www.mlbstatic.com/team-logos/146.svg) | MIA | 9 | Final |\\
+| ![](https://www.mlbstatic.com/team-logos/133.svg) | ATH | 8 |](https://baseballsavant.mlb.com/gamefeed?gamePk=824980&game_date=2026-07-05)
+
+[|     |     |     |     |\\
+| --- | --- | --- | --- |\\
+| ![](https://www.mlbstatic.com/team-logos/141.svg) | TOR | 0 | Final |\\
+| ![](https://www.mlbstatic.com/team-logos/136.svg) | SEA | 4 |](https://baseballsavant.mlb.com/gamefeed?gamePk=823117&game_date=2026-07-05)
+
+[|     |     |     |     |\\
+| --- | --- | --- | --- |\\
+| ![](https://www.mlbstatic.com/team-logos/135.svg) | SD | 5 | Final |\\
+| ![](https://www.mlbstatic.com/team-logos/119.svg) | LAD | 2 |](https://baseballsavant.mlb.com/gamefeed?gamePk=823931&game_date=2026-07-05)
+
+[|     |     |     |     |\\
+| --- | --- | --- | --- |\\
+| ![](https://www.mlbstatic.com/team-logos/111.svg) | BOS | 7 | Final |\\
+| ![](https://www.mlbstatic.com/team-logos/108.svg) | LAA | 5 |](https://baseballsavant.mlb.com/gamefeed?gamePk=824010&game_date=2026-07-05)
 
 <
 
