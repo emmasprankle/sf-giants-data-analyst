@@ -5,78 +5,80 @@ slug: baseballsavant-ryan-walker
 
 [|     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/141.svg) | TOR | 10 | Final |\\
-| ![](https://www.mlbstatic.com/team-logos/137.svg) | SF | 0 |](https://baseballsavant.mlb.com/gamefeed?gamePk=823202&game_date=2026-07-08)
+| ![](https://www.mlbstatic.com/team-logos/143.svg) | PHI | 2 | Final |\\
+| ![](https://www.mlbstatic.com/team-logos/116.svg) | DET | 10 |](https://baseballsavant.mlb.com/gamefeed?gamePk=824252&game_date=2026-07-10)
 
 [|     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/112.svg) | CHC | 9 | Final |\\
-| ![](https://www.mlbstatic.com/team-logos/110.svg) | BAL | 7 |](https://baseballsavant.mlb.com/gamefeed?gamePk=824815&game_date=2026-07-08)
+| ![](https://www.mlbstatic.com/team-logos/147.svg) | NYY | 5 | Final |\\
+| ![](https://www.mlbstatic.com/team-logos/120.svg) | WSH | 3 |](https://baseballsavant.mlb.com/gamefeed?gamePk=822709&game_date=2026-07-10)
+
+[|     |     |     |     |\\
+| --- | --- | --- | --- |\\
+| ![](https://www.mlbstatic.com/team-logos/118.svg) | KC | 3 | Final |\\
+| ![](https://www.mlbstatic.com/team-logos/110.svg) | BAL | 5 |](https://baseballsavant.mlb.com/gamefeed?gamePk=824817&game_date=2026-07-10)
+
+[|     |     |     |     |\\
+| --- | --- | --- | --- |\\
+| ![](https://www.mlbstatic.com/team-logos/112.svg) | CHC | 0 | Final |\\
+| ![](https://www.mlbstatic.com/team-logos/113.svg) | CIN | 4 |](https://baseballsavant.mlb.com/gamefeed?gamePk=824493&game_date=2026-07-10)
+
+[|     |     |     |     |\\
+| --- | --- | --- | --- |\\
+| ![](https://www.mlbstatic.com/team-logos/136.svg) | SEA | 2 | Final |\\
+| ![](https://www.mlbstatic.com/team-logos/139.svg) | TB | 7 |](https://baseballsavant.mlb.com/gamefeed?gamePk=822955&game_date=2026-07-10)
+
+[|     |     |     |     |\\
+| --- | --- | --- | --- |\\
+| ![](https://www.mlbstatic.com/team-logos/114.svg) | CLE | 3 | Final |\\
+| ![](https://www.mlbstatic.com/team-logos/146.svg) | MIA | 2 |](https://baseballsavant.mlb.com/gamefeed?gamePk=823845&game_date=2026-07-10)
+
+[|     |     |     |     |\\
+| --- | --- | --- | --- |\\
+| ![](https://www.mlbstatic.com/team-logos/111.svg) | BOS | 6 | Final |\\
+| ![](https://www.mlbstatic.com/team-logos/121.svg) | NYM | 2 |](https://baseballsavant.mlb.com/gamefeed?gamePk=823604&game_date=2026-07-10)
 
 [|     |     |     |     |\\
 | --- | --- | --- | --- |\\
 | ![](https://www.mlbstatic.com/team-logos/133.svg) | ATH | 1 | Final |\\
-| ![](https://www.mlbstatic.com/team-logos/116.svg) | DET | 6 |](https://baseballsavant.mlb.com/gamefeed?gamePk=824253&game_date=2026-07-08)
+| ![](https://www.mlbstatic.com/team-logos/145.svg) | CWS | 14 |](https://baseballsavant.mlb.com/gamefeed?gamePk=824575&game_date=2026-07-10)
 
 [|     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/144.svg) | ATL | 3 | Final |\\
-| ![](https://www.mlbstatic.com/team-logos/134.svg) | PIT | 0 |](https://baseballsavant.mlb.com/gamefeed?gamePk=823360&game_date=2026-07-08)
+| ![](https://www.mlbstatic.com/team-logos/117.svg) | HOU | 3 | Final |\\
+| ![](https://www.mlbstatic.com/team-logos/140.svg) | TEX | 7 |](https://baseballsavant.mlb.com/gamefeed?gamePk=822878&game_date=2026-07-10)
 
 [|     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/136.svg) | SEA | 0 | Final |\\
-| ![](https://www.mlbstatic.com/team-logos/146.svg) | MIA | 2 |](https://baseballsavant.mlb.com/gamefeed?gamePk=823848&game_date=2026-07-08)
+| ![](https://www.mlbstatic.com/team-logos/108.svg) | LAA | 4 | Final |\\
+| ![](https://www.mlbstatic.com/team-logos/142.svg) | MIN | 3 |](https://baseballsavant.mlb.com/gamefeed?gamePk=823685&game_date=2026-07-10)
 
 [|     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/147.svg) | NYY | 0 | Final |\\
-| ![](https://www.mlbstatic.com/team-logos/139.svg) | TB | 3 |](https://baseballsavant.mlb.com/gamefeed?gamePk=822957&game_date=2026-07-08)
+| ![](https://www.mlbstatic.com/team-logos/144.svg) | ATL | 1 | Final |\\
+| ![](https://www.mlbstatic.com/team-logos/138.svg) | STL | 2 |](https://baseballsavant.mlb.com/gamefeed?gamePk=823033&game_date=2026-07-10)
 
 [|     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/117.svg) | HOU | 2 | Final |\\
-| ![](https://www.mlbstatic.com/team-logos/120.svg) | WSH | 8 |](https://baseballsavant.mlb.com/gamefeed?gamePk=822710&game_date=2026-07-08)
+| ![](https://www.mlbstatic.com/team-logos/141.svg) | TOR | 5 | Final |\\
+| ![](https://www.mlbstatic.com/team-logos/135.svg) | SD | 3 |](https://baseballsavant.mlb.com/gamefeed?gamePk=823278&game_date=2026-07-10)
 
 [|     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/118.svg) | KC | 2 | Final |\\
-| ![](https://www.mlbstatic.com/team-logos/121.svg) | NYM | 6 |](https://baseballsavant.mlb.com/gamefeed?gamePk=823605&game_date=2026-07-08)
+| ![](https://www.mlbstatic.com/team-logos/109.svg) | AZ | 9 | Final |\\
+| ![](https://www.mlbstatic.com/team-logos/119.svg) | LAD | 3 |](https://baseballsavant.mlb.com/gamefeed?gamePk=823927&game_date=2026-07-10)
 
 [|     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/143.svg) | PHI | 5 | Final |\\
-| ![](https://www.mlbstatic.com/team-logos/113.svg) | CIN | 11 |](https://baseballsavant.mlb.com/gamefeed?gamePk=824496&game_date=2026-07-08)
+| ![](https://www.mlbstatic.com/team-logos/115.svg) | COL | 4 | Final |\\
+| ![](https://www.mlbstatic.com/team-logos/137.svg) | SF | 3 |](https://baseballsavant.mlb.com/gamefeed?gamePk=823200&game_date=2026-07-10)
 
-[|     |     |     |     |\\
+[Sproat vs. Ashcraft\\
+\\
+|     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/114.svg) | CLE | 5 | Final |\\
-| ![](https://www.mlbstatic.com/team-logos/142.svg) | MIN | 6 |](https://baseballsavant.mlb.com/gamefeed?gamePk=823684&game_date=2026-07-08)
-
-[|     |     |     |     |\\
-| --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/111.svg) | BOS | 5 | Final |\\
-| ![](https://www.mlbstatic.com/team-logos/145.svg) | CWS | 0 |](https://baseballsavant.mlb.com/gamefeed?gamePk=824578&game_date=2026-07-08)
-
-[|     |     |     |     |\\
-| --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/158.svg) | MIL | 1 | Final |\\
-| ![](https://www.mlbstatic.com/team-logos/138.svg) | STL | 5 |](https://baseballsavant.mlb.com/gamefeed?gamePk=823032&game_date=2026-07-08)
-
-[|     |     |     |     |\\
-| --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/108.svg) | LAA | 13 | Final |\\
-| ![](https://www.mlbstatic.com/team-logos/140.svg) | TEX | 1 |](https://baseballsavant.mlb.com/gamefeed?gamePk=822880&game_date=2026-07-08)
-
-[|     |     |     |     |\\
-| --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/115.svg) | COL | 3 | Final |\\
-| ![](https://www.mlbstatic.com/team-logos/119.svg) | LAD | 4 |](https://baseballsavant.mlb.com/gamefeed?gamePk=823928&game_date=2026-07-08)
-
-[|     |     |     |     |\\
-| --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/109.svg) | AZ | 4 | Final |\\
-| ![](https://www.mlbstatic.com/team-logos/135.svg) | SD | 10 |](https://baseballsavant.mlb.com/gamefeed?gamePk=823279&game_date=2026-07-08)
+| ![](https://www.mlbstatic.com/team-logos/158.svg) | MIL |  | PPD |\\
+| ![](https://www.mlbstatic.com/team-logos/134.svg) | PIT |  |](https://baseballsavant.mlb.com/gamefeed?gamePk=823357&game_date=2026-07-10)
 
 <
 
@@ -86,10 +88,7 @@ slug: baseballsavant-ryan-walker
 
 [Ryan Walker](https://www.mlb.com/player/676254)
 
-P \| San Francisco Giants
-![](https://www.mlbstatic.com/team-logos/137.svg)
-
-Bats/Throws:
+P \| Bats/Throws:
 R/R \|
 6' 2" 215 lbs \| Age:
 30
@@ -147,7 +146,7 @@ vs. LHH72%22%6%Pitchvs. RHH66%33%1%68%SI29%SL3%FF
 MLB Percentile Rankings
 
 
-![](https://baseballsavant.mlb.com/sections/evp/images/play.png)ValuesavantPOORAVERAGEGREATPitching Run Value-7NOT QUALIFIED15Fastball Run Value-5NOT QUALIFIED14Breaking Run Value-2NOT QUALIFIED27Offspeed Run Value--NOT QUALIFIEDPitchingxERA4.40NOT QUALIFIED38xBA.260NOT QUALIFIED26Fastball Velo95.2NOT QUALIFIED63Avg Exit Velo85.4NOT QUALIFIED96Chase %25.5NOT QUALIFIED8Whiff %15.2NOT QUALIFIED1K %15.2NOT QUALIFIED7BB %12.0NOT QUALIFIED15Barrel %6.7NOT QUALIFIED65Hard-Hit %35.6NOT QUALIFIED70GB %47.8NOT QUALIFIED78Extension6.4NOT QUALIFIED41
+![](https://baseballsavant.mlb.com/sections/evp/images/play.png)ValuesavantPOORAVERAGEGREATPitching Run Value-7NOT QUALIFIED15Fastball Run Value-5NOT QUALIFIED14Breaking Run Value-2NOT QUALIFIED28Offspeed Run Value--NOT QUALIFIEDPitchingxERA4.40NOT QUALIFIED37xBA.260NOT QUALIFIED26Fastball Velo95.2NOT QUALIFIED63Avg Exit Velo85.4NOT QUALIFIED96Chase %25.5NOT QUALIFIED8Whiff %15.2NOT QUALIFIED1K %15.2NOT QUALIFIED7BB %12.0NOT QUALIFIED14Barrel %6.7NOT QUALIFIED64Hard-Hit %35.6NOT QUALIFIED69GB %47.8NOT QUALIFIED77Extension6.4NOT QUALIFIED40
 
 20262026
 
@@ -378,6 +377,8 @@ Save Image
 
 | Team | Date | Transaction |
 | --- | --- | --- |
+| ![](https://www.mlbstatic.com/team-logos/105.svg) | 07/09/2026 | San Francisco Giants optioned RHP Ryan Walker to Sacramento River Cats. |
+| ![](https://www.mlbstatic.com/team-logos/105.svg) | 07/09/2026 | Sacramento River Cats activated RHP Ryan Walker. |
 | ![](https://www.mlbstatic.com/team-logos/137.svg) | 06/12/2026 | San Francisco Giants recalled RHP Ryan Walker from Sacramento River Cats. |
 | ![](https://www.mlbstatic.com/team-logos/105.svg) | 05/10/2026 | San Francisco Giants optioned RHP Ryan Walker to Sacramento River Cats. |
 | ![](https://www.mlbstatic.com/team-logos/137.svg) | 04/16/2026 | RHP Ryan Walker changed number to 74. |
@@ -395,8 +396,8 @@ Save Image
 | ![](https://www.mlbstatic.com/team-logos/137.svg) | 02/25/2023 | RHP Ryan Walker roster status changed by San Francisco Giants. |
 | ![](https://www.mlbstatic.com/team-logos/105.svg) | 09/10/2022 | RHP Ryan Walker assigned to Sacramento River Cats from Richmond Flying Squirrels. |
 | ![](https://www.mlbstatic.com/team-logos/105.svg) | 09/10/2022 | Sacramento River Cats activated RHP Ryan Walker. |
-| ![](https://www.mlbstatic.com/team-logos/137.svg) | 03/24/2022 | RHP Ryan Walker roster status changed by San Francisco Giants. |
 | ![](https://www.mlbstatic.com/team-logos/137.svg) | 03/24/2022 | RHP Ryan Walker assigned to San Francisco Giants. |
+| ![](https://www.mlbstatic.com/team-logos/137.svg) | 03/24/2022 | RHP Ryan Walker roster status changed by San Francisco Giants. |
 | ![](https://www.mlbstatic.com/team-logos/3410.svg) | 08/31/2021 | RHP Ryan Walker assigned to Richmond Flying Squirrels from Eugene Emeralds. |
 | ![](https://www.mlbstatic.com/team-logos/461.svg) | 08/10/2021 | RHP Ryan Walker assigned to Eugene Emeralds from Richmond Flying Squirrels. |
 | ![](https://www.mlbstatic.com/team-logos/3410.svg) | 08/04/2021 | RHP Ryan Walker assigned to Richmond Flying Squirrels from Eugene Emeralds. |
@@ -603,17 +604,17 @@ Walker relies on 3 pitches.
 
 Sinker
 
-(68.2%) ,
+(68.4%) ,
 
 Slider
 
-(29.2%) ,
+(28.8%) ,
 
 Four Seamer
 
-(2.6%) ,
+(2.9%) ,
 
-Sinker315 Pitches (68.2%)
+Sinker335 Pitches (68.4%)
 
 - All PitchesSwing & MissesBase HitsRight Handed BatterLeft Handed BatterAhead In CountBehind In CountEven Count2 Strikes▾
 
@@ -879,7 +880,7 @@ These run values are **leveraged**, meaning the base/out situation at the time o
 | 2023 | 35 | 61 | 16 |  | 91 | 64 | 49 |  | 98 | 86 | 87 | 90 | 38 | 92 | 99 | 58 | 23 |
 | 2024 | 93 | 90 | 94 |  | 96 | 76 | 58 |  | 94 | 54 | 74 | 94 | 84 | 81 | 98 | 71 | 21 |
 | 2025 | 56 | 74 | 40 | 51 | 58 | 77 | 73 |  | 93 | 22 | 20 | 49 | 71 | 92 | 86 | 84 | 47 |
-| 2026 | 15 | 14 | 27 |  | 38 | 63 | 70 |  | 96 | 8 | 1 | 7 | 15 | 65 | 70 | 78 | 41 |
+| 2026 | 15 | 14 | 28 |  | 37 | 63 | 70 |  | 96 | 8 | 1 | 7 | 14 | 64 | 69 | 77 | 40 |
 
 [+\\
 View Complete Percentile Rankings Leaderboard](https://baseballsavant.mlb.com/leaderboard/percentile-rankings?type=pitcher)
@@ -1113,20 +1114,6 @@ Ryan Walker - 2026 Frequency of Pitches by Pitch Speed4-Seam FastballSinkerSlide
 Loading Bat Tracking...
 
 
-## [Statcast Fielding Run Value](https://baseballsavant.mlb.com/savant-player/ryan-walker-676254?stats=statcast-r-pitching-mlb\#statcast-fielding-run-value)
-
-|  | Infield/Outfield | Catching | Innings By Position |
-| --- | --- | --- | --- |
-
-| 2023 | ![](https://www.mlbstatic.com/team-logos/137.svg) | -- | -- | -- | -- | -- | -- | -- | -- | -- | 61 | -- | -- | -- | -- | -- | -- | -- | -- |
-| 2024 | ![](https://www.mlbstatic.com/team-logos/137.svg) | -- | -- | -- | -- | -- | -- | -- | -- | -- | 80 | -- | -- | -- | -- | -- | -- | -- | -- |
-| 2025 | ![](https://www.mlbstatic.com/team-logos/137.svg) | -- | -- | -- | -- | -- | -- | -- | -- | -- | 61 | -- | -- | -- | -- | -- | -- | -- | -- |
-| 2026 | ![](https://www.mlbstatic.com/team-logos/137.svg) | -- | -- | -- | -- | -- | -- | -- | -- | -- | 25 | -- | -- | -- | -- | -- | -- | -- | -- |
-| **Player** | ![](https://www.mlbstatic.com/team-logos/137.svg) | -- | -- | -- | -- | -- | -- | -- | -- | -- | 228 | -- | -- | -- | -- | -- | -- | -- | -- |
-
-[+\\
-View Complete Fielding Run Value Leaderboard](https://baseballsavant.mlb.com/leaderboard/fielding-run-value)
-
 ## [Statcast Fielding Breakdown](https://baseballsavant.mlb.com/savant-player/ryan-walker-676254?stats=statcast-r-pitching-mlb\#statcast-fielding-breakdown)
 
 - 2026202520242023▾
@@ -1208,120 +1195,120 @@ Created with Highcharts 6.2.0Exit VelocityPitchesChart context menuRyan Walker E
 
 ## Run Value
 
-Ryan WalkerPitcher RV (All)-0.31.30.8-1.61.40.2-0.7-0.13.6-1.7-1.0-1.5-5.0
+Ryan WalkerPitcher RV (All)-0.21.30.8-1.5-0.50.2-0.60.04.1-1.8-1.2-1.5-5.8
 
-Ryan WalkerPitcher RV (Swings)-0.40.80.3-2.00.7-0.9-0.7-0.91.71.90.50.3-0.5
+Ryan WalkerPitcher RV (Swings)-0.40.80.3-2.0-1.2-0.9-0.6-0.82.11.90.50.4-0.5
 
-Ryan WalkerPitcher RV (Takes)0.10.50.60.40.61.10.00.81.9-3.5-1.5-1.8-4.5
+Ryan WalkerPitcher RV (Takes)0.20.50.60.50.61.10.00.82.1-3.6-1.7-1.8-5.4
 
-Ryan WalkerPitcher RV (Contact)-0.40.20.1-2.30.7-1.0-1.0-0.91.50.60.5-0.3-0.8
+Ryan WalkerPitcher RV (Contact)-0.40.20.1-2.2-1.2-1.0-1.0-0.81.80.60.5-0.3-0.8
 
 ## Standard
 
-Ryan WalkerPitch %4528863581761117
+Ryan WalkerPitch %4428963581661118
 
-Ryan WalkerTotal Pitches1922837362914243678295080
+Ryan WalkerTotal Pitches2022839422915253980315288
 
-Ryan WalkerSwing % By Zone845025786945100583637173614
+Ryan WalkerSwing % By Zone805025777445100603636163713
 
-Ryan WalkerSwings By Zone161122925131414132951811
+Ryan WalkerSwings By Zone161123031131515142951911
 
-Ryan WalkerK %01001005017132250240130
+Ryan WalkerK %01001005017132245240130
 
-Ryan WalkerWhiff %03650341570152402855
+Ryan WalkerWhiff %036503315130142403255
 
-Ryan WalkerWhiffs By Zone0411121027056
+Ryan WalkerWhiffs By Zone0411122027066
 
-Ryan WalkerBatted Balls By Zone500201557759353
+Ryan WalkerBatted Balls By Zone500202057769353
 
-Ryan WalkerHits By Zone3007424303022
+Ryan WalkerHits By Zone3007724303022
 
-Ryan WalkerSingles By Zone3005313203022
+Ryan WalkerSingles By Zone3005413203022
 
 Ryan WalkerDoubles By Zone0001001000000
 
 Ryan WalkerTriples By Zone0000100100000
 
-Ryan WalkerHome Runs By Zone0001010000000
+Ryan WalkerHome Runs By Zone0001210000000
 
-Ryan WalkerXBH By Zone0002111100000
+Ryan WalkerXBH By Zone0002311100000
 
 Ryan WalkerStrikeouts By Zone0221011254010
 
-Ryan WalkerBB %0000000001802567
+Ryan WalkerBB %0000000001802570
 
-Ryan WalkerGround Ball %40505360572980670600
+Ryan WalkerGround Ball %40504560572967670600
 
-Ryan WalkerLine Drive %402572043290330400
+Ryan WalkerLine Drive %4025152043290330400
 
-Ryan WalkerFlyball %2020272004320067067
+Ryan WalkerFlyball %2020302004333067067
 
-Ryan WalkerPopup %05130000033033
+Ryan WalkerPopup %05100000033033
 
-Ryan WalkerBABIP.600.333.267.250.571.429.000.333.000.500.667
+Ryan WalkerBABIP.600.333.278.250.571.429.000.333.000.500.667
 
-Ryan WalkerBatting Average.600.000.000.350.267.333.500.333.000.231.000.400.667
+Ryan WalkerBatting Average.600.000.000.350.350.333.500.333.000.231.000.400.667
 
-Ryan WalkerBACON.600.368.267.400.571.429.000.333.000.500.667
+Ryan WalkerBACON.600.368.350.400.571.429.000.333.000.500.667
 
-Ryan WalkerOBP.600.000.000.350.267.333.500.333.000.412.000.571.889
+Ryan WalkerOBP.600.000.000.350.350.333.500.333.000.412.000.571.900
 
-Ryan WalkerSLG.600.000.000.550.400.833.625.556.000.231.000.400.667
+Ryan WalkerSLG.600.000.000.550.750.833.625.556.000.231.000.400.667
 
-Ryan WalkerISO.000.000.000.200.133.500.125.222.000.000.000.000.000
+Ryan WalkerISO.000.000.000.200.400.500.125.222.000.000.000.000.000
 
-Ryan WalkerwOBA.534.000.000.388.284.489.492.375.000.324.000.454.664
+Ryan WalkerwOBA.534.000.000.388.462.489.491.375.000.324.000.454.668
 
-Ryan WalkerwOBA (Contact).534.408.284.587.562.482.000.297.000.445.594
+Ryan WalkerwOBA (Contact).534.408.462.586.562.482.000.297.000.445.594
 
 ## Statcast
 
-Ryan WalkerAvg Exit Velocity8386869390957974747064
+Ryan WalkerAvg Exit Velocity8386899390958274747064
 
-Ryan WalkerAvg Launch Angle739-1-515-19444-1240
+Ryan WalkerAvg Launch Angle7312-1-515-11444-1240
 
-Ryan WalkerBat Speed (MPH)71687271727172717170677370
+Ryan WalkerBat Speed (MPH)71687271727173727270677370
 
-Ryan WalkerSwing Length (ft)6.96.67.86.97.17.67.17.27.96.87.07.88.3
+Ryan WalkerSwing Length (ft)6.96.67.87.07.17.67.17.27.96.87.07.88.3
 
-Ryan WalkerSquared up % / Swings190034361521501510060
+Ryan WalkerSquared up % / Swings190033421520472110050
 
-Ryan WalkerSquared up % / Contact190036381823501814080
+Ryan WalkerSquared up % / Contact190034431823472514080
 
-Ryan WalkerAttack Angle4084592511681021
+Ryan WalkerAttack Angle4085593411681121
 
-Ryan WalkerAttack Direction1116-956-1116-10104-4-25
+Ryan WalkerAttack Direction1116-955-1116-10104-6-25
 
-Ryan WalkerSwing Path (Tilt)28272734323136383527313642
+Ryan WalkerSwing Path (Tilt)28272734313136383527313642
 
-Ryan WalkerBarrels01110100000
+Ryan WalkerBarrels01310100000
 
-Ryan WalkerBarrels / BIP (%)0572001400000
+Ryan WalkerBarrels / BIP (%)05152001400000
 
-Ryan WalkerBarrels / Swings (%)03480700000
+Ryan WalkerBarrels / Swings (%)031080700000
 
-Ryan WalkerBarrels / Pitches (%)03330400000
+Ryan WalkerBarrels / Pitches (%)03730400000
 
-Ryan WalkerHard Hit2008543311010
+Ryan WalkerHard Hit2008943311010
 
-Ryan WalkerHard Hit / BIP (%)40403380434320110200
+Ryan WalkerHard Hit / BIP (%)40404580434317110200
 
-Ryan WalkerHard Hit / Swings (%)1300282031212183060
+Ryan WalkerHard Hit / Swings (%)1300272931202073050
 
-Ryan WalkerHard Hit / Pitches (%)1100221414211331020
+Ryan WalkerHard Hit / Pitches (%)1000212114201231020
 
-Ryan WalkerxBA.379.307.220.331.283.253.090.174.158.346.650
+Ryan WalkerxBA.379.308.286.331.283.253.097.174.158.346.650
 
-Ryan WalkerxBA (Contact).379.323.220.397.323.326.181.252.158.432.650
+Ryan WalkerxBA (Contact).379.324.286.397.323.326.179.252.158.432.650
 
-Ryan WalkerxOBP.379.000.307.220.331.283.253.090.369.158.533.883
+Ryan WalkerxOBP.379.000.308.286.331.283.253.097.369.158.533.895
 
-Ryan WalkerxSLG.448.497.365.711.356.380.116.205.181.391.687
+Ryan WalkerxSLG.448.498.508.711.356.380.137.205.181.391.687
 
-Ryan WalkerxISO.069.190.145.381.074.127.026.030.023.045.037
+Ryan WalkerxISO.069.190.221.381.074.127.039.030.023.045.037
 
-Ryan WalkerxwOBA.357.000.000.343.248.434.277.272.090.293.146.430.663
+Ryan WalkerxwOBA.357.000.000.344.336.434.277.272.101.293.146.430.667
 
-Ryan WalkerxwOBA (Contact).357.361.248.521.316.350.180.240.146.403.590
+Ryan WalkerxwOBA (Contact).357.362.336.521.316.350.185.240.146.403.590
 
 Loading Chart...
