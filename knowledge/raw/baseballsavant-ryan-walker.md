@@ -5,83 +5,78 @@ slug: baseballsavant-ryan-walker
 
 [|     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/158.svg) | MIL | 6 | Final |\\
-| ![](https://www.mlbstatic.com/team-logos/134.svg) | PIT | 7 |](https://baseballsavant.mlb.com/gamefeed?gamePk=823357&game_date=2026-07-11)
+| ![](https://www.mlbstatic.com/team-logos/158.svg) | MIL | 5 | Final |\\
+| ![](https://www.mlbstatic.com/team-logos/134.svg) | PIT | 14 |](https://baseballsavant.mlb.com/gamefeed?gamePk=823358&game_date=2026-07-12)
 
 [|     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/158.svg) | MIL | 2 | Final |\\
-| ![](https://www.mlbstatic.com/team-logos/134.svg) | PIT | 3 |](https://baseballsavant.mlb.com/gamefeed?gamePk=823356&game_date=2026-07-11)
+| ![](https://www.mlbstatic.com/team-logos/118.svg) | KC | 2 | Final |\\
+| ![](https://www.mlbstatic.com/team-logos/110.svg) | BAL | 8 |](https://baseballsavant.mlb.com/gamefeed?gamePk=824814&game_date=2026-07-12)
 
 [|     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/108.svg) | LAA | 3 | Final |\\
-| ![](https://www.mlbstatic.com/team-logos/142.svg) | MIN | 5 |](https://baseballsavant.mlb.com/gamefeed?gamePk=823682&game_date=2026-07-11)
+| ![](https://www.mlbstatic.com/team-logos/147.svg) | NYY | 5 | Final |\\
+| ![](https://www.mlbstatic.com/team-logos/120.svg) | WSH | 3 |](https://baseballsavant.mlb.com/gamefeed?gamePk=822708&game_date=2026-07-12)
 
 [|     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/133.svg) | ATH | 0 | Final |\\
-| ![](https://www.mlbstatic.com/team-logos/145.svg) | CWS | 1 |](https://baseballsavant.mlb.com/gamefeed?gamePk=824576&game_date=2026-07-11)
+| ![](https://www.mlbstatic.com/team-logos/112.svg) | CHC | 8 | Final |\\
+| ![](https://www.mlbstatic.com/team-logos/113.svg) | CIN | 4 |](https://baseballsavant.mlb.com/gamefeed?gamePk=824491&game_date=2026-07-12)
 
 [|     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/115.svg) | COL | 2 | Final |\\
-| ![](https://www.mlbstatic.com/team-logos/137.svg) | SF | 4 |](https://baseballsavant.mlb.com/gamefeed?gamePk=823198&game_date=2026-07-11)
+| ![](https://www.mlbstatic.com/team-logos/111.svg) | BOS | 3 | Final |\\
+| ![](https://www.mlbstatic.com/team-logos/121.svg) | NYM | 2 |](https://baseballsavant.mlb.com/gamefeed?gamePk=823602&game_date=2026-07-12)
 
 [|     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/147.svg) | NYY | 4 | Final |\\
-| ![](https://www.mlbstatic.com/team-logos/120.svg) | WSH | 2 |](https://baseballsavant.mlb.com/gamefeed?gamePk=822711&game_date=2026-07-11)
+| ![](https://www.mlbstatic.com/team-logos/136.svg) | SEA | 8 | Final |\\
+| ![](https://www.mlbstatic.com/team-logos/139.svg) | TB | 2 |](https://baseballsavant.mlb.com/gamefeed?gamePk=822951&game_date=2026-07-12)
 
 [|     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/111.svg) | BOS | 4 | Final |\\
-| ![](https://www.mlbstatic.com/team-logos/121.svg) | NYM | 0 |](https://baseballsavant.mlb.com/gamefeed?gamePk=823603&game_date=2026-07-11)
+| ![](https://www.mlbstatic.com/team-logos/143.svg) | PHI | 5 | Final |\\
+| ![](https://www.mlbstatic.com/team-logos/116.svg) | DET | 0 |](https://baseballsavant.mlb.com/gamefeed?gamePk=824250&game_date=2026-07-12)
 
 [|     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/136.svg) | SEA | 1 | Final |\\
-| ![](https://www.mlbstatic.com/team-logos/139.svg) | TB | 6 |](https://baseballsavant.mlb.com/gamefeed?gamePk=822953&game_date=2026-07-11)
+| ![](https://www.mlbstatic.com/team-logos/114.svg) | CLE | 5 | Final |\\
+| ![](https://www.mlbstatic.com/team-logos/146.svg) | MIA | 2 |](https://baseballsavant.mlb.com/gamefeed?gamePk=823842&game_date=2026-07-12)
 
 [|     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/114.svg) | CLE | 4 | Final |\\
-| ![](https://www.mlbstatic.com/team-logos/146.svg) | MIA | 1 |](https://baseballsavant.mlb.com/gamefeed?gamePk=823844&game_date=2026-07-11)
+| ![](https://www.mlbstatic.com/team-logos/108.svg) | LAA | 2 | Final |\\
+| ![](https://www.mlbstatic.com/team-logos/142.svg) | MIN | 4 |](https://baseballsavant.mlb.com/gamefeed?gamePk=823681&game_date=2026-07-12)
 
 [|     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/143.svg) | PHI | 4 | Final |\\
-| ![](https://www.mlbstatic.com/team-logos/116.svg) | DET | 2 |](https://baseballsavant.mlb.com/gamefeed?gamePk=824249&game_date=2026-07-11)
+| ![](https://www.mlbstatic.com/team-logos/133.svg) | ATH | 1 | Final |\\
+| ![](https://www.mlbstatic.com/team-logos/145.svg) | CWS | 9 |](https://baseballsavant.mlb.com/gamefeed?gamePk=824574&game_date=2026-07-12)
 
 [|     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/118.svg) | KC | 1 | Final |\\
-| ![](https://www.mlbstatic.com/team-logos/110.svg) | BAL | 6 |](https://baseballsavant.mlb.com/gamefeed?gamePk=824813&game_date=2026-07-11)
+| ![](https://www.mlbstatic.com/team-logos/144.svg) | ATL | 4 | Final |\\
+| ![](https://www.mlbstatic.com/team-logos/138.svg) | STL | 3 |](https://baseballsavant.mlb.com/gamefeed?gamePk=823029&game_date=2026-07-12)
 
 [|     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/117.svg) | HOU | 9 | Final |\\
-| ![](https://www.mlbstatic.com/team-logos/140.svg) | TEX | 3 |](https://baseballsavant.mlb.com/gamefeed?gamePk=822875&game_date=2026-07-11)
+| ![](https://www.mlbstatic.com/team-logos/117.svg) | HOU | 5 | Final |\\
+| ![](https://www.mlbstatic.com/team-logos/140.svg) | TEX | 6 |](https://baseballsavant.mlb.com/gamefeed?gamePk=822876&game_date=2026-07-12)
 
 [|     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/112.svg) | CHC | 5 | Final |\\
-| ![](https://www.mlbstatic.com/team-logos/113.svg) | CIN | 3 |](https://baseballsavant.mlb.com/gamefeed?gamePk=824492&game_date=2026-07-11)
+| ![](https://www.mlbstatic.com/team-logos/115.svg) | COL | 1 | Final |\\
+| ![](https://www.mlbstatic.com/team-logos/137.svg) | SF | 3 |](https://baseballsavant.mlb.com/gamefeed?gamePk=823199&game_date=2026-07-12)
 
 [|     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/144.svg) | ATL | 1 | Final |\\
-| ![](https://www.mlbstatic.com/team-logos/138.svg) | STL | 4 |](https://baseballsavant.mlb.com/gamefeed?gamePk=823030&game_date=2026-07-11)
+| ![](https://www.mlbstatic.com/team-logos/109.svg) | AZ | 5 | Final |\\
+| ![](https://www.mlbstatic.com/team-logos/119.svg) | LAD | 3 |](https://baseballsavant.mlb.com/gamefeed?gamePk=823925&game_date=2026-07-12)
 
 [|     |     |     |     |\\
 | --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/141.svg) | TOR | 7 | Final |\\
-| ![](https://www.mlbstatic.com/team-logos/135.svg) | SD | 8 |](https://baseballsavant.mlb.com/gamefeed?gamePk=823276&game_date=2026-07-11)
-
-[|     |     |     |     |\\
-| --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/109.svg) | AZ | 9 | Final |\\
-| ![](https://www.mlbstatic.com/team-logos/119.svg) | LAD | 2 |](https://baseballsavant.mlb.com/gamefeed?gamePk=823926&game_date=2026-07-11)
+| ![](https://www.mlbstatic.com/team-logos/141.svg) | TOR | 4 | Final |\\
+| ![](https://www.mlbstatic.com/team-logos/135.svg) | SD | 5 |](https://baseballsavant.mlb.com/gamefeed?gamePk=823274&game_date=2026-07-12)
 
 <
 
@@ -149,7 +144,7 @@ vs. LHH72%22%6%Pitchvs. RHH66%33%1%68%SI29%SL3%FF
 MLB Percentile Rankings
 
 
-![](https://baseballsavant.mlb.com/sections/evp/images/play.png)ValuesavantPOORAVERAGEGREATPitching Run Value-7NOT QUALIFIED15Fastball Run Value-5NOT QUALIFIED15Breaking Run Value-2NOT QUALIFIED29Offspeed Run Value--NOT QUALIFIEDPitchingxERA4.39NOT QUALIFIED38xBA.260NOT QUALIFIED26Fastball Velo95.2NOT QUALIFIED63Avg Exit Velo85.4NOT QUALIFIED96Chase %25.5NOT QUALIFIED8Whiff %15.2NOT QUALIFIED1K %15.2NOT QUALIFIED7BB %12.0NOT QUALIFIED14Barrel %6.7NOT QUALIFIED64Hard-Hit %35.6NOT QUALIFIED69GB %47.8NOT QUALIFIED77Extension6.4NOT QUALIFIED40
+![](https://baseballsavant.mlb.com/sections/evp/images/play.png)ValuesavantPOORAVERAGEGREATPitching Run Value-7NOT QUALIFIED16Fastball Run Value-5NOT QUALIFIED16Breaking Run Value-2NOT QUALIFIED29Offspeed Run Value--NOT QUALIFIEDPitchingxERA4.39NOT QUALIFIED38xBA.260NOT QUALIFIED26Fastball Velo95.2NOT QUALIFIED63Avg Exit Velo85.4NOT QUALIFIED96Chase %25.5NOT QUALIFIED8Whiff %15.2NOT QUALIFIED1K %15.2NOT QUALIFIED7BB %12.0NOT QUALIFIED14Barrel %6.7NOT QUALIFIED64Hard-Hit %35.6NOT QUALIFIED69GB %47.8NOT QUALIFIED77Extension6.4NOT QUALIFIED41
 
 20262026
 
@@ -314,14 +309,14 @@ Save Image
 | 2022 | Richmond Flying Squirrels | EAS | AA | 7 | 2 | 3.35 | 43 | 0 | 2 | 45.2 | 37 | 22 | 17 | 1 | 24 | 56 | 1.34 |
 | 2022 | Sacramento River Cats | PCL | AAA | 0 | 1 | 6.14 | 7 | 0 | 0 | 7.1 | 10 | 5 | 5 | 0 | 3 | 9 | 1.77 |
 | 2023 | Sacramento River Cats | PCL | AAA | 1 | 0 | 0.89 | 15 | 3 | 1 | 20.1 | 9 | 3 | 2 | 0 | 8 | 23 | 0.84 |
-| 2026 | Sacramento River Cats | PCL | AAA | 0 | 0 | 1.93 | 8 | 0 | 1 | 9.1 | 7 | 2 | 2 | 0 | 3 | 7 | 1.07 |
+| 2026 | Sacramento River Cats | PCL | AAA | 0 | 0 | 3.48 | 9 | 0 | 1 | 10.1 | 8 | 4 | 4 | 1 | 6 | 8 | 1.35 |
 |  | ACL Giants Orange | ACL | ROK | 0 | 0 | 1.29 | 4 | 0 | 1 | 7.0 | 5 | 1 | 1 | 0 | 2 | 9 | 1.00 |
-|  | Sacramento River Cats | PCL | AAA | 1 | 1 | 2.19 | 30 | 3 | 2 | 37.0 | 26 | 10 | 9 | 0 | 14 | 39 | 1.08 |
+|  | Sacramento River Cats | PCL | AAA | 1 | 1 | 2.61 | 31 | 3 | 2 | 38.0 | 27 | 12 | 11 | 1 | 17 | 40 | 1.16 |
 |  | Richmond Flying Squirrels | EAS | AA | 7 | 2 | 2.95 | 51 | 0 | 2 | 55.0 | 44 | 23 | 18 | 1 | 24 | 66 | 1.24 |
 |  | 2 Teams |  | A+ | 2 | 0 | 3.97 | 35 | 0 | 0 | 45.1 | 44 | 22 | 20 | 4 | 12 | 59 | 1.24 |
 |  | Augusta GreenJackets | CAR | A | 2 | 3 | 3.36 | 37 | 0 | 7 | 59.0 | 58 | 28 | 22 | 1 | 18 | 61 | 1.29 |
 |  | Salem-Keizer Volcanoes | NWL | A(Short) | 1 | 0 | 3.15 | 12 | 0 | 2 | 20.0 | 18 | 8 | 7 | 3 | 2 | 19 | 1.00 |
-| Career Minors | 7 Teams |  |  | 13 | 6 | 3.10 | 169 | 3 | 14 | 223.1 | 195 | 92 | 77 | 9 | 72 | 253 | 1.20 |
+| Career Minors | 7 Teams |  |  | 13 | 6 | 3.17 | 170 | 3 | 14 | 224.1 | 196 | 94 | 79 | 10 | 75 | 254 | 1.21 |
 
 ## [Standard Minor League Fielding Statistics](https://baseballsavant.mlb.com/savant-player/ryan-walker-676254?stats=statcast-r-pitching-mlb\#standard-milb-fielding-stats)
 
@@ -339,14 +334,14 @@ Save Image
 | 2022 | Richmond Flying Squirrels | EAS | AA | P | 43 | 0 | 45.2 | 11 | 2 | 7 | 2 | 0 |  | .818 |
 | 2022 | Sacramento River Cats | PCL | AAA | P | 7 | 0 | 7.1 | 1 | 1 | 0 | 0 | 0 |  | 1.000 |
 | 2023 | Sacramento River Cats | PCL | AAA | P | 15 | 3 | 20.1 | 4 | 1 | 3 | 0 | 1 |  | 1.000 |
-| 2026 | Sacramento River Cats | PCL | AAA | P | 8 | 0 | 9.1 | 3 | 0 | 3 | 0 | 1 |  | 1.000 |
+| 2026 | Sacramento River Cats | PCL | AAA | P | 9 | 0 | 10.1 | 3 | 0 | 3 | 0 | 1 |  | 1.000 |
 |  | ACL Giants Orange | ACL | ROK | P | 4 | 0 | 7.0 | 1 | 0 | 1 | 0 | 0 |  | 1.000 |
-|  | Sacramento River Cats | PCL | AAA | P | 30 | 3 | 37.0 | 8 | 2 | 6 | 0 | 2 |  | 1.000 |
+|  | Sacramento River Cats | PCL | AAA | P | 31 | 3 | 38.0 | 8 | 2 | 6 | 0 | 2 |  | 1.000 |
 |  | Richmond Flying Squirrels | EAS | AA | P | 51 | 0 | 55.0 | 14 | 3 | 9 | 2 | 0 |  | .857 |
 |  | 2 Teams |  | A+ | P | 35 | 0 | 45.1 | 6 | 0 | 6 | 0 | 0 |  | 1.000 |
 |  | Augusta GreenJackets | CAR | A | P | 37 | 0 | 59.0 | 18 | 4 | 13 | 1 | 0 |  | .944 |
 |  | Salem-Keizer Volcanoes | NWL | A(Short) | P | 12 | 0 | 20.0 | 6 | 0 | 6 | 0 | 0 |  | 1.000 |
-| Career Minors | 7 Teams |  |  | P | 169 | 3 | 223.1 | 53 | 9 | 41 | 3 | 2 |  | .943 |
+| Career Minors | 7 Teams |  |  | P | 170 | 3 | 224.1 | 53 | 9 | 41 | 3 | 2 |  | .943 |
 
 ## [Rankings](https://baseballsavant.mlb.com/savant-player/ryan-walker-676254?stats=statcast-r-pitching-mlb\#rankings)
 
@@ -374,7 +369,7 @@ Save Image
 
 | Year | 3B | Rank |
 | --- | --- | --- |
-| 2026 | 2 | 14th in NL |
+| 2026 | 2 | 15th in NL |
 
 ## [Transactions](https://baseballsavant.mlb.com/savant-player/ryan-walker-676254?stats=statcast-r-pitching-mlb\#transactions)
 
@@ -480,8 +475,8 @@ Save Image
 
 | Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Sacramento River Cats | Triple-A | vs Left |  |  |  | 7 |  |  | 4.0 | 16 | 1 |  |  | 0 | 2 | 3 | 0.75 |
-| Sacramento River Cats | Triple-A | vs Right |  |  |  | 8 |  |  | 5.0 | 21 | 6 |  |  | 0 | 1 | 4 | 1.40 |
+| Sacramento River Cats | Triple-A | vs Left |  |  |  | 8 |  |  | 4.2 | 19 | 2 |  |  | 1 | 2 | 3 | 0.86 |
+| Sacramento River Cats | Triple-A | vs Right |  |  |  | 9 |  |  | 5.1 | 25 | 6 |  |  | 0 | 4 | 5 | 1.88 |
 
 ### [Monthly Splits](https://baseballsavant.mlb.com/savant-player/ryan-walker-676254?stats=statcast-r-pitching-mlb\#milb-monthly-splits)
 
@@ -489,44 +484,47 @@ Save Image
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Sacramento River Cats | Triple-A | May | 0 | 0 | 1.93 | 5 | 0 | 0 | 4.2 | 20 | 5 | 1 | 1 | 0 | 2 | 4 | 1.50 |
 | Sacramento River Cats | Triple-A | June | 0 | 0 | 1.93 | 3 | 0 | 1 | 4.2 | 17 | 2 | 1 | 1 | 0 | 1 | 3 | 0.64 |
+| Sacramento River Cats | Triple-A | July | 0 | 0 | 18.00 | 1 | 0 | 0 | 1.0 | 7 | 1 | 2 | 2 | 1 | 3 | 1 | 4.00 |
 | Sacramento River Cats | Triple-A | First Half | 0 | 0 | 1.93 | 8 | 0 | 1 | 9.1 | 37 | 7 | 2 | 2 | 0 | 3 | 7 | 1.07 |
+| Sacramento River Cats | Triple-A | Second Half | 0 | 0 | 18.00 | 1 | 0 | 0 | 1.0 | 7 | 1 | 2 | 2 | 1 | 3 | 1 | 4.00 |
 
 ### [Baserunner Splits](https://baseballsavant.mlb.com/savant-player/ryan-walker-676254?stats=statcast-r-pitching-mlb\#milb-baserunner-splits)
 
 | Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Sacramento River Cats | Triple-A | Bases Empty |  |  |  | 8 |  |  | 5.1 | 22 | 5 |  |  | 0 | 0 | 4 | 0.94 |
+| Sacramento River Cats | Triple-A | Bases Empty |  |  |  | 9 |  |  | 5.2 | 25 | 5 |  |  | 0 | 2 | 5 | 1.24 |
 | Sacramento River Cats | Triple-A | Bases Loaded |  |  |  | 1 |  |  | 0.0 | 1 | 0 |  |  | 0 | 1 | 0 | -.-- |
-| Sacramento River Cats | Triple-A | Runner at 1st |  |  |  | 5 |  |  | 2.1 | 6 | 0 |  |  | 0 | 0 | 1 | 0.00 |
-| Sacramento River Cats | Triple-A | Runners at 1st & 2nd |  |  |  | 1 |  |  | 0.1 | 2 | 1 |  |  | 0 | 0 | 1 | 3.00 |
+| Sacramento River Cats | Triple-A | Runner at 1st |  |  |  | 6 |  |  | 2.2 | 8 | 1 |  |  | 1 | 0 | 1 | 0.38 |
+| Sacramento River Cats | Triple-A | Runners at 1st & 2nd |  |  |  | 2 |  |  | 0.2 | 3 | 1 |  |  | 0 | 0 | 1 | 1.50 |
 | Sacramento River Cats | Triple-A | Runners at 1st & 3rd |  |  |  | 1 |  |  | 0.1 | 1 | 0 |  |  | 0 | 0 | 0 | 0.00 |
-| Sacramento River Cats | Triple-A | Runner at 2nd |  |  |  | 4 |  |  | 1.0 | 4 | 1 |  |  | 0 | 1 | 1 | 2.00 |
+| Sacramento River Cats | Triple-A | Runner at 2nd |  |  |  | 5 |  |  | 1.0 | 5 | 1 |  |  | 0 | 2 | 1 | 3.00 |
 | Sacramento River Cats | Triple-A | Runner at 3rd |  |  |  | 1 |  |  | 0.0 | 1 | 0 |  |  | 0 | 1 | 0 | -.-- |
-| Sacramento River Cats | Triple-A | Scoring Position |  |  |  | 4 |  |  | 1.2 | 9 | 2 |  |  | 0 | 3 | 2 | 3.00 |
+| Sacramento River Cats | Triple-A | Scoring Position |  |  |  | 5 |  |  | 2.0 | 11 | 2 |  |  | 0 | 4 | 2 | 3.00 |
 
 ### [Game Type Splits](https://baseballsavant.mlb.com/savant-player/ryan-walker-676254?stats=statcast-r-pitching-mlb\#milb-game-type-splits)
 
 | Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Sacramento River Cats | Triple-A | Home Games | 0 | 0 | 0.00 | 4 | 0 | 0 | 5.2 | 18 | 0 | 0 | 0 | 0 | 0 | 5 | 0.00 |
+| Sacramento River Cats | Triple-A | Home Games | 0 | 0 | 2.70 | 5 | 0 | 0 | 6.2 | 25 | 1 | 2 | 2 | 1 | 3 | 6 | 0.60 |
 | Sacramento River Cats | Triple-A | Away Games | 0 | 0 | 4.91 | 4 | 0 | 1 | 3.2 | 19 | 7 | 2 | 2 | 0 | 3 | 2 | 2.73 |
-| Sacramento River Cats | Triple-A | Day Games | 0 | 0 | 13.50 | 1 | 0 | 0 | 0.2 | 6 | 2 | 1 | 1 | 0 | 2 | 2 | 6.00 |
+| Sacramento River Cats | Triple-A | Day Games | 0 | 0 | 16.20 | 2 | 0 | 0 | 1.2 | 13 | 3 | 3 | 3 | 1 | 5 | 3 | 4.80 |
 | Sacramento River Cats | Triple-A | Night Games | 0 | 0 | 1.04 | 7 | 0 | 1 | 8.2 | 31 | 5 | 1 | 1 | 0 | 1 | 5 | 0.69 |
-| Sacramento River Cats | Triple-A | Leading Off Inning |  |  |  | 8 |  |  | 2.1 | 10 | 4 |  |  | 0 | 0 | 3 | 1.71 |
+| Sacramento River Cats | Triple-A | Leading Off Inning |  |  |  | 9 |  |  | 2.2 | 11 | 4 |  |  | 0 | 0 | 4 | 1.50 |
 | Sacramento River Cats | Triple-A | Late / Close |  |  |  | 1 |  |  | 0.2 | 3 | 0 |  |  | 0 | 1 | 0 | 1.50 |
 
 ### [Outs Splits](https://baseballsavant.mlb.com/savant-player/ryan-walker-676254?stats=statcast-r-pitching-mlb\#milb-out-splits)
 
 | Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Sacramento River Cats | Triple-A | No Outs |  |  |  | 8 |  |  | 3.1 | 13 | 4 |  |  | 0 | 0 | 4 | 1.20 |
-| Sacramento River Cats | Triple-A | One Out |  |  |  | 8 |  |  | 3.2 | 13 | 1 |  |  | 0 | 1 | 2 | 0.55 |
-| Sacramento River Cats | Triple-A | Two Outs |  |  |  | 7 |  |  | 2.1 | 11 | 2 |  |  | 0 | 2 | 1 | 1.71 |
+| Sacramento River Cats | Triple-A | No Outs |  |  |  | 9 |  |  | 3.2 | 14 | 4 |  |  | 0 | 0 | 5 | 1.09 |
+| Sacramento River Cats | Triple-A | One Out |  |  |  | 9 |  |  | 4.0 | 17 | 2 |  |  | 1 | 3 | 2 | 1.25 |
+| Sacramento River Cats | Triple-A | Two Outs |  |  |  | 8 |  |  | 2.2 | 13 | 2 |  |  | 0 | 3 | 1 | 1.88 |
 
 ### [Inning Splits](https://baseballsavant.mlb.com/savant-player/ryan-walker-676254?stats=statcast-r-pitching-mlb\#milb-inning-splits)
 
 | Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Sacramento River Cats | Triple-A | Fourth Inning |  |  | 18.00 | 1 |  |  | 1.0 | 7 | 1 | 2 | 2 | 1 | 3 | 1 | 4.00 |
 | Sacramento River Cats | Triple-A | Sixth Inning |  |  | 3.38 | 3 |  |  | 2.2 | 13 | 5 | 1 | 1 | 0 | 2 | 2 | 2.63 |
 | Sacramento River Cats | Triple-A | Seventh Inning |  |  | 0.00 | 2 |  |  | 2.0 | 6 | 0 | 0 | 0 | 0 | 0 | 0 | 0.00 |
 | Sacramento River Cats | Triple-A | Eighth Inning |  |  | 0.00 | 3 |  |  | 3.0 | 10 | 0 | 0 | 0 | 0 | 0 | 3 | 0.00 |
@@ -579,6 +577,8 @@ Save Image
 | [2026-06-05](https://baseballsavant.mlb.com/gamefeed?gamePk=814997&game_date=2026-06-05) | Sacramento River Cats | Tacoma Rainiers | 0 | 0 | 1.08 | 1 | 0 | 0 | 2.0 | 0 | 0 | 0 | 0 | 0 | 0 | 0.84 | [![](https://baseballsavant.mlb.com/sections/gamefeed/images/pitch-report-icon.png)](https://baseballsavant.mlb.com/player-scroll/game?gamePk=814997&player_id=676254) |
 | [2026-06-09](https://baseballsavant.mlb.com/gamefeed?gamePk=814851&game_date=2026-06-09) | Sugar Land Space Cowboys | Sacramento River Cats | 0 | 0 | 1.93 | 1 | 0 | 1 | 1.0 | 2 | 1 | 1 | 0 | 1 | 0 | 1.07 | [![](https://baseballsavant.mlb.com/sections/gamefeed/images/pitch-report-icon.png)](https://baseballsavant.mlb.com/player-scroll/game?gamePk=814851&player_id=676254) |
 | June | Sacramento River Cats |  | 0 | 0 | 1.93 | 3 | 0 | 1 | 4.2 | 2 | 1 | 1 | 0 | 1 | 3 | 0.64 |  |
+| [2026-07-12](https://baseballsavant.mlb.com/gamefeed?gamePk=814978&game_date=2026-07-12) | Sacramento River Cats | Salt Lake Bees | 0 | 0 | 3.48 | 1 | 0 | 0 | 1.0 | 1 | 2 | 2 | 1 | 3 | 1 | 1.35 | [![](https://baseballsavant.mlb.com/sections/gamefeed/images/pitch-report-icon.png)](https://baseballsavant.mlb.com/player-scroll/game?gamePk=814978&player_id=676254) |
+| July | Sacramento River Cats |  | 0 | 0 | 18.00 | 1 | 0 | 0 | 1.0 | 1 | 2 | 2 | 1 | 3 | 1 | 4.00 |  |
 
 - PitchingFielding▾
 
@@ -661,7 +661,7 @@ Breaking: Slider, Curve, Knuckle, Sweeper, Slurve, Other
 ## [Pitch Tracking](https://baseballsavant.mlb.com/savant-player/ryan-walker-676254?stats=statcast-r-pitching-mlb\#pitch_tracking)
 
 | 2026 | Sinker | 335 | 187 | 148 | 68.4 | 95.2 | 80 | 68 | 24 | 19 | 1 | 2 | 2 | 15 | 54 | .353 | .265 | .515 | .387 | .420 | .339 | 85.9 | 0 | 2344 | 6.4 | 13.3 | 15.8 |
-| 2026 | Slider | 141 | 95 | 46 | 28.8 | 83.0 | 37 | 35 | 8 | 5 | 1 | 0 | 2 | 4 | 32 | .229 | .261 | .429 | .413 | .292 | .299 | 81.5 | 16 | 2523 | 6.4 | 20.3 | 8.5 |
+| 2026 | Slider | 141 | 95 | 46 | 28.8 | 83.0 | 37 | 35 | 8 | 5 | 1 | 0 | 2 | 4 | 32 | .229 | .261 | .429 | .413 | .291 | .299 | 81.5 | 16 | 2523 | 6.4 | 20.3 | 8.5 |
 | 2026 | Four Seamer | 14 | 2 | 12 | 2.9 | 93.9 | 5 | 4 | 1 | 1 | 0 | 0 | 0 | 0 | 4 | .250 | .155 | .250 | .212 | .318 | .265 | 89.6 | 8 | 2264 | 6.4 | 0.0 | 0.0 |
 | 2025 | Sinker | 630 | 329 | 301 | 61.9 | 96.0 | 162 | 148 | 41 | 31 | 10 | 0 | 0 | 37 | 112 | .277 | .269 | .345 | .359 | .304 | .307 | 88.4 | 2 | 2369 | 6.4 | 17.1 | 21.6 |
 | 2025 | Slider | 382 | 209 | 173 | 37.5 | 84.0 | 100 | 87 | 18 | 9 | 4 | 1 | 4 | 23 | 67 | .207 | .217 | .414 | .381 | .300 | .294 | 80.9 | 13 | 2696 | 6.4 | 28.0 | 17.8 |
@@ -738,8 +738,8 @@ On the right, Induced Movement (or IVB) is reported without gravity, and attempt
 | --- | --- | --- |
 | Year | Pitch | Team | Hand | # | MPH | Vertical<br>Drop | vs.<br>Comparable | Horizontal<br>Break | vs.<br>Comparable | Vertical<br>Break | vs. Avg | Horizontal<br>Break | vs. Avg |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2026 | Sinker | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 335 | 95.2 | 26.9 | 1.8 | 17.0ARM | 0.5 | 3.4 | 4.2 | 17.0ARM | 1.9 |
-| 2026 | Slider | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 141 | 83.0 | 36.9 | -2.2 | 16.9GLV | 10.5 | 2.8 | -1.4 | 16.9GLV | 13.2 |
+| 2026 | Sinker | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 335 | 95.2 | 26.9 | 1.9 | 17.0ARM | 0.5 | 3.4 | 4.2 | 17.0ARM | 1.9 |
+| 2026 | Slider | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 141 | 83.0 | 36.9 | -2.2 | 16.9GLV | 10.6 | 2.8 | -1.4 | 16.9GLV | 13.3 |
 | 2026 | 4-Seam Fastball | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 14 | 93.9 | 22.7 | -5.8 | 8.4ARM | -1.8 | 8.0 | -7.8 | 8.4ARM | 0.6 |
 | 2025 | 4-Seam Fastball | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 2 | 95.1 | 27.8 | -11.3 | 17.8ARM | 7.8 | 2.5 | -13.3 | 17.8ARM | 10.2 |
 | 2025 | Sinker | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 630 | 96.0 | 26.5 | 2.3 | 16.8ARM | 0.4 | 3.4 | 4.0 | 16.8ARM | 1.7 |
@@ -883,7 +883,7 @@ These run values are **leveraged**, meaning the base/out situation at the time o
 | 2023 | 35 | 61 | 16 |  | 91 | 64 | 49 |  | 98 | 86 | 87 | 90 | 38 | 92 | 99 | 58 | 23 |
 | 2024 | 93 | 90 | 94 |  | 96 | 76 | 58 |  | 94 | 54 | 74 | 94 | 84 | 81 | 98 | 71 | 21 |
 | 2025 | 56 | 74 | 40 | 51 | 58 | 77 | 73 |  | 93 | 22 | 20 | 49 | 71 | 92 | 86 | 84 | 47 |
-| 2026 | 15 | 15 | 29 |  | 38 | 63 | 70 |  | 96 | 8 | 1 | 7 | 14 | 64 | 69 | 77 | 40 |
+| 2026 | 16 | 16 | 29 |  | 38 | 63 | 70 |  | 96 | 8 | 1 | 7 | 14 | 64 | 69 | 77 | 41 |
 
 [+\\
 View Complete Percentile Rankings Leaderboard](https://baseballsavant.mlb.com/leaderboard/percentile-rankings?type=pitcher)
@@ -970,7 +970,7 @@ View Complete Expected Home Runs Leaderboard](https://baseballsavant.mlb.com/lea
 | [BABIP](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | .345 | +.023 | ↑ | .322 | +.066 | ↑ | .256 | -.100 | ↓ | .356 |
 | [wOBA](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | .377 | +.071 | ↑ | .306 | +.073 | ↑ | .233 | -.095 | ↓ | .328 |
 | [xwOBA](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | .324 | +.020 | ↑ | .304 | +.049 | ↑ | .255 | -.018 | ↓ | .273 |
-| [wOBAcon](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | .411 | +.055 | ↑ | .356 | +.062 | ↑ | .294 | -.136 | ↓ | .430 |
+| [wOBAcon](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | .410 | +.054 | ↑ | .356 | +.062 | ↑ | .294 | -.136 | ↓ | .430 |
 | [xwOBAcon](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | .338 | -.016 | ↓ | .354 | +.023 | ↑ | .331 | -.006 | ↓ | .337 |
 | [BACON](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | .375 | +.038 | ↑ | .337 | +.061 | ↑ | .276 | -.113 | ↓ | .389 |
 | [xBACON](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | .316 | -.018 | ↓ | .334 | +.039 | ↑ | .295 | -.019 | ↓ | .314 |
@@ -1198,9 +1198,9 @@ Created with Highcharts 6.2.0Exit VelocityPitchesChart context menuRyan Walker E
 
 ## Run Value
 
-Ryan WalkerPitcher RV (All)-0.21.30.8-1.5-0.50.2-0.60.04.1-1.8-1.2-1.5-5.8
+Ryan WalkerPitcher RV (All)-0.21.30.8-1.5-0.50.2-0.60.04.1-1.8-1.2-1.4-5.8
 
-Ryan WalkerPitcher RV (Swings)-0.40.80.3-2.0-1.2-0.9-0.6-0.82.01.80.50.4-0.5
+Ryan WalkerPitcher RV (Swings)-0.40.80.3-2.0-1.2-0.9-0.6-0.82.01.90.50.4-0.5
 
 Ryan WalkerPitcher RV (Takes)0.20.50.60.50.61.10.00.82.1-3.6-1.7-1.8-5.4
 
@@ -1260,9 +1260,9 @@ Ryan WalkerSLG.600.000.000.550.750.833.625.556.000.231.000.400.667
 
 Ryan WalkerISO.000.000.000.200.400.500.125.222.000.000.000.000.000
 
-Ryan WalkerwOBA.534.000.000.388.462.489.491.375.000.324.000.454.668
+Ryan WalkerwOBA.534.000.000.387.462.489.491.375.000.323.000.454.667
 
-Ryan WalkerwOBA (Contact).534.408.462.586.562.482.000.297.000.445.594
+Ryan WalkerwOBA (Contact).534.408.462.586.561.482.000.297.000.445.593
 
 ## Statcast
 
@@ -1310,7 +1310,7 @@ Ryan WalkerxSLG.448.498.508.711.356.380.137.205.181.391.687
 
 Ryan WalkerxISO.069.190.221.381.074.127.039.030.023.045.037
 
-Ryan WalkerxwOBA.357.000.000.344.336.434.277.272.101.293.146.430.667
+Ryan WalkerxwOBA.357.000.000.344.336.434.277.272.101.293.146.430.666
 
 Ryan WalkerxwOBA (Contact).357.362.336.521.316.350.185.240.146.403.590
 
