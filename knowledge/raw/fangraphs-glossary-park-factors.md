@@ -73,10 +73,10 @@ Fantasy Tools
 
 
 
-  - [2026 MLB Draft: Day 1 Recap](https://www.fangraphs.com/blogs/2026-mlb-draft-day-1-recap)
-  - [Sunday Notes: Dillon Dingler Discusses Creativity, Tarik Skubal Talks Shape](https://www.fangraphs.com/blogs/sunday-notes-dillon-dingler-discusses-creativity-tarik-skubal-talks-shape)
-  - [The MLB Draft Is Once Again for Diehards Only](https://www.fangraphs.com/blogs/the-mlb-draft-is-once-again-for-diehards-only)
-  - [Effectively Wild Episode 2503: Very Important Prey](https://www.fangraphs.com/blogs/effectively-wild-episode-2503-very-important-prey)
+  - [Effectively Wild Episode 2505: Game Recognize (All-Star) Game](https://www.fangraphs.com/blogs/effectively-wild-episode-2505-game-recognize-all-star-game)
+  - [JJ Wetherholt Signs Eight-Year Deal With Cardinals](https://www.fangraphs.com/blogs/jj-wetherholt-signs-eight-year-deal-with-cardinals)
+  - [Brendan Gawlowski Prospects Chat: 7/14/26](https://www.fangraphs.com/blogs/brendan-gawlowski-prospects-chat-7-14-26)
+  - [The 2026 Replacement-Level Killers: First Base & Second Base](https://www.fangraphs.com/blogs/the-2026-replacement-level-killers-first-base-second-base)
 
 Podcasts: [Effectively Wild](https://www.fangraphs.com/blog-roll?category=Effectively+Wild)
 
@@ -88,8 +88,8 @@ Podcasts: [Effectively Wild](https://www.fangraphs.com/blog-roll?category=Effect
 
 [RotoGraphs](https://www.fangraphs.com/rotographs)
 
-  - [Sunday Night Waiver Wire & FAAB Chat](https://www.fangraphs.com/fantasy/sunday-night-waiver-wire-faab-chat-156)
-  - [FAAB & Waiver Wire Report (Week 16)](https://www.fangraphs.com/fantasy/faab-waiver-wire-report-week-16-2)
+  - [The Sleeper and the Bust Episode: 1522 – Two Truths & A Lie: 2H Breakouts & Fades](https://www.fangraphs.com/fantasy/the-sleeper-and-the-bust-episode-1522-two-truths-a-lie-2h-breakouts-fades)
+  - [Can These Starting Pitchers Sustain Their Success From the First to Second Half?](https://www.fangraphs.com/fantasy/can-these-starting-pitchers-sustain-their-success-from-the-first-to-second-half)
 
 Podcasts: [The Sleeper and The Bust](https://www.fangraphs.com/fantasy/category/podcast/) \| [Field of Streams](https://www.fangraphs.com/fantasy/category/field-of-streams/) \| [Beat the Shift](https://fantasy.fangraphs.com/category/beat-the-shift/)
 
@@ -191,7 +191,7 @@ On-Pace Leaders
 
 Today
 
-[Live Scoreboard](https://www.fangraphs.com/scores), [Probable Pitchers](https://www.fangraphs.com/leaders/major-league?pos=all&stats=pit&lg=all&qual=0&type=8&season=2026&month=0&season1=2026&ind=0&team=0&rost=0&age=0&filter=&players=p2026-07-13)
+[Live Scoreboard](https://www.fangraphs.com/scores), [Probable Pitchers](https://www.fangraphs.com/leaders/major-league?pos=all&stats=pit&lg=all&qual=0&type=8&season=2026&month=0&season1=2026&ind=0&team=0&rost=0&age=0&filter=&players=p2026-07-15)
 
 [Live Daily Leaderboards](https://www.fangraphs.com/scores/live-leaderboards)
 
@@ -286,8 +286,8 @@ AL Central
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| [White Sox](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=4&players=0) | 50 | 45 | 0.0 |
 | [Guardians](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=5&players=0) | 51 | 46 | 0.0 |
+| [White Sox](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=4&players=0) | 50 | 45 | 0.0 |
 | [Twins](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=8&players=0) | 48 | 49 | 3.0 |
 | [Tigers](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=6&players=0) | 44 | 52 | 6.5 |
 | [Royals](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=7&players=0) | 38 | 59 | 13.0 |
@@ -1015,53 +1015,53 @@ Steve, thanks for the extra info about how Fangraphs calculates its Park Factors
 
 [![](https://www.fangraphs.com/images/30a_fangraphs.png)](https://blogs.fangraphs.com/)
 
+- [Effectively Wild Episode 2505: Game Recognize (All-Star) Game](https://blogs.fangraphs.com/effectively-wild-episode-2505-game-recognize-all-star-game/)
+
+7/15 – [Ben Lindbergh](https://www.fangraphs.com/blog-roll?author=38267)
+
+- [JJ Wetherholt Signs Eight-Year Deal With Cardinals](https://blogs.fangraphs.com/jj-wetherholt-signs-eight-year-deal-with-cardinals/)
+
+7/14 – [Dan Szymborski](https://www.fangraphs.com/blog-roll?author=30942) [5](https://blogs.fangraphs.com/jj-wetherholt-signs-eight-year-deal-with-cardinals/#comments)
+
+- [Brendan Gawlowski Prospects Chat: 7/14/26](https://blogs.fangraphs.com/brendan-gawlowski-prospects-chat-7-14-26/)
+
+7/14 – [Brendan Gawlowski](https://www.fangraphs.com/blog-roll?author=173407) [3](https://blogs.fangraphs.com/brendan-gawlowski-prospects-chat-7-14-26/#comments)
+
+- [The 2026 Replacement-Level Killers: First Base & Second Base](https://blogs.fangraphs.com/the-2026-replacement-level-killers-first-base-second-base/)
+
+7/14 – [Jay Jaffe](https://www.fangraphs.com/blog-roll?author=169789) [46](https://blogs.fangraphs.com/the-2026-replacement-level-killers-first-base-second-base/#comments)
+
+- [Jordan Walker's Breakout Continues With Home Run Derby Title](https://blogs.fangraphs.com/jordan-walkers-breakout-continues-with-home-run-derby-title/)
+
+7/14 – [Ryan Blake](https://www.fangraphs.com/blog-roll?author=200227) [24](https://blogs.fangraphs.com/jordan-walkers-breakout-continues-with-home-run-derby-title/#comments)
+
+- [Effectively Wild Episode 2504: I Choo-Choo-Choose You](https://blogs.fangraphs.com/effectively-wild-episode-2504-i-choo-choo-choose-you/)
+
+7/13 – [Ben Lindbergh](https://www.fangraphs.com/blog-roll?author=38267)
+
+- [Ben Clemens FanGraphs Chat - 7/13/26](https://blogs.fangraphs.com/ben-clemens-fangraphs-chat-7-13-26/)
+
+7/13 – [Ben Clemens](https://www.fangraphs.com/blog-roll?author=164011) [5](https://blogs.fangraphs.com/ben-clemens-fangraphs-chat-7-13-26/#comments)
+
+- [The 2026 Replacement-Level Killers: Introduction & Catcher](https://blogs.fangraphs.com/the-2026-replacement-level-killers-introduction-catcher/)
+
+7/13 – [Jay Jaffe](https://www.fangraphs.com/blog-roll?author=169789) [29](https://blogs.fangraphs.com/the-2026-replacement-level-killers-introduction-catcher/#comments)
+
+- [Breaking the Bank: Previewing the 2026 Home Run Derby](https://blogs.fangraphs.com/breaking-the-bank-previewing-the-2026-home-run-derby/)
+
+7/13 – [Davy Andrews](https://www.fangraphs.com/blog-roll?author=198584) [14](https://blogs.fangraphs.com/breaking-the-bank-previewing-the-2026-home-run-derby/#comments)
+
+- [2026 Futures Game Recap: More Next Year, Please](https://blogs.fangraphs.com/2026-futures-game-recap-more-next-year-please/)
+
+7/13 – [Brendan Gawlowski](https://www.fangraphs.com/blog-roll?author=173407) [21](https://blogs.fangraphs.com/2026-futures-game-recap-more-next-year-please/#comments)
+
 - [2026 MLB Draft: Day 1 Recap](https://blogs.fangraphs.com/2026-mlb-draft-day-1-recap/)
 
-7/12 – [Eric Longenhagen and Brendan Gawlowski](https://www.fangraphs.com/blog-roll?author=286038) [22](https://blogs.fangraphs.com/2026-mlb-draft-day-1-recap/#comments)
+7/12 – [Eric Longenhagen and Brendan Gawlowski](https://www.fangraphs.com/blog-roll?author=286038) [34](https://blogs.fangraphs.com/2026-mlb-draft-day-1-recap/#comments)
 
 - [Sunday Notes: Dillon Dingler Discusses Creativity, Tarik Skubal Talks Shape](https://blogs.fangraphs.com/sunday-notes-dillon-dingler-discusses-creativity-tarik-skubal-talks-shape/)
 
-7/12 – [David Laurila](https://www.fangraphs.com/blog-roll?author=25048) [22](https://blogs.fangraphs.com/sunday-notes-dillon-dingler-discusses-creativity-tarik-skubal-talks-shape/#comments)
-
-- [The MLB Draft Is Once Again for Diehards Only](https://blogs.fangraphs.com/the-mlb-draft-is-once-again-for-diehards-only/)
-
-7/11 – [Michael Baumann](https://www.fangraphs.com/blog-roll?author=198829) [20](https://blogs.fangraphs.com/the-mlb-draft-is-once-again-for-diehards-only/#comments)
-
-- [Effectively Wild Episode 2503: Very Important Prey](https://blogs.fangraphs.com/effectively-wild-episode-2503-very-important-prey/)
-
-7/11 – [Ben Lindbergh](https://www.fangraphs.com/blog-roll?author=38267)
-
-- [2026 Mock Draft 2.0: The Day Of](https://blogs.fangraphs.com/2026-mock-draft-2-0-the-day-of/)
-
-7/11 – [Eric Longenhagen](https://www.fangraphs.com/blog-roll?author=81295) [5](https://blogs.fangraphs.com/2026-mock-draft-2-0-the-day-of/#comments)
-
-- [FanGraphs 2026 Day 1 Draft Chat](https://blogs.fangraphs.com/fangraphs-2026-day-1-draft-chat/)
-
-7/11 – [FanGraphs Staff](https://www.fangraphs.com/blog-roll?author=180253) [6](https://blogs.fangraphs.com/fangraphs-2026-day-1-draft-chat/#comments)
-
-- [FanGraphs Weekly Mailbag: July 11, 2026](https://blogs.fangraphs.com/fangraphs-weekly-mailbag-july-11-2026/)
-
-7/11 – [Matt Martell](https://www.fangraphs.com/blog-roll?author=153421) [7](https://blogs.fangraphs.com/fangraphs-weekly-mailbag-july-11-2026/#comments)
-
-- [Eric Longenhagen Prospects Chat: 7/10/26](https://blogs.fangraphs.com/eric-longenhagen-prospects-chat-7-10-26/)
-
-7/10 – [Eric Longenhagen](https://www.fangraphs.com/blog-roll?author=81295) [4](https://blogs.fangraphs.com/eric-longenhagen-prospects-chat-7-10-26/#comments)
-
-- [The Early Shift: Backyard Baseball](https://blogs.fangraphs.com/the-early-shift-backyard-baseball/)
-
-7/10 – [Davy Andrews](https://www.fangraphs.com/blog-roll?author=198584) [3](https://blogs.fangraphs.com/the-early-shift-backyard-baseball/#comments)
-
-- [FanGraphs Feature Focus: Pitch-Type Splits](https://blogs.fangraphs.com/fangraphs-feature-focus-pitch-type-splits/)
-
-7/10 – [Jon Becker](https://www.fangraphs.com/blog-roll?author=82328) [1](https://blogs.fangraphs.com/fangraphs-feature-focus-pitch-type-splits/#comments)
-
-- [2026 MLB Draft Preview and Updated Rankings](https://blogs.fangraphs.com/2026-mlb-draft-preview-and-updated-rankings/)
-
-7/10 – [Eric Longenhagen](https://www.fangraphs.com/blog-roll?author=81295) [37](https://blogs.fangraphs.com/2026-mlb-draft-preview-and-updated-rankings/#comments)
-
-- [Jackson Flora's Evolution, Alain Gomez-Gudino's Incredible Journey, and Other Tales from the 2026 Draft Class](https://blogs.fangraphs.com/jackson-floras-evolution-alain-gomez-gudinos-incredible-journey-and-other-tales-from-the-2026-draft-class/)
-
-7/10 – [Michael Baumann](https://www.fangraphs.com/blog-roll?author=198829) [2](https://blogs.fangraphs.com/jackson-floras-evolution-alain-gomez-gudinos-incredible-journey-and-other-tales-from-the-2026-draft-class/#comments)
+7/12 – [David Laurila](https://www.fangraphs.com/blog-roll?author=25048) [23](https://blogs.fangraphs.com/sunday-notes-dillon-dingler-discusses-creativity-tarik-skubal-talks-shape/#comments)
 
 
 Insert
