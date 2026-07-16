@@ -3,10 +3,7 @@ source: https://baseballsavant.mlb.com/savant-player/kyle-harrison-690986
 slug: baseballsavant-kyle-harrison
 ---
 
-[|     |     |     |     |\\
-| --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/159.svg) | AL | 4 | Final |\\
-| ![](https://www.mlbstatic.com/team-logos/160.svg) | NL | 0 |](https://baseballsavant.mlb.com/gamefeed?gamePk=823443&game_date=2026-07-14)
+No Games Scheduled.
 
 <
 
@@ -373,128 +370,128 @@ No Minor League Hitting Statistics.
 
 ### [Platoon Splits](https://baseballsavant.mlb.com/savant-player/kyle-harrison-690986?stats=statcast-r-pitching-mlb\#platoon-splits)
 
-| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Milwaukee Brewers | MLB | vs Left |  |  |  | 17 |  |  | 24.1 | 98 | 21 |  |  | 1 | 5 | 26 | 1.07 |
-| Milwaukee Brewers | MLB | vs Right |  |  |  | 17 |  |  | 59.0 | 243 | 49 |  |  | 9 | 15 | 75 | 1.08 |
+| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP | AVG | OBP | SLG | OPS |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Milwaukee Brewers | MLB | vs Left |  |  |  | 17 |  |  | 24.1 | 98 | 21 |  |  | 1 | 5 | 26 | 1.07 | .228 | .276 | .326 | .602 |
+| Milwaukee Brewers | MLB | vs Right |  |  |  | 17 |  |  | 59.0 | 243 | 49 |  |  | 9 | 15 | 75 | 1.08 | .218 | .276 | .382 | .658 |
 
 ### [Monthly Splits](https://baseballsavant.mlb.com/savant-player/kyle-harrison-690986?stats=statcast-r-pitching-mlb\#monthly-splits)
 
-| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Milwaukee Brewers | MLB | March | 0 | 0 | 1.80 | 1 | 1 | 0 | 5.0 | 20 | 4 | 1 | 1 | 1 | 1 | 8 | 1.00 |
-| Milwaukee Brewers | MLB | April | 2 | 1 | 2.41 | 4 | 4 | 0 | 18.2 | 76 | 13 | 5 | 5 | 1 | 7 | 22 | 1.07 |
-| Milwaukee Brewers | MLB | May | 4 | 0 | 0.96 | 5 | 5 | 0 | 28.0 | 110 | 22 | 3 | 3 | 1 | 6 | 31 | 1.00 |
-| Milwaukee Brewers | MLB | June | 2 | 0 | 4.62 | 5 | 5 | 0 | 25.1 | 103 | 22 | 13 | 13 | 6 | 5 | 35 | 1.07 |
-| Milwaukee Brewers | MLB | July | 0 | 1 | 8.10 | 2 | 2 | 0 | 6.2 | 32 | 9 | 6 | 6 | 1 | 1 | 5 | 1.50 |
-| Milwaukee Brewers | MLB | Pre All-Star | 8 | 2 | 3.01 | 17 | 17 | 0 | 83.2 | 341 | 70 | 28 | 28 | 10 | 20 | 101 | 1.08 |
+| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP | AVG | OBP | SLG | OPS |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Milwaukee Brewers | MLB | March | 0 | 0 | 1.80 | 1 | 1 | 0 | 5.0 | 20 | 4 | 1 | 1 | 1 | 1 | 8 | 1.00 | .211 | .250 | .368 | .618 |
+| Milwaukee Brewers | MLB | April | 2 | 1 | 2.41 | 4 | 4 | 0 | 18.2 | 76 | 13 | 5 | 5 | 1 | 7 | 22 | 1.07 | .197 | .303 | .288 | .591 |
+| Milwaukee Brewers | MLB | May | 4 | 0 | 0.96 | 5 | 5 | 0 | 28.0 | 110 | 22 | 3 | 3 | 1 | 6 | 31 | 1.00 | .212 | .255 | .279 | .534 |
+| Milwaukee Brewers | MLB | June | 2 | 0 | 4.62 | 5 | 5 | 0 | 25.1 | 103 | 22 | 13 | 13 | 6 | 5 | 35 | 1.07 | .227 | .272 | .464 | .736 |
+| Milwaukee Brewers | MLB | July | 0 | 1 | 8.10 | 2 | 2 | 0 | 6.2 | 32 | 9 | 6 | 6 | 1 | 1 | 5 | 1.50 | .290 | .313 | .516 | .829 |
+| Milwaukee Brewers | MLB | Pre All-Star | 8 | 2 | 3.01 | 17 | 17 | 0 | 83.2 | 341 | 70 | 28 | 28 | 10 | 20 | 101 | 1.08 | .221 | .276 | .366 | .642 |
 
 ### [Baserunner Splits](https://baseballsavant.mlb.com/savant-player/kyle-harrison-690986?stats=statcast-r-pitching-mlb\#baserunner-splits)
 
-| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Milwaukee Brewers | MLB | Bases Empty |  |  |  | 17 |  |  | 53.2 | 221 | 41 |  |  | 7 | 12 | 69 | 0.99 |
-| Milwaukee Brewers | MLB | Bases Loaded |  |  |  | 3 |  |  | 1.0 | 6 | 3 |  |  | 0 | 0 | 1 | 3.00 |
-| Milwaukee Brewers | MLB | Runner at 1st |  |  |  | 17 |  |  | 15.2 | 61 | 16 |  |  | 2 | 2 | 16 | 1.15 |
-| Milwaukee Brewers | MLB | Runners at 1st & 2nd |  |  |  | 9 |  |  | 5.1 | 18 | 1 |  |  | 0 | 1 | 9 | 0.38 |
-| Milwaukee Brewers | MLB | Runners at 1st & 3rd |  |  |  | 6 |  |  | 1.1 | 8 | 2 |  |  | 1 | 2 | 2 | 3.00 |
-| Milwaukee Brewers | MLB | Runner at 2nd |  |  |  | 10 |  |  | 5.1 | 21 | 5 |  |  | 0 | 2 | 4 | 1.31 |
-| Milwaukee Brewers | MLB | Runners at 2nd & 3rd |  |  |  | 2 |  |  | 0.2 | 3 | 1 |  |  | 0 | 0 | 0 | 1.50 |
-| Milwaukee Brewers | MLB | Runner at 3rd |  |  |  | 3 |  |  | 0.1 | 3 | 1 |  |  | 0 | 1 | 0 | 6.00 |
-| Milwaukee Brewers | MLB | Scoring Position |  |  |  | 14 |  |  | 14.0 | 59 | 13 |  |  | 1 | 6 | 16 | 1.36 |
+| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP | AVG | OBP | SLG | OPS |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Milwaukee Brewers | MLB | Bases Empty |  |  |  | 17 |  |  | 53.2 | 221 | 41 |  |  | 7 | 12 | 69 | 0.99 | .200 | .258 | .341 | .599 |
+| Milwaukee Brewers | MLB | Bases Loaded |  |  |  | 3 |  |  | 1.0 | 6 | 3 |  |  | 0 | 0 | 1 | 3.00 | .500 | .500 | .667 | 1.167 |
+| Milwaukee Brewers | MLB | Runner at 1st |  |  |  | 17 |  |  | 15.2 | 61 | 16 |  |  | 2 | 2 | 16 | 1.15 | .271 | .295 | .424 | .719 |
+| Milwaukee Brewers | MLB | Runners at 1st & 2nd |  |  |  | 9 |  |  | 5.1 | 18 | 1 |  |  | 0 | 1 | 9 | 0.38 | .059 | .111 | .059 | .170 |
+| Milwaukee Brewers | MLB | Runners at 1st & 3rd |  |  |  | 6 |  |  | 1.1 | 8 | 2 |  |  | 1 | 2 | 2 | 3.00 | .333 | .500 | .833 | 1.333 |
+| Milwaukee Brewers | MLB | Runner at 2nd |  |  |  | 10 |  |  | 5.1 | 21 | 5 |  |  | 0 | 2 | 4 | 1.31 | .263 | .333 | .368 | .701 |
+| Milwaukee Brewers | MLB | Runners at 2nd & 3rd |  |  |  | 2 |  |  | 0.2 | 3 | 1 |  |  | 0 | 0 | 0 | 1.50 | .333 | .333 | .667 | 1.000 |
+| Milwaukee Brewers | MLB | Runner at 3rd |  |  |  | 3 |  |  | 0.1 | 3 | 1 |  |  | 0 | 1 | 0 | 6.00 | .500 | .667 | 1.000 | 1.667 |
+| Milwaukee Brewers | MLB | Scoring Position |  |  |  | 14 |  |  | 14.0 | 59 | 13 |  |  | 1 | 6 | 16 | 1.36 | .245 | .322 | .396 | .718 |
 
 ### [Game Type Splits](https://baseballsavant.mlb.com/savant-player/kyle-harrison-690986?stats=statcast-r-pitching-mlb\#game-type-splits)
 
-| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Milwaukee Brewers | MLB | Home Games | 5 | 1 | 1.53 | 9 | 9 | 0 | 47.0 | 184 | 33 | 8 | 8 | 4 | 10 | 60 | 0.91 |
-| Milwaukee Brewers | MLB | Away Games | 3 | 1 | 4.91 | 8 | 8 | 0 | 36.2 | 157 | 37 | 20 | 20 | 6 | 10 | 41 | 1.28 |
-| Milwaukee Brewers | MLB | Day Games | 5 | 0 | 1.30 | 6 | 6 | 0 | 34.2 | 128 | 23 | 5 | 5 | 2 | 4 | 40 | 0.78 |
-| Milwaukee Brewers | MLB | Night Games | 3 | 2 | 4.22 | 11 | 11 | 0 | 49.0 | 213 | 47 | 23 | 23 | 8 | 16 | 61 | 1.29 |
-| Milwaukee Brewers | MLB | Leading Off Inning |  |  |  | 17 |  |  | 21.2 | 88 | 18 |  |  | 4 | 4 | 23 | 1.02 |
+| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP | AVG | OBP | SLG | OPS |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Milwaukee Brewers | MLB | Home Games | 5 | 1 | 1.53 | 9 | 9 | 0 | 47.0 | 184 | 33 | 8 | 8 | 4 | 10 | 60 | 0.91 | .192 | .245 | .297 | .542 |
+| Milwaukee Brewers | MLB | Away Games | 3 | 1 | 4.91 | 8 | 8 | 0 | 36.2 | 157 | 37 | 20 | 20 | 6 | 10 | 41 | 1.28 | .255 | .312 | .448 | .760 |
+| Milwaukee Brewers | MLB | Day Games | 5 | 0 | 1.30 | 6 | 6 | 0 | 34.2 | 128 | 23 | 5 | 5 | 2 | 4 | 40 | 0.78 | .189 | .227 | .262 | .489 |
+| Milwaukee Brewers | MLB | Night Games | 3 | 2 | 4.22 | 11 | 11 | 0 | 49.0 | 213 | 47 | 23 | 23 | 8 | 16 | 61 | 1.29 | .241 | .305 | .431 | .736 |
+| Milwaukee Brewers | MLB | Leading Off Inning |  |  |  | 17 |  |  | 21.2 | 88 | 18 |  |  | 4 | 4 | 23 | 1.02 | .217 | .261 | .410 | .671 |
 
 ### [Outs Splits](https://baseballsavant.mlb.com/savant-player/kyle-harrison-690986?stats=statcast-r-pitching-mlb\#out-splits)
 
-| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Milwaukee Brewers | MLB | No Outs |  |  |  | 17 |  |  | 30.0 | 121 | 25 |  |  | 5 | 8 | 33 | 1.10 |
-| Milwaukee Brewers | MLB | One Out |  |  |  | 17 |  |  | 27.1 | 109 | 24 |  |  | 4 | 4 | 36 | 1.02 |
-| Milwaukee Brewers | MLB | Two Outs |  |  |  | 17 |  |  | 26.0 | 111 | 21 |  |  | 1 | 8 | 32 | 1.12 |
+| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP | AVG | OBP | SLG | OPS |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Milwaukee Brewers | MLB | No Outs |  |  |  | 17 |  |  | 30.0 | 121 | 25 |  |  | 5 | 8 | 33 | 1.10 | .223 | .281 | .402 | .683 |
+| Milwaukee Brewers | MLB | One Out |  |  |  | 17 |  |  | 27.1 | 109 | 24 |  |  | 4 | 4 | 36 | 1.02 | .231 | .266 | .375 | .641 |
+| Milwaukee Brewers | MLB | Two Outs |  |  |  | 17 |  |  | 26.0 | 111 | 21 |  |  | 1 | 8 | 32 | 1.12 | .208 | .279 | .317 | .596 |
 
 ### [Inning Splits](https://baseballsavant.mlb.com/savant-player/kyle-harrison-690986?stats=statcast-r-pitching-mlb\#inning-splits)
 
-| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Milwaukee Brewers | MLB | First Inning |  |  | 2.65 | 17 |  |  | 17.0 | 67 | 12 | 5 | 5 | 3 | 3 | 19 | 0.88 |
-| Milwaukee Brewers | MLB | Second Inning |  |  | 0.53 | 17 |  |  | 17.0 | 67 | 10 | 1 | 1 | 0 | 5 | 22 | 0.88 |
-| Milwaukee Brewers | MLB | Third Inning |  |  | 6.19 | 17 |  |  | 16.0 | 70 | 17 | 11 | 11 | 3 | 6 | 19 | 1.44 |
-| Milwaukee Brewers | MLB | Fourth Inning |  |  | 3.86 | 15 |  |  | 14.0 | 60 | 14 | 6 | 6 | 2 | 5 | 17 | 1.36 |
-| Milwaukee Brewers | MLB | Fifth Inning |  |  | 2.38 | 12 |  |  | 11.1 | 43 | 9 | 3 | 3 | 1 | 0 | 14 | 0.79 |
-| Milwaukee Brewers | MLB | Sixth Inning |  |  | 1.29 | 8 |  |  | 7.0 | 27 | 5 | 1 | 1 | 1 | 1 | 9 | 0.86 |
-| Milwaukee Brewers | MLB | Seventh Inning |  |  | 6.75 | 2 |  |  | 1.1 | 7 | 3 | 1 | 1 | 0 | 0 | 1 | 2.25 |
+| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP | AVG | OBP | SLG | OPS |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Milwaukee Brewers | MLB | First Inning |  |  | 2.65 | 17 |  |  | 17.0 | 67 | 12 | 5 | 5 | 3 | 3 | 19 | 0.88 | .190 | .239 | .444 | .683 |
+| Milwaukee Brewers | MLB | Second Inning |  |  | 0.53 | 17 |  |  | 17.0 | 67 | 10 | 1 | 1 | 0 | 5 | 22 | 0.88 | .164 | .239 | .197 | .436 |
+| Milwaukee Brewers | MLB | Third Inning |  |  | 6.19 | 17 |  |  | 16.0 | 70 | 17 | 11 | 11 | 3 | 6 | 19 | 1.44 | .274 | .357 | .452 | .809 |
+| Milwaukee Brewers | MLB | Fourth Inning |  |  | 3.86 | 15 |  |  | 14.0 | 60 | 14 | 6 | 6 | 2 | 5 | 17 | 1.36 | .255 | .317 | .400 | .717 |
+| Milwaukee Brewers | MLB | Fifth Inning |  |  | 2.38 | 12 |  |  | 11.1 | 43 | 9 | 3 | 3 | 1 | 0 | 14 | 0.79 | .209 | .209 | .326 | .535 |
+| Milwaukee Brewers | MLB | Sixth Inning |  |  | 1.29 | 8 |  |  | 7.0 | 27 | 5 | 1 | 1 | 1 | 1 | 9 | 0.86 | .192 | .222 | .308 | .530 |
+| Milwaukee Brewers | MLB | Seventh Inning |  |  | 6.75 | 2 |  |  | 1.1 | 7 | 3 | 1 | 1 | 0 | 0 | 1 | 2.25 | .429 | .429 | .571 | 1.000 |
 
 ### [Platoon Splits](https://baseballsavant.mlb.com/savant-player/kyle-harrison-690986?stats=statcast-r-pitching-mlb\#milb-platoon-splits)
 
-| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2 Teams | Minors | vs Left |  |  |  | 18 |  |  | 24.2 | 109 | 33 |  |  | 1 | 3 | 27 | 1.46 |
-| 2 Teams | Minors | vs Right |  |  |  | 18 |  |  | 51.2 | 234 | 46 |  |  | 6 | 32 | 61 | 1.51 |
+| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP | AVG | OBP | SLG | OPS |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2 Teams | Minors | vs Left |  |  |  | 18 |  |  | 24.2 | 109 | 33 |  |  | 1 | 3 | 27 | 1.46 | .317 | .349 | .385 | .734 |
+| 2 Teams | Minors | vs Right |  |  |  | 18 |  |  | 51.2 | 234 | 46 |  |  | 6 | 32 | 61 | 1.51 | .232 | .338 | .374 | .712 |
 
 ### [Monthly Splits](https://baseballsavant.mlb.com/savant-player/kyle-harrison-690986?stats=statcast-r-pitching-mlb\#milb-monthly-splits)
 
-| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Sacramento River Cats | Triple-A | March | 0 | 0 | 2.25 | 1 | 1 | 0 | 4.0 | 15 | 4 | 1 | 1 | 1 | 1 | 5 | 1.25 |
-| Sacramento River Cats | Triple-A | April | 1 | 0 | 3.68 | 5 | 5 | 0 | 22.0 | 99 | 22 | 12 | 9 | 1 | 7 | 33 | 1.32 |
-| Worcester Red Sox | Triple-A | June | 0 | 1 | 9.00 | 1 | 1 | 0 | 4.0 | 20 | 8 | 4 | 4 | 1 | 1 | 4 | 2.25 |
-| Worcester Red Sox | Triple-A | July | 2 | 1 | 4.03 | 5 | 5 | 0 | 22.1 | 105 | 23 | 11 | 10 | 4 | 14 | 20 | 1.66 |
-| Worcester Red Sox | Triple-A | August | 2 | 0 | 2.35 | 5 | 5 | 0 | 23.0 | 98 | 20 | 6 | 6 | 0 | 11 | 24 | 1.35 |
-| Worcester Red Sox | Triple-A | September | 0 | 0 | 9.00 | 1 | 1 | 0 | 1.0 | 6 | 2 | 1 | 1 | 0 | 1 | 2 | 3.00 |
-| Sacramento River Cats | Triple-A | First Half | 1 | 0 | 3.46 | 6 | 6 | 0 | 26.0 | 114 | 26 | 13 | 10 | 2 | 8 | 38 | 1.31 |
-| Worcester Red Sox | Triple-A | Second Half | 4 | 2 | 3.75 | 12 | 12 | 0 | 50.1 | 229 | 53 | 22 | 21 | 5 | 27 | 50 | 1.59 |
+| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP | AVG | OBP | SLG | OPS |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Sacramento River Cats | Triple-A | March | 0 | 0 | 2.25 | 1 | 1 | 0 | 4.0 | 15 | 4 | 1 | 1 | 1 | 1 | 5 | 1.25 | .286 | .333 | .500 | .833 |
+| Sacramento River Cats | Triple-A | April | 1 | 0 | 3.68 | 5 | 5 | 0 | 22.0 | 99 | 22 | 12 | 9 | 1 | 7 | 33 | 1.32 | .247 | .313 | .326 | .639 |
+| Worcester Red Sox | Triple-A | June | 0 | 1 | 9.00 | 1 | 1 | 0 | 4.0 | 20 | 8 | 4 | 4 | 1 | 1 | 4 | 2.25 | .421 | .450 | .579 | 1.029 |
+| Worcester Red Sox | Triple-A | July | 2 | 1 | 4.03 | 5 | 5 | 0 | 22.1 | 105 | 23 | 11 | 10 | 4 | 14 | 20 | 1.66 | .256 | .352 | .444 | .796 |
+| Worcester Red Sox | Triple-A | August | 2 | 0 | 2.35 | 5 | 5 | 0 | 23.0 | 98 | 20 | 6 | 6 | 0 | 11 | 24 | 1.35 | .235 | .327 | .282 | .609 |
+| Worcester Red Sox | Triple-A | September | 0 | 0 | 9.00 | 1 | 1 | 0 | 1.0 | 6 | 2 | 1 | 1 | 0 | 1 | 2 | 3.00 | .400 | .500 | .600 | 1.100 |
+| Sacramento River Cats | Triple-A | First Half | 1 | 0 | 3.46 | 6 | 6 | 0 | 26.0 | 114 | 26 | 13 | 10 | 2 | 8 | 38 | 1.31 | .252 | .316 | .350 | .666 |
+| Worcester Red Sox | Triple-A | Second Half | 4 | 2 | 3.75 | 12 | 12 | 0 | 50.1 | 229 | 53 | 22 | 21 | 5 | 27 | 50 | 1.59 | .266 | .354 | .392 | .746 |
 
 ### [Baserunner Splits](https://baseballsavant.mlb.com/savant-player/kyle-harrison-690986?stats=statcast-r-pitching-mlb\#milb-baserunner-splits)
 
-| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2 Teams | Minors | Bases Empty |  |  |  | 18 |  |  | 37.0 | 176 | 43 |  |  | 4 | 21 | 42 | 1.73 |
-| 2 Teams | Minors | Bases Loaded |  |  |  | 7 |  |  | 3.1 | 10 | 1 |  |  | 0 | 0 | 2 | 0.30 |
-| 2 Teams | Minors | Runner at 1st |  |  |  | 17 |  |  | 15.0 | 65 | 17 |  |  | 1 | 6 | 16 | 1.53 |
-| 2 Teams | Minors | Runners at 1st & 2nd |  |  |  | 12 |  |  | 6.2 | 28 | 5 |  |  | 0 | 2 | 10 | 1.05 |
-| 2 Teams | Minors | Runners at 1st & 3rd |  |  |  | 9 |  |  | 2.0 | 12 | 3 |  |  | 1 | 1 | 2 | 2.00 |
-| 2 Teams | Minors | Runner at 2nd |  |  |  | 17 |  |  | 8.1 | 38 | 8 |  |  | 1 | 4 | 12 | 1.44 |
-| 2 Teams | Minors | Runners at 2nd & 3rd |  |  |  | 4 |  |  | 2.0 | 7 | 1 |  |  | 0 | 1 | 3 | 1.00 |
-| 2 Teams | Minors | Runner at 3rd |  |  |  | 5 |  |  | 2.0 | 7 | 1 |  |  | 0 | 0 | 1 | 0.50 |
-| 2 Teams | Minors | Scoring Position |  |  |  | 18 |  |  | 24.1 | 102 | 19 |  |  | 2 | 8 | 30 | 1.11 |
+| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP | AVG | OBP | SLG | OPS |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2 Teams | Minors | Bases Empty |  |  |  | 18 |  |  | 37.0 | 176 | 43 |  |  | 4 | 21 | 42 | 1.73 | .279 | .369 | .416 | .785 |
+| 2 Teams | Minors | Bases Loaded |  |  |  | 7 |  |  | 3.1 | 10 | 1 |  |  | 0 | 0 | 2 | 0.30 | .111 | .100 | .111 | .211 |
+| 2 Teams | Minors | Runner at 1st |  |  |  | 17 |  |  | 15.0 | 65 | 17 |  |  | 1 | 6 | 16 | 1.53 | .288 | .354 | .373 | .727 |
+| 2 Teams | Minors | Runners at 1st & 2nd |  |  |  | 12 |  |  | 6.2 | 28 | 5 |  |  | 0 | 2 | 10 | 1.05 | .192 | .250 | .231 | .481 |
+| 2 Teams | Minors | Runners at 1st & 3rd |  |  |  | 9 |  |  | 2.0 | 12 | 3 |  |  | 1 | 1 | 2 | 2.00 | .300 | .417 | .600 | 1.017 |
+| 2 Teams | Minors | Runner at 2nd |  |  |  | 17 |  |  | 8.1 | 38 | 8 |  |  | 1 | 4 | 12 | 1.44 | .242 | .342 | .394 | .736 |
+| 2 Teams | Minors | Runners at 2nd & 3rd |  |  |  | 4 |  |  | 2.0 | 7 | 1 |  |  | 0 | 1 | 3 | 1.00 | .200 | .286 | .200 | .486 |
+| 2 Teams | Minors | Runner at 3rd |  |  |  | 5 |  |  | 2.0 | 7 | 1 |  |  | 0 | 0 | 1 | 0.50 | .167 | .143 | .167 | .310 |
+| 2 Teams | Minors | Scoring Position |  |  |  | 18 |  |  | 24.1 | 102 | 19 |  |  | 2 | 8 | 30 | 1.11 | .213 | .284 | .315 | .599 |
 
 ### [Game Type Splits](https://baseballsavant.mlb.com/savant-player/kyle-harrison-690986?stats=statcast-r-pitching-mlb\#milb-game-type-splits)
 
-| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2 Teams | Minors | Home Games | 2 | 1 | 3.55 | 8 | 8 | 0 | 33.0 | 150 | 39 | 14 | 13 | 3 | 12 | 37 | 1.55 |
-| 2 Teams | Minors | Away Games | 3 | 1 | 3.74 | 10 | 10 | 0 | 43.1 | 193 | 40 | 21 | 18 | 4 | 23 | 51 | 1.45 |
-| Worcester Red Sox | Triple-A | Day Games | 0 | 0 | 1.47 | 5 | 5 | 0 | 18.1 | 85 | 13 | 3 | 3 | 0 | 17 | 26 | 1.64 |
-| 2 Teams | Minors | Night Games | 5 | 2 | 4.34 | 13 | 13 | 0 | 58.0 | 258 | 66 | 32 | 28 | 7 | 18 | 62 | 1.45 |
-| 2 Teams | Minors | Leading Off Inning |  |  |  | 18 |  |  | 18.2 | 77 | 13 |  |  | 0 | 8 | 19 | 1.13 |
+| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP | AVG | OBP | SLG | OPS |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2 Teams | Minors | Home Games | 2 | 1 | 3.55 | 8 | 8 | 0 | 33.0 | 150 | 39 | 14 | 13 | 3 | 12 | 37 | 1.55 | .293 | .353 | .429 | .782 |
+| 2 Teams | Minors | Away Games | 3 | 1 | 3.74 | 10 | 10 | 0 | 43.1 | 193 | 40 | 21 | 18 | 4 | 23 | 51 | 1.45 | .237 | .332 | .337 | .669 |
+| Worcester Red Sox | Triple-A | Day Games | 0 | 0 | 1.47 | 5 | 5 | 0 | 18.1 | 85 | 13 | 3 | 3 | 0 | 17 | 26 | 1.64 | .194 | .365 | .209 | .574 |
+| 2 Teams | Minors | Night Games | 5 | 2 | 4.34 | 13 | 13 | 0 | 58.0 | 258 | 66 | 32 | 28 | 7 | 18 | 62 | 1.45 | .281 | .333 | .426 | .759 |
+| 2 Teams | Minors | Leading Off Inning |  |  |  | 18 |  |  | 18.2 | 77 | 13 |  |  | 0 | 8 | 19 | 1.13 | .188 | .273 | .246 | .519 |
 
 ### [Outs Splits](https://baseballsavant.mlb.com/savant-player/kyle-harrison-690986?stats=statcast-r-pitching-mlb\#milb-out-splits)
 
-| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2 Teams | Minors | No Outs |  |  |  | 18 |  |  | 26.1 | 103 | 16 |  |  | 0 | 10 | 29 | 0.99 |
-| 2 Teams | Minors | One Out |  |  |  | 18 |  |  | 25.1 | 125 | 31 |  |  | 5 | 17 | 29 | 1.89 |
-| 2 Teams | Minors | Two Outs |  |  |  | 18 |  |  | 24.2 | 115 | 32 |  |  | 2 | 8 | 30 | 1.62 |
+| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP | AVG | OBP | SLG | OPS |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2 Teams | Minors | No Outs |  |  |  | 18 |  |  | 26.1 | 103 | 16 |  |  | 0 | 10 | 29 | 0.99 | .174 | .252 | .217 | .469 |
+| 2 Teams | Minors | One Out |  |  |  | 18 |  |  | 25.1 | 125 | 31 |  |  | 5 | 17 | 29 | 1.89 | .295 | .392 | .486 | .878 |
+| 2 Teams | Minors | Two Outs |  |  |  | 18 |  |  | 24.2 | 115 | 32 |  |  | 2 | 8 | 30 | 1.62 | .305 | .365 | .410 | .775 |
 
 ### [Inning Splits](https://baseballsavant.mlb.com/savant-player/kyle-harrison-690986?stats=statcast-r-pitching-mlb\#milb-inning-splits)
 
-| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2 Teams | Minors | First Inning |  |  | 6.00 | 18 |  |  | 18.0 | 86 | 24 | 13 | 12 | 5 | 7 | 20 | 1.72 |
-| 2 Teams | Minors | Second Inning |  |  | 3.71 | 17 |  |  | 17.0 | 78 | 16 | 10 | 7 | 0 | 12 | 22 | 1.65 |
-| 2 Teams | Minors | Third Inning |  |  | 4.24 | 17 |  |  | 17.0 | 76 | 20 | 8 | 8 | 2 | 7 | 15 | 1.59 |
-| 2 Teams | Minors | Fourth Inning |  |  | 0.00 | 15 |  |  | 14.1 | 58 | 8 | 0 | 0 | 0 | 5 | 20 | 0.91 |
-| 2 Teams | Minors | Fifth Inning |  |  | 4.50 | 8 |  |  | 8.0 | 38 | 10 | 4 | 4 | 0 | 4 | 9 | 1.75 |
-| 2 Teams | Minors | Sixth Inning |  |  | 0.00 | 2 |  |  | 2.0 | 7 | 1 | 0 | 0 | 0 | 0 | 2 | 0.50 |
+| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP | AVG | OBP | SLG | OPS |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2 Teams | Minors | First Inning |  |  | 6.00 | 18 |  |  | 18.0 | 86 | 24 | 13 | 12 | 5 | 7 | 20 | 1.72 | .308 | .372 | .538 | .910 |
+| 2 Teams | Minors | Second Inning |  |  | 3.71 | 17 |  |  | 17.0 | 78 | 16 | 10 | 7 | 0 | 12 | 22 | 1.65 | .254 | .372 | .302 | .674 |
+| 2 Teams | Minors | Third Inning |  |  | 4.24 | 17 |  |  | 17.0 | 76 | 20 | 8 | 8 | 2 | 7 | 15 | 1.59 | .290 | .355 | .391 | .746 |
+| 2 Teams | Minors | Fourth Inning |  |  | 0.00 | 15 |  |  | 14.1 | 58 | 8 | 0 | 0 | 0 | 5 | 20 | 0.91 | .154 | .241 | .173 | .414 |
+| 2 Teams | Minors | Fifth Inning |  |  | 4.50 | 8 |  |  | 8.0 | 38 | 10 | 4 | 4 | 0 | 4 | 9 | 1.75 | .303 | .368 | .485 | .853 |
+| 2 Teams | Minors | Sixth Inning |  |  | 0.00 | 2 |  |  | 2.0 | 7 | 1 | 0 | 0 | 0 | 0 | 2 | 0.50 | .143 | .143 | .143 | .286 |
 
 | Date | Home Tm | Away Tm | W | L | ERA | G | GS | SV | IP | H | R | ER | HR | BB | SO | WHIP |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -741,7 +738,7 @@ On the right, Induced Movement (or IVB) is reported without gravity, and attempt
 | 2025 | Slurve | ![](https://www.mlbstatic.com/team-logos/111.svg)BOS | L | 161 | 82.2 | 43.6 | -0.1 | 10.3GLV | -1.3 | -2.9 | -2.8 | 10.3GLV | -1.7 |
 | 2025 | 4-Seam Fastball | ![](https://www.mlbstatic.com/team-logos/111.svg)BOS | L | 345 | 94.6 | 18.3 | -1.2 | 14.3ARM | 3.6 | 12.4 | -3.5 | 14.3ARM | 6.2 |
 | 2025 | Sinker | ![](https://www.mlbstatic.com/team-logos/111.svg)BOS | L | 12 | 93.0 | 24.0 | -2.7 | 16.8ARM | 0.5 | 7.6 | -0.1 | 16.8ARM | 1.4 |
-| 2025 | Changeup | ![](https://www.mlbstatic.com/team-logos/111.svg)BOS | L | 47 | 86.3 | 35.7 | -0.8 | 13.7ARM | -0.3 | 1.0 | 4.2 | 13.7ARM | -0.5 |
+| 2025 | Changeup | ![](https://www.mlbstatic.com/team-logos/111.svg)BOS | L | 47 | 86.3 | 35.7 | -0.8 | 13.7ARM | -0.4 | 1.0 | 4.2 | 13.7ARM | -0.5 |
 | 2024 | Curveball | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | L | 1 | 73.7 | 61.4 | 2.9 | 5.6GLV | -8.2 | -10.4 | 1.7 | 5.6GLV | -1.3 |
 | 2024 | Cutter | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | L | 6 | 88.2 | 30.9 | -4.0 | 1.5ARM | -2.9 | 4.1 | -3.0 | 1.5ARM | -3.5 |
 | 2024 | 4-Seam Fastball | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | L | 1196 | 92.6 | 21.3 | -3.1 | 14.7ARM | 4.2 | 10.8 | -4.9 | 14.7ARM | 6.6 |
@@ -999,9 +996,9 @@ View Complete Expected Home Runs Leaderboard](https://baseballsavant.mlb.com/lea
 | Statcast Bat Tracking |  |  |  |  |  |  |  |  |  |  |
 | [Bat Speed](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 71.9 | +0.2 | ↑ | 71.7 | +0.3 | ↑ | 71.4 | +0.2 | ↑ | 71.2 |
 | [Attack Angle](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 6° | +1° | ↑ | 5° | -3° | ↓ | 8° | 0° | ↑ | 8° |
-| [Ideal Attack Angle %](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 41.4 | +5.9 | ↑ | 35.5 | -12.4 | ↓ | 47.9 | -4.4 | ↓ | 52.3 |
+| [Ideal Attack Angle %](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 41.5 | +6.0 | ↑ | 35.5 | -12.4 | ↓ | 47.9 | -4.4 | ↓ | 52.3 |
 | [Attack Direction](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 4° | -1° | ↓ | 5° | +3° | ↑ | 2° | +1° | ↑ | 1° |
-| [Swing Path - Tilt](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 32° | 0° | ↑ | 31° | 0° |  | 31° | -1° | ↓ | 32° |
+| [Swing Path - Tilt](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 31° | 0° | ↑ | 31° | 0° |  | 31° | -1° | ↓ | 32° |
 | [Swing Length](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 7.1 | +0.1 | ↑ | 7.0 | -0.2 | ↓ | 7.2 | 0.0 |  | 7.2 |
 | Statcast Pitch Metrics |  |  |  |  |  |  |  |  |  |  |
 | [Fastball Velocity](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 95.0 | +0.9 | ↑ | 94.1 | +1.6 | ↑ | 92.5 | -0.9 | ↓ | 93.4 |
@@ -1144,11 +1141,11 @@ Loading Bat Tracking...
 
 Loading Chart Data...
 
-Kyle HarrisonResponsible Plays for 20260ft20ft40ft60ft80ft100ft120ft140ftDistance From Ball Landing12345678Hang Time (Sec.)◀▶▼▲League Wide Catch Difficulty Scale★★★★★★012345OutHitWallBack
+Kyle HarrisonResponsible Plays for 20260ft20ft40ft60ft80ft100ft120ft140ftDistance From Ball Landing12345678Opportunity Time (Sec.)◀▶▼▲League Wide Catch Difficulty Scale★★★★★★012345OutHitWallBack
 
 \\* Click Any Legend Option to Reset Chart \| Save Chart
 
-Hang Time:
+Opportunity Time:
 
 
 Catch Rate GT:
@@ -1290,7 +1287,7 @@ Kyle HarrisonAvg Launch Angle28331491277881691710
 
 Kyle HarrisonBat Speed (MPH)72727273737272747370707172
 
-Kyle HarrisonSwing Length (ft)6.86.76.77.17.16.97.77.67.66.56.68.37.8
+Kyle HarrisonSwing Length (ft)6.86.76.77.17.16.97.77.67.66.56.78.37.8
 
 Kyle HarrisonSquared up % / Swings182219212224301937510918
 

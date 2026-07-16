@@ -3,10 +3,7 @@ source: https://baseballsavant.mlb.com/savant-player/ryan-walker-676254
 slug: baseballsavant-ryan-walker
 ---
 
-[|     |     |     |     |\\
-| --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/159.svg) | AL | 4 | Final |\\
-| ![](https://www.mlbstatic.com/team-logos/160.svg) | NL | 0 |](https://baseballsavant.mlb.com/gamefeed?gamePk=823443&game_date=2026-07-14)
+No Games Scheduled.
 
 <
 
@@ -341,124 +338,124 @@ Save Image
 
 ### [Platoon Splits](https://baseballsavant.mlb.com/savant-player/ryan-walker-676254?stats=statcast-r-pitching-mlb\#platoon-splits)
 
-| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| San Francisco Giants | MLB | vs Left |  |  |  | 23 |  |  | 8.2 | 48 | 11 |  |  | 1 | 10 | 9 | 2.42 |
-| San Francisco Giants | MLB | vs Right |  |  |  | 27 |  |  | 17.2 | 77 | 22 |  |  | 3 | 5 | 10 | 1.53 |
+| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP | AVG | OBP | SLG | OPS |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| San Francisco Giants | MLB | vs Left |  |  |  | 23 |  |  | 8.2 | 48 | 11 |  |  | 1 | 10 | 9 | 2.42 | .289 | .438 | .526 | .964 |
+| San Francisco Giants | MLB | vs Right |  |  |  | 27 |  |  | 17.2 | 77 | 22 |  |  | 3 | 5 | 10 | 1.53 | .319 | .373 | .449 | .822 |
 
 ### [Monthly Splits](https://baseballsavant.mlb.com/savant-player/ryan-walker-676254?stats=statcast-r-pitching-mlb\#monthly-splits)
 
-| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| San Francisco Giants | MLB | March | 0 | 0 | 7.71 | 3 | 0 | 1 | 2.1 | 11 | 2 | 2 | 2 | 1 | 2 | 3 | 1.71 |
-| San Francisco Giants | MLB | April | 0 | 1 | 3.48 | 10 | 0 | 2 | 10.1 | 45 | 11 | 5 | 4 | 0 | 4 | 10 | 1.45 |
-| San Francisco Giants | MLB | May | 0 | 0 | 16.88 | 3 | 0 | 0 | 2.2 | 17 | 6 | 5 | 5 | 1 | 4 | 1 | 3.75 |
-| San Francisco Giants | MLB | June | 0 | 0 | 2.84 | 7 | 0 | 0 | 6.1 | 25 | 3 | 2 | 2 | 0 | 2 | 4 | 0.79 |
-| San Francisco Giants | MLB | July | 0 | 0 | 17.36 | 4 | 0 | 0 | 4.2 | 27 | 11 | 9 | 9 | 2 | 3 | 1 | 3.00 |
-| San Francisco Giants | MLB | Pre All-Star | 0 | 1 | 7.52 | 27 | 0 | 3 | 26.1 | 125 | 33 | 23 | 22 | 4 | 15 | 19 | 1.82 |
+| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP | AVG | OBP | SLG | OPS |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| San Francisco Giants | MLB | March | 0 | 0 | 7.71 | 3 | 0 | 1 | 2.1 | 11 | 2 | 2 | 2 | 1 | 2 | 3 | 1.71 | .222 | .364 | .556 | .920 |
+| San Francisco Giants | MLB | April | 0 | 1 | 3.48 | 10 | 0 | 2 | 10.1 | 45 | 11 | 5 | 4 | 0 | 4 | 10 | 1.45 | .268 | .333 | .341 | .674 |
+| San Francisco Giants | MLB | May | 0 | 0 | 16.88 | 3 | 0 | 0 | 2.2 | 17 | 6 | 5 | 5 | 1 | 4 | 1 | 3.75 | .545 | .667 | .818 | 1.485 |
+| San Francisco Giants | MLB | June | 0 | 0 | 2.84 | 7 | 0 | 0 | 6.1 | 25 | 3 | 2 | 2 | 0 | 2 | 4 | 0.79 | .136 | .240 | .136 | .376 |
+| San Francisco Giants | MLB | July | 0 | 0 | 17.36 | 4 | 0 | 0 | 4.2 | 27 | 11 | 9 | 9 | 2 | 3 | 1 | 3.00 | .458 | .519 | .833 | 1.352 |
+| San Francisco Giants | MLB | Pre All-Star | 0 | 1 | 7.52 | 27 | 0 | 3 | 26.1 | 125 | 33 | 23 | 22 | 4 | 15 | 19 | 1.82 | .308 | .398 | .477 | .875 |
 
 ### [Baserunner Splits](https://baseballsavant.mlb.com/savant-player/ryan-walker-676254?stats=statcast-r-pitching-mlb\#baserunner-splits)
 
-| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| San Francisco Giants | MLB | Bases Empty |  |  |  | 25 |  |  | 12.1 | 58 | 9 |  |  | 1 | 10 | 9 | 1.54 |
-| San Francisco Giants | MLB | Bases Loaded |  |  |  | 1 |  |  | 1.0 | 3 | 0 |  |  | 0 | 0 | 2 | 0.00 |
-| San Francisco Giants | MLB | Runner at 1st |  |  |  | 18 |  |  | 5.1 | 27 | 10 |  |  | 1 | 2 | 6 | 2.25 |
-| San Francisco Giants | MLB | Runners at 1st & 2nd |  |  |  | 8 |  |  | 3.0 | 12 | 4 |  |  | 0 | 0 | 2 | 1.33 |
-| San Francisco Giants | MLB | Runners at 1st & 3rd |  |  |  | 5 |  |  | 1.1 | 3 | 0 |  |  | 0 | 0 | 0 | 0.00 |
-| San Francisco Giants | MLB | Runner at 2nd |  |  |  | 9 |  |  | 1.2 | 14 | 7 |  |  | 2 | 2 | 0 | 5.40 |
-| San Francisco Giants | MLB | Runners at 2nd & 3rd |  |  |  | 3 |  |  | 1.1 | 3 | 0 |  |  | 0 | 0 | 0 | 0.00 |
-| San Francisco Giants | MLB | Runner at 3rd |  |  |  | 4 |  |  | 0.1 | 5 | 3 |  |  | 0 | 1 | 0 | 12.00 |
-| San Francisco Giants | MLB | Scoring Position |  |  |  | 15 |  |  | 8.2 | 40 | 14 |  |  | 2 | 3 | 4 | 1.96 |
+| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP | AVG | OBP | SLG | OPS |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| San Francisco Giants | MLB | Bases Empty |  |  |  | 25 |  |  | 12.1 | 58 | 9 |  |  | 1 | 10 | 9 | 1.54 | .191 | .345 | .277 | .622 |
+| San Francisco Giants | MLB | Bases Loaded |  |  |  | 1 |  |  | 1.0 | 3 | 0 |  |  | 0 | 0 | 2 | 0.00 | .000 | .000 | .000 | .000 |
+| San Francisco Giants | MLB | Runner at 1st |  |  |  | 18 |  |  | 5.1 | 27 | 10 |  |  | 1 | 2 | 6 | 2.25 | .400 | .444 | .600 | 1.044 |
+| San Francisco Giants | MLB | Runners at 1st & 2nd |  |  |  | 8 |  |  | 3.0 | 12 | 4 |  |  | 0 | 0 | 2 | 1.33 | .364 | .364 | .636 | 1.000 |
+| San Francisco Giants | MLB | Runners at 1st & 3rd |  |  |  | 5 |  |  | 1.1 | 3 | 0 |  |  | 0 | 0 | 0 | 0.00 | .000 | .000 | .000 | .000 |
+| San Francisco Giants | MLB | Runner at 2nd |  |  |  | 9 |  |  | 1.2 | 14 | 7 |  |  | 2 | 2 | 0 | 5.40 | .583 | .643 | 1.083 | 1.726 |
+| San Francisco Giants | MLB | Runners at 2nd & 3rd |  |  |  | 3 |  |  | 1.1 | 3 | 0 |  |  | 0 | 0 | 0 | 0.00 | .000 | .000 | .000 | .000 |
+| San Francisco Giants | MLB | Runner at 3rd |  |  |  | 4 |  |  | 0.1 | 5 | 3 |  |  | 0 | 1 | 0 | 12.00 | .750 | .800 | .750 | 1.550 |
+| San Francisco Giants | MLB | Scoring Position |  |  |  | 15 |  |  | 8.2 | 40 | 14 |  |  | 2 | 3 | 4 | 1.96 | .400 | .447 | .657 | 1.104 |
 
 ### [Game Type Splits](https://baseballsavant.mlb.com/savant-player/ryan-walker-676254?stats=statcast-r-pitching-mlb\#game-type-splits)
 
-| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| San Francisco Giants | MLB | Home Games | 0 | 0 | 6.14 | 16 | 0 | 2 | 14.2 | 66 | 15 | 11 | 10 | 3 | 8 | 9 | 1.57 |
-| San Francisco Giants | MLB | Away Games | 0 | 1 | 9.26 | 11 | 0 | 1 | 11.2 | 59 | 18 | 12 | 12 | 1 | 7 | 10 | 2.14 |
-| San Francisco Giants | MLB | Day Games | 0 | 1 | 10.45 | 11 | 0 | 0 | 10.1 | 56 | 19 | 13 | 12 | 3 | 7 | 8 | 2.52 |
-| San Francisco Giants | MLB | Night Games | 0 | 0 | 5.63 | 16 | 0 | 3 | 16.0 | 69 | 14 | 10 | 10 | 1 | 8 | 11 | 1.38 |
-| San Francisco Giants | MLB | Leading Off Inning |  |  |  | 24 |  |  | 4.1 | 26 | 6 |  |  | 0 | 6 | 3 | 2.77 |
-| San Francisco Giants | MLB | Late / Close |  |  |  | 7 |  |  | 6.2 | 30 | 7 |  |  | 0 | 4 | 4 | 1.65 |
+| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP | AVG | OBP | SLG | OPS |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| San Francisco Giants | MLB | Home Games | 0 | 0 | 6.14 | 16 | 0 | 2 | 14.2 | 66 | 15 | 11 | 10 | 3 | 8 | 9 | 1.57 | .263 | .364 | .421 | .785 |
+| San Francisco Giants | MLB | Away Games | 0 | 1 | 9.26 | 11 | 0 | 1 | 11.2 | 59 | 18 | 12 | 12 | 1 | 7 | 10 | 2.14 | .360 | .439 | .540 | .979 |
+| San Francisco Giants | MLB | Day Games | 0 | 1 | 10.45 | 11 | 0 | 0 | 10.1 | 56 | 19 | 13 | 12 | 3 | 7 | 8 | 2.52 | .404 | .481 | .660 | 1.141 |
+| San Francisco Giants | MLB | Night Games | 0 | 0 | 5.63 | 16 | 0 | 3 | 16.0 | 69 | 14 | 10 | 10 | 1 | 8 | 11 | 1.38 | .233 | .333 | .333 | .666 |
+| San Francisco Giants | MLB | Leading Off Inning |  |  |  | 24 |  |  | 4.1 | 26 | 6 |  |  | 0 | 6 | 3 | 2.77 | .300 | .462 | .350 | .812 |
+| San Francisco Giants | MLB | Late / Close |  |  |  | 7 |  |  | 6.2 | 30 | 7 |  |  | 0 | 4 | 4 | 1.65 | .292 | .393 | .417 | .810 |
 
 ### [Outs Splits](https://baseballsavant.mlb.com/savant-player/ryan-walker-676254?stats=statcast-r-pitching-mlb\#out-splits)
 
-| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| San Francisco Giants | MLB | No Outs |  |  |  | 25 |  |  | 8.2 | 48 | 15 |  |  | 2 | 6 | 7 | 2.42 |
-| San Francisco Giants | MLB | One Out |  |  |  | 25 |  |  | 9.1 | 42 | 12 |  |  | 1 | 4 | 7 | 1.71 |
-| San Francisco Giants | MLB | Two Outs |  |  |  | 22 |  |  | 8.1 | 35 | 6 |  |  | 1 | 5 | 5 | 1.32 |
+| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP | AVG | OBP | SLG | OPS |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| San Francisco Giants | MLB | No Outs |  |  |  | 25 |  |  | 8.2 | 48 | 15 |  |  | 2 | 6 | 7 | 2.42 | .375 | .457 | .575 | 1.032 |
+| San Francisco Giants | MLB | One Out |  |  |  | 25 |  |  | 9.1 | 42 | 12 |  |  | 1 | 4 | 7 | 1.71 | .316 | .381 | .500 | .881 |
+| San Francisco Giants | MLB | Two Outs |  |  |  | 22 |  |  | 8.1 | 35 | 6 |  |  | 1 | 5 | 5 | 1.32 | .207 | .343 | .310 | .653 |
 
 ### [Inning Splits](https://baseballsavant.mlb.com/savant-player/ryan-walker-676254?stats=statcast-r-pitching-mlb\#inning-splits)
 
-| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| San Francisco Giants | MLB | Fifth Inning |  |  | 9.00 | 2 |  |  | 1.0 | 6 | 3 | 1 | 1 | 0 | 1 | 1 | 4.00 |
-| San Francisco Giants | MLB | Sixth Inning |  |  | 6.75 | 4 |  |  | 2.2 | 12 | 3 | 2 | 2 | 0 | 1 | 4 | 1.50 |
-| San Francisco Giants | MLB | Seventh Inning |  |  | 4.76 | 8 |  |  | 5.2 | 24 | 4 | 3 | 3 | 0 | 2 | 2 | 1.06 |
-| San Francisco Giants | MLB | Eighth Inning |  |  | 9.95 | 8 |  |  | 6.1 | 35 | 10 | 7 | 7 | 1 | 6 | 4 | 2.53 |
-| San Francisco Giants | MLB | Ninth Inning |  |  | 8.38 | 10 |  |  | 9.2 | 43 | 12 | 10 | 9 | 3 | 4 | 6 | 1.66 |
-| San Francisco Giants | MLB | Extra Innings |  |  | 0.00 | 1 |  |  | 1.0 | 5 | 1 | 0 | 0 | 0 | 1 | 2 | 2.00 |
+| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP | AVG | OBP | SLG | OPS |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| San Francisco Giants | MLB | Fifth Inning |  |  | 9.00 | 2 |  |  | 1.0 | 6 | 3 | 1 | 1 | 0 | 1 | 1 | 4.00 | .600 | .667 | 1.000 | 1.667 |
+| San Francisco Giants | MLB | Sixth Inning |  |  | 6.75 | 4 |  |  | 2.2 | 12 | 3 | 2 | 2 | 0 | 1 | 4 | 1.50 | .273 | .333 | .273 | .606 |
+| San Francisco Giants | MLB | Seventh Inning |  |  | 4.76 | 8 |  |  | 5.2 | 24 | 4 | 3 | 3 | 0 | 2 | 2 | 1.06 | .190 | .292 | .190 | .482 |
+| San Francisco Giants | MLB | Eighth Inning |  |  | 9.95 | 8 |  |  | 6.1 | 35 | 10 | 7 | 7 | 1 | 6 | 4 | 2.53 | .370 | .485 | .519 | 1.004 |
+| San Francisco Giants | MLB | Ninth Inning |  |  | 8.38 | 10 |  |  | 9.2 | 43 | 12 | 10 | 9 | 3 | 4 | 6 | 1.66 | .308 | .372 | .615 | .987 |
+| San Francisco Giants | MLB | Extra Innings |  |  | 0.00 | 1 |  |  | 1.0 | 5 | 1 | 0 | 0 | 0 | 1 | 2 | 2.00 | .250 | .400 | .250 | .650 |
 
 ### [Platoon Splits](https://baseballsavant.mlb.com/savant-player/ryan-walker-676254?stats=statcast-r-pitching-mlb\#milb-platoon-splits)
 
-| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Sacramento River Cats | Triple-A | vs Left |  |  |  | 8 |  |  | 4.2 | 19 | 2 |  |  | 1 | 2 | 3 | 0.86 |
-| Sacramento River Cats | Triple-A | vs Right |  |  |  | 9 |  |  | 5.1 | 25 | 6 |  |  | 0 | 4 | 5 | 1.88 |
+| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP | AVG | OBP | SLG | OPS |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Sacramento River Cats | Triple-A | vs Left |  |  |  | 8 |  |  | 4.2 | 19 | 2 |  |  | 1 | 2 | 3 | 0.86 | .118 | .211 | .294 | .505 |
+| Sacramento River Cats | Triple-A | vs Right |  |  |  | 9 |  |  | 5.1 | 25 | 6 |  |  | 0 | 4 | 5 | 1.88 | .300 | .440 | .350 | .790 |
 
 ### [Monthly Splits](https://baseballsavant.mlb.com/savant-player/ryan-walker-676254?stats=statcast-r-pitching-mlb\#milb-monthly-splits)
 
-| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Sacramento River Cats | Triple-A | May | 0 | 0 | 1.93 | 5 | 0 | 0 | 4.2 | 20 | 5 | 1 | 1 | 0 | 2 | 4 | 1.50 |
-| Sacramento River Cats | Triple-A | June | 0 | 0 | 1.93 | 3 | 0 | 1 | 4.2 | 17 | 2 | 1 | 1 | 0 | 1 | 3 | 0.64 |
-| Sacramento River Cats | Triple-A | July | 0 | 0 | 18.00 | 1 | 0 | 0 | 1.0 | 7 | 1 | 2 | 2 | 1 | 3 | 1 | 4.00 |
-| Sacramento River Cats | Triple-A | First Half | 0 | 0 | 1.93 | 8 | 0 | 1 | 9.1 | 37 | 7 | 2 | 2 | 0 | 3 | 7 | 1.07 |
-| Sacramento River Cats | Triple-A | Second Half | 0 | 0 | 18.00 | 1 | 0 | 0 | 1.0 | 7 | 1 | 2 | 2 | 1 | 3 | 1 | 4.00 |
+| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP | AVG | OBP | SLG | OPS |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Sacramento River Cats | Triple-A | May | 0 | 0 | 1.93 | 5 | 0 | 0 | 4.2 | 20 | 5 | 1 | 1 | 0 | 2 | 4 | 1.50 | .294 | .400 | .294 | .694 |
+| Sacramento River Cats | Triple-A | June | 0 | 0 | 1.93 | 3 | 0 | 1 | 4.2 | 17 | 2 | 1 | 1 | 0 | 1 | 3 | 0.64 | .125 | .176 | .188 | .364 |
+| Sacramento River Cats | Triple-A | July | 0 | 0 | 18.00 | 1 | 0 | 0 | 1.0 | 7 | 1 | 2 | 2 | 1 | 3 | 1 | 4.00 | .250 | .571 | 1.000 | 1.571 |
+| Sacramento River Cats | Triple-A | First Half | 0 | 0 | 1.93 | 8 | 0 | 1 | 9.1 | 37 | 7 | 2 | 2 | 0 | 3 | 7 | 1.07 | .212 | .297 | .242 | .539 |
+| Sacramento River Cats | Triple-A | Second Half | 0 | 0 | 18.00 | 1 | 0 | 0 | 1.0 | 7 | 1 | 2 | 2 | 1 | 3 | 1 | 4.00 | .250 | .571 | 1.000 | 1.571 |
 
 ### [Baserunner Splits](https://baseballsavant.mlb.com/savant-player/ryan-walker-676254?stats=statcast-r-pitching-mlb\#milb-baserunner-splits)
 
-| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Sacramento River Cats | Triple-A | Bases Empty |  |  |  | 9 |  |  | 5.2 | 25 | 5 |  |  | 0 | 2 | 5 | 1.24 |
-| Sacramento River Cats | Triple-A | Bases Loaded |  |  |  | 1 |  |  | 0.0 | 1 | 0 |  |  | 0 | 1 | 0 | -.-- |
-| Sacramento River Cats | Triple-A | Runner at 1st |  |  |  | 6 |  |  | 2.2 | 8 | 1 |  |  | 1 | 0 | 1 | 0.38 |
-| Sacramento River Cats | Triple-A | Runners at 1st & 2nd |  |  |  | 2 |  |  | 0.2 | 3 | 1 |  |  | 0 | 0 | 1 | 1.50 |
-| Sacramento River Cats | Triple-A | Runners at 1st & 3rd |  |  |  | 1 |  |  | 0.1 | 1 | 0 |  |  | 0 | 0 | 0 | 0.00 |
-| Sacramento River Cats | Triple-A | Runner at 2nd |  |  |  | 5 |  |  | 1.0 | 5 | 1 |  |  | 0 | 2 | 1 | 3.00 |
-| Sacramento River Cats | Triple-A | Runner at 3rd |  |  |  | 1 |  |  | 0.0 | 1 | 0 |  |  | 0 | 1 | 0 | -.-- |
-| Sacramento River Cats | Triple-A | Scoring Position |  |  |  | 5 |  |  | 2.0 | 11 | 2 |  |  | 0 | 4 | 2 | 3.00 |
+| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP | AVG | OBP | SLG | OPS |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Sacramento River Cats | Triple-A | Bases Empty |  |  |  | 9 |  |  | 5.2 | 25 | 5 |  |  | 0 | 2 | 5 | 1.24 | .227 | .320 | .227 | .547 |
+| Sacramento River Cats | Triple-A | Bases Loaded |  |  |  | 1 |  |  | 0.0 | 1 | 0 |  |  | 0 | 1 | 0 | -.-- | .000 | 1.000 | .000 | 1.000 |
+| Sacramento River Cats | Triple-A | Runner at 1st |  |  |  | 6 |  |  | 2.2 | 8 | 1 |  |  | 1 | 0 | 1 | 0.38 | .125 | .125 | .500 | .625 |
+| Sacramento River Cats | Triple-A | Runners at 1st & 2nd |  |  |  | 2 |  |  | 0.2 | 3 | 1 |  |  | 0 | 0 | 1 | 1.50 | .333 | .333 | .333 | .666 |
+| Sacramento River Cats | Triple-A | Runners at 1st & 3rd |  |  |  | 1 |  |  | 0.1 | 1 | 0 |  |  | 0 | 0 | 0 | 0.00 | .000 | .000 | .000 | .000 |
+| Sacramento River Cats | Triple-A | Runner at 2nd |  |  |  | 5 |  |  | 1.0 | 5 | 1 |  |  | 0 | 2 | 1 | 3.00 | .333 | .600 | .667 | 1.267 |
+| Sacramento River Cats | Triple-A | Runner at 3rd |  |  |  | 1 |  |  | 0.0 | 1 | 0 |  |  | 0 | 1 | 0 | -.-- | .000 | 1.000 | .000 | 1.000 |
+| Sacramento River Cats | Triple-A | Scoring Position |  |  |  | 5 |  |  | 2.0 | 11 | 2 |  |  | 0 | 4 | 2 | 3.00 | .286 | .545 | .429 | .974 |
 
 ### [Game Type Splits](https://baseballsavant.mlb.com/savant-player/ryan-walker-676254?stats=statcast-r-pitching-mlb\#milb-game-type-splits)
 
-| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Sacramento River Cats | Triple-A | Home Games | 0 | 0 | 2.70 | 5 | 0 | 0 | 6.2 | 25 | 1 | 2 | 2 | 1 | 3 | 6 | 0.60 |
-| Sacramento River Cats | Triple-A | Away Games | 0 | 0 | 4.91 | 4 | 0 | 1 | 3.2 | 19 | 7 | 2 | 2 | 0 | 3 | 2 | 2.73 |
-| Sacramento River Cats | Triple-A | Day Games | 0 | 0 | 16.20 | 2 | 0 | 0 | 1.2 | 13 | 3 | 3 | 3 | 1 | 5 | 3 | 4.80 |
-| Sacramento River Cats | Triple-A | Night Games | 0 | 0 | 1.04 | 7 | 0 | 1 | 8.2 | 31 | 5 | 1 | 1 | 0 | 1 | 5 | 0.69 |
-| Sacramento River Cats | Triple-A | Leading Off Inning |  |  |  | 9 |  |  | 2.2 | 11 | 4 |  |  | 0 | 0 | 4 | 1.50 |
-| Sacramento River Cats | Triple-A | Late / Close |  |  |  | 1 |  |  | 0.2 | 3 | 0 |  |  | 0 | 1 | 0 | 1.50 |
+| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP | AVG | OBP | SLG | OPS |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Sacramento River Cats | Triple-A | Home Games | 0 | 0 | 2.70 | 5 | 0 | 0 | 6.2 | 25 | 1 | 2 | 2 | 1 | 3 | 6 | 0.60 | .048 | .200 | .190 | .390 |
+| Sacramento River Cats | Triple-A | Away Games | 0 | 0 | 4.91 | 4 | 0 | 1 | 3.2 | 19 | 7 | 2 | 2 | 0 | 3 | 2 | 2.73 | .438 | .526 | .500 | 1.026 |
+| Sacramento River Cats | Triple-A | Day Games | 0 | 0 | 16.20 | 2 | 0 | 0 | 1.2 | 13 | 3 | 3 | 3 | 1 | 5 | 3 | 4.80 | .375 | .615 | .750 | 1.365 |
+| Sacramento River Cats | Triple-A | Night Games | 0 | 0 | 1.04 | 7 | 0 | 1 | 8.2 | 31 | 5 | 1 | 1 | 0 | 1 | 5 | 0.69 | .172 | .226 | .207 | .433 |
+| Sacramento River Cats | Triple-A | Leading Off Inning |  |  |  | 9 |  |  | 2.2 | 11 | 4 |  |  | 0 | 0 | 4 | 1.50 | .364 | .364 | .364 | .728 |
+| Sacramento River Cats | Triple-A | Late / Close |  |  |  | 1 |  |  | 0.2 | 3 | 0 |  |  | 0 | 1 | 0 | 1.50 | .000 | .333 | .000 | .333 |
 
 ### [Outs Splits](https://baseballsavant.mlb.com/savant-player/ryan-walker-676254?stats=statcast-r-pitching-mlb\#milb-out-splits)
 
-| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Sacramento River Cats | Triple-A | No Outs |  |  |  | 9 |  |  | 3.2 | 14 | 4 |  |  | 0 | 0 | 5 | 1.09 |
-| Sacramento River Cats | Triple-A | One Out |  |  |  | 9 |  |  | 4.0 | 17 | 2 |  |  | 1 | 3 | 2 | 1.25 |
-| Sacramento River Cats | Triple-A | Two Outs |  |  |  | 8 |  |  | 2.2 | 13 | 2 |  |  | 0 | 3 | 1 | 1.88 |
+| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP | AVG | OBP | SLG | OPS |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Sacramento River Cats | Triple-A | No Outs |  |  |  | 9 |  |  | 3.2 | 14 | 4 |  |  | 0 | 0 | 5 | 1.09 | .286 | .286 | .286 | .572 |
+| Sacramento River Cats | Triple-A | One Out |  |  |  | 9 |  |  | 4.0 | 17 | 2 |  |  | 1 | 3 | 2 | 1.25 | .154 | .353 | .462 | .815 |
+| Sacramento River Cats | Triple-A | Two Outs |  |  |  | 8 |  |  | 2.2 | 13 | 2 |  |  | 0 | 3 | 1 | 1.88 | .200 | .385 | .200 | .585 |
 
 ### [Inning Splits](https://baseballsavant.mlb.com/savant-player/ryan-walker-676254?stats=statcast-r-pitching-mlb\#milb-inning-splits)
 
-| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Sacramento River Cats | Triple-A | Fourth Inning |  |  | 18.00 | 1 |  |  | 1.0 | 7 | 1 | 2 | 2 | 1 | 3 | 1 | 4.00 |
-| Sacramento River Cats | Triple-A | Sixth Inning |  |  | 3.38 | 3 |  |  | 2.2 | 13 | 5 | 1 | 1 | 0 | 2 | 2 | 2.63 |
-| Sacramento River Cats | Triple-A | Seventh Inning |  |  | 0.00 | 2 |  |  | 2.0 | 6 | 0 | 0 | 0 | 0 | 0 | 0 | 0.00 |
-| Sacramento River Cats | Triple-A | Eighth Inning |  |  | 0.00 | 3 |  |  | 3.0 | 10 | 0 | 0 | 0 | 0 | 0 | 3 | 0.00 |
-| Sacramento River Cats | Triple-A | Ninth Inning |  |  | 5.40 | 2 |  |  | 1.2 | 8 | 2 | 1 | 1 | 0 | 1 | 2 | 1.80 |
+| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP | AVG | OBP | SLG | OPS |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Sacramento River Cats | Triple-A | Fourth Inning |  |  | 18.00 | 1 |  |  | 1.0 | 7 | 1 | 2 | 2 | 1 | 3 | 1 | 4.00 | .250 | .571 | 1.000 | 1.571 |
+| Sacramento River Cats | Triple-A | Sixth Inning |  |  | 3.38 | 3 |  |  | 2.2 | 13 | 5 | 1 | 1 | 0 | 2 | 2 | 2.63 | .455 | .538 | .455 | .993 |
+| Sacramento River Cats | Triple-A | Seventh Inning |  |  | 0.00 | 2 |  |  | 2.0 | 6 | 0 | 0 | 0 | 0 | 0 | 0 | 0.00 | .000 | .000 | .000 | .000 |
+| Sacramento River Cats | Triple-A | Eighth Inning |  |  | 0.00 | 3 |  |  | 3.0 | 10 | 0 | 0 | 0 | 0 | 0 | 3 | 0.00 | .000 | .100 | .000 | .100 |
+| Sacramento River Cats | Triple-A | Ninth Inning |  |  | 5.40 | 2 |  |  | 1.2 | 8 | 2 | 1 | 1 | 0 | 1 | 2 | 1.80 | .286 | .375 | .429 | .804 |
 
 | Date | Home Tm | Away Tm | W | L | ERA | G | GS | SV | IP | H | R | ER | HR | BB | SO | WHIP |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -652,7 +649,7 @@ All Similar Pitchers](https://baseballsavant.mlb.com/affinity-pitchersAndHitters
 
 ## [Pitch Movement](https://baseballsavant.mlb.com/savant-player/ryan-walker-676254?stats=statcast-r-pitching-mlb\#pitch_movement)
 
-Created with Highcharts 6.2.0Chart context menuRyan Walker Vertical Movement vs Avg (Inches) by SeasonSource: baseballsavant.mlb.comFour SeamerSinkerSliderChangeup2023202420252026-15-10-50510
+Created with Highcharts 6.2.0Chart context menuRyan Walker Vertical Movement vs Avg (Inches) by SeasonSource: baseballsavant.mlb.comSinkerSliderFour SeamerChangeup2023202420252026-15-10-50510
 
 - Vertical Movement vs Avg (Inches)Horizontal Movement vs Avg (Inches)Horizontal Movement (Inches)Vertical Movement (Inches)Induced Vertical Movement (Inches)Horizontal Movement % Break vs AvgVertical Movement % Break vs Avg▾
 
@@ -668,19 +665,19 @@ On the right, Induced Movement (or IVB) is reported without gravity, and attempt
 | --- | --- | --- |
 | Year | Pitch | Team | Hand | # | MPH | Vertical<br>Drop | vs.<br>Comparable | Horizontal<br>Break | vs.<br>Comparable | Vertical<br>Break | vs. Avg | Horizontal<br>Break | vs. Avg |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2026 | 4-Seam Fastball | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 14 | 93.9 | 22.7 | -5.8 | 8.4ARM | -1.8 | 8.0 | -7.8 | 8.4ARM | 0.6 |
 | 2026 | Sinker | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 335 | 95.2 | 26.9 | 1.9 | 17.0ARM | 0.5 | 3.4 | 4.2 | 17.0ARM | 1.9 |
 | 2026 | Slider | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 141 | 83.0 | 36.9 | -2.2 | 16.9GLV | 10.6 | 2.8 | -1.4 | 16.9GLV | 13.3 |
-| 2025 | Slider | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 382 | 84.0 | 36.5 | -0.8 | 15.3GLV | 9.1 | 2.4 | -0.6 | 15.3GLV | 11.1 |
+| 2026 | 4-Seam Fastball | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 14 | 93.9 | 22.7 | -5.8 | 8.4ARM | -1.8 | 8.0 | -7.8 | 8.4ARM | 0.6 |
 | 2025 | 4-Seam Fastball | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 2 | 95.1 | 27.8 | -11.3 | 17.8ARM | 7.8 | 2.5 | -13.3 | 17.8ARM | 10.2 |
 | 2025 | Sinker | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 630 | 96.0 | 26.5 | 2.3 | 16.8ARM | 0.4 | 3.4 | 4.0 | 16.8ARM | 1.7 |
 | 2025 | Changeup | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 4 | 91.3 | 28.6 | -2.2 | 15.4ARM | 0.0 | 4.4 | -0.3 | 15.4ARM | 0.9 |
-| 2024 | Sinker | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 667 | 95.6 | 26.7 | 2.4 | 15.1ARM | -1.0 | 3.3 | 3.9 | 15.1ARM | 0.3 |
+| 2025 | Slider | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 382 | 84.0 | 36.5 | -0.8 | 15.3GLV | 9.1 | 2.4 | -0.6 | 15.3GLV | 11.1 |
 | 2024 | 4-Seam Fastball | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 7 | 94.5 | 22.0 | -5.9 | 7.8ARM | -1.2 | 8.7 | -7.1 | 7.8ARM | 0.3 |
 | 2024 | Slider | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 546 | 83.9 | 36.4 | -1.2 | 14.9GLV | 9.1 | 2.6 | -0.9 | 14.9GLV | 10.3 |
-| 2023 | Slider | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 543 | 83.2 | 38.2 | -0.2 | 14.6GLV | 8.6 | 1.5 | 0.1 | 14.6GLV | 9.9 |
-| 2023 | Sinker | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 523 | 94.8 | 28.0 | 4.3 | 14.5ARM | -1.2 | 2.5 | 5.2 | 14.5ARM | -0.4 |
+| 2024 | Sinker | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 667 | 95.6 | 26.7 | 2.4 | 15.1ARM | -1.0 | 3.3 | 3.9 | 15.1ARM | 0.3 |
 | 2023 | 4-Seam Fastball | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 12 | 94.4 | 27.9 | -12.3 | 14.1ARM | 5.4 | 2.7 | -13.1 | 14.1ARM | 6.7 |
+| 2023 | Sinker | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 523 | 94.8 | 28.0 | 4.3 | 14.5ARM | -1.2 | 2.5 | 5.2 | 14.5ARM | -0.4 |
+| 2023 | Slider | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 543 | 83.2 | 38.2 | -0.2 | 14.6GLV | 8.6 | 1.5 | 0.1 | 14.6GLV | 9.9 |
 
 ! Note: Years are in reverse order.
 
@@ -1056,11 +1053,11 @@ Loading Bat Tracking...
 
 Loading Chart Data...
 
-Ryan WalkerResponsible Plays for 20260ft20ft40ft60ft80ft100ft120ft140ftDistance From Ball Landing12345678Hang Time (Sec.)◀▶▼▲League Wide Catch Difficulty Scale★★★★★★012345OutHitWallBack
+Ryan WalkerResponsible Plays for 20260ft20ft40ft60ft80ft100ft120ft140ftDistance From Ball Landing12345678Opportunity Time (Sec.)◀▶▼▲League Wide Catch Difficulty Scale★★★★★★012345OutHitWallBack
 
 \\* Click Any Legend Option to Reset Chart \| Save Chart
 
-Hang Time:
+Opportunity Time:
 
 
 Catch Rate GT:

@@ -3,10 +3,7 @@ source: https://baseballsavant.mlb.com/savant-player/blake-snell-605483
 slug: baseballsavant-blake-snell
 ---
 
-[|     |     |     |     |\\
-| --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/159.svg) | AL | 4 | Final |\\
-| ![](https://www.mlbstatic.com/team-logos/160.svg) | NL | 0 |](https://baseballsavant.mlb.com/gamefeed?gamePk=823443&game_date=2026-07-14)
+No Games Scheduled.
 
 <
 
@@ -673,107 +670,107 @@ No Minor League Hitting Statistics.
 
 ### [Platoon Splits](https://baseballsavant.mlb.com/savant-player/blake-snell-605483?stats=statcast-r-pitching-mlb\#platoon-splits)
 
-| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Los Angeles Dodgers | MLB | vs Left |  |  |  | 1 |  |  | 1.0 | 6 | 1 |  |  | 0 | 2 | 2 | 3.00 |
-| Los Angeles Dodgers | MLB | vs Right |  |  |  | 1 |  |  | 2.0 | 12 | 5 |  |  | 0 | 0 | 3 | 2.50 |
+| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP | AVG | OBP | SLG | OPS |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Los Angeles Dodgers | MLB | vs Left |  |  |  | 1 |  |  | 1.0 | 6 | 1 |  |  | 0 | 2 | 2 | 3.00 | .250 | .500 | .250 | .750 |
+| Los Angeles Dodgers | MLB | vs Right |  |  |  | 1 |  |  | 2.0 | 12 | 5 |  |  | 0 | 0 | 3 | 2.50 | .417 | .417 | .417 | .834 |
 
 ### [Monthly Splits](https://baseballsavant.mlb.com/savant-player/blake-snell-605483?stats=statcast-r-pitching-mlb\#monthly-splits)
 
-| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Los Angeles Dodgers | MLB | May | 0 | 1 | 12.00 | 1 | 1 | 0 | 3.0 | 18 | 6 | 5 | 4 | 0 | 2 | 5 | 2.67 |
-| Los Angeles Dodgers | MLB | Pre All-Star | 0 | 1 | 12.00 | 1 | 1 | 0 | 3.0 | 18 | 6 | 5 | 4 | 0 | 2 | 5 | 2.67 |
+| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP | AVG | OBP | SLG | OPS |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Los Angeles Dodgers | MLB | May | 0 | 1 | 12.00 | 1 | 1 | 0 | 3.0 | 18 | 6 | 5 | 4 | 0 | 2 | 5 | 2.67 | .375 | .444 | .375 | .819 |
+| Los Angeles Dodgers | MLB | Pre All-Star | 0 | 1 | 12.00 | 1 | 1 | 0 | 3.0 | 18 | 6 | 5 | 4 | 0 | 2 | 5 | 2.67 | .375 | .444 | .375 | .819 |
 
 ### [Baserunner Splits](https://baseballsavant.mlb.com/savant-player/blake-snell-605483?stats=statcast-r-pitching-mlb\#baserunner-splits)
 
-| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Los Angeles Dodgers | MLB | Bases Empty |  |  |  | 1 |  |  | 1.0 | 6 | 2 |  |  | 0 | 0 | 2 | 2.00 |
-| Los Angeles Dodgers | MLB | Bases Loaded |  |  |  | 1 |  |  | 0.2 | 3 | 1 |  |  | 0 | 0 | 1 | 1.50 |
-| Los Angeles Dodgers | MLB | Runner at 1st |  |  |  | 1 |  |  | 0.0 | 2 | 1 |  |  | 0 | 1 | 0 | -.-- |
-| Los Angeles Dodgers | MLB | Runners at 1st & 2nd |  |  |  | 1 |  |  | 0.1 | 3 | 1 |  |  | 0 | 1 | 0 | 6.00 |
-| Los Angeles Dodgers | MLB | Runners at 1st & 3rd |  |  |  | 1 |  |  | 0.1 | 1 | 0 |  |  | 0 | 0 | 1 | 0.00 |
-| Los Angeles Dodgers | MLB | Runner at 2nd |  |  |  | 1 |  |  | 0.2 | 2 | 0 |  |  | 0 | 0 | 1 | 0.00 |
-| Los Angeles Dodgers | MLB | Runners at 2nd & 3rd |  |  |  | 1 |  |  | 0.0 | 1 | 1 |  |  | 0 | 0 | 0 | -.-- |
-| Los Angeles Dodgers | MLB | Scoring Position |  |  |  | 1 |  |  | 2.0 | 10 | 3 |  |  | 0 | 1 | 3 | 2.00 |
+| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP | AVG | OBP | SLG | OPS |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Los Angeles Dodgers | MLB | Bases Empty |  |  |  | 1 |  |  | 1.0 | 6 | 2 |  |  | 0 | 0 | 2 | 2.00 | .333 | .333 | .333 | .666 |
+| Los Angeles Dodgers | MLB | Bases Loaded |  |  |  | 1 |  |  | 0.2 | 3 | 1 |  |  | 0 | 0 | 1 | 1.50 | .333 | .333 | .333 | .666 |
+| Los Angeles Dodgers | MLB | Runner at 1st |  |  |  | 1 |  |  | 0.0 | 2 | 1 |  |  | 0 | 1 | 0 | -.-- | 1.000 | 1.000 | 1.000 | 2.000 |
+| Los Angeles Dodgers | MLB | Runners at 1st & 2nd |  |  |  | 1 |  |  | 0.1 | 3 | 1 |  |  | 0 | 1 | 0 | 6.00 | .500 | .667 | .500 | 1.167 |
+| Los Angeles Dodgers | MLB | Runners at 1st & 3rd |  |  |  | 1 |  |  | 0.1 | 1 | 0 |  |  | 0 | 0 | 1 | 0.00 | .000 | .000 | .000 | .000 |
+| Los Angeles Dodgers | MLB | Runner at 2nd |  |  |  | 1 |  |  | 0.2 | 2 | 0 |  |  | 0 | 0 | 1 | 0.00 | .000 | .000 | .000 | .000 |
+| Los Angeles Dodgers | MLB | Runners at 2nd & 3rd |  |  |  | 1 |  |  | 0.0 | 1 | 1 |  |  | 0 | 0 | 0 | -.-- | 1.000 | 1.000 | 1.000 | 2.000 |
+| Los Angeles Dodgers | MLB | Scoring Position |  |  |  | 1 |  |  | 2.0 | 10 | 3 |  |  | 0 | 1 | 3 | 2.00 | .333 | .400 | .333 | .733 |
 
 ### [Game Type Splits](https://baseballsavant.mlb.com/savant-player/blake-snell-605483?stats=statcast-r-pitching-mlb\#game-type-splits)
 
-| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Los Angeles Dodgers | MLB | Home Games | 0 | 1 | 12.00 | 1 | 1 | 0 | 3.0 | 18 | 6 | 5 | 4 | 0 | 2 | 5 | 2.67 |
-| Los Angeles Dodgers | MLB | Night Games | 0 | 1 | 12.00 | 1 | 1 | 0 | 3.0 | 18 | 6 | 5 | 4 | 0 | 2 | 5 | 2.67 |
-| Los Angeles Dodgers | MLB | Leading Off Inning |  |  |  | 1 |  |  | 0.2 | 3 | 1 |  |  | 0 | 0 | 1 | 1.50 |
+| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP | AVG | OBP | SLG | OPS |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Los Angeles Dodgers | MLB | Home Games | 0 | 1 | 12.00 | 1 | 1 | 0 | 3.0 | 18 | 6 | 5 | 4 | 0 | 2 | 5 | 2.67 | .375 | .444 | .375 | .819 |
+| Los Angeles Dodgers | MLB | Night Games | 0 | 1 | 12.00 | 1 | 1 | 0 | 3.0 | 18 | 6 | 5 | 4 | 0 | 2 | 5 | 2.67 | .375 | .444 | .375 | .819 |
+| Los Angeles Dodgers | MLB | Leading Off Inning |  |  |  | 1 |  |  | 0.2 | 3 | 1 |  |  | 0 | 0 | 1 | 1.50 | .333 | .333 | .333 | .666 |
 
 ### [Outs Splits](https://baseballsavant.mlb.com/savant-player/blake-snell-605483?stats=statcast-r-pitching-mlb\#out-splits)
 
-| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Los Angeles Dodgers | MLB | No Outs |  |  |  | 1 |  |  | 1.0 | 6 | 2 |  |  | 0 | 1 | 2 | 3.00 |
-| Los Angeles Dodgers | MLB | One Out |  |  |  | 1 |  |  | 1.0 | 5 | 2 |  |  | 0 | 0 | 1 | 2.00 |
-| Los Angeles Dodgers | MLB | Two Outs |  |  |  | 1 |  |  | 1.0 | 7 | 2 |  |  | 0 | 1 | 2 | 3.00 |
+| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP | AVG | OBP | SLG | OPS |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Los Angeles Dodgers | MLB | No Outs |  |  |  | 1 |  |  | 1.0 | 6 | 2 |  |  | 0 | 1 | 2 | 3.00 | .400 | .500 | .400 | .900 |
+| Los Angeles Dodgers | MLB | One Out |  |  |  | 1 |  |  | 1.0 | 5 | 2 |  |  | 0 | 0 | 1 | 2.00 | .400 | .400 | .400 | .800 |
+| Los Angeles Dodgers | MLB | Two Outs |  |  |  | 1 |  |  | 1.0 | 7 | 2 |  |  | 0 | 1 | 2 | 3.00 | .333 | .429 | .333 | .762 |
 
 ### [Inning Splits](https://baseballsavant.mlb.com/savant-player/blake-snell-605483?stats=statcast-r-pitching-mlb\#inning-splits)
 
-| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Los Angeles Dodgers | MLB | First Inning |  |  | 9.00 | 1 |  |  | 1.0 | 6 | 2 | 1 | 1 | 0 | 1 | 2 | 3.00 |
-| Los Angeles Dodgers | MLB | Second Inning |  |  | 27.00 | 1 |  |  | 1.0 | 8 | 4 | 4 | 3 | 0 | 1 | 1 | 5.00 |
-| Los Angeles Dodgers | MLB | Third Inning |  |  | 0.00 | 1 |  |  | 1.0 | 4 | 0 | 0 | 0 | 0 | 0 | 2 | 0.00 |
+| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP | AVG | OBP | SLG | OPS |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Los Angeles Dodgers | MLB | First Inning |  |  | 9.00 | 1 |  |  | 1.0 | 6 | 2 | 1 | 1 | 0 | 1 | 2 | 3.00 | .400 | .500 | .400 | .900 |
+| Los Angeles Dodgers | MLB | Second Inning |  |  | 27.00 | 1 |  |  | 1.0 | 8 | 4 | 4 | 3 | 0 | 1 | 1 | 5.00 | .571 | .625 | .571 | 1.196 |
+| Los Angeles Dodgers | MLB | Third Inning |  |  | 0.00 | 1 |  |  | 1.0 | 4 | 0 | 0 | 0 | 0 | 0 | 2 | 0.00 | .000 | .000 | .000 | .000 |
 
 ### [Platoon Splits](https://baseballsavant.mlb.com/savant-player/blake-snell-605483?stats=statcast-r-pitching-mlb\#milb-platoon-splits)
 
-| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2 Teams | Minors | vs Left |  |  |  | 2 |  |  | 1.0 | 3 | 1 |  |  | 0 | 0 | 1 | 1.00 |
-| 2 Teams | Minors | vs Right |  |  |  | 3 |  |  | 7.0 | 29 | 5 |  |  | 1 | 2 | 9 | 1.00 |
+| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP | AVG | OBP | SLG | OPS |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2 Teams | Minors | vs Left |  |  |  | 2 |  |  | 1.0 | 3 | 1 |  |  | 0 | 0 | 1 | 1.00 | .333 | .333 | .333 | .666 |
+| 2 Teams | Minors | vs Right |  |  |  | 3 |  |  | 7.0 | 29 | 5 |  |  | 1 | 2 | 9 | 1.00 | .185 | .241 | .370 | .611 |
 
 ### [Monthly Splits](https://baseballsavant.mlb.com/savant-player/blake-snell-605483?stats=statcast-r-pitching-mlb\#milb-monthly-splits)
 
-| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Ontario Tower Buzzers | Single-A | April | 0 | 1 | 2.25 | 2 | 2 | 0 | 4.0 | 18 | 4 | 2 | 1 | 0 | 1 | 6 | 1.25 |
-| Oklahoma City Comets | Triple-A | May | 0 | 0 | 4.50 | 1 | 1 | 0 | 4.0 | 14 | 2 | 2 | 2 | 1 | 1 | 4 | 0.75 |
-| 2 Teams | Minors | First Half | 0 | 1 | 3.38 | 3 | 3 | 0 | 8.0 | 32 | 6 | 4 | 3 | 1 | 2 | 10 | 1.00 |
+| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP | AVG | OBP | SLG | OPS |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Ontario Tower Buzzers | Single-A | April | 0 | 1 | 2.25 | 2 | 2 | 0 | 4.0 | 18 | 4 | 2 | 1 | 0 | 1 | 6 | 1.25 | .235 | .278 | .353 | .631 |
+| Oklahoma City Comets | Triple-A | May | 0 | 0 | 4.50 | 1 | 1 | 0 | 4.0 | 14 | 2 | 2 | 2 | 1 | 1 | 4 | 0.75 | .154 | .214 | .385 | .599 |
+| 2 Teams | Minors | First Half | 0 | 1 | 3.38 | 3 | 3 | 0 | 8.0 | 32 | 6 | 4 | 3 | 1 | 2 | 10 | 1.00 | .200 | .250 | .367 | .617 |
 
 ### [Baserunner Splits](https://baseballsavant.mlb.com/savant-player/blake-snell-605483?stats=statcast-r-pitching-mlb\#milb-baserunner-splits)
 
-| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2 Teams | Minors | Bases Empty |  |  |  | 3 |  |  | 5.0 | 20 | 3 |  |  | 0 | 1 | 7 | 0.80 |
-| 2 Teams | Minors | Runner at 1st |  |  |  | 2 |  |  | 1.0 | 3 | 0 |  |  | 0 | 0 | 0 | 0.00 |
-| Ontario Tower Buzzers | Single-A | Runners at 1st & 2nd |  |  |  | 1 |  |  | 0.2 | 1 | 0 |  |  | 0 | 0 | 0 | 0.00 |
-| 2 Teams | Minors | Runner at 2nd |  |  |  | 3 |  |  | 0.0 | 3 | 2 |  |  | 1 | 1 | 0 | -.-- |
-| Ontario Tower Buzzers | Single-A | Runner at 3rd |  |  |  | 2 |  |  | 1.1 | 5 | 1 |  |  | 0 | 0 | 3 | 0.75 |
-| 2 Teams | Minors | Scoring Position |  |  |  | 3 |  |  | 2.0 | 9 | 3 |  |  | 1 | 1 | 3 | 2.00 |
+| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP | AVG | OBP | SLG | OPS |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2 Teams | Minors | Bases Empty |  |  |  | 3 |  |  | 5.0 | 20 | 3 |  |  | 0 | 1 | 7 | 0.80 | .158 | .200 | .211 | .411 |
+| 2 Teams | Minors | Runner at 1st |  |  |  | 2 |  |  | 1.0 | 3 | 0 |  |  | 0 | 0 | 0 | 0.00 | .000 | .000 | .000 | .000 |
+| Ontario Tower Buzzers | Single-A | Runners at 1st & 2nd |  |  |  | 1 |  |  | 0.2 | 1 | 0 |  |  | 0 | 0 | 0 | 0.00 | .000 | .000 | .000 | .000 |
+| 2 Teams | Minors | Runner at 2nd |  |  |  | 3 |  |  | 0.0 | 3 | 2 |  |  | 1 | 1 | 0 | -.-- | 1.000 | 1.000 | 3.000 | 4.000 |
+| Ontario Tower Buzzers | Single-A | Runner at 3rd |  |  |  | 2 |  |  | 1.1 | 5 | 1 |  |  | 0 | 0 | 3 | 0.75 | .200 | .200 | .200 | .400 |
+| 2 Teams | Minors | Scoring Position |  |  |  | 3 |  |  | 2.0 | 9 | 3 |  |  | 1 | 1 | 3 | 2.00 | .375 | .444 | .875 | 1.319 |
 
 ### [Game Type Splits](https://baseballsavant.mlb.com/savant-player/blake-snell-605483?stats=statcast-r-pitching-mlb\#milb-game-type-splits)
 
-| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Ontario Tower Buzzers | Single-A | Home Games | 0 | 0 | 0.00 | 1 | 1 | 0 | 3.0 | 10 | 1 | 0 | 0 | 0 | 0 | 6 | 0.33 |
-| 2 Teams | Minors | Away Games | 0 | 1 | 5.40 | 2 | 2 | 0 | 5.0 | 22 | 5 | 4 | 3 | 1 | 2 | 4 | 1.40 |
-| Oklahoma City Comets | Triple-A | Day Games | 0 | 0 | 4.50 | 1 | 1 | 0 | 4.0 | 14 | 2 | 2 | 2 | 1 | 1 | 4 | 0.75 |
-| Ontario Tower Buzzers | Single-A | Night Games | 0 | 1 | 2.25 | 2 | 2 | 0 | 4.0 | 18 | 4 | 2 | 1 | 0 | 1 | 6 | 1.25 |
-| 2 Teams | Minors | Leading Off Inning |  |  |  | 3 |  |  | 1.2 | 9 | 3 |  |  | 0 | 0 | 2 | 1.80 |
+| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP | AVG | OBP | SLG | OPS |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Ontario Tower Buzzers | Single-A | Home Games | 0 | 0 | 0.00 | 1 | 1 | 0 | 3.0 | 10 | 1 | 0 | 0 | 0 | 0 | 6 | 0.33 | .100 | .100 | .200 | .300 |
+| 2 Teams | Minors | Away Games | 0 | 1 | 5.40 | 2 | 2 | 0 | 5.0 | 22 | 5 | 4 | 3 | 1 | 2 | 4 | 1.40 | .250 | .318 | .450 | .768 |
+| Oklahoma City Comets | Triple-A | Day Games | 0 | 0 | 4.50 | 1 | 1 | 0 | 4.0 | 14 | 2 | 2 | 2 | 1 | 1 | 4 | 0.75 | .154 | .214 | .385 | .599 |
+| Ontario Tower Buzzers | Single-A | Night Games | 0 | 1 | 2.25 | 2 | 2 | 0 | 4.0 | 18 | 4 | 2 | 1 | 0 | 1 | 6 | 1.25 | .235 | .278 | .353 | .631 |
+| 2 Teams | Minors | Leading Off Inning |  |  |  | 3 |  |  | 1.2 | 9 | 3 |  |  | 0 | 0 | 2 | 1.80 | .333 | .333 | .444 | .777 |
 
 ### [Outs Splits](https://baseballsavant.mlb.com/savant-player/blake-snell-605483?stats=statcast-r-pitching-mlb\#milb-out-splits)
 
-| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2 Teams | Minors | No Outs |  |  |  | 3 |  |  | 3.0 | 16 | 5 |  |  | 0 | 1 | 3 | 2.00 |
-| 2 Teams | Minors | One Out |  |  |  | 2 |  |  | 2.2 | 9 | 1 |  |  | 1 | 1 | 3 | 0.75 |
-| 2 Teams | Minors | Two Outs |  |  |  | 3 |  |  | 2.1 | 7 | 0 |  |  | 0 | 0 | 4 | 0.00 |
+| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP | AVG | OBP | SLG | OPS |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2 Teams | Minors | No Outs |  |  |  | 3 |  |  | 3.0 | 16 | 5 |  |  | 0 | 1 | 3 | 2.00 | .333 | .375 | .467 | .842 |
+| 2 Teams | Minors | One Out |  |  |  | 2 |  |  | 2.2 | 9 | 1 |  |  | 1 | 1 | 3 | 0.75 | .125 | .222 | .500 | .722 |
+| 2 Teams | Minors | Two Outs |  |  |  | 3 |  |  | 2.1 | 7 | 0 |  |  | 0 | 0 | 4 | 0.00 | .000 | .000 | .000 | .000 |
 
 ### [Inning Splits](https://baseballsavant.mlb.com/savant-player/blake-snell-605483?stats=statcast-r-pitching-mlb\#milb-inning-splits)
 
-| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2 Teams | Minors | First Inning |  |  | 6.00 | 3 |  |  | 3.0 | 12 | 3 | 2 | 2 | 1 | 1 | 5 | 1.33 |
-| 2 Teams | Minors | Second Inning |  |  | 4.50 | 3 |  |  | 2.0 | 11 | 3 | 2 | 1 | 0 | 0 | 5 | 1.50 |
-| 2 Teams | Minors | Third Inning |  |  | 0.00 | 2 |  |  | 2.0 | 6 | 0 | 0 | 0 | 0 | 0 | 0 | 0.00 |
-| Oklahoma City Comets | Triple-A | Fourth Inning |  |  | 0.00 | 1 |  |  | 1.0 | 3 | 0 | 0 | 0 | 0 | 1 | 0 | 1.00 |
+| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP | AVG | OBP | SLG | OPS |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2 Teams | Minors | First Inning |  |  | 6.00 | 3 |  |  | 3.0 | 12 | 3 | 2 | 2 | 1 | 1 | 5 | 1.33 | .273 | .333 | .545 | .878 |
+| 2 Teams | Minors | Second Inning |  |  | 4.50 | 3 |  |  | 2.0 | 11 | 3 | 2 | 1 | 0 | 0 | 5 | 1.50 | .273 | .273 | .455 | .728 |
+| 2 Teams | Minors | Third Inning |  |  | 0.00 | 2 |  |  | 2.0 | 6 | 0 | 0 | 0 | 0 | 0 | 0 | 0.00 | .000 | .000 | .000 | .000 |
+| Oklahoma City Comets | Triple-A | Fourth Inning |  |  | 0.00 | 1 |  |  | 1.0 | 3 | 0 | 0 | 0 | 0 | 1 | 0 | 1.00 | .000 | .333 | .000 | .333 |
 
 | Date | Home Tm | Away Tm | W | L | ERA | G | GS | SV | IP | H | R | ER | HR | BB | SO | WHIP |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -864,7 +861,7 @@ Blake Snell's Pitches in 3d](https://baseballsavant.mlb.com/visuals/pitch3d?play
 
 ![](https://content.mlb.com/images/headshots/current/60x60/579328.png)[2024 - Yusei Kikuchi](https://baseballsavant.mlb.com/savant-player/579328)
 
-![](https://content.mlb.com/images/headshots/current/60x60/656713.png)[2019 - Brendan McKay](https://baseballsavant.mlb.com/savant-player/656713)
+![](https://content.mlb.com/images/headshots/current/60x60/666205.png)[2021 - Kyle Muller](https://baseballsavant.mlb.com/savant-player/666205)
 
 \-\-\- [Compare\\
 All Similar Pitchers](https://baseballsavant.mlb.com/affinity-pitchers-bySHV#players=pitchers&player=605483-L)
@@ -1562,11 +1559,11 @@ Loading Bat Tracking...
 
 Loading Chart Data...
 
-Blake SnellResponsible Plays for 20260ft20ft40ft60ft80ft100ft120ft140ftDistance From Ball Landing12345678Hang Time (Sec.)◀▶▼▲League Wide Catch Difficulty Scale★★★★★★012345OutHitWallBack
+Blake SnellResponsible Plays for 20260ft20ft40ft60ft80ft100ft120ft140ftDistance From Ball Landing12345678Opportunity Time (Sec.)◀▶▼▲League Wide Catch Difficulty Scale★★★★★★012345OutHitWallBack
 
 \\* Click Any Legend Option to Reset Chart \| Save Chart
 
-Hang Time:
+Opportunity Time:
 
 
 Catch Rate GT:

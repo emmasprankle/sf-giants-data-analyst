@@ -3,10 +3,7 @@ source: https://baseballsavant.mlb.com/savant-player/camilo-doval-666808
 slug: baseballsavant-camilo-doval
 ---
 
-[|     |     |     |     |\\
-| --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/159.svg) | AL | 4 | Final |\\
-| ![](https://www.mlbstatic.com/team-logos/160.svg) | NL | 0 |](https://baseballsavant.mlb.com/gamefeed?gamePk=823443&game_date=2026-07-14)
+No Games Scheduled.
 
 <
 
@@ -365,117 +362,117 @@ Save Image
 
 ### [Platoon Splits](https://baseballsavant.mlb.com/savant-player/camilo-doval-666808?stats=statcast-r-pitching-mlb\#platoon-splits)
 
-| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| New York Yankees | MLB | vs Left |  |  |  | 37 |  |  | 14.1 | 74 | 26 |  |  | 4 | 6 | 14 | 2.23 |
-| New York Yankees | MLB | vs Right |  |  |  | 37 |  |  | 20.2 | 83 | 11 |  |  | 2 | 6 | 21 | 0.82 |
+| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP | AVG | OBP | SLG | OPS |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| New York Yankees | MLB | vs Left |  |  |  | 37 |  |  | 14.1 | 74 | 26 |  |  | 4 | 6 | 14 | 2.23 | .388 | .432 | .627 | 1.059 |
+| New York Yankees | MLB | vs Right |  |  |  | 37 |  |  | 20.2 | 83 | 11 |  |  | 2 | 6 | 21 | 0.82 | .153 | .217 | .264 | .481 |
 
 ### [Monthly Splits](https://baseballsavant.mlb.com/savant-player/camilo-doval-666808?stats=statcast-r-pitching-mlb\#monthly-splits)
 
-| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| New York Yankees | MLB | March | 0 | 0 | 0.00 | 3 | 0 | 0 | 2.1 | 8 | 0 | 0 | 0 | 0 | 0 | 3 | 0.00 |
-| New York Yankees | MLB | April | 1 | 0 | 9.00 | 9 | 0 | 0 | 8.0 | 37 | 10 | 8 | 8 | 3 | 2 | 8 | 1.50 |
-| New York Yankees | MLB | May | 0 | 0 | 3.27 | 13 | 0 | 1 | 11.0 | 42 | 8 | 4 | 4 | 1 | 2 | 6 | 0.91 |
-| New York Yankees | MLB | June | 2 | 0 | 3.48 | 11 | 0 | 0 | 10.1 | 45 | 12 | 5 | 4 | 1 | 3 | 15 | 1.45 |
-| New York Yankees | MLB | July | 0 | 1 | 9.82 | 4 | 0 | 0 | 3.2 | 25 | 7 | 10 | 4 | 1 | 5 | 3 | 3.27 |
-| New York Yankees | MLB | Pre All-Star | 3 | 1 | 5.09 | 40 | 0 | 1 | 35.1 | 157 | 37 | 27 | 20 | 6 | 12 | 35 | 1.39 |
+| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP | AVG | OBP | SLG | OPS |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| New York Yankees | MLB | March | 0 | 0 | 0.00 | 3 | 0 | 0 | 2.1 | 8 | 0 | 0 | 0 | 0 | 0 | 3 | 0.00 | .000 | .000 | .000 | .000 |
+| New York Yankees | MLB | April | 1 | 0 | 9.00 | 9 | 0 | 0 | 8.0 | 37 | 10 | 8 | 8 | 3 | 2 | 8 | 1.50 | .294 | .324 | .618 | .942 |
+| New York Yankees | MLB | May | 0 | 0 | 3.27 | 13 | 0 | 1 | 11.0 | 42 | 8 | 4 | 4 | 1 | 2 | 6 | 0.91 | .211 | .238 | .316 | .554 |
+| New York Yankees | MLB | June | 2 | 0 | 3.48 | 11 | 0 | 0 | 10.1 | 45 | 12 | 5 | 4 | 1 | 3 | 15 | 1.45 | .286 | .333 | .405 | .738 |
+| New York Yankees | MLB | July | 0 | 1 | 9.82 | 4 | 0 | 0 | 3.2 | 25 | 7 | 10 | 4 | 1 | 5 | 3 | 3.27 | .412 | .520 | .647 | 1.167 |
+| New York Yankees | MLB | Pre All-Star | 3 | 1 | 5.09 | 40 | 0 | 1 | 35.1 | 157 | 37 | 27 | 20 | 6 | 12 | 35 | 1.39 | .266 | .318 | .439 | .757 |
 
 ### [Baserunner Splits](https://baseballsavant.mlb.com/savant-player/camilo-doval-666808?stats=statcast-r-pitching-mlb\#baserunner-splits)
 
-| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| New York Yankees | MLB | Bases Empty |  |  |  | 36 |  |  | 18.0 | 78 | 15 |  |  | 3 | 6 | 21 | 1.17 |
-| New York Yankees | MLB | Bases Loaded |  |  |  | 5 |  |  | 1.2 | 10 | 3 |  |  | 1 | 2 | 3 | 3.00 |
-| New York Yankees | MLB | Runner at 1st |  |  |  | 18 |  |  | 4.1 | 20 | 7 |  |  | 2 | 0 | 3 | 1.62 |
-| New York Yankees | MLB | Runners at 1st & 2nd |  |  |  | 5 |  |  | 0.2 | 5 | 3 |  |  | 0 | 0 | 2 | 4.50 |
-| New York Yankees | MLB | Runners at 1st & 3rd |  |  |  | 9 |  |  | 2.2 | 9 | 0 |  |  | 0 | 1 | 2 | 0.38 |
-| New York Yankees | MLB | Runner at 2nd |  |  |  | 16 |  |  | 2.2 | 16 | 7 |  |  | 0 | 1 | 2 | 3.00 |
-| New York Yankees | MLB | Runners at 2nd & 3rd |  |  |  | 5 |  |  | 1.2 | 7 | 1 |  |  | 0 | 1 | 1 | 1.20 |
-| New York Yankees | MLB | Runner at 3rd |  |  |  | 9 |  |  | 3.1 | 12 | 1 |  |  | 0 | 1 | 1 | 0.60 |
-| New York Yankees | MLB | Scoring Position |  |  |  | 24 |  |  | 12.2 | 59 | 15 |  |  | 1 | 6 | 11 | 1.66 |
+| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP | AVG | OBP | SLG | OPS |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| New York Yankees | MLB | Bases Empty |  |  |  | 36 |  |  | 18.0 | 78 | 15 |  |  | 3 | 6 | 21 | 1.17 | .208 | .269 | .361 | .630 |
+| New York Yankees | MLB | Bases Loaded |  |  |  | 5 |  |  | 1.2 | 10 | 3 |  |  | 1 | 2 | 3 | 3.00 | .429 | .500 | 1.000 | 1.500 |
+| New York Yankees | MLB | Runner at 1st |  |  |  | 18 |  |  | 4.1 | 20 | 7 |  |  | 2 | 0 | 3 | 1.62 | .368 | .400 | .737 | 1.137 |
+| New York Yankees | MLB | Runners at 1st & 2nd |  |  |  | 5 |  |  | 0.2 | 5 | 3 |  |  | 0 | 0 | 2 | 4.50 | .600 | .600 | .600 | 1.200 |
+| New York Yankees | MLB | Runners at 1st & 3rd |  |  |  | 9 |  |  | 2.2 | 9 | 0 |  |  | 0 | 1 | 2 | 0.38 | .000 | .111 | .000 | .111 |
+| New York Yankees | MLB | Runner at 2nd |  |  |  | 16 |  |  | 2.2 | 16 | 7 |  |  | 0 | 1 | 2 | 3.00 | .467 | .500 | .467 | .967 |
+| New York Yankees | MLB | Runners at 2nd & 3rd |  |  |  | 5 |  |  | 1.2 | 7 | 1 |  |  | 0 | 1 | 1 | 1.20 | .200 | .286 | .400 | .686 |
+| New York Yankees | MLB | Runner at 3rd |  |  |  | 9 |  |  | 3.1 | 12 | 1 |  |  | 0 | 1 | 1 | 0.60 | .100 | .167 | .200 | .367 |
+| New York Yankees | MLB | Scoring Position |  |  |  | 24 |  |  | 12.2 | 59 | 15 |  |  | 1 | 6 | 11 | 1.66 | .313 | .356 | .438 | .794 |
 
 ### [Game Type Splits](https://baseballsavant.mlb.com/savant-player/camilo-doval-666808?stats=statcast-r-pitching-mlb\#game-type-splits)
 
-| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| New York Yankees | MLB | Home Games | 1 | 1 | 7.71 | 19 | 0 | 1 | 18.2 | 91 | 27 | 23 | 16 | 5 | 7 | 22 | 1.82 |
-| New York Yankees | MLB | Away Games | 2 | 0 | 2.16 | 21 | 0 | 0 | 16.2 | 66 | 10 | 4 | 4 | 1 | 5 | 13 | 0.90 |
-| New York Yankees | MLB | Day Games | 1 | 1 | 5.40 | 13 | 0 | 0 | 11.2 | 58 | 13 | 14 | 7 | 1 | 8 | 14 | 1.80 |
-| New York Yankees | MLB | Night Games | 2 | 0 | 4.94 | 27 | 0 | 1 | 23.2 | 99 | 24 | 13 | 13 | 5 | 4 | 21 | 1.18 |
-| New York Yankees | MLB | Leading Off Inning |  |  |  | 31 |  |  | 6.0 | 31 | 7 |  |  | 0 | 4 | 7 | 1.83 |
-| New York Yankees | MLB | Late / Close |  |  |  | 14 |  |  | 8.1 | 40 | 12 |  |  | 4 | 3 | 6 | 1.80 |
+| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP | AVG | OBP | SLG | OPS |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| New York Yankees | MLB | Home Games | 1 | 1 | 7.71 | 19 | 0 | 1 | 18.2 | 91 | 27 | 23 | 16 | 5 | 7 | 22 | 1.82 | .338 | .374 | .600 | .974 |
+| New York Yankees | MLB | Away Games | 2 | 0 | 2.16 | 21 | 0 | 0 | 16.2 | 66 | 10 | 4 | 4 | 1 | 5 | 13 | 0.90 | .169 | .242 | .220 | .462 |
+| New York Yankees | MLB | Day Games | 1 | 1 | 5.40 | 13 | 0 | 0 | 11.2 | 58 | 13 | 14 | 7 | 1 | 8 | 14 | 1.80 | .283 | .379 | .391 | .770 |
+| New York Yankees | MLB | Night Games | 2 | 0 | 4.94 | 27 | 0 | 1 | 23.2 | 99 | 24 | 13 | 13 | 5 | 4 | 21 | 1.18 | .258 | .283 | .462 | .745 |
+| New York Yankees | MLB | Leading Off Inning |  |  |  | 31 |  |  | 6.0 | 31 | 7 |  |  | 0 | 4 | 7 | 1.83 | .259 | .355 | .296 | .651 |
+| New York Yankees | MLB | Late / Close |  |  |  | 14 |  |  | 8.1 | 40 | 12 |  |  | 4 | 3 | 6 | 1.80 | .333 | .375 | .667 | 1.042 |
 
 ### [Outs Splits](https://baseballsavant.mlb.com/savant-player/camilo-doval-666808?stats=statcast-r-pitching-mlb\#out-splits)
 
-| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| New York Yankees | MLB | No Outs |  |  |  | 33 |  |  | 11.0 | 53 | 13 |  |  | 0 | 5 | 14 | 1.64 |
-| New York Yankees | MLB | One Out |  |  |  | 38 |  |  | 12.0 | 51 | 13 |  |  | 4 | 2 | 12 | 1.25 |
-| New York Yankees | MLB | Two Outs |  |  |  | 35 |  |  | 12.0 | 53 | 11 |  |  | 2 | 5 | 9 | 1.33 |
+| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP | AVG | OBP | SLG | OPS |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| New York Yankees | MLB | No Outs |  |  |  | 33 |  |  | 11.0 | 53 | 13 |  |  | 0 | 5 | 14 | 1.64 | .283 | .340 | .326 | .666 |
+| New York Yankees | MLB | One Out |  |  |  | 38 |  |  | 12.0 | 51 | 13 |  |  | 4 | 2 | 12 | 1.25 | .289 | .314 | .600 | .914 |
+| New York Yankees | MLB | Two Outs |  |  |  | 35 |  |  | 12.0 | 53 | 11 |  |  | 2 | 5 | 9 | 1.33 | .229 | .302 | .396 | .698 |
 
 ### [Inning Splits](https://baseballsavant.mlb.com/savant-player/camilo-doval-666808?stats=statcast-r-pitching-mlb\#inning-splits)
 
-| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| New York Yankees | MLB | Fourth Inning |  |  | 0.00 | 1 |  |  | 0.1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0.00 |
-| New York Yankees | MLB | Fifth Inning |  |  | 0.00 | 1 |  |  | 0.1 | 3 | 0 | 0 | 0 | 0 | 1 | 0 | 3.00 |
-| New York Yankees | MLB | Sixth Inning |  |  | 10.80 | 2 |  |  | 1.2 | 10 | 4 | 2 | 2 | 0 | 1 | 1 | 3.00 |
-| New York Yankees | MLB | Seventh Inning |  |  | 2.61 | 14 |  |  | 10.1 | 38 | 4 | 3 | 3 | 2 | 3 | 7 | 0.68 |
-| New York Yankees | MLB | Eighth Inning |  |  | 7.36 | 17 |  |  | 14.2 | 68 | 22 | 16 | 12 | 4 | 2 | 21 | 1.64 |
-| New York Yankees | MLB | Ninth Inning |  |  | 1.29 | 7 |  |  | 7.0 | 30 | 6 | 2 | 1 | 0 | 2 | 6 | 1.14 |
-| New York Yankees | MLB | Extra Innings |  |  | 18.00 | 1 |  |  | 1.0 | 7 | 1 | 4 | 2 | 0 | 3 | 0 | 4.00 |
+| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP | AVG | OBP | SLG | OPS |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| New York Yankees | MLB | Fourth Inning |  |  | 0.00 | 1 |  |  | 0.1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0.00 | .000 | .000 | .000 | .000 |
+| New York Yankees | MLB | Fifth Inning |  |  | 0.00 | 1 |  |  | 0.1 | 3 | 0 | 0 | 0 | 0 | 1 | 0 | 3.00 | .000 | .667 | .000 | .667 |
+| New York Yankees | MLB | Sixth Inning |  |  | 10.80 | 2 |  |  | 1.2 | 10 | 4 | 2 | 2 | 0 | 1 | 1 | 3.00 | .500 | .500 | .625 | 1.125 |
+| New York Yankees | MLB | Seventh Inning |  |  | 2.61 | 14 |  |  | 10.1 | 38 | 4 | 3 | 3 | 2 | 3 | 7 | 0.68 | .118 | .184 | .294 | .478 |
+| New York Yankees | MLB | Eighth Inning |  |  | 7.36 | 17 |  |  | 14.2 | 68 | 22 | 16 | 12 | 4 | 2 | 21 | 1.64 | .344 | .353 | .594 | .947 |
+| New York Yankees | MLB | Ninth Inning |  |  | 1.29 | 7 |  |  | 7.0 | 30 | 6 | 2 | 1 | 0 | 2 | 6 | 1.14 | .222 | .267 | .259 | .526 |
+| New York Yankees | MLB | Extra Innings |  |  | 18.00 | 1 |  |  | 1.0 | 7 | 1 | 4 | 2 | 0 | 3 | 0 | 4.00 | .250 | .571 | .250 | .821 |
 
 ### [Platoon Splits](https://baseballsavant.mlb.com/savant-player/camilo-doval-666808?stats=statcast-r-pitching-mlb\#milb-platoon-splits)
 
-| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Sacramento River Cats | Triple-A | vs Left |  |  |  | 5 |  |  | 2.1 | 9 | 1 |  |  | 0 | 1 | 4 | 0.86 |
-| Sacramento River Cats | Triple-A | vs Right |  |  |  | 5 |  |  | 3.1 | 11 | 1 |  |  | 0 | 0 | 3 | 0.30 |
+| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP | AVG | OBP | SLG | OPS |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Sacramento River Cats | Triple-A | vs Left |  |  |  | 5 |  |  | 2.1 | 9 | 1 |  |  | 0 | 1 | 4 | 0.86 | .125 | .222 | .375 | .597 |
+| Sacramento River Cats | Triple-A | vs Right |  |  |  | 5 |  |  | 3.1 | 11 | 1 |  |  | 0 | 0 | 3 | 0.30 | .091 | .091 | .091 | .182 |
 
 ### [Monthly Splits](https://baseballsavant.mlb.com/savant-player/camilo-doval-666808?stats=statcast-r-pitching-mlb\#milb-monthly-splits)
 
-| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Sacramento River Cats | Triple-A | August | 1 | 0 | 3.18 | 5 | 0 | 0 | 5.2 | 20 | 2 | 2 | 2 | 0 | 1 | 7 | 0.53 |
-| Sacramento River Cats | Triple-A | Second Half | 1 | 0 | 3.18 | 5 | 0 | 0 | 5.2 | 20 | 2 | 2 | 2 | 0 | 1 | 7 | 0.53 |
+| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP | AVG | OBP | SLG | OPS |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Sacramento River Cats | Triple-A | August | 1 | 0 | 3.18 | 5 | 0 | 0 | 5.2 | 20 | 2 | 2 | 2 | 0 | 1 | 7 | 0.53 | .105 | .150 | .211 | .361 |
+| Sacramento River Cats | Triple-A | Second Half | 1 | 0 | 3.18 | 5 | 0 | 0 | 5.2 | 20 | 2 | 2 | 2 | 0 | 1 | 7 | 0.53 | .105 | .150 | .211 | .361 |
 
 ### [Baserunner Splits](https://baseballsavant.mlb.com/savant-player/camilo-doval-666808?stats=statcast-r-pitching-mlb\#milb-baserunner-splits)
 
-| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Sacramento River Cats | Triple-A | Bases Empty |  |  |  | 5 |  |  | 5.1 | 17 | 0 |  |  | 0 | 1 | 7 | 0.19 |
-| Sacramento River Cats | Triple-A | Runner at 1st |  |  |  | 1 |  |  | 0.1 | 1 | 0 |  |  | 0 | 0 | 0 | 0.00 |
-| Sacramento River Cats | Triple-A | Runner at 2nd |  |  |  | 1 |  |  | 0.0 | 0 | 0 |  |  | 0 | 0 | 0 | - |
-| Sacramento River Cats | Triple-A | Runner at 3rd |  |  |  | 1 |  |  | 0.0 | 2 | 2 |  |  | 0 | 0 | 0 | -.-- |
-| Sacramento River Cats | Triple-A | Scoring Position |  |  |  | 1 |  |  | 0.0 | 2 | 2 |  |  | 0 | 0 | 0 | -.-- |
+| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP | AVG | OBP | SLG | OPS |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Sacramento River Cats | Triple-A | Bases Empty |  |  |  | 5 |  |  | 5.1 | 17 | 0 |  |  | 0 | 1 | 7 | 0.19 | .000 | .059 | .000 | .059 |
+| Sacramento River Cats | Triple-A | Runner at 1st |  |  |  | 1 |  |  | 0.1 | 1 | 0 |  |  | 0 | 0 | 0 | 0.00 | .000 | .000 | .000 | .000 |
+| Sacramento River Cats | Triple-A | Runner at 2nd |  |  |  | 1 |  |  | 0.0 | 0 | 0 |  |  | 0 | 0 | 0 | - | .000 | .000 | .000 | .000 |
+| Sacramento River Cats | Triple-A | Runner at 3rd |  |  |  | 1 |  |  | 0.0 | 2 | 2 |  |  | 0 | 0 | 0 | -.-- | 1.000 | 1.000 | 2.000 | 3.000 |
+| Sacramento River Cats | Triple-A | Scoring Position |  |  |  | 1 |  |  | 0.0 | 2 | 2 |  |  | 0 | 0 | 0 | -.-- | 1.000 | 1.000 | 2.000 | 3.000 |
 
 ### [Game Type Splits](https://baseballsavant.mlb.com/savant-player/camilo-doval-666808?stats=statcast-r-pitching-mlb\#milb-game-type-splits)
 
-| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Sacramento River Cats | Triple-A | Home Games | 0 | 0 | 0.00 | 3 | 0 | 0 | 3.0 | 9 | 0 | 0 | 0 | 0 | 0 | 3 | 0.00 |
-| Sacramento River Cats | Triple-A | Away Games | 1 | 0 | 6.75 | 2 | 0 | 0 | 2.2 | 11 | 2 | 2 | 2 | 0 | 1 | 4 | 1.13 |
-| Sacramento River Cats | Triple-A | Day Games | 0 | 0 | 0.00 | 1 | 0 | 0 | 1.0 | 3 | 0 | 0 | 0 | 0 | 0 | 1 | 0.00 |
-| Sacramento River Cats | Triple-A | Night Games | 1 | 0 | 3.86 | 4 | 0 | 0 | 4.2 | 17 | 2 | 2 | 2 | 0 | 1 | 6 | 0.64 |
-| Sacramento River Cats | Triple-A | Leading Off Inning |  |  |  | 5 |  |  | 2.0 | 6 | 0 |  |  | 0 | 0 | 4 | 0.00 |
+| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP | AVG | OBP | SLG | OPS |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Sacramento River Cats | Triple-A | Home Games | 0 | 0 | 0.00 | 3 | 0 | 0 | 3.0 | 9 | 0 | 0 | 0 | 0 | 0 | 3 | 0.00 | .000 | .000 | .000 | .000 |
+| Sacramento River Cats | Triple-A | Away Games | 1 | 0 | 6.75 | 2 | 0 | 0 | 2.2 | 11 | 2 | 2 | 2 | 0 | 1 | 4 | 1.13 | .200 | .273 | .400 | .673 |
+| Sacramento River Cats | Triple-A | Day Games | 0 | 0 | 0.00 | 1 | 0 | 0 | 1.0 | 3 | 0 | 0 | 0 | 0 | 0 | 1 | 0.00 | .000 | .000 | .000 | .000 |
+| Sacramento River Cats | Triple-A | Night Games | 1 | 0 | 3.86 | 4 | 0 | 0 | 4.2 | 17 | 2 | 2 | 2 | 0 | 1 | 6 | 0.64 | .125 | .176 | .250 | .426 |
+| Sacramento River Cats | Triple-A | Leading Off Inning |  |  |  | 5 |  |  | 2.0 | 6 | 0 |  |  | 0 | 0 | 4 | 0.00 | .000 | .000 | .000 | .000 |
 
 ### [Outs Splits](https://baseballsavant.mlb.com/savant-player/camilo-doval-666808?stats=statcast-r-pitching-mlb\#milb-out-splits)
 
-| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Sacramento River Cats | Triple-A | No Outs |  |  |  | 5 |  |  | 2.0 | 6 | 0 |  |  | 0 | 0 | 4 | 0.00 |
-| Sacramento River Cats | Triple-A | One Out |  |  |  | 5 |  |  | 2.0 | 6 | 0 |  |  | 0 | 0 | 3 | 0.00 |
-| Sacramento River Cats | Triple-A | Two Outs |  |  |  | 5 |  |  | 1.2 | 8 | 2 |  |  | 0 | 1 | 0 | 1.80 |
+| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP | AVG | OBP | SLG | OPS |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Sacramento River Cats | Triple-A | No Outs |  |  |  | 5 |  |  | 2.0 | 6 | 0 |  |  | 0 | 0 | 4 | 0.00 | .000 | .000 | .000 | .000 |
+| Sacramento River Cats | Triple-A | One Out |  |  |  | 5 |  |  | 2.0 | 6 | 0 |  |  | 0 | 0 | 3 | 0.00 | .000 | .000 | .000 | .000 |
+| Sacramento River Cats | Triple-A | Two Outs |  |  |  | 5 |  |  | 1.2 | 8 | 2 |  |  | 0 | 1 | 0 | 1.80 | .286 | .375 | .571 | .946 |
 
 ### [Inning Splits](https://baseballsavant.mlb.com/savant-player/camilo-doval-666808?stats=statcast-r-pitching-mlb\#milb-inning-splits)
 
-| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Sacramento River Cats | Triple-A | Fourth Inning |  |  | 0.00 | 1 |  |  | 1.0 | 3 | 0 | 0 | 0 | 0 | 0 | 1 | 0.00 |
-| Sacramento River Cats | Triple-A | Fifth Inning |  |  | 0.00 | 1 |  |  | 1.0 | 3 | 0 | 0 | 0 | 0 | 0 | 1 | 0.00 |
-| Sacramento River Cats | Triple-A | Sixth Inning |  |  | 6.75 | 3 |  |  | 2.2 | 11 | 2 | 2 | 2 | 0 | 1 | 4 | 1.13 |
-| Sacramento River Cats | Triple-A | Seventh Inning |  |  | 0.00 | 1 |  |  | 1.0 | 3 | 0 | 0 | 0 | 0 | 0 | 1 | 0.00 |
+| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP | AVG | OBP | SLG | OPS |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Sacramento River Cats | Triple-A | Fourth Inning |  |  | 0.00 | 1 |  |  | 1.0 | 3 | 0 | 0 | 0 | 0 | 0 | 1 | 0.00 | .000 | .000 | .000 | .000 |
+| Sacramento River Cats | Triple-A | Fifth Inning |  |  | 0.00 | 1 |  |  | 1.0 | 3 | 0 | 0 | 0 | 0 | 0 | 1 | 0.00 | .000 | .000 | .000 | .000 |
+| Sacramento River Cats | Triple-A | Sixth Inning |  |  | 6.75 | 3 |  |  | 2.2 | 11 | 2 | 2 | 2 | 0 | 1 | 4 | 1.13 | .200 | .273 | .400 | .673 |
+| Sacramento River Cats | Triple-A | Seventh Inning |  |  | 0.00 | 1 |  |  | 1.0 | 3 | 0 | 0 | 0 | 0 | 0 | 1 | 0.00 | .000 | .000 | .000 | .000 |
 
 | Date | Home Tm | Away Tm | W | L | ERA | G | GS | SV | IP | H | R | ER | HR | BB | SO | WHIP |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -620,7 +617,7 @@ Breaking: Slider, Curve, Knuckle, Sweeper, Slurve, Other
 
 ## [Pitch Tracking](https://baseballsavant.mlb.com/savant-player/camilo-doval-666808?stats=statcast-r-pitching-mlb\#pitch_tracking)
 
-| 2026 | Sinker | 259 | 145 | 114 | 43.5 | 98.6 | 78 | 70 | 16 | 12 | 2 | 0 | 2 | 13 | 60 | .229 | .240 | .343 | .338 | .267 | .277 | 89.5 | 3 | 2528 | 6.2 | 19.7 | 26.5 |
+| 2026 | Sinker | 259 | 145 | 114 | 43.5 | 98.6 | 78 | 70 | 17 | 13 | 2 | 0 | 2 | 13 | 60 | .243 | .240 | .357 | .338 | .278 | .277 | 89.5 | 3 | 2528 | 6.2 | 19.7 | 26.5 |
 | 2026 | Cutter | 173 | 83 | 90 | 29.1 | 98.8 | 38 | 30 | 10 | 8 | 2 | 0 | 0 | 4 | 28 | .333 | .234 | .400 | .287 | .364 | .308 | 90.8 | 11 | 2557 | 6.2 | 18.6 | 11.4 |
 | 2026 | Slider | 142 | 92 | 50 | 23.9 | 88.8 | 35 | 34 | 10 | 4 | 2 | 0 | 4 | 15 | 19 | .294 | .197 | .706 | .418 | .427 | .270 | 89.5 | 4 | 2667 | 6.3 | 44.0 | 25.0 |
 | 2026 | Changeup | 21 | 2 | 19 | 3.5 | 94.5 | 5 | 5 | 0 | 0 | 0 | 0 | 0 | 3 | 2 | .000 | .039 | .000 | .096 | .000 | .055 | 80.3 | 1 | 1786 | 6.3 | 62.5 | 25.0 |
@@ -1086,7 +1083,7 @@ View Complete Year to Year Changes Leaderboard](https://baseballsavant.mlb.com/l
 | 2023 | Shades | 271 | .258 | 133 | 5 | 3.8 | 138 | 49 | 35.5 |
 | 2024 | Shades | 266 | .322 | 135 | 1 | 0.7 | 131 | 18 | 13.7 |
 | 2025 | Shades | 275 | .282 | 149 | 2 | 1.3 | 126 | 33 | 26.2 |
-| 2026 | Shades | 156 | .318 | 83 | 9 | 10.8 | 73 | 41 | 56.2 |
+| 2026 | Shades | 156 | .324 | 83 | 9 | 10.8 | 73 | 41 | 56.2 |
 
 _! Note: Shifts are through the 2022 season, Shaded starting from the 2023 season, **Shift:**_
 _three or more infielders are on the same side of second base, **Shade:** positioned outside of_
@@ -1147,11 +1144,11 @@ Loading Bat Tracking...
 
 Loading Chart Data...
 
-Camilo DovalResponsible Plays for 20260ft20ft40ft60ft80ft100ft120ft140ftDistance From Ball Landing12345678Hang Time (Sec.)◀▶▼▲League Wide Catch Difficulty Scale★★★★★★012345OutHitWallBack
+Camilo DovalResponsible Plays for 20260ft20ft40ft60ft80ft100ft120ft140ftDistance From Ball Landing12345678Opportunity Time (Sec.)◀▶▼▲League Wide Catch Difficulty Scale★★★★★★012345OutHitWallBack
 
 \\* Click Any Legend Option to Reset Chart \| Save Chart
 
-Hang Time:
+Opportunity Time:
 
 
 Catch Rate GT:
@@ -1221,7 +1218,7 @@ Created with Highcharts 6.2.0Exit VelocityPitchesChart context menuCamilo Doval 
 
 Camilo DovalPitcher RV (All)2.01.6-0.51.90.31.22.7-8.3-0.5-2.7-1.11.0-0.5
 
-Camilo DovalPitcher RV (Swings)1.71.3-0.81.3-0.20.72.0-8.8-0.70.90.43.04.5
+Camilo DovalPitcher RV (Swings)1.71.3-0.81.3-0.20.72.0-8.7-0.70.90.43.04.5
 
 Camilo DovalPitcher RV (Takes)0.30.30.30.70.50.40.60.50.3-3.6-1.5-2.0-5.0
 
@@ -1245,9 +1242,9 @@ Camilo DovalWhiffs By Zone241032748421527
 
 Camilo DovalBatted Balls By Zone6231315592691398
 
-Camilo DovalHits By Zone10245121051122
+Camilo DovalHits By Zone10245121151122
 
-Camilo DovalSingles By Zone1014312431112
+Camilo DovalSingles By Zone1014312531112
 
 Camilo DovalDoubles By Zone0010100210010
 
@@ -1269,21 +1266,21 @@ Camilo DovalFlyball %17003120200232200330
 
 Camilo DovalPopup %330338001100033013
 
-Camilo DovalBABIP.167.000.667.308.286.200.222.273.5001.000.333.222.250
+Camilo DovalBABIP.167.000.667.308.286.200.222.318.5001.000.333.222.250
 
-Camilo DovalBatting Average.167.000.500.308.333.125.182.400.417.200.250.133.105
+Camilo DovalBatting Average.167.000.500.308.333.125.182.440.417.200.250.133.105
 
-Camilo DovalBACON.167.000.667.308.333.200.222.385.5561.000.333.222.250
+Camilo DovalBACON.167.000.667.308.333.200.222.423.5561.000.333.222.250
 
-Camilo DovalOBP.167.000.500.286.333.125.182.370.417.429.571.176.320
+Camilo DovalOBP.167.000.500.286.333.125.182.407.417.429.571.176.320
 
-Camilo DovalSLG.167.000.750.308.600.125.182.960.750.200.250.200.105
+Camilo DovalSLG.167.000.750.308.600.125.1821.000.750.200.250.200.105
 
 Camilo DovalISO.000.000.250.000.267.000.000.560.333.000.000.067.000
 
-Camilo DovalwOBA.148.000.537.254.398.111.162.528.498.331.427.168.239
+Camilo DovalwOBA.148.000.537.254.398.111.162.561.498.331.427.168.239
 
-Camilo DovalwOBA (Contact).148.000.716.274.398.178.198.548.663.890.297.239.222
+Camilo DovalwOBA (Contact).148.000.716.274.398.178.198.582.663.890.297.239.222
 
 ## Statcast
 

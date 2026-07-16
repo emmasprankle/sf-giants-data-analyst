@@ -3,6 +3,8 @@ source: https://www.baseball-reference.com/about/war_explained_pitch.shtml
 slug: baseball-reference-pitcher-war
 ---
 
+Find any player or team from any Reference site with our new cross-sport search engine. Only on [Sports-Reference.com](https://www.sports-reference.com/).
+
 **About** Menu
 
 - [About Baseball Reference](https://www.baseball-reference.com/about/)

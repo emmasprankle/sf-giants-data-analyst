@@ -3,10 +3,7 @@ source: https://baseballsavant.mlb.com/savant-player/logan-webb-657277
 slug: baseballsavant-logan-webb
 ---
 
-[|     |     |     |     |\\
-| --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/159.svg) | AL | 4 | Final |\\
-| ![](https://www.mlbstatic.com/team-logos/160.svg) | NL | 0 |](https://baseballsavant.mlb.com/gamefeed?gamePk=823443&game_date=2026-07-14)
+No Games Scheduled.
 
 <
 
@@ -505,8 +502,8 @@ Save Image
 | ![](https://www.mlbstatic.com/team-logos/137.svg) | 04/15/2025 | RHP Logan Webb changed number to 42. |
 | ![](https://www.mlbstatic.com/team-logos/160.svg) | 07/15/2024 | RHP Logan Webb assigned to National League All-Stars. |
 | ![](https://www.mlbstatic.com/team-logos/137.svg) | 10/06/2022 | San Francisco Giants activated RHP Logan Webb from the 15-day injured list. |
-| ![](https://www.mlbstatic.com/team-logos/137.svg) | 07/16/2021 | San Francisco Giants recalled RHP Logan Webb, and from San Jose Giants. |
 | ![](https://www.mlbstatic.com/team-logos/137.svg) | 07/16/2021 | San Francisco Giants placed RHP Logan Webb on the 15-day injured list. Low back strain. |
+| ![](https://www.mlbstatic.com/team-logos/137.svg) | 07/16/2021 | San Francisco Giants recalled RHP Logan Webb, and from San Jose Giants. |
 | ![](https://www.mlbstatic.com/team-logos/476.svg) | 07/14/2021 | RHP Logan Webb assigned to San Jose Giants from Sacramento River Cats. |
 | ![](https://www.mlbstatic.com/team-logos/105.svg) | 07/10/2021 | San Francisco Giants optioned RHP Logan Webb to Sacramento River Cats. |
 | ![](https://www.mlbstatic.com/team-logos/137.svg) | 07/09/2021 | San Francisco Giants activated RHP Logan Webb. |
@@ -516,15 +513,15 @@ Save Image
 | ![](https://www.mlbstatic.com/team-logos/137.svg) | 05/20/2021 | San Francisco Giants placed RHP Logan Webb on the 10-day injured list. Right shoulder strain. |
 | ![](https://www.mlbstatic.com/team-logos/137.svg) | 04/20/2021 | San Francisco Giants activated RHP Logan Webb from the 10-day injured list. |
 | ![](https://www.mlbstatic.com/team-logos/137.svg) | 04/18/2021 | San Francisco Giants placed RHP Logan Webb on the 10-day injured list. |
-| ![](https://www.mlbstatic.com/team-logos/137.svg) | 08/17/2019 | San Francisco Giants recalled RHP Logan Webb. |
 | ![](https://www.mlbstatic.com/team-logos/137.svg) | 08/17/2019 | San Francisco Giants recalled P Logan Webb. |
 | ![](https://www.mlbstatic.com/team-logos/137.svg) | 08/17/2019 | San Francisco Giants recalled RHP Logan Webb from Sacramento River Cats. |
+| ![](https://www.mlbstatic.com/team-logos/137.svg) | 08/17/2019 | San Francisco Giants recalled RHP Logan Webb. |
 | ![](https://www.mlbstatic.com/team-logos/105.svg) | 08/10/2019 | RHP Logan Webb assigned to Sacramento River Cats from Richmond Flying Squirrels. |
 | ![](https://www.mlbstatic.com/team-logos/3410.svg) | 07/28/2019 | Logan Webb roster status changed by Richmond Flying Squirrels. |
 | ![](https://www.mlbstatic.com/team-logos/478.svg) | 07/17/2019 | sent RHP Logan Webb on a rehab assignment to Augusta GreenJackets. |
 | ![](https://www.mlbstatic.com/team-logos/5370.svg) | 07/12/2019 | sent RHP Logan Webb on a rehab assignment to AZL Giants Orange. |
-| ![](https://www.mlbstatic.com/team-logos/3410.svg) | 05/01/2019 | Richmond Flying Squirrels placed RHP Logan Webb on the restricted list. |
 | ![](https://www.mlbstatic.com/team-logos/137.svg) | 05/01/2019 | San Francisco Giants placed RHP Logan Webb on the restricted list. |
+| ![](https://www.mlbstatic.com/team-logos/3410.svg) | 05/01/2019 | Richmond Flying Squirrels placed RHP Logan Webb on the restricted list. |
 | ![](https://www.mlbstatic.com/team-logos/3410.svg) | 03/28/2019 | RHP Logan Webb assigned to Richmond Flying Squirrels from Sacramento River Cats. |
 | ![](https://www.mlbstatic.com/team-logos/105.svg) | 03/08/2019 | San Francisco Giants optioned RHP Logan Webb to Sacramento River Cats. |
 | ![](https://www.mlbstatic.com/team-logos/137.svg) | 11/20/2018 | San Francisco Giants selected the contract of Logan Webb from Richmond Flying Squirrels. |
@@ -542,116 +539,116 @@ Save Image
 
 ### [Platoon Splits](https://baseballsavant.mlb.com/savant-player/logan-webb-657277?stats=statcast-r-pitching-mlb\#platoon-splits)
 
-| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| San Francisco Giants | MLB | vs Left |  |  |  | 16 |  |  | 60.0 | 253 | 59 |  |  | 5 | 17 | 50 | 1.27 |
-| San Francisco Giants | MLB | vs Right |  |  |  | 16 |  |  | 39.2 | 159 | 31 |  |  | 3 | 9 | 30 | 1.01 |
+| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP | AVG | OBP | SLG | OPS |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| San Francisco Giants | MLB | vs Left |  |  |  | 16 |  |  | 60.0 | 253 | 59 |  |  | 5 | 17 | 50 | 1.27 | .253 | .310 | .365 | .675 |
+| San Francisco Giants | MLB | vs Right |  |  |  | 16 |  |  | 39.2 | 159 | 31 |  |  | 3 | 9 | 30 | 1.01 | .211 | .266 | .327 | .593 |
 
 ### [Monthly Splits](https://baseballsavant.mlb.com/savant-player/logan-webb-657277?stats=statcast-r-pitching-mlb\#monthly-splits)
 
-| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| San Francisco Giants | MLB | March | 1 | 1 | 7.36 | 2 | 2 | 0 | 11.0 | 51 | 12 | 10 | 9 | 0 | 5 | 12 | 1.55 |
-| San Francisco Giants | MLB | April | 1 | 2 | 3.27 | 5 | 5 | 0 | 33.0 | 137 | 33 | 13 | 12 | 3 | 10 | 26 | 1.30 |
-| San Francisco Giants | MLB | May | 0 | 1 | 7.56 | 2 | 2 | 0 | 8.1 | 40 | 10 | 7 | 7 | 1 | 3 | 9 | 1.56 |
-| San Francisco Giants | MLB | June | 3 | 1 | 0.71 | 5 | 5 | 0 | 38.0 | 133 | 19 | 4 | 3 | 1 | 4 | 29 | 0.61 |
-| San Francisco Giants | MLB | July | 0 | 2 | 10.80 | 2 | 2 | 0 | 10.0 | 51 | 16 | 12 | 12 | 3 | 4 | 4 | 2.00 |
-| San Francisco Giants | MLB | Pre All-Star | 5 | 7 | 3.86 | 16 | 16 | 0 | 100.1 | 412 | 90 | 46 | 43 | 8 | 26 | 80 | 1.16 |
+| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP | AVG | OBP | SLG | OPS |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| San Francisco Giants | MLB | March | 1 | 1 | 7.36 | 2 | 2 | 0 | 11.0 | 51 | 12 | 10 | 9 | 0 | 5 | 12 | 1.55 | .267 | .353 | .333 | .686 |
+| San Francisco Giants | MLB | April | 1 | 2 | 3.27 | 5 | 5 | 0 | 33.0 | 137 | 33 | 13 | 12 | 3 | 10 | 26 | 1.30 | .264 | .324 | .392 | .716 |
+| San Francisco Giants | MLB | May | 0 | 1 | 7.56 | 2 | 2 | 0 | 8.1 | 40 | 10 | 7 | 7 | 1 | 3 | 9 | 1.56 | .286 | .375 | .486 | .861 |
+| San Francisco Giants | MLB | June | 3 | 1 | 0.71 | 5 | 5 | 0 | 38.0 | 133 | 19 | 4 | 3 | 1 | 4 | 29 | 0.61 | .148 | .174 | .195 | .369 |
+| San Francisco Giants | MLB | July | 0 | 2 | 10.80 | 2 | 2 | 0 | 10.0 | 51 | 16 | 12 | 12 | 3 | 4 | 4 | 2.00 | .340 | .392 | .574 | .966 |
+| San Francisco Giants | MLB | Pre All-Star | 5 | 7 | 3.86 | 16 | 16 | 0 | 100.1 | 412 | 90 | 46 | 43 | 8 | 26 | 80 | 1.16 | .237 | .293 | .350 | .643 |
 
 ### [Baserunner Splits](https://baseballsavant.mlb.com/savant-player/logan-webb-657277?stats=statcast-r-pitching-mlb\#baserunner-splits)
 
-| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| San Francisco Giants | MLB | Bases Empty |  |  |  | 16 |  |  | 60.0 | 250 | 50 |  |  | 5 | 16 | 56 | 1.10 |
-| San Francisco Giants | MLB | Bases Loaded |  |  |  | 4 |  |  | 1.2 | 7 | 2 |  |  | 1 | 1 | 1 | 1.80 |
-| San Francisco Giants | MLB | Runner at 1st |  |  |  | 16 |  |  | 16.2 | 64 | 18 |  |  | 1 | 2 | 4 | 1.20 |
-| San Francisco Giants | MLB | Runners at 1st & 2nd |  |  |  | 12 |  |  | 4.2 | 19 | 8 |  |  | 0 | 0 | 3 | 1.71 |
-| San Francisco Giants | MLB | Runners at 1st & 3rd |  |  |  | 7 |  |  | 2.1 | 7 | 1 |  |  | 0 | 0 | 1 | 0.43 |
-| San Francisco Giants | MLB | Runner at 2nd |  |  |  | 15 |  |  | 8.2 | 37 | 8 |  |  | 1 | 3 | 10 | 1.27 |
-| San Francisco Giants | MLB | Runners at 2nd & 3rd |  |  |  | 6 |  |  | 1.1 | 8 | 1 |  |  | 0 | 2 | 1 | 2.25 |
-| San Francisco Giants | MLB | Runner at 3rd |  |  |  | 11 |  |  | 5.0 | 20 | 2 |  |  | 0 | 2 | 4 | 0.80 |
-| San Francisco Giants | MLB | Scoring Position |  |  |  | 16 |  |  | 23.2 | 98 | 22 |  |  | 2 | 8 | 20 | 1.27 |
+| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP | AVG | OBP | SLG | OPS |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| San Francisco Giants | MLB | Bases Empty |  |  |  | 16 |  |  | 60.0 | 250 | 50 |  |  | 5 | 16 | 56 | 1.10 | .216 | .272 | .328 | .600 |
+| San Francisco Giants | MLB | Bases Loaded |  |  |  | 4 |  |  | 1.2 | 7 | 2 |  |  | 1 | 1 | 1 | 1.80 | .333 | .429 | .833 | 1.262 |
+| San Francisco Giants | MLB | Runner at 1st |  |  |  | 16 |  |  | 16.2 | 64 | 18 |  |  | 1 | 2 | 4 | 1.20 | .305 | .349 | .424 | .773 |
+| San Francisco Giants | MLB | Runners at 1st & 2nd |  |  |  | 12 |  |  | 4.2 | 19 | 8 |  |  | 0 | 0 | 3 | 1.71 | .421 | .421 | .579 | 1.000 |
+| San Francisco Giants | MLB | Runners at 1st & 3rd |  |  |  | 7 |  |  | 2.1 | 7 | 1 |  |  | 0 | 0 | 1 | 0.43 | .143 | .143 | .143 | .286 |
+| San Francisco Giants | MLB | Runner at 2nd |  |  |  | 15 |  |  | 8.2 | 37 | 8 |  |  | 1 | 3 | 10 | 1.27 | .235 | .297 | .353 | .650 |
+| San Francisco Giants | MLB | Runners at 2nd & 3rd |  |  |  | 6 |  |  | 1.1 | 8 | 1 |  |  | 0 | 2 | 1 | 2.25 | .200 | .429 | .200 | .629 |
+| San Francisco Giants | MLB | Runner at 3rd |  |  |  | 11 |  |  | 5.0 | 20 | 2 |  |  | 0 | 2 | 4 | 0.80 | .111 | .200 | .111 | .311 |
+| San Francisco Giants | MLB | Scoring Position |  |  |  | 16 |  |  | 23.2 | 98 | 22 |  |  | 2 | 8 | 20 | 1.27 | .247 | .309 | .360 | .669 |
 
 ### [Game Type Splits](https://baseballsavant.mlb.com/savant-player/logan-webb-657277?stats=statcast-r-pitching-mlb\#game-type-splits)
 
-| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| San Francisco Giants | MLB | Home Games | 2 | 4 | 3.74 | 8 | 8 | 0 | 53.0 | 214 | 48 | 24 | 22 | 2 | 8 | 41 | 1.06 |
-| San Francisco Giants | MLB | Away Games | 3 | 3 | 3.99 | 8 | 8 | 0 | 47.1 | 198 | 42 | 22 | 21 | 6 | 18 | 39 | 1.27 |
-| San Francisco Giants | MLB | Day Games | 1 | 3 | 2.45 | 6 | 6 | 0 | 44.0 | 173 | 38 | 13 | 12 | 3 | 8 | 28 | 1.05 |
-| San Francisco Giants | MLB | Night Games | 4 | 4 | 4.95 | 10 | 10 | 0 | 56.1 | 239 | 52 | 33 | 31 | 5 | 18 | 52 | 1.24 |
-| San Francisco Giants | MLB | Leading Off Inning |  |  |  | 16 |  |  | 25.2 | 101 | 20 |  |  | 2 | 4 | 26 | 0.94 |
-| San Francisco Giants | MLB | Late / Close |  |  |  | 5 |  |  | 7.0 | 26 | 5 |  |  | 0 | 1 | 2 | 0.86 |
+| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP | AVG | OBP | SLG | OPS |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| San Francisco Giants | MLB | Home Games | 2 | 4 | 3.74 | 8 | 8 | 0 | 53.0 | 214 | 48 | 24 | 22 | 2 | 8 | 41 | 1.06 | .238 | .277 | .322 | .599 |
+| San Francisco Giants | MLB | Away Games | 3 | 3 | 3.99 | 8 | 8 | 0 | 47.1 | 198 | 42 | 22 | 21 | 6 | 18 | 39 | 1.27 | .236 | .310 | .382 | .692 |
+| San Francisco Giants | MLB | Day Games | 1 | 3 | 2.45 | 6 | 6 | 0 | 44.0 | 173 | 38 | 13 | 12 | 3 | 8 | 28 | 1.05 | .235 | .275 | .327 | .602 |
+| San Francisco Giants | MLB | Night Games | 4 | 4 | 4.95 | 10 | 10 | 0 | 56.1 | 239 | 52 | 33 | 31 | 5 | 18 | 52 | 1.24 | .239 | .305 | .367 | .672 |
+| San Francisco Giants | MLB | Leading Off Inning |  |  |  | 16 |  |  | 25.2 | 101 | 20 |  |  | 2 | 4 | 26 | 0.94 | .206 | .238 | .320 | .558 |
+| San Francisco Giants | MLB | Late / Close |  |  |  | 5 |  |  | 7.0 | 26 | 5 |  |  | 0 | 1 | 2 | 0.86 | .217 | .250 | .261 | .511 |
 
 ### [Outs Splits](https://baseballsavant.mlb.com/savant-player/logan-webb-657277?stats=statcast-r-pitching-mlb\#out-splits)
 
-| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| San Francisco Giants | MLB | No Outs |  |  |  | 16 |  |  | 35.2 | 141 | 35 |  |  | 4 | 5 | 31 | 1.12 |
-| San Francisco Giants | MLB | One Out |  |  |  | 16 |  |  | 33.0 | 135 | 28 |  |  | 4 | 10 | 23 | 1.15 |
-| San Francisco Giants | MLB | Two Outs |  |  |  | 16 |  |  | 31.2 | 136 | 27 |  |  | 0 | 11 | 26 | 1.20 |
+| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP | AVG | OBP | SLG | OPS |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| San Francisco Giants | MLB | No Outs |  |  |  | 16 |  |  | 35.2 | 141 | 35 |  |  | 4 | 5 | 31 | 1.12 | .257 | .284 | .397 | .681 |
+| San Francisco Giants | MLB | One Out |  |  |  | 16 |  |  | 33.0 | 135 | 28 |  |  | 4 | 10 | 23 | 1.15 | .231 | .306 | .380 | .686 |
+| San Francisco Giants | MLB | Two Outs |  |  |  | 16 |  |  | 31.2 | 136 | 27 |  |  | 0 | 11 | 26 | 1.20 | .220 | .289 | .268 | .557 |
 
 ### [Inning Splits](https://baseballsavant.mlb.com/savant-player/logan-webb-657277?stats=statcast-r-pitching-mlb\#inning-splits)
 
-| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| San Francisco Giants | MLB | First Inning |  |  | 5.06 | 16 |  |  | 16.0 | 66 | 14 | 9 | 9 | 3 | 6 | 19 | 1.25 |
-| San Francisco Giants | MLB | Second Inning |  |  | 7.31 | 16 |  |  | 16.0 | 71 | 20 | 13 | 13 | 3 | 4 | 18 | 1.50 |
-| San Francisco Giants | MLB | Third Inning |  |  | 3.38 | 16 |  |  | 16.0 | 67 | 14 | 7 | 6 | 1 | 7 | 11 | 1.31 |
-| San Francisco Giants | MLB | Fourth Inning |  |  | 7.20 | 15 |  |  | 15.0 | 70 | 20 | 12 | 12 | 1 | 4 | 12 | 1.60 |
-| San Francisco Giants | MLB | Fifth Inning |  |  | 0.68 | 14 |  |  | 13.1 | 49 | 8 | 2 | 1 | 0 | 1 | 11 | 0.68 |
-| San Francisco Giants | MLB | Sixth Inning |  |  | 1.50 | 12 |  |  | 12.0 | 45 | 6 | 2 | 2 | 0 | 3 | 5 | 0.75 |
-| San Francisco Giants | MLB | Seventh Inning |  |  | 0.00 | 9 |  |  | 9.0 | 32 | 5 | 0 | 0 | 0 | 1 | 2 | 0.67 |
-| San Francisco Giants | MLB | Eighth Inning |  |  | 0.00 | 3 |  |  | 3.0 | 12 | 3 | 1 | 0 | 0 | 0 | 2 | 1.00 |
+| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP | AVG | OBP | SLG | OPS |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| San Francisco Giants | MLB | First Inning |  |  | 5.06 | 16 |  |  | 16.0 | 66 | 14 | 9 | 9 | 3 | 6 | 19 | 1.25 | .233 | .303 | .433 | .736 |
+| San Francisco Giants | MLB | Second Inning |  |  | 7.31 | 16 |  |  | 16.0 | 71 | 20 | 13 | 13 | 3 | 4 | 18 | 1.50 | .303 | .352 | .500 | .852 |
+| San Francisco Giants | MLB | Third Inning |  |  | 3.38 | 16 |  |  | 16.0 | 67 | 14 | 7 | 6 | 1 | 7 | 11 | 1.31 | .233 | .313 | .317 | .630 |
+| San Francisco Giants | MLB | Fourth Inning |  |  | 7.20 | 15 |  |  | 15.0 | 70 | 20 | 12 | 12 | 1 | 4 | 12 | 1.60 | .308 | .357 | .477 | .834 |
+| San Francisco Giants | MLB | Fifth Inning |  |  | 0.68 | 14 |  |  | 13.1 | 49 | 8 | 2 | 1 | 0 | 1 | 11 | 0.68 | .170 | .204 | .191 | .395 |
+| San Francisco Giants | MLB | Sixth Inning |  |  | 1.50 | 12 |  |  | 12.0 | 45 | 6 | 2 | 2 | 0 | 3 | 5 | 0.75 | .146 | .222 | .146 | .368 |
+| San Francisco Giants | MLB | Seventh Inning |  |  | 0.00 | 9 |  |  | 9.0 | 32 | 5 | 0 | 0 | 0 | 1 | 2 | 0.67 | .167 | .194 | .200 | .394 |
+| San Francisco Giants | MLB | Eighth Inning |  |  | 0.00 | 3 |  |  | 3.0 | 12 | 3 | 1 | 0 | 0 | 0 | 2 | 1.00 | .273 | .273 | .273 | .546 |
 
 ### [Platoon Splits](https://baseballsavant.mlb.com/savant-player/logan-webb-657277?stats=statcast-r-pitching-mlb\#milb-platoon-splits)
 
-| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Sacramento River Cats | Triple-A | vs Left |  |  |  | 1 |  |  | 1.2 | 8 | 2 |  |  | 0 | 1 | 1 | 1.80 |
-| Sacramento River Cats | Triple-A | vs Right |  |  |  | 1 |  |  | 1.2 | 7 | 0 |  |  | 0 | 2 | 1 | 1.20 |
+| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP | AVG | OBP | SLG | OPS |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Sacramento River Cats | Triple-A | vs Left |  |  |  | 1 |  |  | 1.2 | 8 | 2 |  |  | 0 | 1 | 1 | 1.80 | .286 | .375 | .286 | .661 |
+| Sacramento River Cats | Triple-A | vs Right |  |  |  | 1 |  |  | 1.2 | 7 | 0 |  |  | 0 | 2 | 1 | 1.20 | .000 | .286 | .000 | .286 |
 
 ### [Monthly Splits](https://baseballsavant.mlb.com/savant-player/logan-webb-657277?stats=statcast-r-pitching-mlb\#milb-monthly-splits)
 
-| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Sacramento River Cats | Triple-A | May | 0 | 0 | 0.00 | 1 | 1 | 0 | 3.1 | 15 | 2 | 1 | 0 | 0 | 3 | 2 | 1.50 |
-| Sacramento River Cats | Triple-A | First Half | 0 | 0 | 0.00 | 1 | 1 | 0 | 3.1 | 15 | 2 | 1 | 0 | 0 | 3 | 2 | 1.50 |
+| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP | AVG | OBP | SLG | OPS |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Sacramento River Cats | Triple-A | May | 0 | 0 | 0.00 | 1 | 1 | 0 | 3.1 | 15 | 2 | 1 | 0 | 0 | 3 | 2 | 1.50 | .167 | .333 | .167 | .500 |
+| Sacramento River Cats | Triple-A | First Half | 0 | 0 | 0.00 | 1 | 1 | 0 | 3.1 | 15 | 2 | 1 | 0 | 0 | 3 | 2 | 1.50 | .167 | .333 | .167 | .500 |
 
 ### [Baserunner Splits](https://baseballsavant.mlb.com/savant-player/logan-webb-657277?stats=statcast-r-pitching-mlb\#milb-baserunner-splits)
 
-| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Sacramento River Cats | Triple-A | Bases Empty |  |  |  | 1 |  |  | 1.2 | 8 | 2 |  |  | 0 | 1 | 1 | 1.80 |
-| Sacramento River Cats | Triple-A | Runner at 1st |  |  |  | 1 |  |  | 0.0 | 1 | 0 |  |  | 0 | 1 | 0 | -.-- |
-| Sacramento River Cats | Triple-A | Runners at 1st & 2nd |  |  |  | 1 |  |  | 1.1 | 4 | 0 |  |  | 0 | 0 | 1 | 0.00 |
-| Sacramento River Cats | Triple-A | Runner at 2nd |  |  |  | 1 |  |  | 0.1 | 2 | 0 |  |  | 0 | 1 | 0 | 3.00 |
-| Sacramento River Cats | Triple-A | Scoring Position |  |  |  | 1 |  |  | 1.2 | 6 | 0 |  |  | 0 | 1 | 1 | 0.60 |
+| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP | AVG | OBP | SLG | OPS |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Sacramento River Cats | Triple-A | Bases Empty |  |  |  | 1 |  |  | 1.2 | 8 | 2 |  |  | 0 | 1 | 1 | 1.80 | .286 | .375 | .286 | .661 |
+| Sacramento River Cats | Triple-A | Runner at 1st |  |  |  | 1 |  |  | 0.0 | 1 | 0 |  |  | 0 | 1 | 0 | -.-- | .000 | 1.000 | .000 | 1.000 |
+| Sacramento River Cats | Triple-A | Runners at 1st & 2nd |  |  |  | 1 |  |  | 1.1 | 4 | 0 |  |  | 0 | 0 | 1 | 0.00 | .000 | .000 | .000 | .000 |
+| Sacramento River Cats | Triple-A | Runner at 2nd |  |  |  | 1 |  |  | 0.1 | 2 | 0 |  |  | 0 | 1 | 0 | 3.00 | .000 | .500 | .000 | .500 |
+| Sacramento River Cats | Triple-A | Scoring Position |  |  |  | 1 |  |  | 1.2 | 6 | 0 |  |  | 0 | 1 | 1 | 0.60 | .000 | .167 | .000 | .167 |
 
 ### [Game Type Splits](https://baseballsavant.mlb.com/savant-player/logan-webb-657277?stats=statcast-r-pitching-mlb\#milb-game-type-splits)
 
-| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Sacramento River Cats | Triple-A | Home Games | 0 | 0 | 0.00 | 1 | 1 | 0 | 3.1 | 15 | 2 | 1 | 0 | 0 | 3 | 2 | 1.50 |
-| Sacramento River Cats | Triple-A | Night Games | 0 | 0 | 0.00 | 1 | 1 | 0 | 3.1 | 15 | 2 | 1 | 0 | 0 | 3 | 2 | 1.50 |
-| Sacramento River Cats | Triple-A | Leading Off Inning |  |  |  | 1 |  |  | 1.0 | 4 | 1 |  |  | 0 | 0 | 0 | 1.00 |
+| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP | AVG | OBP | SLG | OPS |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Sacramento River Cats | Triple-A | Home Games | 0 | 0 | 0.00 | 1 | 1 | 0 | 3.1 | 15 | 2 | 1 | 0 | 0 | 3 | 2 | 1.50 | .167 | .333 | .167 | .500 |
+| Sacramento River Cats | Triple-A | Night Games | 0 | 0 | 0.00 | 1 | 1 | 0 | 3.1 | 15 | 2 | 1 | 0 | 0 | 3 | 2 | 1.50 | .167 | .333 | .167 | .500 |
+| Sacramento River Cats | Triple-A | Leading Off Inning |  |  |  | 1 |  |  | 1.0 | 4 | 1 |  |  | 0 | 0 | 0 | 1.00 | .250 | .250 | .250 | .500 |
 
 ### [Outs Splits](https://baseballsavant.mlb.com/savant-player/logan-webb-657277?stats=statcast-r-pitching-mlb\#milb-out-splits)
 
-| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Sacramento River Cats | Triple-A | No Outs |  |  |  | 1 |  |  | 1.1 | 7 | 1 |  |  | 0 | 1 | 1 | 1.50 |
-| Sacramento River Cats | Triple-A | One Out |  |  |  | 1 |  |  | 1.1 | 5 | 1 |  |  | 0 | 1 | 1 | 1.50 |
-| Sacramento River Cats | Triple-A | Two Outs |  |  |  | 1 |  |  | 0.2 | 3 | 0 |  |  | 0 | 1 | 0 | 1.50 |
+| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP | AVG | OBP | SLG | OPS |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Sacramento River Cats | Triple-A | No Outs |  |  |  | 1 |  |  | 1.1 | 7 | 1 |  |  | 0 | 1 | 1 | 1.50 | .167 | .286 | .167 | .453 |
+| Sacramento River Cats | Triple-A | One Out |  |  |  | 1 |  |  | 1.1 | 5 | 1 |  |  | 0 | 1 | 1 | 1.50 | .250 | .400 | .250 | .650 |
+| Sacramento River Cats | Triple-A | Two Outs |  |  |  | 1 |  |  | 0.2 | 3 | 0 |  |  | 0 | 1 | 0 | 1.50 | .000 | .333 | .000 | .333 |
 
 ### [Inning Splits](https://baseballsavant.mlb.com/savant-player/logan-webb-657277?stats=statcast-r-pitching-mlb\#milb-inning-splits)
 
-| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Sacramento River Cats | Triple-A | First Inning |  |  | 0.00 | 1 |  |  | 1.0 | 3 | 0 | 0 | 0 | 0 | 0 | 1 | 0.00 |
-| Sacramento River Cats | Triple-A | Second Inning |  |  | 0.00 | 1 |  |  | 1.0 | 5 | 0 | 0 | 0 | 0 | 2 | 0 | 2.00 |
-| Sacramento River Cats | Triple-A | Third Inning |  |  | 0.00 | 1 |  |  | 1.0 | 5 | 1 | 1 | 0 | 0 | 1 | 1 | 2.00 |
-| Sacramento River Cats | Triple-A | Fourth Inning |  |  | 0.00 | 1 |  |  | 0.1 | 2 | 1 | 0 | 0 | 0 | 0 | 0 | 3.00 |
+| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP | AVG | OBP | SLG | OPS |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Sacramento River Cats | Triple-A | First Inning |  |  | 0.00 | 1 |  |  | 1.0 | 3 | 0 | 0 | 0 | 0 | 0 | 1 | 0.00 | .000 | .000 | .000 | .000 |
+| Sacramento River Cats | Triple-A | Second Inning |  |  | 0.00 | 1 |  |  | 1.0 | 5 | 0 | 0 | 0 | 0 | 2 | 0 | 2.00 | .000 | .400 | .000 | .400 |
+| Sacramento River Cats | Triple-A | Third Inning |  |  | 0.00 | 1 |  |  | 1.0 | 5 | 1 | 1 | 0 | 0 | 1 | 1 | 2.00 | .250 | .400 | .250 | .650 |
+| Sacramento River Cats | Triple-A | Fourth Inning |  |  | 0.00 | 1 |  |  | 0.1 | 2 | 1 | 0 | 0 | 0 | 0 | 0 | 3.00 | .500 | .500 | .500 | 1.000 |
 
 | Date | Home Tm | Away Tm | W | L | ERA | G | GS | SV | IP | H | R | ER | HR | BB | SO | WHIP |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -903,9 +900,9 @@ On the right, Induced Movement (or IVB) is reported without gravity, and attempt
 | 2026 | Sinker | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 467 | 92.1 | 31.9 | 5.6 | 15.6ARM | -0.5 | 0.4 | 7.2 | 15.6ARM | 0.4 |
 | 2026 | Cutter | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 185 | 89.8 | 26.7 | -0.8 | 0.7ARM | -2.2 | 6.9 | -1.2 | 0.7ARM | -2.9 |
 | 2026 | 4-Seam Fastball | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 197 | 92.4 | 21.9 | -4.4 | 7.6ARM | -2.0 | 9.9 | -5.9 | 7.6ARM | -0.2 |
-| 2026 | Changeup | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 362 | 86.1 | 42.0 | 4.8 | 9.9ARM | -4.2 | -5.3 | 9.2 | 9.9ARM | -4.5 |
+| 2026 | Changeup | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 362 | 86.1 | 42.0 | 4.8 | 9.9ARM | -4.3 | -5.3 | 9.2 | 9.9ARM | -4.5 |
 | 2026 | Sweeper | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 283 | 84.2 | 37.7 | 0.3 | 14.6GLV | 0.6 | 0.9 | 0.1 | 14.6GLV | 0.9 |
-| 2025 | Changeup | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 792 | 86.5 | 42.0 | 6.1 | 8.5ARM | -5.3 | -5.6 | 9.7 | 8.5ARM | -5.9 |
+| 2025 | Changeup | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 792 | 86.5 | 42.0 | 6.1 | 8.5ARM | -5.4 | -5.6 | 9.7 | 8.5ARM | -6.0 |
 | 2025 | Sweeper | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 873 | 84.6 | 38.7 | 1.2 | 14.6GLV | 1.1 | -0.5 | 1.4 | 14.6GLV | 0.7 |
 | 2025 | Cutter | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 255 | 91.0 | 25.2 | -0.9 | 2.0ARM | -2.9 | 7.7 | -0.7 | 2.0ARM | -4.2 |
 | 2025 | 4-Seam Fastball | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 258 | 92.8 | 21.0 | -3.5 | 8.9ARM | -0.7 | 10.7 | -5.1 | 8.9ARM | 1.3 |
@@ -1404,11 +1401,11 @@ Loading Bat Tracking...
 
 Loading Chart Data...
 
-Logan WebbResponsible Plays for 20260ft20ft40ft60ft80ft100ft120ft140ftDistance From Ball Landing12345678Hang Time (Sec.)◀▶▼▲League Wide Catch Difficulty Scale★★★★★★012345OutHitWallBack
+Logan WebbResponsible Plays for 20260ft20ft40ft60ft80ft100ft120ft140ftDistance From Ball Landing12345678Opportunity Time (Sec.)◀▶▼▲League Wide Catch Difficulty Scale★★★★★★012345OutHitWallBack
 
 \\* Click Any Legend Option to Reset Chart \| Save Chart
 
-Hang Time:
+Opportunity Time:
 
 
 Catch Rate GT:

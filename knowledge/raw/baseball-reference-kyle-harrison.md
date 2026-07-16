@@ -3,6 +3,8 @@ source: https://www.baseball-reference.com/players/h/harriky01.shtml
 slug: baseball-reference-kyle-harrison
 ---
 
+Find any player or team from any Reference site with our new cross-sport search engine. Only on [Sports-Reference.com](https://www.sports-reference.com/).
+
 ![Photo of Kyle Harrison](https://www.baseball-reference.com/req/2025011210/images/headshots/d/d84d3077_mlbam.jpg)![Photo of Kyle Harrison](https://www.baseball-reference.com/req/2025011210/images/headshots/d/d84d3077_milb.jpg)
 
 # Kyle Harrison
@@ -423,19 +425,23 @@ Powered by ![Stathead Logo](https://cdn.ssref.net/req/202101292/logos/stathead-l
 - [Player News RSS Feed](https://www.baseball-reference.com/players/news.fcgi?id=harriky01&rss=1)
 - Show/Hide More Stories
 
+- **7/15** [newbaseballmedia.com: Brewers Get McCullers Jr & Gordon from Astros: What to Make of Trade](https://newbaseballmedia.com/brewers-get-mccullers-jr-gordon-from-astros-what-to-make-of-trade/): _Per reports from the New York Post and MLB.com, the Brewers picked_...
+
+- **7/15** [Brewer Fanatic: Colton Gordon Has Raw Ingredients the Brewers Like. Now, They Need to Get Cooking.](https://brewerfanatic.com/news-rumors/milwaukee-brewers/colton-gordon-has-raw-ingredients-the-brewers-like-now-they-need-to-get-cooking-r4779/): _It's not hard to see what the Brewers like about Colton Gordon._...
+
 - **7/14** [newbaseballmedia.com: 2026 MLB First-Half Recap: Milwaukee Brewers](https://newbaseballmedia.com/2026-mlb-first-half-recap-milwaukee-brewers/): _The Brewers have turned into one of baseball’s best small-market_...
 
 - **7/13** [Brewer Fanatic: Somehow, the Brewers Need Starting Pitching Help at the Trade Deadline](https://brewerfanatic.com/news-rumors/milwaukee-brewers/somehow-the-brewers-need-starting-pitching-help-at-the-trade-deadline-r4769/): _It's going to be ok. Probably. Jacob Misiorowski has just enough_...
 
 - **7/13** [MLBTradeRumors: Jacob Misiorowski To Resume Throwing, Won’t Start This Week](https://www.mlbtraderumors.com/2026/07/jacob-misiorowski-to-resume-throwing-wont-start-this-week.html): _Brewers right-hander Jacob Misiorowski was scratched from his_...
 
+- Show 17 more stories
+
 - **7/13** [Mets Merized: 2026 Trade Profile: Clay Holmes](https://metsmerizedonline.com/2026-trade-profile-clay-holmes/?utm_source=rss&utm_medium=rss&utm_campaign=2026-trade-profile-clay-holmes): _Clay Holmes, SP Position: RHP Age: 33 (3/27/93) 2026 Stats: 4-4,_...
 
 - **7/12** [Brewer Fanatic: Brewers Week in Review: Eight and Break](https://brewerfanatic.com/news-rumors/milwaukee-brewers/brewers-week-in-review-eight-and-break-r4763/): _Weekly Snapshot:_
 _Record Last Week: 4-4 (Overall: 59-37)_
 _Runs_...
-
-- Show 15 more stories
 
 - **7/12** [Philly Sports Reports: Recapping Phillies’ First Day of 2026 MLB Draft](https://phillysportsreports.com/2026/07/12/recapping-phillies-first-day-of-2026-mlb-draft/): _The Phillies didn’t have to travel to the 2026 MLB Draft._...
 

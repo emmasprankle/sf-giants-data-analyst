@@ -3,10 +3,7 @@ source: https://baseballsavant.mlb.com/savant-player/hayden-birdsong-806185
 slug: baseballsavant-hayden-birdsong
 ---
 
-[|     |     |     |     |\\
-| --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/159.svg) | AL | 4 | Final |\\
-| ![](https://www.mlbstatic.com/team-logos/160.svg) | NL | 0 |](https://baseballsavant.mlb.com/gamefeed?gamePk=823443&game_date=2026-07-14)
+No Games Scheduled.
 
 <
 
@@ -299,126 +296,126 @@ No Minor League Hitting Statistics.
 
 ### [Platoon Splits](https://baseballsavant.mlb.com/savant-player/hayden-birdsong-806185?stats=statcast-r-pitching-mlb\#platoon-splits)
 
-| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| San Francisco Giants | MLB | vs Left |  |  |  | 21 |  |  | 30.1 | 146 | 34 |  |  | 7 | 21 | 33 | 1.81 |
-| San Francisco Giants | MLB | vs Right |  |  |  | 21 |  |  | 35.1 | 152 | 27 |  |  | 3 | 16 | 35 | 1.22 |
+| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP | AVG | OBP | SLG | OPS |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| San Francisco Giants | MLB | vs Left |  |  |  | 21 |  |  | 30.1 | 146 | 34 |  |  | 7 | 21 | 33 | 1.81 | .281 | .386 | .562 | .948 |
+| San Francisco Giants | MLB | vs Right |  |  |  | 21 |  |  | 35.1 | 152 | 27 |  |  | 3 | 16 | 35 | 1.22 | .206 | .309 | .298 | .607 |
 
 ### [Monthly Splits](https://baseballsavant.mlb.com/savant-player/hayden-birdsong-806185?stats=statcast-r-pitching-mlb\#monthly-splits)
 
-| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| San Francisco Giants | MLB | April | 1 | 0 | 1.13 | 7 | 0 | 0 | 16.0 | 64 | 11 | 2 | 2 | 1 | 6 | 18 | 1.06 |
-| San Francisco Giants | MLB | May | 1 | 1 | 3.78 | 6 | 2 | 0 | 16.2 | 76 | 19 | 12 | 7 | 3 | 6 | 17 | 1.50 |
-| San Francisco Giants | MLB | June | 1 | 1 | 6.38 | 5 | 5 | 0 | 24.0 | 111 | 24 | 18 | 17 | 4 | 12 | 21 | 1.50 |
-| San Francisco Giants | MLB | July | 1 | 2 | 9.00 | 3 | 3 | 0 | 9.0 | 47 | 7 | 10 | 9 | 2 | 13 | 12 | 2.22 |
-| San Francisco Giants | MLB | Pre All-Star | 4 | 3 | 4.11 | 20 | 9 | 0 | 65.2 | 292 | 60 | 37 | 30 | 10 | 33 | 68 | 1.42 |
-| San Francisco Giants | MLB | Post All-Star | 0 | 1 | -.-- | 1 | 1 | 0 | 0.0 | 6 | 1 | 5 | 5 | 0 | 4 | 0 | -.-- |
+| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP | AVG | OBP | SLG | OPS |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| San Francisco Giants | MLB | April | 1 | 0 | 1.13 | 7 | 0 | 0 | 16.0 | 64 | 11 | 2 | 2 | 1 | 6 | 18 | 1.06 | .193 | .281 | .351 | .632 |
+| San Francisco Giants | MLB | May | 1 | 1 | 3.78 | 6 | 2 | 0 | 16.2 | 76 | 19 | 12 | 7 | 3 | 6 | 17 | 1.50 | .288 | .347 | .470 | .817 |
+| San Francisco Giants | MLB | June | 1 | 1 | 6.38 | 5 | 5 | 0 | 24.0 | 111 | 24 | 18 | 17 | 4 | 12 | 21 | 1.50 | .250 | .342 | .427 | .769 |
+| San Francisco Giants | MLB | July | 1 | 2 | 9.00 | 3 | 3 | 0 | 9.0 | 47 | 7 | 10 | 9 | 2 | 13 | 12 | 2.22 | .212 | .447 | .455 | .902 |
+| San Francisco Giants | MLB | Pre All-Star | 4 | 3 | 4.11 | 20 | 9 | 0 | 65.2 | 292 | 60 | 37 | 30 | 10 | 33 | 68 | 1.42 | .239 | .333 | .418 | .751 |
+| San Francisco Giants | MLB | Post All-Star | 0 | 1 | -.-- | 1 | 1 | 0 | 0.0 | 6 | 1 | 5 | 5 | 0 | 4 | 0 | -.-- | 1.000 | 1.000 | 2.000 | 3.000 |
 
 ### [Baserunner Splits](https://baseballsavant.mlb.com/savant-player/hayden-birdsong-806185?stats=statcast-r-pitching-mlb\#baserunner-splits)
 
-| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| San Francisco Giants | MLB | Bases Empty |  |  |  | 21 |  |  | 35.1 | 166 | 39 |  |  | 3 | 18 | 41 | 1.61 |
-| San Francisco Giants | MLB | Bases Loaded |  |  |  | 5 |  |  | 1.1 | 7 | 2 |  |  | 0 | 1 | 1 | 2.25 |
-| San Francisco Giants | MLB | Runner at 1st |  |  |  | 21 |  |  | 15.0 | 60 | 9 |  |  | 2 | 8 | 16 | 1.13 |
-| San Francisco Giants | MLB | Runners at 1st & 2nd |  |  |  | 11 |  |  | 3.2 | 18 | 3 |  |  | 1 | 5 | 2 | 2.18 |
-| San Francisco Giants | MLB | Runners at 1st & 3rd |  |  |  | 4 |  |  | 1.1 | 6 | 2 |  |  | 1 | 0 | 1 | 1.50 |
-| San Francisco Giants | MLB | Runner at 2nd |  |  |  | 12 |  |  | 5.2 | 26 | 3 |  |  | 1 | 5 | 4 | 1.41 |
-| San Francisco Giants | MLB | Runners at 2nd & 3rd |  |  |  | 4 |  |  | 0.2 | 4 | 1 |  |  | 1 | 0 | 0 | 1.50 |
-| San Francisco Giants | MLB | Runner at 3rd |  |  |  | 7 |  |  | 2.2 | 11 | 2 |  |  | 1 | 0 | 3 | 0.75 |
-| San Francisco Giants | MLB | Scoring Position |  |  |  | 19 |  |  | 15.1 | 72 | 13 |  |  | 5 | 11 | 11 | 1.57 |
+| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP | AVG | OBP | SLG | OPS |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| San Francisco Giants | MLB | Bases Empty |  |  |  | 21 |  |  | 35.1 | 166 | 39 |  |  | 3 | 18 | 41 | 1.61 | .269 | .361 | .428 | .789 |
+| San Francisco Giants | MLB | Bases Loaded |  |  |  | 5 |  |  | 1.1 | 7 | 2 |  |  | 0 | 1 | 1 | 2.25 | .500 | .429 | .750 | 1.179 |
+| San Francisco Giants | MLB | Runner at 1st |  |  |  | 21 |  |  | 15.0 | 60 | 9 |  |  | 2 | 8 | 16 | 1.13 | .176 | .288 | .314 | .602 |
+| San Francisco Giants | MLB | Runners at 1st & 2nd |  |  |  | 11 |  |  | 3.2 | 18 | 3 |  |  | 1 | 5 | 2 | 2.18 | .250 | .500 | .500 | 1.000 |
+| San Francisco Giants | MLB | Runners at 1st & 3rd |  |  |  | 4 |  |  | 1.1 | 6 | 2 |  |  | 1 | 0 | 1 | 1.50 | .333 | .333 | .833 | 1.166 |
+| San Francisco Giants | MLB | Runner at 2nd |  |  |  | 12 |  |  | 5.2 | 26 | 3 |  |  | 1 | 5 | 4 | 1.41 | .143 | .308 | .286 | .594 |
+| San Francisco Giants | MLB | Runners at 2nd & 3rd |  |  |  | 4 |  |  | 0.2 | 4 | 1 |  |  | 1 | 0 | 0 | 1.50 | .250 | .250 | 1.000 | 1.250 |
+| San Francisco Giants | MLB | Runner at 3rd |  |  |  | 7 |  |  | 2.2 | 11 | 2 |  |  | 1 | 0 | 3 | 0.75 | .222 | .273 | .556 | .829 |
+| San Francisco Giants | MLB | Scoring Position |  |  |  | 19 |  |  | 15.1 | 72 | 13 |  |  | 5 | 11 | 11 | 1.57 | .232 | .361 | .518 | .879 |
 
 ### [Game Type Splits](https://baseballsavant.mlb.com/savant-player/hayden-birdsong-806185?stats=statcast-r-pitching-mlb\#game-type-splits)
 
-| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| San Francisco Giants | MLB | Home Games | 2 | 1 | 4.28 | 10 | 4 | 0 | 33.2 | 147 | 30 | 18 | 16 | 5 | 16 | 31 | 1.37 |
-| San Francisco Giants | MLB | Away Games | 2 | 3 | 5.34 | 11 | 6 | 0 | 32.0 | 151 | 31 | 24 | 19 | 5 | 21 | 37 | 1.63 |
-| San Francisco Giants | MLB | Day Games | 1 | 2 | 4.83 | 9 | 4 | 0 | 31.2 | 140 | 31 | 17 | 17 | 5 | 11 | 34 | 1.33 |
-| San Francisco Giants | MLB | Night Games | 3 | 2 | 4.76 | 12 | 6 | 0 | 34.0 | 158 | 30 | 25 | 18 | 5 | 26 | 34 | 1.65 |
-| San Francisco Giants | MLB | Leading Off Inning |  |  |  | 21 |  |  | 15.1 | 70 | 16 |  |  | 2 | 7 | 17 | 1.50 |
-| San Francisco Giants | MLB | Late / Close |  |  |  | 5 |  |  | 8.1 | 33 | 7 |  |  | 1 | 1 | 10 | 0.96 |
+| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP | AVG | OBP | SLG | OPS |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| San Francisco Giants | MLB | Home Games | 2 | 1 | 4.28 | 10 | 4 | 0 | 33.2 | 147 | 30 | 18 | 16 | 5 | 16 | 31 | 1.37 | .240 | .336 | .424 | .760 |
+| San Francisco Giants | MLB | Away Games | 2 | 3 | 5.34 | 11 | 6 | 0 | 32.0 | 151 | 31 | 24 | 19 | 5 | 21 | 37 | 1.63 | .244 | .358 | .425 | .783 |
+| San Francisco Giants | MLB | Day Games | 1 | 2 | 4.83 | 9 | 4 | 0 | 31.2 | 140 | 31 | 17 | 17 | 5 | 11 | 34 | 1.33 | .248 | .324 | .432 | .756 |
+| San Francisco Giants | MLB | Night Games | 3 | 2 | 4.76 | 12 | 6 | 0 | 34.0 | 158 | 30 | 25 | 18 | 5 | 26 | 34 | 1.65 | .236 | .367 | .417 | .784 |
+| San Francisco Giants | MLB | Leading Off Inning |  |  |  | 21 |  |  | 15.1 | 70 | 16 |  |  | 2 | 7 | 17 | 1.50 | .258 | .343 | .484 | .827 |
+| San Francisco Giants | MLB | Late / Close |  |  |  | 5 |  |  | 8.1 | 33 | 7 |  |  | 1 | 1 | 10 | 0.96 | .219 | .242 | .469 | .711 |
 
 ### [Outs Splits](https://baseballsavant.mlb.com/savant-player/hayden-birdsong-806185?stats=statcast-r-pitching-mlb\#out-splits)
 
-| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| San Francisco Giants | MLB | No Outs |  |  |  | 21 |  |  | 23.1 | 109 | 21 |  |  | 4 | 15 | 25 | 1.54 |
-| San Francisco Giants | MLB | One Out |  |  |  | 20 |  |  | 22.1 | 97 | 20 |  |  | 5 | 12 | 22 | 1.43 |
-| San Francisco Giants | MLB | Two Outs |  |  |  | 19 |  |  | 20.0 | 92 | 20 |  |  | 1 | 10 | 21 | 1.50 |
+| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP | AVG | OBP | SLG | OPS |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| San Francisco Giants | MLB | No Outs |  |  |  | 21 |  |  | 23.1 | 109 | 21 |  |  | 4 | 15 | 25 | 1.54 | .236 | .352 | .483 | .835 |
+| San Francisco Giants | MLB | One Out |  |  |  | 20 |  |  | 22.1 | 97 | 20 |  |  | 5 | 12 | 22 | 1.43 | .241 | .340 | .434 | .774 |
+| San Francisco Giants | MLB | Two Outs |  |  |  | 19 |  |  | 20.0 | 92 | 20 |  |  | 1 | 10 | 21 | 1.50 | .250 | .348 | .350 | .698 |
 
 ### [Inning Splits](https://baseballsavant.mlb.com/savant-player/hayden-birdsong-806185?stats=statcast-r-pitching-mlb\#inning-splits)
 
-| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| San Francisco Giants | MLB | First Inning |  |  | 8.00 | 10 |  |  | 9.0 | 42 | 6 | 8 | 8 | 1 | 7 | 8 | 1.44 |
-| San Francisco Giants | MLB | Second Inning |  |  | 0.00 | 9 |  |  | 9.0 | 30 | 2 | 0 | 0 | 0 | 2 | 13 | 0.44 |
-| San Francisco Giants | MLB | Third Inning |  |  | 4.50 | 10 |  |  | 10.0 | 48 | 10 | 7 | 5 | 3 | 8 | 10 | 1.80 |
-| San Francisco Giants | MLB | Fourth Inning |  |  | 10.80 | 10 |  |  | 10.0 | 53 | 16 | 12 | 12 | 3 | 5 | 9 | 2.10 |
-| San Francisco Giants | MLB | Fifth Inning |  |  | 7.50 | 9 |  |  | 6.0 | 32 | 7 | 6 | 5 | 0 | 7 | 4 | 2.33 |
-| San Francisco Giants | MLB | Sixth Inning |  |  | 4.76 | 7 |  |  | 5.2 | 30 | 10 | 7 | 3 | 2 | 2 | 6 | 2.12 |
-| San Francisco Giants | MLB | Seventh Inning |  |  | 2.25 | 8 |  |  | 8.0 | 32 | 6 | 2 | 2 | 1 | 2 | 5 | 1.00 |
-| San Francisco Giants | MLB | Eighth Inning |  |  | 0.00 | 6 |  |  | 6.0 | 24 | 3 | 0 | 0 | 0 | 4 | 10 | 1.17 |
-| San Francisco Giants | MLB | Ninth Inning |  |  | 0.00 | 2 |  |  | 2.0 | 7 | 1 | 0 | 0 | 0 | 0 | 3 | 0.50 |
+| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP | AVG | OBP | SLG | OPS |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| San Francisco Giants | MLB | First Inning |  |  | 8.00 | 10 |  |  | 9.0 | 42 | 6 | 8 | 8 | 1 | 7 | 8 | 1.44 | .182 | .357 | .394 | .751 |
+| San Francisco Giants | MLB | Second Inning |  |  | 0.00 | 9 |  |  | 9.0 | 30 | 2 | 0 | 0 | 0 | 2 | 13 | 0.44 | .071 | .133 | .071 | .204 |
+| San Francisco Giants | MLB | Third Inning |  |  | 4.50 | 10 |  |  | 10.0 | 48 | 10 | 7 | 5 | 3 | 8 | 10 | 1.80 | .256 | .375 | .538 | .913 |
+| San Francisco Giants | MLB | Fourth Inning |  |  | 10.80 | 10 |  |  | 10.0 | 53 | 16 | 12 | 12 | 3 | 5 | 9 | 2.10 | .356 | .434 | .600 | 1.034 |
+| San Francisco Giants | MLB | Fifth Inning |  |  | 7.50 | 9 |  |  | 6.0 | 32 | 7 | 6 | 5 | 0 | 7 | 4 | 2.33 | .292 | .452 | .333 | .785 |
+| San Francisco Giants | MLB | Sixth Inning |  |  | 4.76 | 7 |  |  | 5.2 | 30 | 10 | 7 | 3 | 2 | 2 | 6 | 2.12 | .370 | .400 | .667 | 1.067 |
+| San Francisco Giants | MLB | Seventh Inning |  |  | 2.25 | 8 |  |  | 8.0 | 32 | 6 | 2 | 2 | 1 | 2 | 5 | 1.00 | .207 | .281 | .448 | .729 |
+| San Francisco Giants | MLB | Eighth Inning |  |  | 0.00 | 6 |  |  | 6.0 | 24 | 3 | 0 | 0 | 0 | 4 | 10 | 1.17 | .150 | .292 | .150 | .442 |
+| San Francisco Giants | MLB | Ninth Inning |  |  | 0.00 | 2 |  |  | 2.0 | 7 | 1 | 0 | 0 | 0 | 0 | 3 | 0.50 | .143 | .143 | .286 | .429 |
 
 ### [Platoon Splits](https://baseballsavant.mlb.com/savant-player/hayden-birdsong-806185?stats=statcast-r-pitching-mlb\#milb-platoon-splits)
 
-| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Sacramento River Cats | Triple-A | vs Left |  |  |  | 10 |  |  | 19.2 | 96 | 17 |  |  | 5 | 16 | 22 | 1.68 |
-| Sacramento River Cats | Triple-A | vs Right |  |  |  | 10 |  |  | 19.1 | 99 | 25 |  |  | 4 | 14 | 25 | 2.02 |
+| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP | AVG | OBP | SLG | OPS |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Sacramento River Cats | Triple-A | vs Left |  |  |  | 10 |  |  | 19.2 | 96 | 17 |  |  | 5 | 16 | 22 | 1.68 | .224 | .375 | .500 | .875 |
+| Sacramento River Cats | Triple-A | vs Right |  |  |  | 10 |  |  | 19.1 | 99 | 25 |  |  | 4 | 14 | 25 | 2.02 | .301 | .408 | .518 | .926 |
 
 ### [Monthly Splits](https://baseballsavant.mlb.com/savant-player/hayden-birdsong-806185?stats=statcast-r-pitching-mlb\#milb-monthly-splits)
 
-| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Sacramento River Cats | Triple-A | July | 0 | 0 | 2.25 | 1 | 1 | 0 | 4.0 | 19 | 5 | 2 | 1 | 1 | 2 | 4 | 1.75 |
-| Sacramento River Cats | Triple-A | August | 1 | 1 | 5.18 | 6 | 6 | 0 | 24.1 | 120 | 23 | 15 | 14 | 4 | 18 | 28 | 1.68 |
-| Sacramento River Cats | Triple-A | September | 0 | 2 | 10.13 | 3 | 3 | 0 | 10.2 | 56 | 14 | 12 | 12 | 4 | 10 | 15 | 2.25 |
-| Sacramento River Cats | Triple-A | Second Half | 1 | 3 | 6.23 | 10 | 10 | 0 | 39.0 | 195 | 42 | 29 | 27 | 9 | 30 | 47 | 1.85 |
+| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP | AVG | OBP | SLG | OPS |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Sacramento River Cats | Triple-A | July | 0 | 0 | 2.25 | 1 | 1 | 0 | 4.0 | 19 | 5 | 2 | 1 | 1 | 2 | 4 | 1.75 | .294 | .368 | .588 | .956 |
+| Sacramento River Cats | Triple-A | August | 1 | 1 | 5.18 | 6 | 6 | 0 | 24.1 | 120 | 23 | 15 | 14 | 4 | 18 | 28 | 1.68 | .235 | .370 | .429 | .799 |
+| Sacramento River Cats | Triple-A | September | 0 | 2 | 10.13 | 3 | 3 | 0 | 10.2 | 56 | 14 | 12 | 12 | 4 | 10 | 15 | 2.25 | .318 | .446 | .659 | 1.105 |
+| Sacramento River Cats | Triple-A | Second Half | 1 | 3 | 6.23 | 10 | 10 | 0 | 39.0 | 195 | 42 | 29 | 27 | 9 | 30 | 47 | 1.85 | .264 | .392 | .509 | .901 |
 
 ### [Baserunner Splits](https://baseballsavant.mlb.com/savant-player/hayden-birdsong-806185?stats=statcast-r-pitching-mlb\#milb-baserunner-splits)
 
-| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Sacramento River Cats | Triple-A | Bases Empty |  |  |  | 10 |  |  | 15.1 | 91 | 25 |  |  | 6 | 17 | 18 | 2.74 |
-| Sacramento River Cats | Triple-A | Bases Loaded |  |  |  | 3 |  |  | 1.0 | 4 | 1 |  |  | 0 | 0 | 0 | 1.00 |
-| Sacramento River Cats | Triple-A | Runner at 1st |  |  |  | 10 |  |  | 8.0 | 39 | 8 |  |  | 2 | 5 | 8 | 1.63 |
-| Sacramento River Cats | Triple-A | Runners at 1st & 2nd |  |  |  | 10 |  |  | 5.0 | 22 | 4 |  |  | 1 | 2 | 8 | 1.20 |
-| Sacramento River Cats | Triple-A | Runners at 1st & 3rd |  |  |  | 1 |  |  | 0.1 | 1 | 0 |  |  | 0 | 0 | 0 | 0.00 |
-| Sacramento River Cats | Triple-A | Runner at 2nd |  |  |  | 8 |  |  | 6.0 | 26 | 2 |  |  | 0 | 6 | 6 | 1.33 |
-| Sacramento River Cats | Triple-A | Runners at 2nd & 3rd |  |  |  | 4 |  |  | 1.2 | 6 | 1 |  |  | 0 | 0 | 4 | 0.60 |
-| Sacramento River Cats | Triple-A | Runner at 3rd |  |  |  | 5 |  |  | 1.2 | 6 | 1 |  |  | 0 | 0 | 3 | 0.60 |
-| Sacramento River Cats | Triple-A | Scoring Position |  |  |  | 10 |  |  | 15.2 | 65 | 9 |  |  | 1 | 8 | 21 | 1.09 |
+| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP | AVG | OBP | SLG | OPS |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Sacramento River Cats | Triple-A | Bases Empty |  |  |  | 10 |  |  | 15.1 | 91 | 25 |  |  | 6 | 17 | 18 | 2.74 | .342 | .473 | .699 | 1.172 |
+| Sacramento River Cats | Triple-A | Bases Loaded |  |  |  | 3 |  |  | 1.0 | 4 | 1 |  |  | 0 | 0 | 0 | 1.00 | .250 | .250 | .500 | .750 |
+| Sacramento River Cats | Triple-A | Runner at 1st |  |  |  | 10 |  |  | 8.0 | 39 | 8 |  |  | 2 | 5 | 8 | 1.63 | .258 | .395 | .484 | .879 |
+| Sacramento River Cats | Triple-A | Runners at 1st & 2nd |  |  |  | 10 |  |  | 5.0 | 22 | 4 |  |  | 1 | 2 | 8 | 1.20 | .211 | .318 | .421 | .739 |
+| Sacramento River Cats | Triple-A | Runners at 1st & 3rd |  |  |  | 1 |  |  | 0.1 | 1 | 0 |  |  | 0 | 0 | 0 | 0.00 | .000 | .000 | .000 | .000 |
+| Sacramento River Cats | Triple-A | Runner at 2nd |  |  |  | 8 |  |  | 6.0 | 26 | 2 |  |  | 0 | 6 | 6 | 1.33 | .100 | .308 | .100 | .408 |
+| Sacramento River Cats | Triple-A | Runners at 2nd & 3rd |  |  |  | 4 |  |  | 1.2 | 6 | 1 |  |  | 0 | 0 | 4 | 0.60 | .167 | .167 | .333 | .500 |
+| Sacramento River Cats | Triple-A | Runner at 3rd |  |  |  | 5 |  |  | 1.2 | 6 | 1 |  |  | 0 | 0 | 3 | 0.60 | .167 | .167 | .167 | .334 |
+| Sacramento River Cats | Triple-A | Scoring Position |  |  |  | 10 |  |  | 15.2 | 65 | 9 |  |  | 1 | 8 | 21 | 1.09 | .164 | .277 | .273 | .550 |
 
 ### [Game Type Splits](https://baseballsavant.mlb.com/savant-player/hayden-birdsong-806185?stats=statcast-r-pitching-mlb\#milb-game-type-splits)
 
-| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Sacramento River Cats | Triple-A | Home Games | 0 | 1 | 7.64 | 5 | 5 | 0 | 17.2 | 95 | 24 | 17 | 15 | 5 | 15 | 19 | 2.21 |
-| Sacramento River Cats | Triple-A | Away Games | 1 | 2 | 5.06 | 5 | 5 | 0 | 21.1 | 100 | 18 | 12 | 12 | 4 | 15 | 28 | 1.55 |
-| Sacramento River Cats | Triple-A | Day Games | 0 | 0 | 4.50 | 2 | 2 | 0 | 8.0 | 39 | 9 | 5 | 4 | 1 | 6 | 7 | 1.88 |
-| Sacramento River Cats | Triple-A | Night Games | 1 | 3 | 6.68 | 8 | 8 | 0 | 31.0 | 156 | 33 | 24 | 23 | 8 | 24 | 40 | 1.84 |
-| Sacramento River Cats | Triple-A | Leading Off Inning |  |  |  | 10 |  |  | 8.1 | 42 | 10 |  |  | 4 | 6 | 9 | 1.92 |
+| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP | AVG | OBP | SLG | OPS |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Sacramento River Cats | Triple-A | Home Games | 0 | 1 | 7.64 | 5 | 5 | 0 | 17.2 | 95 | 24 | 17 | 15 | 5 | 15 | 19 | 2.21 | .312 | .432 | .584 | 1.016 |
+| Sacramento River Cats | Triple-A | Away Games | 1 | 2 | 5.06 | 5 | 5 | 0 | 21.1 | 100 | 18 | 12 | 12 | 4 | 15 | 28 | 1.55 | .220 | .354 | .439 | .793 |
+| Sacramento River Cats | Triple-A | Day Games | 0 | 0 | 4.50 | 2 | 2 | 0 | 8.0 | 39 | 9 | 5 | 4 | 1 | 6 | 7 | 1.88 | .281 | .395 | .469 | .864 |
+| Sacramento River Cats | Triple-A | Night Games | 1 | 3 | 6.68 | 8 | 8 | 0 | 31.0 | 156 | 33 | 24 | 23 | 8 | 24 | 40 | 1.84 | .260 | .391 | .520 | .911 |
+| Sacramento River Cats | Triple-A | Leading Off Inning |  |  |  | 10 |  |  | 8.1 | 42 | 10 |  |  | 4 | 6 | 9 | 1.92 | .278 | .381 | .667 | 1.048 |
 
 ### [Outs Splits](https://baseballsavant.mlb.com/savant-player/hayden-birdsong-806185?stats=statcast-r-pitching-mlb\#milb-out-splits)
 
-| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Sacramento River Cats | Triple-A | No Outs |  |  |  | 10 |  |  | 13.2 | 67 | 17 |  |  | 5 | 9 | 14 | 1.90 |
-| Sacramento River Cats | Triple-A | One Out |  |  |  | 10 |  |  | 12.2 | 60 | 10 |  |  | 2 | 9 | 16 | 1.50 |
-| Sacramento River Cats | Triple-A | Two Outs |  |  |  | 10 |  |  | 12.2 | 68 | 15 |  |  | 2 | 12 | 17 | 2.13 |
+| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP | AVG | OBP | SLG | OPS |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Sacramento River Cats | Triple-A | No Outs |  |  |  | 10 |  |  | 13.2 | 67 | 17 |  |  | 5 | 9 | 14 | 1.90 | .298 | .394 | .632 | 1.026 |
+| Sacramento River Cats | Triple-A | One Out |  |  |  | 10 |  |  | 12.2 | 60 | 10 |  |  | 2 | 9 | 16 | 1.50 | .208 | .350 | .375 | .725 |
+| Sacramento River Cats | Triple-A | Two Outs |  |  |  | 10 |  |  | 12.2 | 68 | 15 |  |  | 2 | 12 | 17 | 2.13 | .278 | .426 | .500 | .926 |
 
 ### [Inning Splits](https://baseballsavant.mlb.com/savant-player/hayden-birdsong-806185?stats=statcast-r-pitching-mlb\#milb-inning-splits)
 
-| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Sacramento River Cats | Triple-A | First Inning |  |  | 8.10 | 10 |  |  | 10.0 | 55 | 15 | 10 | 9 | 2 | 9 | 14 | 2.40 |
-| Sacramento River Cats | Triple-A | Second Inning |  |  | 6.30 | 10 |  |  | 10.0 | 45 | 11 | 7 | 7 | 4 | 4 | 8 | 1.50 |
-| Sacramento River Cats | Triple-A | Third Inning |  |  | 3.00 | 9 |  |  | 9.0 | 46 | 7 | 3 | 3 | 0 | 9 | 8 | 1.78 |
-| Sacramento River Cats | Triple-A | Fourth Inning |  |  | 5.63 | 9 |  |  | 8.0 | 38 | 7 | 6 | 5 | 2 | 5 | 14 | 1.50 |
-| Sacramento River Cats | Triple-A | Fifth Inning |  |  | 13.50 | 4 |  |  | 2.0 | 11 | 2 | 3 | 3 | 1 | 3 | 3 | 2.50 |
+| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP | AVG | OBP | SLG | OPS |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Sacramento River Cats | Triple-A | First Inning |  |  | 8.10 | 10 |  |  | 10.0 | 55 | 15 | 10 | 9 | 2 | 9 | 14 | 2.40 | .333 | .455 | .578 | 1.033 |
+| Sacramento River Cats | Triple-A | Second Inning |  |  | 6.30 | 10 |  |  | 10.0 | 45 | 11 | 7 | 7 | 4 | 4 | 8 | 1.50 | .275 | .341 | .650 | .991 |
+| Sacramento River Cats | Triple-A | Third Inning |  |  | 3.00 | 9 |  |  | 9.0 | 46 | 7 | 3 | 3 | 0 | 9 | 8 | 1.78 | .206 | .391 | .265 | .656 |
+| Sacramento River Cats | Triple-A | Fourth Inning |  |  | 5.63 | 9 |  |  | 8.0 | 38 | 7 | 6 | 5 | 2 | 5 | 14 | 1.50 | .219 | .342 | .469 | .811 |
+| Sacramento River Cats | Triple-A | Fifth Inning |  |  | 13.50 | 4 |  |  | 2.0 | 11 | 2 | 3 | 3 | 1 | 3 | 3 | 2.50 | .250 | .455 | .625 | 1.080 |
 
 | Date | Home Tm | Away Tm | W | L | ERA | G | GS | SV | IP | H | R | ER | HR | BB | SO | WHIP |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -618,7 +615,7 @@ All Similar Pitchers](https://baseballsavant.mlb.com/affinity-pitchersAndHitters
 
 ## [Pitch Movement](https://baseballsavant.mlb.com/savant-player/hayden-birdsong-806185?stats=statcast-r-pitching-mlb\#pitch_movement)
 
-Created with Highcharts 6.2.0Chart context menuHayden Birdsong Vertical Movement vs Avg (Inches) by SeasonSource: baseballsavant.mlb.comCurveballFour SeamerChangeupSliderSlurve20242025-5-2.502.557.510
+Created with Highcharts 6.2.0Chart context menuHayden Birdsong Vertical Movement vs Avg (Inches) by SeasonSource: baseballsavant.mlb.comSlurveFour SeamerSliderCurveballChangeup20242025-5-2.502.557.510
 
 - Vertical Movement vs Avg (Inches)Horizontal Movement vs Avg (Inches)Horizontal Movement (Inches)Vertical Movement (Inches)Induced Vertical Movement (Inches)Horizontal Movement % Break vs AvgVertical Movement % Break vs Avg▾
 
@@ -634,13 +631,13 @@ On the right, Induced Movement (or IVB) is reported without gravity, and attempt
 | --- | --- | --- |
 | Year | Pitch | Team | Hand | # | MPH | Vertical<br>Drop | vs.<br>Comparable | Horizontal<br>Break | vs.<br>Comparable | Vertical<br>Break | vs. Avg | Horizontal<br>Break | vs. Avg |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2025 | Curveball | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 155 | 80.3 | 55.2 | 1.3 | 3.8GLV | -3.1 | -12.6 | 2.4 | 3.8GLV | -5.2 |
-| 2025 | 4-Seam Fastball | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 527 | 95.5 | 12.0 | 1.1 | 6.0ARM | -0.1 | 18.1 | 2.3 | 6.0ARM | -1.6 |
-| 2025 | Changeup | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 201 | 88.7 | 34.7 | 5.1 | 11.9ARM | -2.4 | 0.0 | 4.1 | 11.9ARM | -2.5 |
-| 2025 | Slider | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 291 | 88.9 | 27.3 | -4.2 | 1.9GLV | -1.4 | 7.1 | -5.3 | 1.9GLV | -2.3 |
 | 2025 | Slurve | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 20 | 84.7 | 41.5 | -1.9 | 2.3GLV | -5.0 | -3.4 | -1.4 | 2.3GLV | -10.1 |
-| 2024 | Slider | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 254 | 86.4 | 35.4 | 0.7 | 1.5GLV | -2.7 | 1.1 | 0.6 | 1.5GLV | -3.1 |
+| 2025 | 4-Seam Fastball | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 527 | 95.5 | 12.0 | 1.1 | 6.0ARM | -0.1 | 18.1 | 2.3 | 6.0ARM | -1.6 |
+| 2025 | Slider | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 291 | 88.9 | 27.3 | -4.2 | 1.9GLV | -1.4 | 7.1 | -5.3 | 1.9GLV | -2.3 |
+| 2025 | Curveball | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 155 | 80.3 | 55.2 | 1.3 | 3.8GLV | -3.1 | -12.6 | 2.4 | 3.8GLV | -5.2 |
+| 2025 | Changeup | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 201 | 88.7 | 34.7 | 5.1 | 11.9ARM | -2.4 | 0.0 | 4.1 | 11.9ARM | -2.6 |
 | 2024 | Changeup | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 256 | 88.1 | 37.0 | 7.4 | 10.8ARM | -3.3 | -1.9 | 6.8 | 10.8ARM | -3.4 |
+| 2024 | Slider | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 254 | 86.4 | 35.4 | 0.7 | 1.5GLV | -2.7 | 1.1 | 0.6 | 1.5GLV | -3.1 |
 | 2024 | 4-Seam Fastball | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 619 | 95.8 | 13.5 | -0.2 | 9.5ARM | 2.7 | 16.4 | 0.6 | 9.5ARM | 2.0 |
 | 2024 | Curveball | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 259 | 80.5 | 55.8 | 3.2 | 5.7GLV | -1.7 | -13.5 | 3.5 | 5.7GLV | -3.7 |
 
@@ -986,11 +983,11 @@ Loading Bat Tracking...
 
 Loading Chart Data...
 
-Hayden BirdsongResponsible Plays for 20250ft20ft40ft60ft80ft100ft120ft140ftDistance From Ball Landing12345678Hang Time (Sec.)◀▶▼▲League Wide Catch Difficulty Scale★★★★★★012345OutHitWallBack
+Hayden BirdsongResponsible Plays for 20250ft20ft40ft60ft80ft100ft120ft140ftDistance From Ball Landing12345678Opportunity Time (Sec.)◀▶▼▲League Wide Catch Difficulty Scale★★★★★★012345OutHitWallBack
 
 \\* Click Any Legend Option to Reset Chart \| Save Chart
 
-Hang Time:
+Opportunity Time:
 
 
 Catch Rate GT:

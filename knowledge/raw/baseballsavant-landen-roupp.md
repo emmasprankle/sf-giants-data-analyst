@@ -3,10 +3,7 @@ source: https://baseballsavant.mlb.com/savant-player/landen-roupp-694738
 slug: baseballsavant-landen-roupp
 ---
 
-[|     |     |     |     |\\
-| --- | --- | --- | --- |\\
-| ![](https://www.mlbstatic.com/team-logos/159.svg) | AL | 4 | Final |\\
-| ![](https://www.mlbstatic.com/team-logos/160.svg) | NL | 0 |](https://baseballsavant.mlb.com/gamefeed?gamePk=823443&game_date=2026-07-14)
+No Games Scheduled.
 
 <
 
@@ -342,113 +339,113 @@ No Minor League Hitting Statistics.
 
 ### [Platoon Splits](https://baseballsavant.mlb.com/savant-player/landen-roupp-694738?stats=statcast-r-pitching-mlb\#platoon-splits)
 
-| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| San Francisco Giants | MLB | vs Left |  |  |  | 18 |  |  | 54.1 | 232 | 45 |  |  | 3 | 29 | 59 | 1.36 |
-| San Francisco Giants | MLB | vs Right |  |  |  | 18 |  |  | 42.2 | 179 | 40 |  |  | 4 | 13 | 45 | 1.24 |
+| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP | AVG | OBP | SLG | OPS |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| San Francisco Giants | MLB | vs Left |  |  |  | 18 |  |  | 54.1 | 232 | 45 |  |  | 3 | 29 | 59 | 1.36 | .225 | .329 | .340 | .669 |
+| San Francisco Giants | MLB | vs Right |  |  |  | 18 |  |  | 42.2 | 179 | 40 |  |  | 4 | 13 | 45 | 1.24 | .245 | .302 | .399 | .701 |
 
 ### [Monthly Splits](https://baseballsavant.mlb.com/savant-player/landen-roupp-694738?stats=statcast-r-pitching-mlb\#monthly-splits)
 
-| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| San Francisco Giants | MLB | March | 1 | 0 | 0.00 | 1 | 1 | 0 | 6.0 | 21 | 2 | 0 | 0 | 0 | 2 | 7 | 0.67 |
-| San Francisco Giants | MLB | April | 4 | 1 | 3.07 | 5 | 5 | 0 | 29.1 | 116 | 16 | 12 | 10 | 1 | 12 | 30 | 0.95 |
-| San Francisco Giants | MLB | May | 0 | 4 | 4.38 | 5 | 5 | 0 | 24.2 | 111 | 31 | 14 | 12 | 2 | 8 | 31 | 1.58 |
-| San Francisco Giants | MLB | June | 0 | 3 | 7.14 | 6 | 6 | 0 | 29.0 | 133 | 33 | 23 | 23 | 3 | 18 | 31 | 1.76 |
-| San Francisco Giants | MLB | July | 1 | 0 | 1.13 | 1 | 1 | 0 | 8.0 | 30 | 3 | 1 | 1 | 1 | 2 | 5 | 0.63 |
-| San Francisco Giants | MLB | Pre All-Star | 6 | 8 | 4.27 | 18 | 18 | 0 | 97.0 | 411 | 85 | 50 | 46 | 7 | 42 | 104 | 1.31 |
+| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP | AVG | OBP | SLG | OPS |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| San Francisco Giants | MLB | March | 1 | 0 | 0.00 | 1 | 1 | 0 | 6.0 | 21 | 2 | 0 | 0 | 0 | 2 | 7 | 0.67 | .105 | .190 | .105 | .295 |
+| San Francisco Giants | MLB | April | 4 | 1 | 3.07 | 5 | 5 | 0 | 29.1 | 116 | 16 | 12 | 10 | 1 | 12 | 30 | 0.95 | .157 | .259 | .225 | .484 |
+| San Francisco Giants | MLB | May | 0 | 4 | 4.38 | 5 | 5 | 0 | 24.2 | 111 | 31 | 14 | 12 | 2 | 8 | 31 | 1.58 | .304 | .355 | .451 | .806 |
+| San Francisco Giants | MLB | June | 0 | 3 | 7.14 | 6 | 6 | 0 | 29.0 | 133 | 33 | 23 | 23 | 3 | 18 | 31 | 1.76 | .295 | .391 | .500 | .891 |
+| San Francisco Giants | MLB | July | 1 | 0 | 1.13 | 1 | 1 | 0 | 8.0 | 30 | 3 | 1 | 1 | 1 | 2 | 5 | 0.63 | .107 | .167 | .214 | .381 |
+| San Francisco Giants | MLB | Pre All-Star | 6 | 8 | 4.27 | 18 | 18 | 0 | 97.0 | 411 | 85 | 50 | 46 | 7 | 42 | 104 | 1.31 | .234 | .317 | .366 | .683 |
 
 ### [Baserunner Splits](https://baseballsavant.mlb.com/savant-player/landen-roupp-694738?stats=statcast-r-pitching-mlb\#baserunner-splits)
 
-| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| San Francisco Giants | MLB | Bases Empty |  |  |  | 18 |  |  | 52.2 | 234 | 48 |  |  | 5 | 26 | 53 | 1.41 |
-| San Francisco Giants | MLB | Bases Loaded |  |  |  | 6 |  |  | 2.2 | 13 | 3 |  |  | 0 | 3 | 3 | 2.25 |
-| San Francisco Giants | MLB | Runner at 1st |  |  |  | 18 |  |  | 22.2 | 82 | 16 |  |  | 0 | 5 | 19 | 0.93 |
-| San Francisco Giants | MLB | Runners at 1st & 2nd |  |  |  | 13 |  |  | 5.2 | 26 | 7 |  |  | 2 | 3 | 10 | 1.76 |
-| San Francisco Giants | MLB | Runners at 1st & 3rd |  |  |  | 4 |  |  | 1.0 | 4 | 1 |  |  | 0 | 0 | 0 | 1.00 |
-| San Francisco Giants | MLB | Runner at 2nd |  |  |  | 15 |  |  | 9.1 | 39 | 6 |  |  | 0 | 5 | 14 | 1.18 |
-| San Francisco Giants | MLB | Runners at 2nd & 3rd |  |  |  | 4 |  |  | 1.0 | 5 | 2 |  |  | 0 | 0 | 3 | 2.00 |
-| San Francisco Giants | MLB | Runner at 3rd |  |  |  | 6 |  |  | 2.0 | 8 | 2 |  |  | 0 | 0 | 2 | 1.00 |
-| San Francisco Giants | MLB | Scoring Position |  |  |  | 18 |  |  | 21.2 | 95 | 21 |  |  | 2 | 11 | 32 | 1.48 |
+| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP | AVG | OBP | SLG | OPS |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| San Francisco Giants | MLB | Bases Empty |  |  |  | 18 |  |  | 52.2 | 234 | 48 |  |  | 5 | 26 | 53 | 1.41 | .232 | .321 | .372 | .693 |
+| San Francisco Giants | MLB | Bases Loaded |  |  |  | 6 |  |  | 2.2 | 13 | 3 |  |  | 0 | 3 | 3 | 2.25 | .300 | .462 | .400 | .862 |
+| San Francisco Giants | MLB | Runner at 1st |  |  |  | 18 |  |  | 22.2 | 82 | 16 |  |  | 0 | 5 | 19 | 0.93 | .216 | .284 | .324 | .608 |
+| San Francisco Giants | MLB | Runners at 1st & 2nd |  |  |  | 13 |  |  | 5.2 | 26 | 7 |  |  | 2 | 3 | 10 | 1.76 | .304 | .385 | .565 | .950 |
+| San Francisco Giants | MLB | Runners at 1st & 3rd |  |  |  | 4 |  |  | 1.0 | 4 | 1 |  |  | 0 | 0 | 0 | 1.00 | .250 | .250 | .250 | .500 |
+| San Francisco Giants | MLB | Runner at 2nd |  |  |  | 15 |  |  | 9.1 | 39 | 6 |  |  | 0 | 5 | 14 | 1.18 | .176 | .282 | .206 | .488 |
+| San Francisco Giants | MLB | Runners at 2nd & 3rd |  |  |  | 4 |  |  | 1.0 | 5 | 2 |  |  | 0 | 0 | 3 | 2.00 | .400 | .400 | .800 | 1.200 |
+| San Francisco Giants | MLB | Runner at 3rd |  |  |  | 6 |  |  | 2.0 | 8 | 2 |  |  | 0 | 0 | 2 | 1.00 | .333 | .250 | .500 | .750 |
+| San Francisco Giants | MLB | Scoring Position |  |  |  | 18 |  |  | 21.2 | 95 | 21 |  |  | 2 | 11 | 32 | 1.48 | .256 | .337 | .390 | .727 |
 
 ### [Game Type Splits](https://baseballsavant.mlb.com/savant-player/landen-roupp-694738?stats=statcast-r-pitching-mlb\#game-type-splits)
 
-| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| San Francisco Giants | MLB | Home Games | 3 | 4 | 3.80 | 8 | 8 | 0 | 45.0 | 186 | 33 | 23 | 19 | 3 | 17 | 51 | 1.11 |
-| San Francisco Giants | MLB | Away Games | 3 | 4 | 4.67 | 10 | 10 | 0 | 52.0 | 225 | 52 | 27 | 27 | 4 | 25 | 53 | 1.48 |
-| San Francisco Giants | MLB | Day Games | 2 | 1 | 2.37 | 5 | 5 | 0 | 30.1 | 118 | 19 | 10 | 8 | 3 | 9 | 30 | 0.92 |
-| San Francisco Giants | MLB | Night Games | 4 | 7 | 5.13 | 13 | 13 | 0 | 66.2 | 293 | 66 | 40 | 38 | 4 | 33 | 74 | 1.49 |
-| San Francisco Giants | MLB | Leading Off Inning |  |  |  | 18 |  |  | 22.1 | 102 | 21 |  |  | 3 | 12 | 26 | 1.48 |
-| San Francisco Giants | MLB | Late / Close |  |  |  | 1 |  |  | 1.0 | 3 | 0 |  |  | 0 | 0 | 1 | 0.00 |
+| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP | AVG | OBP | SLG | OPS |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| San Francisco Giants | MLB | Home Games | 3 | 4 | 3.80 | 8 | 8 | 0 | 45.0 | 186 | 33 | 23 | 19 | 3 | 17 | 51 | 1.11 | .198 | .274 | .299 | .573 |
+| San Francisco Giants | MLB | Away Games | 3 | 4 | 4.67 | 10 | 10 | 0 | 52.0 | 225 | 52 | 27 | 27 | 4 | 25 | 53 | 1.48 | .265 | .353 | .423 | .776 |
+| San Francisco Giants | MLB | Day Games | 2 | 1 | 2.37 | 5 | 5 | 0 | 30.1 | 118 | 19 | 10 | 8 | 3 | 9 | 30 | 0.92 | .179 | .263 | .283 | .546 |
+| San Francisco Giants | MLB | Night Games | 4 | 7 | 5.13 | 13 | 13 | 0 | 66.2 | 293 | 66 | 40 | 38 | 4 | 33 | 74 | 1.49 | .257 | .339 | .401 | .740 |
+| San Francisco Giants | MLB | Leading Off Inning |  |  |  | 18 |  |  | 22.1 | 102 | 21 |  |  | 3 | 12 | 26 | 1.48 | .236 | .333 | .382 | .715 |
+| San Francisco Giants | MLB | Late / Close |  |  |  | 1 |  |  | 1.0 | 3 | 0 |  |  | 0 | 0 | 1 | 0.00 | .000 | .000 | .000 | .000 |
 
 ### [Outs Splits](https://baseballsavant.mlb.com/savant-player/landen-roupp-694738?stats=statcast-r-pitching-mlb\#out-splits)
 
-| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| San Francisco Giants | MLB | No Outs |  |  |  | 18 |  |  | 35.1 | 146 | 26 |  |  | 3 | 17 | 37 | 1.22 |
-| San Francisco Giants | MLB | One Out |  |  |  | 18 |  |  | 32.1 | 145 | 37 |  |  | 1 | 14 | 31 | 1.58 |
-| San Francisco Giants | MLB | Two Outs |  |  |  | 18 |  |  | 29.1 | 120 | 22 |  |  | 3 | 11 | 36 | 1.13 |
+| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP | AVG | OBP | SLG | OPS |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| San Francisco Giants | MLB | No Outs |  |  |  | 18 |  |  | 35.1 | 146 | 26 |  |  | 3 | 17 | 37 | 1.22 | .206 | .310 | .325 | .635 |
+| San Francisco Giants | MLB | One Out |  |  |  | 18 |  |  | 32.1 | 145 | 37 |  |  | 1 | 14 | 31 | 1.58 | .289 | .359 | .414 | .773 |
+| San Francisco Giants | MLB | Two Outs |  |  |  | 18 |  |  | 29.1 | 120 | 22 |  |  | 3 | 11 | 36 | 1.13 | .202 | .275 | .358 | .633 |
 
 ### [Inning Splits](https://baseballsavant.mlb.com/savant-player/landen-roupp-694738?stats=statcast-r-pitching-mlb\#inning-splits)
 
-| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| San Francisco Giants | MLB | First Inning |  |  | 3.00 | 18 |  |  | 18.0 | 70 | 9 | 6 | 6 | 3 | 7 | 23 | 0.89 |
-| San Francisco Giants | MLB | Second Inning |  |  | 6.00 | 18 |  |  | 18.0 | 84 | 19 | 14 | 12 | 1 | 10 | 24 | 1.61 |
-| San Francisco Giants | MLB | Third Inning |  |  | 2.04 | 18 |  |  | 17.2 | 73 | 16 | 4 | 4 | 1 | 6 | 17 | 1.25 |
-| San Francisco Giants | MLB | Fourth Inning |  |  | 3.18 | 17 |  |  | 17.0 | 70 | 11 | 6 | 6 | 0 | 11 | 15 | 1.29 |
-| San Francisco Giants | MLB | Fifth Inning |  |  | 9.22 | 16 |  |  | 13.2 | 66 | 21 | 16 | 14 | 0 | 4 | 16 | 1.83 |
-| San Francisco Giants | MLB | Sixth Inning |  |  | 4.00 | 10 |  |  | 9.0 | 33 | 6 | 4 | 4 | 2 | 3 | 5 | 1.00 |
-| San Francisco Giants | MLB | Seventh Inning |  |  | 0.00 | 3 |  |  | 2.0 | 8 | 2 | 0 | 0 | 0 | 0 | 1 | 1.00 |
-| San Francisco Giants | MLB | Eighth Inning |  |  | 0.00 | 2 |  |  | 1.2 | 7 | 1 | 0 | 0 | 0 | 1 | 3 | 1.20 |
+| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP | AVG | OBP | SLG | OPS |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| San Francisco Giants | MLB | First Inning |  |  | 3.00 | 18 |  |  | 18.0 | 70 | 9 | 6 | 6 | 3 | 7 | 23 | 0.89 | .143 | .229 | .381 | .610 |
+| San Francisco Giants | MLB | Second Inning |  |  | 6.00 | 18 |  |  | 18.0 | 84 | 19 | 14 | 12 | 1 | 10 | 24 | 1.61 | .264 | .357 | .417 | .774 |
+| San Francisco Giants | MLB | Third Inning |  |  | 2.04 | 18 |  |  | 17.2 | 73 | 16 | 4 | 4 | 1 | 6 | 17 | 1.25 | .246 | .319 | .338 | .657 |
+| San Francisco Giants | MLB | Fourth Inning |  |  | 3.18 | 17 |  |  | 17.0 | 70 | 11 | 6 | 6 | 0 | 11 | 15 | 1.29 | .190 | .314 | .241 | .555 |
+| San Francisco Giants | MLB | Fifth Inning |  |  | 9.22 | 16 |  |  | 13.2 | 66 | 21 | 16 | 14 | 0 | 4 | 16 | 1.83 | .339 | .379 | .435 | .814 |
+| San Francisco Giants | MLB | Sixth Inning |  |  | 4.00 | 10 |  |  | 9.0 | 33 | 6 | 4 | 4 | 2 | 3 | 5 | 1.00 | .207 | .303 | .414 | .717 |
+| San Francisco Giants | MLB | Seventh Inning |  |  | 0.00 | 3 |  |  | 2.0 | 8 | 2 | 0 | 0 | 0 | 0 | 1 | 1.00 | .250 | .250 | .375 | .625 |
+| San Francisco Giants | MLB | Eighth Inning |  |  | 0.00 | 2 |  |  | 1.2 | 7 | 1 | 0 | 0 | 0 | 1 | 3 | 1.20 | .167 | .286 | .167 | .453 |
 
 ### [Platoon Splits](https://baseballsavant.mlb.com/savant-player/landen-roupp-694738?stats=statcast-r-pitching-mlb\#milb-platoon-splits)
 
-| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Sacramento River Cats | Triple-A | vs Left |  |  |  | 1 |  |  | 1.1 | 5 | 1 |  |  | 0 | 0 | 1 | 0.75 |
-| Sacramento River Cats | Triple-A | vs Right |  |  |  | 1 |  |  | 1.2 | 7 | 2 |  |  | 0 | 0 | 3 | 1.20 |
+| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP | AVG | OBP | SLG | OPS |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Sacramento River Cats | Triple-A | vs Left |  |  |  | 1 |  |  | 1.1 | 5 | 1 |  |  | 0 | 0 | 1 | 0.75 | .200 | .200 | .400 | .600 |
+| Sacramento River Cats | Triple-A | vs Right |  |  |  | 1 |  |  | 1.2 | 7 | 2 |  |  | 0 | 0 | 3 | 1.20 | .286 | .286 | .571 | .857 |
 
 ### [Monthly Splits](https://baseballsavant.mlb.com/savant-player/landen-roupp-694738?stats=statcast-r-pitching-mlb\#milb-monthly-splits)
 
-| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Sacramento River Cats | Triple-A | August | 0 | 0 | 6.00 | 1 | 1 | 0 | 3.0 | 12 | 3 | 2 | 2 | 0 | 0 | 4 | 1.00 |
-| Sacramento River Cats | Triple-A | Second Half | 0 | 0 | 6.00 | 1 | 1 | 0 | 3.0 | 12 | 3 | 2 | 2 | 0 | 0 | 4 | 1.00 |
+| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP | AVG | OBP | SLG | OPS |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Sacramento River Cats | Triple-A | August | 0 | 0 | 6.00 | 1 | 1 | 0 | 3.0 | 12 | 3 | 2 | 2 | 0 | 0 | 4 | 1.00 | .250 | .250 | .500 | .750 |
+| Sacramento River Cats | Triple-A | Second Half | 0 | 0 | 6.00 | 1 | 1 | 0 | 3.0 | 12 | 3 | 2 | 2 | 0 | 0 | 4 | 1.00 | .250 | .250 | .500 | .750 |
 
 ### [Baserunner Splits](https://baseballsavant.mlb.com/savant-player/landen-roupp-694738?stats=statcast-r-pitching-mlb\#milb-baserunner-splits)
 
-| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Sacramento River Cats | Triple-A | Bases Empty |  |  |  | 1 |  |  | 2.1 | 8 | 1 |  |  | 0 | 0 | 3 | 0.43 |
-| Sacramento River Cats | Triple-A | Runner at 2nd |  |  |  | 1 |  |  | 0.2 | 4 | 2 |  |  | 0 | 0 | 1 | 3.00 |
-| Sacramento River Cats | Triple-A | Scoring Position |  |  |  | 1 |  |  | 0.2 | 4 | 2 |  |  | 0 | 0 | 1 | 3.00 |
+| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP | AVG | OBP | SLG | OPS |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Sacramento River Cats | Triple-A | Bases Empty |  |  |  | 1 |  |  | 2.1 | 8 | 1 |  |  | 0 | 0 | 3 | 0.43 | .125 | .125 | .250 | .375 |
+| Sacramento River Cats | Triple-A | Runner at 2nd |  |  |  | 1 |  |  | 0.2 | 4 | 2 |  |  | 0 | 0 | 1 | 3.00 | .500 | .500 | 1.000 | 1.500 |
+| Sacramento River Cats | Triple-A | Scoring Position |  |  |  | 1 |  |  | 0.2 | 4 | 2 |  |  | 0 | 0 | 1 | 3.00 | .500 | .500 | 1.000 | 1.500 |
 
 ### [Game Type Splits](https://baseballsavant.mlb.com/savant-player/landen-roupp-694738?stats=statcast-r-pitching-mlb\#milb-game-type-splits)
 
-| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Sacramento River Cats | Triple-A | Home Games | 0 | 0 | 6.00 | 1 | 1 | 0 | 3.0 | 12 | 3 | 2 | 2 | 0 | 0 | 4 | 1.00 |
-| Sacramento River Cats | Triple-A | Day Games | 0 | 0 | 6.00 | 1 | 1 | 0 | 3.0 | 12 | 3 | 2 | 2 | 0 | 0 | 4 | 1.00 |
-| Sacramento River Cats | Triple-A | Leading Off Inning |  |  |  | 1 |  |  | 1.0 | 3 | 0 |  |  | 0 | 0 | 2 | 0.00 |
+| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP | AVG | OBP | SLG | OPS |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Sacramento River Cats | Triple-A | Home Games | 0 | 0 | 6.00 | 1 | 1 | 0 | 3.0 | 12 | 3 | 2 | 2 | 0 | 0 | 4 | 1.00 | .250 | .250 | .500 | .750 |
+| Sacramento River Cats | Triple-A | Day Games | 0 | 0 | 6.00 | 1 | 1 | 0 | 3.0 | 12 | 3 | 2 | 2 | 0 | 0 | 4 | 1.00 | .250 | .250 | .500 | .750 |
+| Sacramento River Cats | Triple-A | Leading Off Inning |  |  |  | 1 |  |  | 1.0 | 3 | 0 |  |  | 0 | 0 | 2 | 0.00 | .000 | .000 | .000 | .000 |
 
 ### [Outs Splits](https://baseballsavant.mlb.com/savant-player/landen-roupp-694738?stats=statcast-r-pitching-mlb\#milb-out-splits)
 
-| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Sacramento River Cats | Triple-A | No Outs |  |  |  | 1 |  |  | 1.0 | 3 | 0 |  |  | 0 | 0 | 2 | 0.00 |
-| Sacramento River Cats | Triple-A | One Out |  |  |  | 1 |  |  | 1.0 | 4 | 1 |  |  | 0 | 0 | 1 | 1.00 |
-| Sacramento River Cats | Triple-A | Two Outs |  |  |  | 1 |  |  | 1.0 | 5 | 2 |  |  | 0 | 0 | 1 | 2.00 |
+| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP | AVG | OBP | SLG | OPS |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Sacramento River Cats | Triple-A | No Outs |  |  |  | 1 |  |  | 1.0 | 3 | 0 |  |  | 0 | 0 | 2 | 0.00 | .000 | .000 | .000 | .000 |
+| Sacramento River Cats | Triple-A | One Out |  |  |  | 1 |  |  | 1.0 | 4 | 1 |  |  | 0 | 0 | 1 | 1.00 | .250 | .250 | .500 | .750 |
+| Sacramento River Cats | Triple-A | Two Outs |  |  |  | 1 |  |  | 1.0 | 5 | 2 |  |  | 0 | 0 | 1 | 2.00 | .400 | .400 | .800 | 1.200 |
 
 ### [Inning Splits](https://baseballsavant.mlb.com/savant-player/landen-roupp-694738?stats=statcast-r-pitching-mlb\#milb-inning-splits)
 
-| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Sacramento River Cats | Triple-A | First Inning |  |  | 0.00 | 1 |  |  | 1.0 | 3 | 0 | 0 | 0 | 0 | 0 | 1 | 0.00 |
-| Sacramento River Cats | Triple-A | Second Inning |  |  | 18.00 | 1 |  |  | 1.0 | 6 | 3 | 2 | 2 | 0 | 0 | 2 | 3.00 |
-| Sacramento River Cats | Triple-A | Third Inning |  |  | 0.00 | 1 |  |  | 1.0 | 3 | 0 | 0 | 0 | 0 | 0 | 1 | 0.00 |
+| Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP | AVG | OBP | SLG | OPS |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Sacramento River Cats | Triple-A | First Inning |  |  | 0.00 | 1 |  |  | 1.0 | 3 | 0 | 0 | 0 | 0 | 0 | 1 | 0.00 | .000 | .000 | .000 | .000 |
+| Sacramento River Cats | Triple-A | Second Inning |  |  | 18.00 | 1 |  |  | 1.0 | 6 | 3 | 2 | 2 | 0 | 0 | 2 | 3.00 | .500 | .500 | 1.000 | 1.500 |
+| Sacramento River Cats | Triple-A | Third Inning |  |  | 0.00 | 1 |  |  | 1.0 | 3 | 0 | 0 | 0 | 0 | 0 | 1 | 0.00 | .000 | .000 | .000 | .000 |
 
 | Date | Home Tm | Away Tm | W | L | ERA | G | GS | SV | IP | H | R | ER | HR | BB | SO | WHIP |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -671,7 +668,7 @@ On the right, Induced Movement (or IVB) is reported without gravity, and attempt
 | 2025 | Cutter | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 124 | 90.3 | 25.2 | -0.1 | 2.7ARM | -4.2 | 8.2 | -0.2 | 2.7ARM | -4.9 |
 | 2025 | 4-Seam Fastball | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 13 | 93.1 | 22.0 | -5.6 | 13.1ARM | 4.6 | 9.6 | -6.2 | 13.1ARM | 5.5 |
 | 2025 | Sinker | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 739 | 92.8 | 28.9 | 3.6 | 17.9ARM | 2.2 | 3.0 | 4.4 | 17.9ARM | 2.8 |
-| 2025 | Changeup | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 315 | 86.6 | 38.9 | 5.2 | 16.0ARM | 1.4 | -2.3 | 6.4 | 16.0ARM | 1.6 |
+| 2025 | Changeup | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 315 | 86.6 | 38.9 | 5.2 | 16.0ARM | 1.3 | -2.3 | 6.4 | 16.0ARM | 1.5 |
 | 2024 | 4-Seam Fastball | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 24 | 93.7 | 21.1 | -4.8 | 12.8ARM | 4.0 | 10.0 | -5.8 | 12.8ARM | 5.3 |
 | 2024 | Slider | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 38 | 83.9 | 38.3 | 0.8 | 9.0GLV | 3.6 | 0.5 | 1.2 | 9.0GLV | 4.4 |
 | 2024 | Sinker | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 359 | 94.4 | 26.3 | 2.1 | 17.8ARM | 2.0 | 4.4 | 2.8 | 17.8ARM | 3.0 |
@@ -1049,11 +1046,11 @@ Loading Bat Tracking...
 
 Loading Chart Data...
 
-Landen RouppResponsible Plays for 20260ft20ft40ft60ft80ft100ft120ft140ftDistance From Ball Landing12345678Hang Time (Sec.)◀▶▼▲League Wide Catch Difficulty Scale★★★★★★012345OutHitWallBack
+Landen RouppResponsible Plays for 20260ft20ft40ft60ft80ft100ft120ft140ftDistance From Ball Landing12345678Opportunity Time (Sec.)◀▶▼▲League Wide Catch Difficulty Scale★★★★★★012345OutHitWallBack
 
 \\* Click Any Legend Option to Reset Chart \| Save Chart
 
-Hang Time:
+Opportunity Time:
 
 
 Catch Rate GT:
