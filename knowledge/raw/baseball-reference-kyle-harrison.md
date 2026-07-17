@@ -24,7 +24,7 @@ Pitcher
 **Team:** [Milwaukee Brewers](https://www.baseball-reference.com/teams/MIL/2026.shtml) (majors, 15-day IL)
 
 
-**[Born:](https://www.baseball-reference.com/bio/)**[August 12](https://www.baseball-reference.com/friv/birthdays.cgi?month=8&day=12), [2001](https://www.baseball-reference.com/leagues/majors/2001-births.shtml)(Age: 24-337d)
+**[Born:](https://www.baseball-reference.com/bio/)**[August 12](https://www.baseball-reference.com/friv/birthdays.cgi?month=8&day=12), [2001](https://www.baseball-reference.com/leagues/majors/2001-births.shtml)(Age: 24-339d)
 
 in San Jose, [CA](https://www.baseball-reference.com/bio/CA_born.shtml)us
 
@@ -315,7 +315,7 @@ More Kyle Harrison Pages at Baseball Reference
 | [2026-07-03](https://www.baseball-reference.com/boxes/ARI/ARI202607030.shtml) | [MIL](https://www.baseball-reference.com/teams/MIL/2026.shtml) | @ | [ARI](https://www.baseball-reference.com/teams/ARI/2026.shtml) | W, 7-4 (11) | GS-3 | 5 | 2.2 | 5 | 3 | 3 | 1 | 3 | 0 | 0 | 0 | 0 | 0 | 0 | 15 | 72 | 43 | 12 | 7 | 7 | 4 | 2 | 0 | 0 | 38 |  |  | -0.224 | 1.22 | -0.2% | 2.19 | -2.042 |
 | [2026-06-27](https://www.baseball-reference.com/boxes/MIL/MIL202606270.shtml) | [MIL](https://www.baseball-reference.com/teams/MIL/2026.shtml) |  | [CHC](https://www.baseball-reference.com/teams/CHC/2026.shtml) | L, 2-8 | GS-5 | 6 | 5.0 | 3 | 2 | 2 | 1 | 9 | 1 | 0 | 0 | 0 | 0 | 0 | 19 | 92 | 62 | 21 | 14 | 4 | 5 | 1 | 1 | 0 | 61 |  |  | 0.022 | 0.81 | 0.0% | 0.64 | 0.612 |
 | [2026-06-20](https://www.baseball-reference.com/boxes/ATL/ATL202606200.shtml) | [MIL](https://www.baseball-reference.com/teams/MIL/2026.shtml) | @ | [ATL](https://www.baseball-reference.com/teams/ATL/2026.shtml) | L, 3-4 | GS-7 | 5 | 6.1 | 4 | 2 | 2 | 0 | 7 | 1 | 0 | 0 | 0 | 0 | 0 | 23 | 85 | 59 | 16 | 12 | 7 | 9 | 1 | 0 | 0 | 64 |  |  | 0.046 | 0.89 | 0.1% | 1.63 | 1.056 |
-| [2026-06-14](https://www.baseball-reference.com/boxes/MIL/MIL202606140.shtml) | [MIL](https://www.baseball-reference.com/teams/MIL/2026.shtml) |  | [PHI](https://www.baseball-reference.com/teams/PHI/2026.shtml) | W, 4-0 | GS-6, W | 5 | 6.0 | 3 | 0 | 0 | 0 | 3 | 0 | 1 | 0 | 0 | 0 | 0 | 21 | 80 | 55 | 11 | 9 | 7 | 10 | 3 | 1 | 0 | 69 |  |  | 0.290 | 0.70 | 0.1% | 0.60 | 3.094 |
+| [2026-06-14](https://www.baseball-reference.com/boxes/MIL/MIL202606140.shtml) | [MIL](https://www.baseball-reference.com/teams/MIL/2026.shtml) |  | [PHI](https://www.baseball-reference.com/teams/PHI/2026.shtml) | W, 4-0 | GS-6, W | 5 | 6.0 | 3 | 0 | 0 | 0 | 3 | 0 | 1 | 0 | 0 | 0 | 0 | 21 | 80 | 55 | 11 | 9 | 7 | 10 | 3 | 1 | 0 | 69 |  |  | 0.292 | 0.70 | 0.2% | 0.60 | 3.134 |
 
 Last 5 Games Table
 
@@ -366,12 +366,12 @@ Standard Pitching Table
 | [2025](https://www.baseball-reference.com/players/gl.fcgi?id=harriky01&t=p&year=2025) | 23 | 2TM | 2LG | 35.2 | 11 | 6 | 16 | 4.04 | 4.34 | 0.14 | 0.09 | 0.16 | 103 | 4.58 | 2 | 0.2 | 0.63 | -0.1 | 0.5 | 5 | .521 | .500 |  |
 | [2025](https://www.baseball-reference.com/players/gl.fcgi?id=harriky01&t=p&year=2025) | 23 | [SFG](https://www.baseball-reference.com/teams/SFG/2025.shtml) | [NL](https://www.baseball-reference.com/leagues/NL/2025.shtml) | 23.2 | 8 | 4 | 12 | 4.56 | 4.25 | 0.05 | 0.09 | 0.23 | 103 | 4.65 | 0 | 0.0 | 0.58 | 0.0 | 0.2 | 2 | .504 | .500 |  |
 | [2025](https://www.baseball-reference.com/players/gl.fcgi?id=harriky01&t=p&year=2025) | 23 | [BOS](https://www.baseball-reference.com/teams/BOS/2025.shtml) | [AL](https://www.baseball-reference.com/leagues/AL/2025.shtml) | 12.0 | 3 | 2 | 4 | 3.00 | 4.51 | 0.30 | 0.08 | 0.00 | 104 | 4.45 | 2 | 0.2 | 0.83 | 0.0 | 0.3 | 3 | .568 | .501 |  |
-| [2026](https://www.baseball-reference.com/players/gl.fcgi?id=harriky01&t=p&year=2026) | 24 | [MIL](https://www.baseball-reference.com/teams/MIL/2026.shtml) | [NL](https://www.baseball-reference.com/leagues/NL/2026.shtml) | 83.2 | 17 | 17 | 28 | 3.01 | 4.80 | 0.31 | 0.22 | 0.00 | 99 | 4.65 | 15 | 1.7 |  | -0.1 | 2.4 | 23 | .600 | .510 |  |
+| [2026](https://www.baseball-reference.com/players/gl.fcgi?id=harriky01&t=p&year=2026) | 24 | [MIL](https://www.baseball-reference.com/teams/MIL/2026.shtml) | [NL](https://www.baseball-reference.com/leagues/NL/2026.shtml) | 83.2 | 17 | 17 | 28 | 3.01 | 4.79 | 0.31 | 0.22 | 0.00 | 99 | 4.64 | 15 | 1.7 |  | -0.1 | 2.4 | 23 | .600 | .510 |  |
 | 4 Yrs | 278.1 | 59 | 54 | 128 | 4.14 | 4.59 | 0.11 | 0.20 | 0.02 | 97 | 4.58 | 14 | 1.5 | 0.63 | -0.3 | 3.9 | 40 | .525 | .502 |  |
 | 162 Game Avg | 167 | 36 | 32 | 77 | 4.14 | 4.59 | 0.11 | 0.20 | 0.02 | 97 | 4.58 | 8 | 0.9 | 0.63 | -0.2 | 2.3 | 24 | .525 | .502 |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | SFG (3 Yrs) | 182.2 | 39 | 35 | 96 | 4.73 | 4.51 | 0.00 | 0.19 | 0.03 | 96 | 4.55 | -4 | -0.4 | 0.58 | -0.2 | 1.2 | 14 | .489 | .499 |  |
-| MIL (1 Yr) | 83.2 | 17 | 17 | 28 | 3.01 | 4.80 | 0.31 | 0.22 | 0.00 | 99 | 4.65 | 15 | 1.7 |  | -0.1 | 2.4 | 23 | .600 | .510 |  |
+| MIL (1 Yr) | 83.2 | 17 | 17 | 28 | 3.01 | 4.79 | 0.31 | 0.22 | 0.00 | 99 | 4.64 | 15 | 1.7 |  | -0.1 | 2.4 | 23 | .600 | .510 |  |
 | BOS (1 Yr) | 12.0 | 3 | 2 | 4 | 3.00 | 4.51 | 0.30 | 0.08 | 0.00 | 104 | 4.45 | 2 | 0.2 | 0.83 | 0.0 | 0.3 | 3 | .568 | .501 |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | NL (4 Yrs) | 266.1 | 56 | 52 | 124 | 4.19 | 4.60 | 0.10 | 0.20 | 0.02 | 97 | 4.58 | 12 | 1.3 | 0.58 | -0.2 | 3.6 | 37 | .523 | .502 |  |
@@ -394,8 +394,8 @@ Regular Season
 | [2025](https://www.baseball-reference.com/players/gl.fcgi?id=harriky01&t=p&year=2025) | 23 | 2TM | 2LG | 35.2 | .248 | .321 | .404 | .725 | .313 | 2.6 | 24.4 | 9.0 | 89.2 | 42.7 | 29.1 | 36.9 | 26.2 | 0.61 | 0.1 | 0.2% | 1.40 |  |
 | [2025](https://www.baseball-reference.com/players/gl.fcgi?id=harriky01&t=p&year=2025) | 23 | [SFG](https://www.baseball-reference.com/teams/SFG/2025.shtml) | [NL](https://www.baseball-reference.com/leagues/NL/2025.shtml) | 23.2 | .231 | .300 | .440 | .740 | .274 | 4.0 | 25.0 | 9.0 | 91.0 | 48.5 | 30.3 | 33.3 | 27.3 | 0.52 | 0.0 | 0.0% | 0.93 |  |
 | [2025](https://www.baseball-reference.com/players/gl.fcgi?id=harriky01&t=p&year=2025) | 23 | [BOS](https://www.baseball-reference.com/teams/BOS/2025.shtml) | [AL](https://www.baseball-reference.com/leagues/AL/2025.shtml) | 12.0 | .280 | .357 | .340 | .697 | .378 | 0.0 | 23.2 | 8.9 | 86.0 | 32.4 | 27.0 | 43.2 | 24.3 | 0.80 | 0.1 | 0.3% | 0.48 |  |
-| [2026](https://www.baseball-reference.com/players/gl.fcgi?id=harriky01&t=p&year=2026) | 24 | [MIL](https://www.baseball-reference.com/teams/MIL/2026.shtml) | [NL](https://www.baseball-reference.com/leagues/NL/2026.shtml) | 83.2 | .221 | .276 | .366 | .642 | .291 | 2.9 | 29.6 | 5.9 | 88.6 | 36.6 | 25.0 | 37.0 | 30.1 | 0.60 | 0.8 | 0.8% | 12.57 |  |
-| 4 Yrs | 278.1 | .243 | .308 | .412 | .720 | .296 | 3.4 | 24.8 | 7.4 | 89.5 | 41.1 | 24.7 | 37.3 | 30.2 | 0.60 | 0.3 | 0.5% | 9.81 |  |
+| [2026](https://www.baseball-reference.com/players/gl.fcgi?id=harriky01&t=p&year=2026) | 24 | [MIL](https://www.baseball-reference.com/teams/MIL/2026.shtml) | [NL](https://www.baseball-reference.com/leagues/NL/2026.shtml) | 83.2 | .221 | .276 | .366 | .642 | .291 | 2.9 | 29.6 | 5.9 | 88.6 | 36.6 | 25.0 | 37.0 | 30.1 | 0.60 | 0.8 | 0.8% | 12.61 |  |
+| 4 Yrs | 278.1 | .243 | .308 | .412 | .720 | .296 | 3.4 | 24.8 | 7.4 | 89.5 | 41.1 | 24.7 | 37.3 | 30.2 | 0.60 | 0.3 | 0.5% | 9.85 |  |
 | MLB Average |  | .245 | .316 | .405 | .721 | .292 | 3.1 | 22.4 | 8.5 | 88.5 | 39.7 | 23.8 | 41.8 | 26.4 | 0.73 |  |  |  |  |
 
 Advanced Pitching Table
@@ -425,17 +425,23 @@ Powered by ![Stathead Logo](https://cdn.ssref.net/req/202101292/logos/stathead-l
 - [Player News RSS Feed](https://www.baseball-reference.com/players/news.fcgi?id=harriky01&rss=1)
 - Show/Hide More Stories
 
+- **7/16** [Brewer Fanatic: How Brewers Will Try to Make Lance McCullers Jr. Serviceable Again](https://brewerfanatic.com/news-rumors/milwaukee-brewers/how-brewers-will-try-to-make-lance-mccullers-jr-serviceable-again-r4781/): _Lance McCullers Jr. probably won't become one of the Brewers’_...
+
+- **7/16** [Cubs Insider: The Rundown: Fireworks Chase ASG Blues Away, Cubs Looking for Consistency, Brewers Land McCullers](http://www.cubsinsider.com/2026/07/15/the-rundown-fireworks-chase-asg-blues-away-cubs-looking-for-consistency-brewers-land-mccullers/): _“I wanna know what you’re thinking. There are some_...
+
+- **7/15** [Cubs Insider: The Rundown: Fireworks Chase ASG Blues Away, Cubs Looking for Consistency, Brewers Land McCullers](https://www.cubsinsider.com/2026/07/15/the-rundown-fireworks-chase-asg-blues-away-cubs-looking-for-consistency-brewers-land-mccullers/): _“I wanna know what you’re thinking. There are some_...
+
 - **7/15** [newbaseballmedia.com: Brewers Get McCullers Jr & Gordon from Astros: What to Make of Trade](https://newbaseballmedia.com/brewers-get-mccullers-jr-gordon-from-astros-what-to-make-of-trade/): _Per reports from the New York Post and MLB.com, the Brewers picked_...
 
 - **7/15** [Brewer Fanatic: Colton Gordon Has Raw Ingredients the Brewers Like. Now, They Need to Get Cooking.](https://brewerfanatic.com/news-rumors/milwaukee-brewers/colton-gordon-has-raw-ingredients-the-brewers-like-now-they-need-to-get-cooking-r4779/): _It's not hard to see what the Brewers like about Colton Gordon._...
+
+- Show 14 more stories
 
 - **7/14** [newbaseballmedia.com: 2026 MLB First-Half Recap: Milwaukee Brewers](https://newbaseballmedia.com/2026-mlb-first-half-recap-milwaukee-brewers/): _The Brewers have turned into one of baseball’s best small-market_...
 
 - **7/13** [Brewer Fanatic: Somehow, the Brewers Need Starting Pitching Help at the Trade Deadline](https://brewerfanatic.com/news-rumors/milwaukee-brewers/somehow-the-brewers-need-starting-pitching-help-at-the-trade-deadline-r4769/): _It's going to be ok. Probably. Jacob Misiorowski has just enough_...
 
 - **7/13** [MLBTradeRumors: Jacob Misiorowski To Resume Throwing, Won’t Start This Week](https://www.mlbtraderumors.com/2026/07/jacob-misiorowski-to-resume-throwing-wont-start-this-week.html): _Brewers right-hander Jacob Misiorowski was scratched from his_...
-
-- Show 17 more stories
 
 - **7/13** [Mets Merized: 2026 Trade Profile: Clay Holmes](https://metsmerizedonline.com/2026-trade-profile-clay-holmes/?utm_source=rss&utm_medium=rss&utm_campaign=2026-trade-profile-clay-holmes): _Clay Holmes, SP Position: RHP Age: 33 (3/27/93) 2026 Stats: 4-4,_...
 
@@ -460,18 +466,6 @@ _Runs_...
 - **7/10** [Twins Daily: What the Brewers Can Teach the Twins About Trading Joe Ryan](https://twinsdaily.com/news-rumors/minnesota-twins/what-the-brewers-can-teach-the-twins-about-trading-joe-ryan-r20683/): _The word "seller" carries a negative connotation around the_...
 
 - **7/10** [newbaseballmedia.com: 2026 Injury Report: Updates on Judge, Stanton, Vientos](https://newbaseballmedia.com/2026-injury-report-updates-on-judge-stanton-vientos/): _The Yankees provided more clarity on when Aaron Judge’s_...
-
-- **7/9** [Cubs Insider: The Rundown: Cubs Hoping to Sweep O’s, PCA Joins 20/20 Club Again, Chicago Baseball Fans Among Heaviest Drinkers](http://www.cubsinsider.com/2026/07/09/the-rundown-cubs-hoping-to-sweep-os-pca-joins-20-20-club-again-chicago-baseball-fans-among-heaviest-drinkers/): _“Side by side we’re loose and neat when we’re_...
-
-- **7/9** [Cubs Insider: The Rundown: Cubs Hoping to Sweep O’s, PCA Joins 20/20 Club Again, Chicago Baseball Fans Among Heaviest Drinkers](https://www.cubsinsider.com/2026/07/09/the-rundown-cubs-hoping-to-sweep-os-pca-joins-20-20-club-again-chicago-baseball-fans-among-heaviest-drinkers/): _“Side by side we’re loose and neat when we’re_...
-
-- **7/9** [newbaseballmedia.com: 2026 MLB Daily Recap: Pirates Lose After Jones’ Gem, Cease’s Near No-No](https://newbaseballmedia.com/2026-mlb-daily-recap-07082026/): _Both Dylan Cease & Jared Jones flirted with history on July_...
-
-- **7/9** [MLBTradeRumors: Brandon Woodruff Going For Second Opinion On Shoulder Injury](https://www.mlbtraderumors.com/2026/07/brandon-woodruff-going-for-second-opinion-on-shoulder-injury.html): _Brandon Woodruff will visit Dr. Keith Meister for a second opinion_...
-
-- **7/8** [Brewer Fanatic: Brewers All-Star Snubs? Breaking Down Harrison, Turang, & Chourio](https://brewerfanatic.com/videos/milwaukee-brewers/brewers-all-star-snubs-breaking-down-harrison-turang-chourio-r433/): _A pair of Milwaukee Brewers players made it into the 2026 All-Star_...
-
-- **7/8** [Baseball Musings: Games of the Day](https://www.baseballmusings.com/?p=160736): _The Yankees and Rays play game three of their four game set, each_...
 
 
 ## Appearances
