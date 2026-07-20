@@ -24,7 +24,7 @@ Pitcher
 **Team:** [San Francisco Giants](https://www.baseball-reference.com/teams/SFG/2026.shtml) (majors)
 
 
-**[Born:](https://www.baseball-reference.com/bio/)**[November 18](https://www.baseball-reference.com/friv/birthdays.cgi?month=11&day=18), [1996](https://www.baseball-reference.com/leagues/majors/1996-births.shtml)(Age: 29-243d)
+**[Born:](https://www.baseball-reference.com/bio/)**[November 18](https://www.baseball-reference.com/friv/birthdays.cgi?month=11&day=18), [1996](https://www.baseball-reference.com/leagues/majors/1996-births.shtml)(Age: 29-244d)
 
 in Rocklin, [CA](https://www.baseball-reference.com/bio/CA_born.shtml)us
 
@@ -94,7 +94,7 @@ More bio, uniform, draft, salary info
 
 1.4
 
-23.3
+23.2
 
 **W**
 
@@ -152,9 +152,9 @@ More bio, uniform, draft, salary info
 
 [![](https://cdn.ssref.net/req/202607131/images/klecko/mlbtr.png)](http://www.mlbtraderumors.com/)
 
-**7/16** The Reds and breakout righty Chase Burns are in agreement on a seven-year, $105MM contract extension, reports Jon Morosi of MLB Network. The Vayner Sports client was already under control via arbitration
+**7/20** Mark P A very busy day on the sports calendar reaches its logical peak with….the MLBTR Weekend Chat.  Let the questions and comments commence! Guest Dodger trade deadline? Mark P They’ll look
 
-[See More at MLBTradeRumors](https://www.mlbtraderumors.com/2026/07/reds-extend-chase-burns-seven-years-105-million.html)
+[See More at MLBTradeRumors](https://www.mlbtraderumors.com/2026/07/mlbtr-live-chat-136.html)
 
 **Logan Webb** Menu
 
@@ -456,8 +456,8 @@ Standard Pitching Table
 | [2023](https://www.baseball-reference.com/players/gl.fcgi?id=webblo01&t=p&year=2023) | 26 | [SFG](https://www.baseball-reference.com/teams/SFG/2023.shtml) | [NL](https://www.baseball-reference.com/leagues/NL/2023.shtml) | **_216.0_** | 33 | 33 | 83 | 3.46 | 4.77 | -0.07 | 0.22 | 0.00 | 97 | 4.92 | 35 | 3.8 |  | -0.2 | 5.6 | 56 | .614 | .523 | [CYA-2](https://www.baseball-reference.com/awards/awards_2023.shtml#all_NL_CYA_voting), [MVP-17](https://www.baseball-reference.com/awards/awards_2023.shtml#all_NL_MVP_voting) |
 | [2024](https://www.baseball-reference.com/players/gl.fcgi?id=webblo01&t=p&year=2024) | 27 | [SFG](https://www.baseball-reference.com/teams/SFG/2024.shtml) | [NL](https://www.baseball-reference.com/leagues/NL/2024.shtml) | **204.2** | 33 | **_33_** | 83 | 3.65 | 4.62 | 0.01 | 0.21 | 0.00 | 94 | 4.51 | 20 | 2.1 |  | -0.2 | 3.8 | 39 | .562 | .513 | [AS](https://www.baseball-reference.com/allstar/2024-allstar-game.shtml), [CYA-6](https://www.baseball-reference.com/awards/awards_2024.shtml#all_NL_CYA_voting) |
 | [2025](https://www.baseball-reference.com/players/gl.fcgi?id=webblo01&t=p&year=2025) | 28 | [SFG](https://www.baseball-reference.com/teams/SFG/2025.shtml) | [NL](https://www.baseball-reference.com/leagues/NL/2025.shtml) | **_207.0_** | 34 | **_34_** | 82 | 3.57 | 4.51 | 0.05 | 0.21 | 0.00 | 97 | 4.51 | 22 | 2.5 |  | -0.2 | 4.2 | 41 | .572 | .515 | [AS](https://www.baseball-reference.com/allstar/2025-allstar-game.shtml), [CYA-4](https://www.baseball-reference.com/awards/awards_2025.shtml#all_NL_CYA_voting), [GG](https://www.baseball-reference.com/awards/gold_glove_nl.shtml#2025) |
-| [2026](https://www.baseball-reference.com/players/gl.fcgi?id=webblo01&t=p&year=2026) | 29 | [SFG](https://www.baseball-reference.com/teams/SFG/2026.shtml) | [NL](https://www.baseball-reference.com/leagues/NL/2026.shtml) | 107.0 | 17 | 17 | 49 | 4.12 | 4.73 | 0.29 | 0.22 | 0.00 | 96 | 4.48 | 4 | 0.5 |  | -0.1 | 1.4 | 15 | .529 | .503 | [AS](https://www.baseball-reference.com/allstar/2026-allstar-game.shtml) |
-| 8 Yrs | 1169.1 | 197 | 194 | 489 | 3.76 | 4.63 | 0.00 | 0.21 | 0.00 | 96 | 4.67 | 117 | 13.1 | 1.05 | -1.0 | 23.1 | 229 | .567 | .514 |  |
+| [2026](https://www.baseball-reference.com/players/gl.fcgi?id=webblo01&t=p&year=2026) | 29 | [SFG](https://www.baseball-reference.com/teams/SFG/2026.shtml) | [NL](https://www.baseball-reference.com/leagues/NL/2026.shtml) | 107.0 | 17 | 17 | 49 | 4.12 | 4.74 | 0.30 | 0.22 | 0.00 | 96 | 4.49 | 4 | 0.5 |  | -0.1 | 1.4 | 15 | .527 | .503 | [AS](https://www.baseball-reference.com/allstar/2026-allstar-game.shtml) |
+| 8 Yrs | 1169.1 | 197 | 194 | 489 | 3.76 | 4.63 | 0.00 | 0.21 | 0.00 | 96 | 4.67 | 118 | 13.1 | 1.05 | -1.0 | 23.1 | 229 | .567 | .514 |  |
 | 162 Game Avg | 203 | 34 | 34 | 85 | 3.76 | 4.63 | 0.00 | 0.21 | 0.00 | 96 | 4.67 | 20 | 2.3 | 1.05 | -0.2 | 4.0 | 40 | .567 | .514 |  |
 
 Value Pitching Table
@@ -524,14 +524,19 @@ Powered by ![Stathead Logo](https://cdn.ssref.net/req/202101292/logos/stathead-l
 - [Add Your Blog Posts Here](https://www.baseball-reference.com/linker/newsfeed.cgi)
 - [Player News Archive](https://www.baseball-reference.com/players/news.fcgi?id=webblo01)
 - [Player News RSS Feed](https://www.baseball-reference.com/players/news.fcgi?id=webblo01&rss=1)
+- Show/Hide More Stories
 
-- **7/19** [RotoWire: Stung late in no-decision](https://www.rotowire.com/baseball/player/logan-webb-13478?refer=SportsRef): _Webb tossed 6.2 innings in a no-decision against Seattle on Saturday,_...
+- **7/20** [RotoWire: Stung late in no-decision](https://www.rotowire.com/baseball/player/logan-webb-13478?refer=SportsRef): _Webb took a no-decision after tossing 6.2 innings against Seattle_...
+
+- **7/20** [MLBTradeRumors: MLBTR Chat Transcript](https://www.mlbtraderumors.com/2026/07/mlbtr-live-chat-136.html): _Mark P A very busy day on the sports calendar reaches its logical_...
 
 - **7/18** [Last Word on Sports: Why a Tarik Skubal Trade Wouldn’t Be Smart for the Houston Astros](https://lastwordonsports.com/baseball/2026/07/18/skubal-trade-rumors/): _With the Major League Baseball trade deadline approaching, one_...
 
 - **7/16** [newbaseballmedia.com: 2026 MLB First-Half Recap: San Francisco Giants](https://newbaseballmedia.com/2026-mlb-first-half-recap-san-francisco-giants/): _Despite having an ace and a relatively good offense, the Giants_...
 
 - **7/16** [MLBTradeRumors: Reds, Chase Burns Agree To Seven-Year Extension](https://www.mlbtraderumors.com/2026/07/reds-extend-chase-burns-seven-years-105-million.html): _The Reds and breakout righty Chase Burns are in agreement on a_...
+
+- Show 3 more stories
 
 - **7/16** [RotoBaller.com: Should Fantasy Managers Look to Move Logan Webb?](https://www.rotoballer.com/player-news/should-fantasy-managers-look-to-move-logan-webb/1892530): _Across 100 1/3 innings (16 starts) in 2026, San Francisco Giants_...
 
@@ -704,8 +709,8 @@ Playoffs
 | [2023](https://www.baseball-reference.com/players/gl.fcgi?id=webblo01&t=f&year=2023) | 26 | [SFG](https://www.baseball-reference.com/teams/SFG/2023.shtml) | [NL](https://www.baseball-reference.com/leagues/NL/2023.shtml) | P | 33 | 33 | 2 | 216.0 | 38 | 17 | 20 | 1 | **_4_** | .974 | .951 | -1 | -1 | 1.54 | 1.37 | 1.12 | 1.34 | 20 | 4 | 16.7 | 19.1 | 0 | [CYA-2](https://www.baseball-reference.com/awards/awards_2023.shtml#all_NL_CYA_voting), [MVP-17](https://www.baseball-reference.com/awards/awards_2023.shtml#all_NL_MVP_voting) |
 | [2024](https://www.baseball-reference.com/players/gl.fcgi?id=webblo01&t=f&year=2024) | 27 | [SFG](https://www.baseball-reference.com/teams/SFG/2024.shtml) | [NL](https://www.baseball-reference.com/leagues/NL/2024.shtml) | P | 33 | 33 | 1 | 204.2 | 50 | 15 | **_33_** | 2 | **_5_** | .960 | .948 | -3 | -3 | 2.11 | 1.36 | **1.45** | 1.34 | 21 | 5 | 19.2 | 20.3 | 2 | [AS](https://www.baseball-reference.com/allstar/2024-allstar-game.shtml), [CYA-6](https://www.baseball-reference.com/awards/awards_2024.shtml#all_NL_CYA_voting) |
 | [2025](https://www.baseball-reference.com/players/gl.fcgi?id=webblo01&t=f&year=2025) | 28 | [SFG](https://www.baseball-reference.com/teams/SFG/2025.shtml) | [NL](https://www.baseball-reference.com/leagues/NL/2025.shtml) | P | 34 | 34 | 0 | 207.0 | 42 | 7 | **34** | 1 | **_3_** | .976 | .954 | 7 | 7 | 1.78 | 1.37 | 1.21 | 1.35 | 9 | 7 | 43.8 | 23.2 | 2 | [AS](https://www.baseball-reference.com/allstar/2025-allstar-game.shtml), [CYA-4](https://www.baseball-reference.com/awards/awards_2025.shtml#all_NL_CYA_voting), [GG](https://www.baseball-reference.com/awards/gold_glove_nl.shtml#2025) |
-| [2026](https://www.baseball-reference.com/players/gl.fcgi?id=webblo01&t=f&year=2026) | 29 | [SFG](https://www.baseball-reference.com/teams/SFG/2026.shtml) | [NL](https://www.baseball-reference.com/leagues/NL/2026.shtml) | P | 17 | 17 | 1 | 107.0 | 21 | 9 | 11 | 1 | 1 | .952 | .948 | -1 | -2 | 1.68 | 1.38 | 1.18 | 1.36 | 13 | 3 | 18.8 | 23.8 | 0 | [AS](https://www.baseball-reference.com/allstar/2026-allstar-game.shtml) |
-| 8 Yrs |  | 197 | 194 | 4 | 1169.1 | 245 | 88 | 152 | 5 | 18 | .980 | .952 | 2 | 0 | 1.85 | 1.39 | 1.22 | 1.37 | 96 | 30 | 23.8 | 22.3 | 7 |  |
+| [2026](https://www.baseball-reference.com/players/gl.fcgi?id=webblo01&t=f&year=2026) | 29 | [SFG](https://www.baseball-reference.com/teams/SFG/2026.shtml) | [NL](https://www.baseball-reference.com/leagues/NL/2026.shtml) | P | 17 | 17 | 1 | 107.0 | 21 | 9 | 11 | 1 | 1 | .952 | .948 | -1 | -2 | 1.68 | 1.37 | 1.18 | 1.36 | 13 | 3 | 18.8 | 23.9 | 0 | [AS](https://www.baseball-reference.com/allstar/2026-allstar-game.shtml) |
+| 8 Yrs |  | 197 | 194 | 4 | 1169.1 | 245 | 88 | 152 | 5 | 18 | .980 | .952 | 2 | 0 | 1.85 | 1.39 | 1.22 | 1.37 | 96 | 30 | 23.8 | 22.4 | 7 |  |
 
 Standard Fielding Table
 
@@ -778,7 +783,7 @@ Standard Fielding Table
 
 [2025 NL](https://www.baseball-reference.com/leagues/NL/2025-pitching-leaders.shtml)  4.2 (10th)
 
-[Active](https://www.baseball-reference.com/leaders/WAR_pitch_active.shtml)  23.1 (18th)
+[Active](https://www.baseball-reference.com/leaders/WAR_pitch_active.shtml)  23.1 (19th)
 
 4 Seasons in Top 10
 
@@ -818,13 +823,9 @@ Wins
 
 [2023 NL](https://www.baseball-reference.com/leagues/NL/2023-pitching-leaders.shtml)  1.074 (2nd)
 
-[2026 NL](https://www.baseball-reference.com/leagues/NL/2026-pitching-leaders.shtml)  1.112 (10th)
-
 [Active](https://www.baseball-reference.com/leaders/whip_active.shtml)  1.188 (13th)
 
 [Career](https://www.baseball-reference.com/leaders/whip_career.shtml)  1.188 (135th)
-
-2 Seasons in Top 10
 
 #### Bases On Balls per 9 IP
 
@@ -968,7 +969,7 @@ Hits/Hits Allowed
 
 [2025 NL](https://www.baseball-reference.com/leagues/NL/2025-pitching-leaders.shtml)  0.609 (4th)
 
-[2026 NL](https://www.baseball-reference.com/leagues/NL/2026-pitching-leaders.shtml)  0.757 (6th)
+[2026 NL](https://www.baseball-reference.com/leagues/NL/2026-pitching-leaders.shtml)  0.757 (5th)
 
 [Active](https://www.baseball-reference.com/leaders/home_runs_per_nine_active.shtml)  0.639 (1st)
 
@@ -1034,7 +1035,7 @@ Batters Faced
 
 [Active](https://www.baseball-reference.com/leaders/fip_active.shtml)  3.06 (3rd)
 
-[Career](https://www.baseball-reference.com/leaders/fip_career.shtml)  3.06 (158th)
+[Career](https://www.baseball-reference.com/leaders/fip_career.shtml)  3.06 (157th)
 
 4 Seasons in Top 10
 
@@ -1144,7 +1145,7 @@ Batters Faced
 
 [2024 NL](https://www.baseball-reference.com/leagues/NL/2024-fielding-leaders.shtml)  2.11 (2nd)
 
-[Active](https://www.baseball-reference.com/leaders/range_factor_per_nine_p_active.shtml)  1.85 (17th)
+[Active](https://www.baseball-reference.com/leaders/range_factor_per_nine_p_active.shtml)  1.85 (18th)
 
 2 Seasons in Top 10
 
@@ -1181,9 +1182,9 @@ Batters Faced
 | [Gray Ink](https://www.baseball-reference.com/about/leader_glossary.shtml#gray_ink) |
 | Pitching -<br> **64** (513th),<br> _Average_<br>_HOFer ≈ 185_ |
 | [Hall of Fame Monitor](https://www.baseball-reference.com/about/leader_glossary.shtml#hof_monitor) |
-| Pitching -<br> **27** (533rd),<br> _Likely_<br>_HOFer ≈ 100_ |
+| Pitching -<br> **27** (534th),<br> _Likely_<br>_HOFer ≈ 100_ |
 | [Hall of Fame Standards](https://www.baseball-reference.com/about/leader_glossary.shtml#hof_standard) |
-| Pitching -<br> **16** (527th),<br> _Average_<br>_HOFer ≈ 50_ |
+| Pitching -<br> **16** (526th),<br> _Average_<br>_HOFer ≈ 50_ |
 | [JAWS](https://www.baseball-reference.com/about/jaws.shtml) |
 | [Starting Pitcher **(401st)**](https://www.baseball-reference.com/leaders/jaws_P.shtml):<br>**23.2** career WAR<br> \| **23.6** 7yr-peak WAR<br> \| **23.4** JAWS<br> \| **23.4** S-JAWS<br> \| **4.0** WAR/162<br>   Average HOF P (out of 67):<br>     73.0 career WAR \| 49.8 7yr-peak WAR \| 61.4 JAWS<br> \| 56.8 S-JAWS<br> \| 4.5 WAR/162 |
 
