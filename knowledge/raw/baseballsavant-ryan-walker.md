@@ -5,83 +5,86 @@ slug: baseballsavant-ryan-walker
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/145.svg) | CWS | 3 | Final |
-| ![](https://www.mlbstatic.com/team-logos/141.svg) | TOR | 0 |
+| ![](https://www.mlbstatic.com/team-logos/142.svg) | MIN | 2 | Final |
+| ![](https://www.mlbstatic.com/team-logos/114.svg) | CLE | 5 |
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/119.svg) | LAD | 8 | Final |
-| ![](https://www.mlbstatic.com/team-logos/147.svg) | NYY | 2 |
-
-|     |     |     |     |
-| --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/119.svg) | LAD | 1 | Final |
-| ![](https://www.mlbstatic.com/team-logos/147.svg) | NYY | 2 |
-
-|     |     |     |     |
-| --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/139.svg) | TB | 1 | Final |
-| ![](https://www.mlbstatic.com/team-logos/111.svg) | BOS | 6 |
-
-|     |     |     |     |
-| --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/121.svg) | NYM | 6 | Final |
+| ![](https://www.mlbstatic.com/team-logos/119.svg) | LAD | 2 | Final |
 | ![](https://www.mlbstatic.com/team-logos/143.svg) | PHI | 1 |
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/140.svg) | TEX | 5 | Final |
-| ![](https://www.mlbstatic.com/team-logos/144.svg) | ATL | 8 |
+| ![](https://www.mlbstatic.com/team-logos/139.svg) | TB | 12 | Final |
+| ![](https://www.mlbstatic.com/team-logos/141.svg) | TOR | 2 |
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/134.svg) | PIT | 7 | Final |
-| ![](https://www.mlbstatic.com/team-logos/114.svg) | CLE | 1 |
+| ![](https://www.mlbstatic.com/team-logos/135.svg) | SD | 8 | Final |
+| ![](https://www.mlbstatic.com/team-logos/144.svg) | ATL | 3 |
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/110.svg) | BAL | 5 | Final |
-| ![](https://www.mlbstatic.com/team-logos/117.svg) | HOU | 2 |
+| ![](https://www.mlbstatic.com/team-logos/137.svg) | SF | 2 | Final |
+| ![](https://www.mlbstatic.com/team-logos/118.svg) | KC | 3 |
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/135.svg) | SD | 19 | Final |
-| ![](https://www.mlbstatic.com/team-logos/118.svg) | KC | 2 |
-
-|     |     |     |     |
-| --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/146.svg) | MIA | 1 | Final |
-| ![](https://www.mlbstatic.com/team-logos/158.svg) | MIL | 3 |
-
-|     |     |     |     |
-| --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/142.svg) | MIN | 1 | Final |
-| ![](https://www.mlbstatic.com/team-logos/112.svg) | CHC | 10 |
-
-|     |     |     |     |
-| --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/113.svg) | CIN | 9 | Final |
-| ![](https://www.mlbstatic.com/team-logos/115.svg) | COL | 6 |
-
-|     |     |     |     |
-| --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/120.svg) | WSH | 5 | Final |
-| ![](https://www.mlbstatic.com/team-logos/133.svg) | ATH | 2 |
+| ![](https://www.mlbstatic.com/team-logos/121.svg) | NYM | 4 | Final |
+| ![](https://www.mlbstatic.com/team-logos/158.svg) | MIL | 0 |
 
 |     |     |     |     |
 | --- | --- | --- | --- |
 | ![](https://www.mlbstatic.com/team-logos/116.svg) | DET | 2 | Final |
-| ![](https://www.mlbstatic.com/team-logos/108.svg) | LAA | 3 |
+| ![](https://www.mlbstatic.com/team-logos/112.svg) | CHC | 11 |
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/137.svg) | SF | 3 | Final |
-| ![](https://www.mlbstatic.com/team-logos/136.svg) | SEA | 6 |
+| ![](https://www.mlbstatic.com/team-logos/145.svg) | CWS | 0 | Final |
+| ![](https://www.mlbstatic.com/team-logos/140.svg) | TEX | 10 |
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/138.svg) | STL | 7 | Final |
-| ![](https://www.mlbstatic.com/team-logos/109.svg) | AZ | 8 |
+| ![](https://www.mlbstatic.com/team-logos/146.svg) | MIA | 3 | Final |
+| ![](https://www.mlbstatic.com/team-logos/117.svg) | HOU | 5 |
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| ![](https://www.mlbstatic.com/team-logos/120.svg) | WSH | 7 | Final |
+| ![](https://www.mlbstatic.com/team-logos/115.svg) | COL | 8 |
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| ![](https://www.mlbstatic.com/team-logos/138.svg) | STL | 1 | Final |
+| ![](https://www.mlbstatic.com/team-logos/108.svg) | LAA | 5 |
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| ![](https://www.mlbstatic.com/team-logos/133.svg) | ATH | 5 | Final |
+| ![](https://www.mlbstatic.com/team-logos/109.svg) | AZ | 6 |
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| ![](https://www.mlbstatic.com/team-logos/113.svg) | CIN | 4 | Final |
+| ![](https://www.mlbstatic.com/team-logos/136.svg) | SEA | 2 |
+
+Chandler vs. Warren
+
+[(compare pitchers)](https://baseballsavant.mlb.com/comparison-tool?player=696149-2026-pitcher&player=701542-2026-pitcher)
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| ![](https://www.mlbstatic.com/team-logos/134.svg) | PIT |  | PPD |
+| ![](https://www.mlbstatic.com/team-logos/147.svg) | NYY |  |
+
+Bradish vs. Rivera
+
+[(compare pitchers)](https://baseballsavant.mlb.com/comparison-tool?player=680694-2026-pitcher&player=700842-2026-pitcher)
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| ![](https://www.mlbstatic.com/team-logos/110.svg) | BAL |  | PPD |
+| ![](https://www.mlbstatic.com/team-logos/111.svg) | BOS |  |
 
 <
 
@@ -149,7 +152,7 @@ vs. LHH72%22%6%Pitchvs. RHH66%33%1%68%SI29%SL3%FF
 MLB Percentile Rankings
 [![](https://baseballsavant.mlb.com/site-core/images/comp_tool_icons27.png)](https://baseballsavant.mlb.com/comparison-tool?player=676254-2026-pitcher&openSearch=true "Compare to Other Players")
 
-![](https://baseballsavant.mlb.com/sections/evp/images/play.png)ValuesavantPOORAVERAGEGREATPitching Run Value-7NOT QUALIFIED17Fastball Run Value-5NOT QUALIFIED16Breaking Run Value-2NOT QUALIFIED30Offspeed Run Value--NOT QUALIFIEDPitchingxERA4.43NOT QUALIFIED37xBA.260NOT QUALIFIED26Fastball Velo95.2NOT QUALIFIED63Avg Exit Velo85.4NOT QUALIFIED96Chase %25.5NOT QUALIFIED8Whiff %15.2NOT QUALIFIED1K %15.2NOT QUALIFIED7BB %12.0NOT QUALIFIED15Barrel %6.7NOT QUALIFIED64Hard-Hit %35.6NOT QUALIFIED68GB %47.8NOT QUALIFIED78Extension6.4NOT QUALIFIED41
+![](https://baseballsavant.mlb.com/sections/evp/images/play.png)ValuesavantPOORAVERAGEGREATPitching Run Value-7NOT QUALIFIED17Fastball Run Value-5NOT QUALIFIED16Breaking Run Value-2NOT QUALIFIED30Offspeed Run Value--NOT QUALIFIEDPitchingxERA4.43NOT QUALIFIED38xBA.260NOT QUALIFIED26Fastball Velo95.2NOT QUALIFIED63Avg Exit Velo85.4NOT QUALIFIED96Chase %25.5NOT QUALIFIED8Whiff %15.2NOT QUALIFIED1K %15.2NOT QUALIFIED7BB %12.0NOT QUALIFIED14Barrel %6.7NOT QUALIFIED65Hard-Hit %35.6NOT QUALIFIED69GB %47.8NOT QUALIFIED79Extension6.4NOT QUALIFIED41
 
 20262026
 
@@ -374,7 +377,7 @@ Save Image
 
 | Year | 3B | Rank |
 | --- | --- | --- |
-| 2026 | 2 | 16th in NL |
+| 2026 | 2 | 17th in NL |
 
 ## [Transactions](https://baseballsavant.mlb.com/savant-player/ryan-walker-676254?stats=statcast-r-pitching-mlb\#transactions)
 
@@ -666,7 +669,7 @@ Breaking: Slider, Curve, Knuckle, Sweeper, Slurve, Other
 
 ## [Pitch Tracking](https://baseballsavant.mlb.com/savant-player/ryan-walker-676254?stats=statcast-r-pitching-mlb\#pitch_tracking)
 
-| 2026 | Sinker | 335 | 187 | 148 | 68.4 | 95.2 | 80 | 68 | 24 | 19 | 1 | 2 | 2 | 15 | 54 | .353 | .266 | .515 | .387 | .420 | .339 | 85.9 | 0 | 2344 | 6.4 | 13.3 | 15.8 |
+| 2026 | Sinker | 335 | 187 | 148 | 68.4 | 95.2 | 80 | 68 | 24 | 19 | 1 | 2 | 2 | 15 | 54 | .353 | .266 | .515 | .387 | .419 | .339 | 85.9 | 0 | 2344 | 6.4 | 13.3 | 15.8 |
 | 2026 | Slider | 141 | 95 | 46 | 28.8 | 83.0 | 37 | 35 | 8 | 5 | 1 | 0 | 2 | 4 | 32 | .229 | .261 | .429 | .413 | .291 | .299 | 81.5 | 16 | 2523 | 6.4 | 20.3 | 8.5 |
 | 2026 | Four Seamer | 14 | 2 | 12 | 2.9 | 93.9 | 5 | 4 | 1 | 1 | 0 | 0 | 0 | 0 | 4 | .250 | .155 | .250 | .212 | .318 | .265 | 89.6 | 8 | 2264 | 6.4 | 0.0 | 0.0 |
 | 2025 | Sinker | 630 | 329 | 301 | 61.9 | 96.0 | 162 | 148 | 41 | 31 | 10 | 0 | 0 | 37 | 112 | .277 | .269 | .345 | .359 | .304 | .307 | 88.4 | 2 | 2369 | 6.4 | 17.1 | 21.6 |
@@ -728,7 +731,7 @@ All Similar Pitchers](https://baseballsavant.mlb.com/affinity-pitchersAndHitters
 
 ## [Pitch Movement](https://baseballsavant.mlb.com/savant-player/ryan-walker-676254?stats=statcast-r-pitching-mlb\#pitch_movement)
 
-Created with Highcharts 6.2.0Chart context menuRyan Walker Vertical Movement vs Avg (Inches) by SeasonSource: baseballsavant.mlb.comFour SeamerSinkerSliderChangeup2023202420252026-15-10-50510
+Created with Highcharts 6.2.0Chart context menuRyan Walker Vertical Movement vs Avg (Inches) by SeasonSource: baseballsavant.mlb.comSinkerSliderFour SeamerChangeup2023202420252026-15-10-50510
 
 - Vertical Movement vs Avg (Inches)Horizontal Movement vs Avg (Inches)Horizontal Movement (Inches)Vertical Movement (Inches)Induced Vertical Movement (Inches)Horizontal Movement % Break vs AvgVertical Movement % Break vs Avg▾
 
@@ -744,16 +747,16 @@ On the right, Induced Movement (or IVB) is reported without gravity, and attempt
 | --- | --- | --- |
 | Year | Pitch | Team | Hand | # | MPH | Vertical<br>Drop | vs.<br>Comparable | Horizontal<br>Break | vs.<br>Comparable | Vertical<br>Break | vs. Avg | Horizontal<br>Break | vs. Avg |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2026 | 4-Seam Fastball | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 14 | 93.9 | 22.7 | -5.8 | 8.4ARM | -1.8 | 8.0 | -7.8 | 8.4ARM | 0.6 |
 | 2026 | Sinker | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 335 | 95.2 | 26.9 | 1.9 | 17.0ARM | 0.5 | 3.4 | 4.2 | 17.0ARM | 2.0 |
 | 2026 | Slider | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 141 | 83.0 | 36.9 | -2.2 | 16.9GLV | 10.6 | 2.8 | -1.4 | 16.9GLV | 13.3 |
+| 2026 | 4-Seam Fastball | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 14 | 93.9 | 22.7 | -5.8 | 8.4ARM | -1.8 | 8.0 | -7.7 | 8.4ARM | 0.6 |
+| 2025 | 4-Seam Fastball | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 2 | 95.1 | 27.8 | -11.3 | 17.8ARM | 7.8 | 2.5 | -13.3 | 17.8ARM | 10.2 |
 | 2025 | Sinker | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 630 | 96.0 | 26.5 | 2.3 | 16.8ARM | 0.4 | 3.4 | 4.0 | 16.8ARM | 1.7 |
 | 2025 | Changeup | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 4 | 91.3 | 28.6 | -2.2 | 15.4ARM | 0.0 | 4.4 | -0.3 | 15.4ARM | 0.9 |
-| 2025 | 4-Seam Fastball | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 2 | 95.1 | 27.8 | -11.3 | 17.8ARM | 7.8 | 2.5 | -13.3 | 17.8ARM | 10.2 |
 | 2025 | Slider | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 382 | 84.0 | 36.5 | -0.8 | 15.3GLV | 9.1 | 2.4 | -0.6 | 15.3GLV | 11.1 |
 | 2024 | 4-Seam Fastball | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 7 | 94.5 | 22.0 | -5.9 | 7.8ARM | -1.2 | 8.7 | -7.1 | 7.8ARM | 0.3 |
-| 2024 | Sinker | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 667 | 95.6 | 26.7 | 2.4 | 15.1ARM | -1.0 | 3.3 | 3.9 | 15.1ARM | 0.3 |
 | 2024 | Slider | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 546 | 83.9 | 36.4 | -1.2 | 14.9GLV | 9.1 | 2.6 | -0.9 | 14.9GLV | 10.3 |
+| 2024 | Sinker | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 667 | 95.6 | 26.7 | 2.4 | 15.1ARM | -1.0 | 3.3 | 3.9 | 15.1ARM | 0.3 |
 | 2023 | 4-Seam Fastball | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 12 | 94.4 | 27.9 | -12.3 | 14.1ARM | 5.4 | 2.7 | -13.1 | 14.1ARM | 6.7 |
 | 2023 | Sinker | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 523 | 94.8 | 28.0 | 4.3 | 14.5ARM | -1.2 | 2.5 | 5.2 | 14.5ARM | -0.4 |
 | 2023 | Slider | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 543 | 83.2 | 38.2 | -0.2 | 14.6GLV | 8.6 | 1.5 | 0.1 | 14.6GLV | 9.9 |
@@ -889,7 +892,7 @@ These run values are **leveraged**, meaning the base/out situation at the time o
 | 2023 | 35 | 61 | 16 |  | 91 | 64 | 49 |  | 98 | 86 | 87 | 90 | 38 | 92 | 99 | 58 | 23 |
 | 2024 | 93 | 90 | 94 |  | 96 | 76 | 58 |  | 94 | 54 | 74 | 94 | 84 | 81 | 98 | 71 | 21 |
 | 2025 | 56 | 74 | 40 | 51 | 58 | 77 | 73 |  | 93 | 22 | 20 | 49 | 71 | 92 | 86 | 84 | 47 |
-| 2026 | 17 | 16 | 30 |  | 37 | 63 | 70 |  | 96 | 8 | 1 | 7 | 15 | 64 | 68 | 78 | 41 |
+| 2026 | 17 | 16 | 30 |  | 38 | 63 | 69 |  | 96 | 8 | 1 | 7 | 14 | 65 | 69 | 79 | 41 |
 
 [+\\
 View Complete Percentile Rankings Leaderboard](https://baseballsavant.mlb.com/leaderboard/percentile-rankings?type=pitcher)
@@ -1270,9 +1273,9 @@ Ryan WalkerSLG.600.000.000.550.750.833.625.556.000.231.000.400.667
 
 Ryan WalkerISO.000.000.000.200.400.500.125.222.000.000.000.000.000
 
-Ryan WalkerwOBA.534.000.000.387.462.488.491.375.000.323.000.454.667
+Ryan WalkerwOBA.533.000.000.387.461.488.491.374.000.323.000.454.667
 
-Ryan WalkerwOBA (Contact).534.408.462.586.561.482.000.297.000.445.593
+Ryan WalkerwOBA (Contact).533.407.461.585.561.481.000.296.000.445.593
 
 ## Statcast
 

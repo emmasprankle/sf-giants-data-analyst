@@ -5,83 +5,86 @@ slug: baseballsavant-expected-stats-giants-2024
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/145.svg) | CWS | 3 | Final |
-| ![](https://www.mlbstatic.com/team-logos/141.svg) | TOR | 0 |
+| ![](https://www.mlbstatic.com/team-logos/142.svg) | MIN | 2 | Final |
+| ![](https://www.mlbstatic.com/team-logos/114.svg) | CLE | 5 |
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/119.svg) | LAD | 8 | Final |
-| ![](https://www.mlbstatic.com/team-logos/147.svg) | NYY | 2 |
-
-|     |     |     |     |
-| --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/119.svg) | LAD | 1 | Final |
-| ![](https://www.mlbstatic.com/team-logos/147.svg) | NYY | 2 |
-
-|     |     |     |     |
-| --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/139.svg) | TB | 1 | Final |
-| ![](https://www.mlbstatic.com/team-logos/111.svg) | BOS | 6 |
-
-|     |     |     |     |
-| --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/121.svg) | NYM | 6 | Final |
+| ![](https://www.mlbstatic.com/team-logos/119.svg) | LAD | 2 | Final |
 | ![](https://www.mlbstatic.com/team-logos/143.svg) | PHI | 1 |
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/140.svg) | TEX | 5 | Final |
-| ![](https://www.mlbstatic.com/team-logos/144.svg) | ATL | 8 |
+| ![](https://www.mlbstatic.com/team-logos/139.svg) | TB | 12 | Final |
+| ![](https://www.mlbstatic.com/team-logos/141.svg) | TOR | 2 |
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/134.svg) | PIT | 7 | Final |
-| ![](https://www.mlbstatic.com/team-logos/114.svg) | CLE | 1 |
+| ![](https://www.mlbstatic.com/team-logos/135.svg) | SD | 8 | Final |
+| ![](https://www.mlbstatic.com/team-logos/144.svg) | ATL | 3 |
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/110.svg) | BAL | 5 | Final |
-| ![](https://www.mlbstatic.com/team-logos/117.svg) | HOU | 2 |
+| ![](https://www.mlbstatic.com/team-logos/137.svg) | SF | 2 | Final |
+| ![](https://www.mlbstatic.com/team-logos/118.svg) | KC | 3 |
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/135.svg) | SD | 19 | Final |
-| ![](https://www.mlbstatic.com/team-logos/118.svg) | KC | 2 |
-
-|     |     |     |     |
-| --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/146.svg) | MIA | 1 | Final |
-| ![](https://www.mlbstatic.com/team-logos/158.svg) | MIL | 3 |
-
-|     |     |     |     |
-| --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/142.svg) | MIN | 1 | Final |
-| ![](https://www.mlbstatic.com/team-logos/112.svg) | CHC | 10 |
-
-|     |     |     |     |
-| --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/113.svg) | CIN | 9 | Final |
-| ![](https://www.mlbstatic.com/team-logos/115.svg) | COL | 6 |
-
-|     |     |     |     |
-| --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/120.svg) | WSH | 5 | Final |
-| ![](https://www.mlbstatic.com/team-logos/133.svg) | ATH | 2 |
+| ![](https://www.mlbstatic.com/team-logos/121.svg) | NYM | 4 | Final |
+| ![](https://www.mlbstatic.com/team-logos/158.svg) | MIL | 0 |
 
 |     |     |     |     |
 | --- | --- | --- | --- |
 | ![](https://www.mlbstatic.com/team-logos/116.svg) | DET | 2 | Final |
-| ![](https://www.mlbstatic.com/team-logos/108.svg) | LAA | 3 |
+| ![](https://www.mlbstatic.com/team-logos/112.svg) | CHC | 11 |
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/137.svg) | SF | 3 | Final |
-| ![](https://www.mlbstatic.com/team-logos/136.svg) | SEA | 6 |
+| ![](https://www.mlbstatic.com/team-logos/145.svg) | CWS | 0 | Final |
+| ![](https://www.mlbstatic.com/team-logos/140.svg) | TEX | 10 |
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/138.svg) | STL | 7 | Final |
-| ![](https://www.mlbstatic.com/team-logos/109.svg) | AZ | 8 |
+| ![](https://www.mlbstatic.com/team-logos/146.svg) | MIA | 3 | Final |
+| ![](https://www.mlbstatic.com/team-logos/117.svg) | HOU | 5 |
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| ![](https://www.mlbstatic.com/team-logos/120.svg) | WSH | 7 | Final |
+| ![](https://www.mlbstatic.com/team-logos/115.svg) | COL | 8 |
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| ![](https://www.mlbstatic.com/team-logos/138.svg) | STL | 1 | Final |
+| ![](https://www.mlbstatic.com/team-logos/108.svg) | LAA | 5 |
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| ![](https://www.mlbstatic.com/team-logos/133.svg) | ATH | 5 | Final |
+| ![](https://www.mlbstatic.com/team-logos/109.svg) | AZ | 6 |
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| ![](https://www.mlbstatic.com/team-logos/113.svg) | CIN | 4 | Final |
+| ![](https://www.mlbstatic.com/team-logos/136.svg) | SEA | 2 |
+
+Chandler vs. Warren
+
+[(compare pitchers)](https://baseballsavant.mlb.com/comparison-tool?player=696149-2026-pitcher&player=701542-2026-pitcher)
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| ![](https://www.mlbstatic.com/team-logos/134.svg) | PIT |  | PPD |
+| ![](https://www.mlbstatic.com/team-logos/147.svg) | NYY |  |
+
+Bradish vs. Rivera
+
+[(compare pitchers)](https://baseballsavant.mlb.com/comparison-tool?player=680694-2026-pitcher&player=700842-2026-pitcher)
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| ![](https://www.mlbstatic.com/team-logos/110.svg) | BAL |  | PPD |
+| ![](https://www.mlbstatic.com/team-logos/111.svg) | BOS |  |
 
 <
 
@@ -181,7 +184,7 @@ Download CSV
 | 14 | ![](https://content.mlb.com/images/headshots/current/60x60/694738.png)[Roupp, Landen](https://baseballsavant.mlb.com/savant-player/694738) | ![](https://www.mlbstatic.com/team-logos/137.svg) | 217 | 143 | .226 | .238 | -.012 | .326 | .363 | -.037 | .294 | .313 | -.019 | 3.58 | 3.99 | -0.41 |
 | 15 | ![](https://content.mlb.com/images/headshots/current/60x60/702352.png)[Bivens, Spencer](https://baseballsavant.mlb.com/savant-player/702352) | ![](https://www.mlbstatic.com/team-logos/137.svg) | 202 | 153 | .250 | .242 | +.008 | .431 | .438 | -.007 | .311 | .314 | -.003 | 3.14 | 4.02 | -0.88 |
 | 16 | ![](https://content.mlb.com/images/headshots/current/60x60/666149.png)[Fitzgerald, Tyler](https://baseballsavant.mlb.com/savant-player/666149) | ![](https://www.mlbstatic.com/team-logos/137.svg) | 14 | 14 | .429 | .304 | +.125 | .500 | .450 | +.050 | .405 | .322 | +.083 | 9.00 | 4.25 | +4.75 |
-| 17 | ![](https://content.mlb.com/images/headshots/current/60x60/657277.png)[Webb, Logan](https://baseballsavant.mlb.com/savant-player/657277) | ![](https://www.mlbstatic.com/team-logos/137.svg) | 841 | 617 | .258 | .270 | -.012 | .355 | .421 | -.066 | .288 | .325 | -.037 | 3.47 | 4.34 | -0.87 |
+| 17 | ![](https://content.mlb.com/images/headshots/current/60x60/657277.png)[Webb, Logan](https://baseballsavant.mlb.com/savant-player/657277) | ![](https://www.mlbstatic.com/team-logos/137.svg) | 841 | 617 | .258 | .270 | -.012 | .355 | .421 | -.066 | .288 | .326 | -.038 | 3.47 | 4.37 | -0.90 |
 | 18 | ![](https://content.mlb.com/images/headshots/current/60x60/806185.png)[Birdsong, Hayden](https://baseballsavant.mlb.com/savant-player/806185) | ![](https://www.mlbstatic.com/team-logos/137.svg) | 315 | 180 | .216 | .228 | -.012 | .390 | .413 | -.023 | .321 | .335 | -.014 | 4.75 | 4.64 | +0.11 |
 | 19 | ![](https://content.mlb.com/images/headshots/current/60x60/663855.png)[Hicks, Jordan](https://baseballsavant.mlb.com/savant-player/663855) | ![](https://www.mlbstatic.com/team-logos/137.svg) | 481 | 329 | .265 | .251 | +.014 | .414 | .425 | -.011 | .336 | .338 | -.002 | 4.10 | 4.74 | -0.64 |
 | 20 | ![](https://content.mlb.com/images/headshots/current/60x60/690986.png)[Harrison, Kyle](https://baseballsavant.mlb.com/savant-player/690986) | ![](https://www.mlbstatic.com/team-logos/137.svg) | 532 | 365 | .263 | .255 | +.008 | .433 | .444 | -.011 | .330 | .341 | -.011 | 4.56 | 4.84 | -0.28 |
