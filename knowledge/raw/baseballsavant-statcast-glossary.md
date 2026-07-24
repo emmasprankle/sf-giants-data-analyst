@@ -5,86 +5,28 @@ slug: baseballsavant-statcast-glossary
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/142.svg) | MIN | 2 | Final |
-| ![](https://www.mlbstatic.com/team-logos/114.svg) | CLE | 5 |
+| ![](https://www.mlbstatic.com/team-logos/135.svg) | SD | 5 | Final |
+| ![](https://www.mlbstatic.com/team-logos/144.svg) | ATL | 6 |
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/119.svg) | LAD | 2 | Final |
-| ![](https://www.mlbstatic.com/team-logos/143.svg) | PHI | 1 |
+| ![](https://www.mlbstatic.com/team-logos/142.svg) | MIN | 3 | Final |
+| ![](https://www.mlbstatic.com/team-logos/114.svg) | CLE | 1 |
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/139.svg) | TB | 12 | Final |
-| ![](https://www.mlbstatic.com/team-logos/141.svg) | TOR | 2 |
+| ![](https://www.mlbstatic.com/team-logos/139.svg) | TB | 1 | Final |
+| ![](https://www.mlbstatic.com/team-logos/141.svg) | TOR | 3 |
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/135.svg) | SD | 8 | Final |
-| ![](https://www.mlbstatic.com/team-logos/144.svg) | ATL | 3 |
+| ![](https://www.mlbstatic.com/team-logos/109.svg) | AZ | 10 | Final |
+| ![](https://www.mlbstatic.com/team-logos/138.svg) | STL | 6 |
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/137.svg) | SF | 2 | Final |
-| ![](https://www.mlbstatic.com/team-logos/118.svg) | KC | 3 |
-
-|     |     |     |     |
-| --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/121.svg) | NYM | 4 | Final |
-| ![](https://www.mlbstatic.com/team-logos/158.svg) | MIL | 0 |
-
-|     |     |     |     |
-| --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/116.svg) | DET | 2 | Final |
-| ![](https://www.mlbstatic.com/team-logos/112.svg) | CHC | 11 |
-
-|     |     |     |     |
-| --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/145.svg) | CWS | 0 | Final |
-| ![](https://www.mlbstatic.com/team-logos/140.svg) | TEX | 10 |
-
-|     |     |     |     |
-| --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/146.svg) | MIA | 3 | Final |
-| ![](https://www.mlbstatic.com/team-logos/117.svg) | HOU | 5 |
-
-|     |     |     |     |
-| --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/120.svg) | WSH | 7 | Final |
-| ![](https://www.mlbstatic.com/team-logos/115.svg) | COL | 8 |
-
-|     |     |     |     |
-| --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/138.svg) | STL | 1 | Final |
-| ![](https://www.mlbstatic.com/team-logos/108.svg) | LAA | 5 |
-
-|     |     |     |     |
-| --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/133.svg) | ATH | 5 | Final |
-| ![](https://www.mlbstatic.com/team-logos/109.svg) | AZ | 6 |
-
-|     |     |     |     |
-| --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/113.svg) | CIN | 4 | Final |
-| ![](https://www.mlbstatic.com/team-logos/136.svg) | SEA | 2 |
-
-Chandler vs. Warren
-
-[(compare pitchers)](https://baseballsavant.mlb.com/comparison-tool?player=696149-2026-pitcher&player=701542-2026-pitcher)
-
-|     |     |     |     |
-| --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/134.svg) | PIT |  | PPD |
-| ![](https://www.mlbstatic.com/team-logos/147.svg) | NYY |  |
-
-Bradish vs. Rivera
-
-[(compare pitchers)](https://baseballsavant.mlb.com/comparison-tool?player=680694-2026-pitcher&player=700842-2026-pitcher)
-
-|     |     |     |     |
-| --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/110.svg) | BAL |  | PPD |
-| ![](https://www.mlbstatic.com/team-logos/111.svg) | BOS |  |
+| ![](https://www.mlbstatic.com/team-logos/118.svg) | KC | 3 | Final |
+| ![](https://www.mlbstatic.com/team-logos/116.svg) | DET | 4 |
 
 <
 
