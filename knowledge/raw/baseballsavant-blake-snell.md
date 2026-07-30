@@ -5,78 +5,83 @@ slug: baseballsavant-blake-snell
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/118.svg) | KC | 3 | Final |
-| ![](https://www.mlbstatic.com/team-logos/116.svg) | DET | 2 |
+| ![](https://www.mlbstatic.com/team-logos/143.svg) | PHI | 6 | Final |
+| ![](https://www.mlbstatic.com/team-logos/146.svg) | MIA | 8 |
 
 |     |     |     |     |
 | --- | --- | --- | --- |
 | ![](https://www.mlbstatic.com/team-logos/109.svg) | AZ | 3 | Final |
-| ![](https://www.mlbstatic.com/team-logos/120.svg) | WSH | 5 |
-
-|     |     |     |     |
-| --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/108.svg) | LAA | 2 | Final |
-| ![](https://www.mlbstatic.com/team-logos/137.svg) | SF | 9 |
-
-|     |     |     |     |
-| --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/141.svg) | TOR | 6 | Final |
-| ![](https://www.mlbstatic.com/team-logos/111.svg) | BOS | 0 |
-
-|     |     |     |     |
-| --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/135.svg) | SD | 7 | Final |
-| ![](https://www.mlbstatic.com/team-logos/146.svg) | MIA | 2 |
-
-|     |     |     |     |
-| --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/147.svg) | NYY | 3 | Final |
-| ![](https://www.mlbstatic.com/team-logos/143.svg) | PHI | 1 |
-
-|     |     |     |     |
-| --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/114.svg) | CLE | 0 | Final |
-| ![](https://www.mlbstatic.com/team-logos/139.svg) | TB | 3 |
-
-|     |     |     |     |
-| --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/112.svg) | CHC | 11 | Final |
 | ![](https://www.mlbstatic.com/team-logos/134.svg) | PIT | 0 |
 
 |     |     |     |     |
 | --- | --- | --- | --- |
+| ![](https://www.mlbstatic.com/team-logos/141.svg) | TOR | 5 | Final |
+| ![](https://www.mlbstatic.com/team-logos/120.svg) | WSH | 2 |
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| ![](https://www.mlbstatic.com/team-logos/110.svg) | BAL | 10 | Final |
+| ![](https://www.mlbstatic.com/team-logos/116.svg) | DET | 9 |
+
+|     |     |     |     |
+| --- | --- | --- | --- |
 | ![](https://www.mlbstatic.com/team-logos/144.svg) | ATL | 2 | Final |
-| ![](https://www.mlbstatic.com/team-logos/110.svg) | BAL | 3 |
-
-|     |     |     |     |
-| --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/133.svg) | ATH | 0 | Final |
-| ![](https://www.mlbstatic.com/team-logos/142.svg) | MIN | 2 |
-
-|     |     |     |     |
-| --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/117.svg) | HOU | 4 | Final |
-| ![](https://www.mlbstatic.com/team-logos/145.svg) | CWS | 1 |
-
-|     |     |     |     |
-| --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/115.svg) | COL | 5 | Final |
-| ![](https://www.mlbstatic.com/team-logos/158.svg) | MIL | 8 |
-
-|     |     |     |     |
-| --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/119.svg) | LAD | 4 | Final |
 | ![](https://www.mlbstatic.com/team-logos/121.svg) | NYM | 3 |
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/113.svg) | CIN | 0 | Final |
-| ![](https://www.mlbstatic.com/team-logos/138.svg) | STL | 7 |
+| ![](https://www.mlbstatic.com/team-logos/144.svg) | ATL | 1 | Final |
+| ![](https://www.mlbstatic.com/team-logos/121.svg) | NYM | 0 |
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/136.svg) | SEA | 1 | Final |
-| ![](https://www.mlbstatic.com/team-logos/140.svg) | TEX | 7 |
+| ![](https://www.mlbstatic.com/team-logos/158.svg) | MIL | 3 | Final |
+| ![](https://www.mlbstatic.com/team-logos/137.svg) | SF | 16 |
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| ![](https://www.mlbstatic.com/team-logos/115.svg) | COL | 1 | Final |
+| ![](https://www.mlbstatic.com/team-logos/135.svg) | SD | 3 |
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| ![](https://www.mlbstatic.com/team-logos/140.svg) | TEX | 0 | Final |
+| ![](https://www.mlbstatic.com/team-logos/139.svg) | TB | 3 |
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| ![](https://www.mlbstatic.com/team-logos/114.svg) | CLE | 6 | Final |
+| ![](https://www.mlbstatic.com/team-logos/113.svg) | CIN | 1 |
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| ![](https://www.mlbstatic.com/team-logos/118.svg) | KC | 4 | Final |
+| ![](https://www.mlbstatic.com/team-logos/142.svg) | MIN | 0 |
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| ![](https://www.mlbstatic.com/team-logos/147.svg) | NYY | 5 | Final |
+| ![](https://www.mlbstatic.com/team-logos/145.svg) | CWS | 6 |
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| ![](https://www.mlbstatic.com/team-logos/112.svg) | CHC | 2 | Final |
+| ![](https://www.mlbstatic.com/team-logos/138.svg) | STL | 3 |
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| ![](https://www.mlbstatic.com/team-logos/117.svg) | HOU | 7 | Final |
+| ![](https://www.mlbstatic.com/team-logos/108.svg) | LAA | 4 |
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| ![](https://www.mlbstatic.com/team-logos/111.svg) | BOS | 4 | Final |
+| ![](https://www.mlbstatic.com/team-logos/133.svg) | ATH | 2 |
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| ![](https://www.mlbstatic.com/team-logos/136.svg) | SEA | 2 | Final |
+| ![](https://www.mlbstatic.com/team-logos/119.svg) | LAD | 4 |
 
 <
 
@@ -172,7 +177,7 @@ vs. LHH45%3%52%0%Pitchvs. RHH40%31%0%29%42%FF21%CU19%SL18%CH
 MLB Percentile Rankings
 [![](https://baseballsavant.mlb.com/site-core/images/comp_tool_icons27.png)](https://baseballsavant.mlb.com/comparison-tool?player=605483-2026-pitcher&openSearch=true "Compare to Other Players")
 
-![](https://baseballsavant.mlb.com/sections/evp/images/play.png)ValuesavantPOORAVERAGEGREATPitching Run Value-2NOT QUALIFIEDFastball Run Value-1NOT QUALIFIEDBreaking Run Value-1NOT QUALIFIEDOffspeed Run Value0NOT QUALIFIEDPitchingxERA3.90NOT QUALIFIEDxBA.268NOT QUALIFIEDFastball Velo95.9NOT QUALIFIEDAvg Exit Velo80.5NOT QUALIFIEDChase %46.0NOT QUALIFIEDWhiff %40.0NOT QUALIFIEDK %27.8NOT QUALIFIEDBB %11.1NOT QUALIFIEDBarrel %0.0NOT QUALIFIEDHard-Hit %18.2NOT QUALIFIEDGB %63.6NOT QUALIFIEDExtension6.8NOT QUALIFIED
+![](https://baseballsavant.mlb.com/sections/evp/images/play.png)ValuesavantPOORAVERAGEGREATPitching Run Value-2NOT QUALIFIEDFastball Run Value-1NOT QUALIFIEDBreaking Run Value-1NOT QUALIFIEDOffspeed Run Value0NOT QUALIFIEDPitchingxERA3.93NOT QUALIFIEDxBA.268NOT QUALIFIEDFastball Velo95.9NOT QUALIFIEDAvg Exit Velo80.5NOT QUALIFIEDChase %46.0NOT QUALIFIEDWhiff %40.0NOT QUALIFIEDK %27.8NOT QUALIFIEDBB %11.1NOT QUALIFIEDBarrel %0.0NOT QUALIFIEDHard-Hit %18.2NOT QUALIFIEDGB %63.6NOT QUALIFIEDExtension6.8NOT QUALIFIED
 
 20262026
 
@@ -204,7 +209,7 @@ Movement Profile (Induced Break)
 ?
 
 
-MLB AVG.17.7 INCHES RISEARM ANGLE57°12"24"6"12"18"24"12"24"12"24"13.1 INCHES TAIL7.7 INCHES RISEAVG4.4 INCHES BREAK6.3 INCHES RISEAVG14.7 INCHES BREAK8.9 INCHES DROPAVG4.5 INCHES TAIL17.7 INCHES RISEAVG1B3BMOVES TOWARD︎MORERISEMOREDROPUSAGEMPHLHP AVG4-Seam42%95.993.5Curve21%80.679.7Slider19%88.984.9Change18%85.784.7SAMPLE100 PITCH
+MLB AVG.17.7 INCHES RISEARM ANGLE57°12"24"6"12"18"24"12"24"12"24"13.1 INCHES TAIL7.7 INCHES RISEAVG4.4 INCHES BREAK6.3 INCHES RISEAVG14.7 INCHES BREAK8.9 INCHES DROPAVG4.5 INCHES TAIL17.7 INCHES RISEAVG1B3BMOVES TOWARD︎MORERISEMOREDROPUSAGEMPHLHP AVG4-Seam42%95.993.5Curve21%80.679.7Slider19%88.985.0Change18%85.784.7SAMPLE100 PITCH
 
 [Statcast](https://baseballsavant.mlb.com/savant-player/blake-snell-605483#statcast) [Standard](https://baseballsavant.mlb.com/savant-player/blake-snell-605483#standard) [Splits](https://baseballsavant.mlb.com/savant-player/blake-snell-605483#splits) [Game Logs](https://baseballsavant.mlb.com/savant-player/blake-snell-605483#gamelogs)
 
@@ -384,15 +389,15 @@ No Minor League Hitting Statistics.
 | 2025 | ACL Dodgers | ACL | ROK | 0 | 1 | 3.00 | 1 | 1 | 0 | 3.0 | 3 | 1 | 1 | 0 | 0 | 7 | 1.00 |
 | 2025 | Rancho Cucamonga Quakes | CAL | A | 0 | 0 | 0.00 | 1 | 1 | 0 | 2.0 | 1 | 0 | 0 | 0 | 0 | 4 | 0.50 |
 | 2025 | Oklahoma City Comets | PCL | AAA | 0 | 0 | 1.04 | 2 | 2 | 0 | 8.2 | 4 | 1 | 1 | 0 | 5 | 13 | 1.04 |
-| 2026 | 2 Teams |  | Minors | 0 | 1 | 3.00 | 5 | 5 | 0 | 12.0 | 9 | 5 | 4 | 1 | 3 | 17 | 1.00 |
-| 2026 | Ontario Tower Buzzers | CAL | A | 0 | 1 | 2.25 | 2 | 2 | 0 | 4.0 | 4 | 2 | 1 | 0 | 1 | 6 | 1.25 |
+| 2026 | 2 Teams |  | Minors | 0 | 1 | 2.25 | 6 | 6 | 0 | 16.0 | 10 | 5 | 4 | 1 | 3 | 26 | 0.81 |
+| 2026 | Ontario Tower Buzzers | CAL | A | 0 | 1 | 1.13 | 3 | 3 | 0 | 8.0 | 5 | 2 | 1 | 0 | 1 | 15 | 0.75 |
 | 2026 | Oklahoma City Comets | PCL | AAA | 0 | 0 | 3.38 | 3 | 3 | 0 | 8.0 | 5 | 3 | 3 | 1 | 2 | 11 | 0.88 |
 |  | 3 Teams |  | ROK | 6 | 4 | 2.47 | 23 | 20 | 0 | 76.2 | 67 | 22 | 21 | 4 | 28 | 86 | 1.24 |
 |  | 4 Teams |  | AAA | 16 | 7 | 2.64 | 38 | 38 | 0 | 187.2 | 147 | 57 | 55 | 13 | 69 | 264 | 1.15 |
 |  | Montgomery Biscuits | SOU | AA | 6 | 2 | 1.57 | 12 | 12 | 0 | 68.2 | 45 | 13 | 12 | 5 | 29 | 79 | 1.08 |
 |  | 2 Teams |  | A+ | 8 | 6 | 2.96 | 21 | 19 | 0 | 100.1 | 81 | 40 | 33 | 1 | 48 | 108 | 1.29 |
-|  | 5 Teams |  | A | 7 | 12 | 3.46 | 36 | 36 | 0 | 153.1 | 125 | 71 | 59 | 10 | 95 | 173 | 1.43 |
-| Career Minors | 15 Teams |  |  | 43 | 31 | 2.76 | 130 | 125 | 0 | 586.2 | 465 | 203 | 180 | 33 | 269 | 710 | 1.25 |
+|  | 5 Teams |  | A | 7 | 12 | 3.38 | 37 | 37 | 0 | 157.1 | 126 | 71 | 59 | 10 | 95 | 182 | 1.40 |
+| Career Minors | 15 Teams |  |  | 43 | 31 | 2.74 | 131 | 126 | 0 | 590.2 | 466 | 203 | 180 | 33 | 269 | 719 | 1.24 |
 
 ## [Standard Minor League Fielding Statistics](https://baseballsavant.mlb.com/savant-player/blake-snell-605483?stats=statcast-r-pitching-mlb\#standard-milb-fielding-stats)
 
@@ -421,15 +426,15 @@ No Minor League Hitting Statistics.
 | 2025 | ACL Dodgers | ACL | ROK | P | 1 | 1 | 3.0 | 1 | 0 | 1 | 0 | 0 |  | 1.000 |
 | 2025 | Rancho Cucamonga Quakes | CAL | A | P | 1 | 1 | 2.0 | 0 | 0 | 0 | 0 | 0 |  | .000 |
 | 2025 | Oklahoma City Comets | PCL | AAA | P | 2 | 2 | 8.2 | 1 | 0 | 1 | 0 | 0 |  | 1.000 |
-| 2026 | 2 Teams |  | Minors | P | 5 | 5 | 12.0 | 3 | 1 | 2 | 0 | 2 |  | 1.000 |
-| 2026 | Ontario Tower Buzzers | CAL | A | P | 2 | 2 | 4.0 | 1 | 0 | 1 | 0 | 1 |  | 1.000 |
+| 2026 | 2 Teams |  | Minors | P | 6 | 6 | 16.0 | 4 | 1 | 3 | 0 | 2 |  | 1.000 |
+| 2026 | Ontario Tower Buzzers | CAL | A | P | 3 | 3 | 8.0 | 2 | 0 | 2 | 0 | 1 |  | 1.000 |
 | 2026 | Oklahoma City Comets | PCL | AAA | P | 3 | 3 | 8.0 | 2 | 1 | 1 | 0 | 1 |  | 1.000 |
 |  | 3 Teams |  | ROK | P | 23 | 20 | 76.2 | 13 | 1 | 11 | 1 | 1 |  | .923 |
 |  | 4 Teams |  | AAA | P | 38 | 38 | 187.2 | 30 | 3 | 26 | 1 | 1 |  | .967 |
 |  | Montgomery Biscuits | SOU | AA | P | 12 | 12 | 68.2 | 10 | 3 | 7 | 0 | 1 |  | 1.000 |
 |  | 2 Teams |  | A+ | P | 21 | 19 | 100.1 | 21 | 4 | 17 | 0 | 2 |  | 1.000 |
-|  | 5 Teams |  | A | P | 36 | 36 | 153.1 | 30 | 1 | 27 | 2 | 1 |  | .933 |
-| Career Minors | 15 Teams |  |  | P | 130 | 125 | 586.2 | 104 | 12 | 88 | 4 | 6 |  | .962 |
+|  | 5 Teams |  | A | P | 37 | 37 | 157.1 | 31 | 1 | 28 | 2 | 1 |  | .935 |
+| Career Minors | 15 Teams |  |  | P | 131 | 126 | 590.2 | 105 | 12 | 89 | 4 | 6 |  | .962 |
 
 ## [Rankings](https://baseballsavant.mlb.com/savant-player/blake-snell-605483?stats=statcast-r-pitching-mlb\#rankings)
 
@@ -448,7 +453,6 @@ No Minor League Hitting Statistics.
 
 | Year | AB | Rank |
 | --- | --- | --- |
-| 2026 | 16 | 25th in NL |
 | 2023 | 636 | 17th in NL |
 | 2018 | 630 | 24th in AL |
 
@@ -668,6 +672,7 @@ No Minor League Hitting Statistics.
 
 | Team | Date | Transaction |
 | --- | --- | --- |
+| ![](https://www.mlbstatic.com/team-logos/6482.svg) | 07/29/2026 | Los Angeles Dodgers sent LHP Blake Snell on a rehab assignment to Ontario Tower Buzzers. |
 | ![](https://www.mlbstatic.com/team-logos/238.svg) | 07/18/2026 | Los Angeles Dodgers sent LHP Blake Snell on a rehab assignment to Oklahoma City Comets. |
 | ![](https://www.mlbstatic.com/team-logos/119.svg) | 05/29/2026 | Los Angeles Dodgers transferred LHP Blake Snell from the 15-day injured list to the 60-day injured list. Left elbow loose bodies. |
 | ![](https://www.mlbstatic.com/team-logos/119.svg) | 05/15/2026 | Los Angeles Dodgers placed LHP Blake Snell on the 15-day injured list retroactive to May 12, 2026. Left elbow loose bodies. |
@@ -794,8 +799,8 @@ No Minor League Hitting Statistics.
 
 | Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP | AVG | OBP | SLG | OPS |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2 Teams | Minors | vs Left |  |  |  | 4 |  |  | 3.0 | 10 | 2 |  |  | 0 | 0 | 4 | 0.67 | .200 | .200 | .200 | .400 |
-| 2 Teams | Minors | vs Right |  |  |  | 5 |  |  | 9.0 | 38 | 7 |  |  | 1 | 3 | 13 | 1.11 | .200 | .263 | .343 | .606 |
+| 2 Teams | Minors | vs Left |  |  |  | 5 |  |  | 5.0 | 17 | 3 |  |  | 0 | 0 | 8 | 0.60 | .176 | .176 | .176 | .352 |
+| 2 Teams | Minors | vs Right |  |  |  | 6 |  |  | 11.0 | 44 | 7 |  |  | 1 | 3 | 18 | 0.91 | .171 | .227 | .293 | .520 |
 
 ### [Monthly Splits](https://baseballsavant.mlb.com/savant-player/blake-snell-605483?stats=statcast-r-pitching-mlb\#milb-monthly-splits)
 
@@ -803,16 +808,16 @@ No Minor League Hitting Statistics.
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Ontario Tower Buzzers | Single-A | April | 0 | 1 | 2.25 | 2 | 2 | 0 | 4.0 | 18 | 4 | 2 | 1 | 0 | 1 | 6 | 1.25 | .235 | .278 | .353 | .631 |
 | Oklahoma City Comets | Triple-A | May | 0 | 0 | 4.50 | 1 | 1 | 0 | 4.0 | 14 | 2 | 2 | 2 | 1 | 1 | 4 | 0.75 | .154 | .214 | .385 | .599 |
-| Oklahoma City Comets | Triple-A | July | 0 | 0 | 2.25 | 2 | 2 | 0 | 4.0 | 16 | 3 | 1 | 1 | 0 | 1 | 7 | 1.00 | .200 | .250 | .200 | .450 |
+| 2 Teams | Minors | July | 0 | 0 | 1.13 | 3 | 3 | 0 | 8.0 | 29 | 4 | 1 | 1 | 0 | 1 | 16 | 0.63 | .143 | .172 | .143 | .315 |
 | 2 Teams | Minors | First Half | 0 | 1 | 3.38 | 3 | 3 | 0 | 8.0 | 32 | 6 | 4 | 3 | 1 | 2 | 10 | 1.00 | .200 | .250 | .367 | .617 |
-| Oklahoma City Comets | Triple-A | Second Half | 0 | 0 | 2.25 | 2 | 2 | 0 | 4.0 | 16 | 3 | 1 | 1 | 0 | 1 | 7 | 1.00 | .200 | .250 | .200 | .450 |
+| 2 Teams | Minors | Second Half | 0 | 0 | 1.13 | 3 | 3 | 0 | 8.0 | 29 | 4 | 1 | 1 | 0 | 1 | 16 | 0.63 | .143 | .172 | .143 | .315 |
 
 ### [Baserunner Splits](https://baseballsavant.mlb.com/savant-player/blake-snell-605483?stats=statcast-r-pitching-mlb\#milb-baserunner-splits)
 
 | Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP | AVG | OBP | SLG | OPS |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2 Teams | Minors | Bases Empty |  |  |  | 5 |  |  | 7.0 | 29 | 5 |  |  | 0 | 2 | 11 | 1.00 | .185 | .241 | .222 | .463 |
-| 2 Teams | Minors | Runner at 1st |  |  |  | 4 |  |  | 2.0 | 7 | 1 |  |  | 0 | 0 | 0 | 0.50 | .143 | .143 | .143 | .286 |
+| 2 Teams | Minors | Bases Empty |  |  |  | 6 |  |  | 10.1 | 40 | 6 |  |  | 0 | 2 | 19 | 0.77 | .158 | .200 | .184 | .384 |
+| 2 Teams | Minors | Runner at 1st |  |  |  | 5 |  |  | 2.2 | 9 | 1 |  |  | 0 | 0 | 1 | 0.38 | .111 | .111 | .111 | .222 |
 | 2 Teams | Minors | Runners at 1st & 2nd |  |  |  | 2 |  |  | 1.1 | 3 | 0 |  |  | 0 | 0 | 2 | 0.00 | .000 | .000 | .000 | .000 |
 | 2 Teams | Minors | Runner at 2nd |  |  |  | 4 |  |  | 0.1 | 4 | 2 |  |  | 1 | 1 | 1 | 9.00 | .667 | .750 | 2.000 | 2.750 |
 | Ontario Tower Buzzers | Single-A | Runner at 3rd |  |  |  | 2 |  |  | 1.1 | 5 | 1 |  |  | 0 | 0 | 3 | 0.75 | .200 | .200 | .200 | .400 |
@@ -822,28 +827,28 @@ No Minor League Hitting Statistics.
 
 | Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP | AVG | OBP | SLG | OPS |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Ontario Tower Buzzers | Single-A | Home Games | 0 | 0 | 0.00 | 1 | 1 | 0 | 3.0 | 10 | 1 | 0 | 0 | 0 | 0 | 6 | 0.33 | .100 | .100 | .200 | .300 |
+| Ontario Tower Buzzers | Single-A | Home Games | 0 | 0 | 0.00 | 2 | 2 | 0 | 7.0 | 23 | 2 | 0 | 0 | 0 | 0 | 15 | 0.29 | .087 | .087 | .130 | .217 |
 | 2 Teams | Minors | Away Games | 0 | 1 | 4.00 | 4 | 4 | 0 | 9.0 | 38 | 8 | 5 | 4 | 1 | 3 | 11 | 1.22 | .229 | .289 | .343 | .632 |
 | Oklahoma City Comets | Triple-A | Day Games | 0 | 0 | 4.50 | 1 | 1 | 0 | 4.0 | 14 | 2 | 2 | 2 | 1 | 1 | 4 | 0.75 | .154 | .214 | .385 | .599 |
-| 2 Teams | Minors | Night Games | 0 | 1 | 2.25 | 4 | 4 | 0 | 8.0 | 34 | 7 | 3 | 2 | 0 | 2 | 13 | 1.13 | .219 | .265 | .281 | .546 |
-| 2 Teams | Minors | Leading Off Inning |  |  |  | 5 |  |  | 3.0 | 14 | 4 |  |  | 0 | 0 | 5 | 1.33 | .286 | .286 | .357 | .643 |
+| 2 Teams | Minors | Night Games | 0 | 1 | 1.50 | 5 | 5 | 0 | 12.0 | 47 | 8 | 3 | 2 | 0 | 2 | 22 | 0.83 | .178 | .213 | .222 | .435 |
+| 2 Teams | Minors | Leading Off Inning |  |  |  | 6 |  |  | 4.1 | 18 | 4 |  |  | 0 | 0 | 9 | 0.92 | .222 | .222 | .278 | .500 |
 
 ### [Outs Splits](https://baseballsavant.mlb.com/savant-player/blake-snell-605483?stats=statcast-r-pitching-mlb\#milb-out-splits)
 
 | Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP | AVG | OBP | SLG | OPS |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2 Teams | Minors | No Outs |  |  |  | 5 |  |  | 4.2 | 22 | 6 |  |  | 0 | 1 | 6 | 1.50 | .286 | .318 | .381 | .699 |
-| 2 Teams | Minors | One Out |  |  |  | 4 |  |  | 4.0 | 16 | 3 |  |  | 1 | 2 | 5 | 1.25 | .214 | .313 | .429 | .742 |
-| 2 Teams | Minors | Two Outs |  |  |  | 5 |  |  | 3.1 | 10 | 0 |  |  | 0 | 0 | 6 | 0.00 | .000 | .000 | .000 | .000 |
+| 2 Teams | Minors | No Outs |  |  |  | 6 |  |  | 6.0 | 26 | 6 |  |  | 0 | 1 | 10 | 1.17 | .240 | .269 | .320 | .589 |
+| 2 Teams | Minors | One Out |  |  |  | 5 |  |  | 5.1 | 21 | 4 |  |  | 1 | 2 | 7 | 1.13 | .211 | .286 | .368 | .654 |
+| 2 Teams | Minors | Two Outs |  |  |  | 6 |  |  | 4.2 | 14 | 0 |  |  | 0 | 0 | 9 | 0.00 | .000 | .000 | .000 | .000 |
 
 ### [Inning Splits](https://baseballsavant.mlb.com/savant-player/blake-snell-605483?stats=statcast-r-pitching-mlb\#milb-inning-splits)
 
 | Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP | AVG | OBP | SLG | OPS |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2 Teams | Minors | First Inning |  |  | 3.60 | 5 |  |  | 5.0 | 20 | 4 | 2 | 2 | 1 | 2 | 10 | 1.20 | .222 | .300 | .389 | .689 |
-| 2 Teams | Minors | Second Inning |  |  | 2.70 | 5 |  |  | 3.1 | 16 | 4 | 2 | 1 | 0 | 0 | 7 | 1.20 | .250 | .250 | .375 | .625 |
-| 2 Teams | Minors | Third Inning |  |  | 3.38 | 3 |  |  | 2.2 | 9 | 1 | 1 | 1 | 0 | 0 | 0 | 0.38 | .111 | .111 | .111 | .222 |
-| Oklahoma City Comets | Triple-A | Fourth Inning |  |  | 0.00 | 1 |  |  | 1.0 | 3 | 0 | 0 | 0 | 0 | 1 | 0 | 1.00 | .000 | .333 | .000 | .333 |
+| 2 Teams | Minors | First Inning |  |  | 3.00 | 6 |  |  | 6.0 | 24 | 5 | 2 | 2 | 1 | 2 | 12 | 1.17 | .227 | .292 | .364 | .656 |
+| 2 Teams | Minors | Second Inning |  |  | 2.08 | 6 |  |  | 4.1 | 19 | 4 | 2 | 1 | 0 | 0 | 10 | 0.92 | .211 | .211 | .316 | .527 |
+| 2 Teams | Minors | Third Inning |  |  | 2.45 | 4 |  |  | 3.2 | 12 | 1 | 1 | 1 | 0 | 0 | 2 | 0.27 | .083 | .083 | .083 | .166 |
+| 2 Teams | Minors | Fourth Inning |  |  | 0.00 | 2 |  |  | 2.0 | 6 | 0 | 0 | 0 | 0 | 1 | 2 | 0.50 | .000 | .167 | .000 | .167 |
 
 | Date | Home Tm | Away Tm | W | L | ERA | G | GS | SV | IP | H | R | ER | HR | BB | SO | WHIP |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -859,7 +864,9 @@ No Minor League Hitting Statistics.
 | May | Oklahoma City Comets |  | 0 | 0 | 4.50 | 1 | 1 | 0 | 4.0 | 2 | 2 | 2 | 1 | 1 | 4 | 0.75 |  |
 | [2026-07-18](https://baseballsavant.mlb.com/gamefeed?gamePk=814750&game_date=2026-07-18) | Tacoma Rainiers | Oklahoma City Comets | 0 | 0 | 3.38 | 1 | 1 | 0 | 1.1 | 1 | 0 | 0 | 0 | 1 | 4 | 0.94 | [![](https://baseballsavant.mlb.com/sections/gamefeed/images/pitch-report-icon.png)](https://baseballsavant.mlb.com/player-scroll/game?gamePk=814750&player_id=605483) |
 | [2026-07-24](https://baseballsavant.mlb.com/gamefeed?gamePk=814982&game_date=2026-07-24) | Sacramento River Cats | Oklahoma City Comets | 0 | 0 | 3.38 | 1 | 1 | 0 | 2.2 | 2 | 1 | 1 | 0 | 0 | 3 | 0.88 | [![](https://baseballsavant.mlb.com/sections/gamefeed/images/pitch-report-icon.png)](https://baseballsavant.mlb.com/player-scroll/game?gamePk=814982&player_id=605483) |
+| [2026-07-29](https://baseballsavant.mlb.com/gamefeed?gamePk=821170&game_date=2026-07-29) | Ontario Tower Buzzers | Fresno Grizzlies | 0 | 0 | 1.13 | 1 | 1 | 0 | 4.0 | 1 | 0 | 0 | 0 | 0 | 9 | 0.75 | [![](https://baseballsavant.mlb.com/sections/gamefeed/images/pitch-report-icon.png)](https://baseballsavant.mlb.com/player-scroll/game?gamePk=821170&player_id=605483) |
 | July | Oklahoma City Comets |  | 0 | 0 | 2.25 | 2 | 2 | 0 | 4.0 | 3 | 1 | 1 | 0 | 1 | 7 | 1.00 |  |
+| July | Ontario Tower Buzzers |  | 0 | 0 | 0.00 | 1 | 1 | 0 | 4.0 | 1 | 0 | 0 | 0 | 0 | 9 | 0.25 |  |
 
 - PitchingFielding▾
 
@@ -881,8 +888,8 @@ No Minor League Hitting Statistics.
 | 2022 | 29 | 2341 | 311 | 23 | 7.4 | 4.3 | 90.1 | 113.5 | 17.1 | 39.2 | .209 | .353 | .282 | .284 | .372 | 39.5 | 32.0 | 9.5 | 3.38 | 3.25 |
 | 2023 | 30 | 3168 | 405 | 30 | 7.5 | 4.0 | 87.2 | 112.2 | 10.6 | 37.0 | .205 | .352 | .266 | .301 | .376 | 33.8 | 31.5 | 13.3 | 2.25 | 3.79 |
 | 2024 | 31 | 1773 | 228 | 13 | 5.7 | 3.1 | 86.5 | 111.6 | 14.6 | 32.9 | .177 | .283 | .241 | .252 | .327 | 28.9 | 34.7 | 10.5 | 3.12 | 2.54 |
-| 2025 | 32 | 1028 | 156 | 9 | 5.8 | 3.5 | 86.2 | 113.5 | 5.6 | 35.3 | .224 | .322 | .278 | .283 | .349 | 34.0 | 28.3 | 10.2 | 2.35 | 3.28 |
-| 2026 | 33 | 77 | 11 | 0 | 0.0 | 0.0 | 80.5 | 103.4 | -8.0 | 45.5 | .268 | .314 | .374 | .306 | .374 | 18.2 | 27.8 | 11.1 | 12.00 | 3.90 |
+| 2025 | 32 | 1028 | 156 | 9 | 5.8 | 3.5 | 86.2 | 113.5 | 5.6 | 35.3 | .224 | .321 | .278 | .283 | .349 | 34.0 | 28.3 | 10.2 | 2.35 | 3.28 |
+| 2026 | 33 | 77 | 11 | 0 | 0.0 | 0.0 | 80.5 | 103.4 | -8.0 | 45.5 | .268 | .314 | .374 | .306 | .374 | 18.2 | 27.8 | 11.1 | 12.00 | 3.93 |
 | **Player** |  | 20409 | 2828 | 187 | 6.9 | 3.9 | 87.7 | 117.9 | 12.3 | 35.3 | .214 | .355 | .283 | .292 | .368 | 33.8 | 30.0 | 10.9 |  |  |
 | **MLB** |  |  |  |  | 7.6 | 4.9 | 88.6 | 122.9 | 12.5 | 33.3 | .243 | .407 | .316 | .316 | .369 | 37.1 | 22.2 | 8.4 |  |  |
 
@@ -971,10 +978,10 @@ Breaking: Slider, Curve, Knuckle, Sweeper, Slurve, Other
 | 2026 | Four Seamer | 32 | 19 | 13 | 41.6 | 95.9 | 6 | 4 | 3 | 3 | 0 | 0 | 0 | 0 | 4 | .750 | .420 | .750 | .456 | .677 | .493 | 75.7 | -7 | 2510 | 6.8 | 20.0 | 0.0 |
 | 2026 | Curveball | 16 | 15 | 1 | 20.8 | 80.6 | 6 | 6 | 1 | 1 | 0 | 0 | 0 | 3 | 3 | .167 | .085 | .167 | .091 | .148 | .080 | 67.2 | -30 | 2505 | 6.7 | 50.0 | 27.3 |
 | 2026 | Slider | 15 | 0 | 15 | 19.5 | 88.9 | 4 | 4 | 1 | 1 | 0 | 0 | 0 | 2 | 2 | .250 | .284 | .250 | .356 | .222 | .277 | 101.4 | -2 | 2414 | 6.6 | 50.0 | 33.3 |
-| 2026 | Changeup | 14 | 14 | 0 | 18.2 | 85.7 | 2 | 2 | 1 | 1 | 0 | 0 | 0 | 0 | 2 | .500 | .483 | .500 | .614 | .444 | .481 | 89.0 | 17 | 1846 | 6.8 | 55.6 | 0.0 |
+| 2026 | Changeup | 14 | 14 | 0 | 18.2 | 85.7 | 2 | 2 | 1 | 1 | 0 | 0 | 0 | 0 | 2 | .500 | .483 | .500 | .614 | .445 | .481 | 89.0 | 17 | 1846 | 6.8 | 55.6 | 0.0 |
 | 2025 | Four Seamer | 448 | 341 | 107 | 43.6 | 95.1 | 106 | 94 | 29 | 24 | 2 | 0 | 3 | 22 | 74 | .309 | .288 | .426 | .408 | .350 | .337 | 86.8 | 12 | 2453 | 6.8 | 22.1 | 20.4 |
 | 2025 | Changeup | 243 | 238 | 5 | 23.6 | 85.5 | 69 | 59 | 9 | 6 | 3 | 0 | 0 | 15 | 46 | .153 | .160 | .203 | .259 | .214 | .244 | 78.3 | -6 | 1793 | 6.8 | 43.5 | 29.4 |
-| 2025 | Curveball | 223 | 175 | 48 | 21.7 | 80.6 | 59 | 52 | 9 | 5 | 4 | 0 | 0 | 28 | 26 | .173 | .186 | .250 | .253 | .222 | .238 | 85.2 | 2 | 2517 | 6.7 | 45.7 | 25.9 |
+| 2025 | Curveball | 223 | 175 | 48 | 21.7 | 80.6 | 59 | 52 | 9 | 5 | 4 | 0 | 0 | 28 | 26 | .173 | .185 | .250 | .253 | .222 | .237 | 85.2 | 2 | 2517 | 6.7 | 45.7 | 25.9 |
 | 2025 | Slider | 114 | 31 | 83 | 11.1 | 88.2 | 19 | 17 | 4 | 3 | 1 | 0 | 0 | 7 | 10 | .235 | .207 | .294 | .270 | .278 | .259 | 83.5 | 5 | 2314 | 6.7 | 54.0 | 21.2 |
 | 2024 | Four Seamer | 821 | 688 | 133 | 46.3 | 95.9 | 165 | 144 | 29 | 21 | 4 | 1 | 3 | 41 | 103 | .201 | .193 | .306 | .347 | .277 | .290 | 88.3 | 21 | 2435 | 6.8 | 24.4 | 20.9 |
 | 2024 | Curveball | 462 | 405 | 57 | 26.1 | 81.1 | 138 | 126 | 14 | 7 | 6 | 0 | 1 | 70 | 56 | .111 | .126 | .183 | .177 | .174 | .180 | 86.2 | 17 | 2517 | 6.8 | 49.8 | 29.9 |
@@ -1094,9 +1101,9 @@ On the right, Induced Movement (or IVB) is reported without gravity, and attempt
 | Year | Pitch | Team | Hand | # | MPH | Vertical<br>Drop | vs.<br>Comparable | Horizontal<br>Break | vs.<br>Comparable | Vertical<br>Break | vs. Avg | Horizontal<br>Break | vs. Avg |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2026 | Changeup | ![](https://www.mlbstatic.com/team-logos/119.svg)LAD | L | 14 | 85.7 | 29.5 | -1.6 | 13.1ARM | -1.0 | 7.7 | -3.0 | 13.1ARM | -0.8 |
-| 2026 | Slider | ![](https://www.mlbstatic.com/team-logos/119.svg)LAD | L | 15 | 88.9 | 28.0 | -4.5 | 4.4GLV | 0.6 | 6.3 | -4.8 | 4.4GLV | -0.1 |
+| 2026 | Slider | ![](https://www.mlbstatic.com/team-logos/119.svg)LAD | L | 15 | 88.9 | 28.0 | -4.5 | 4.4GLV | 0.6 | 6.3 | -4.8 | 4.4GLV | 0.0 |
 | 2026 | Curveball | ![](https://www.mlbstatic.com/team-logos/119.svg)LAD | L | 16 | 80.6 | 51.1 | -2.3 | 14.7GLV | 7.6 | -8.9 | -1.2 | 14.7GLV | 6.5 |
-| 2026 | 4-Seam Fastball | ![](https://www.mlbstatic.com/team-logos/119.svg)LAD | L | 32 | 95.9 | 12.0 | 0.6 | 4.5ARM | -1.4 | 17.7 | 2.1 | 4.5ARM | -3.5 |
+| 2026 | 4-Seam Fastball | ![](https://www.mlbstatic.com/team-logos/119.svg)LAD | L | 32 | 95.9 | 12.0 | 0.6 | 4.5ARM | -1.3 | 17.7 | 2.1 | 4.5ARM | -3.5 |
 | 2025 | Slider | ![](https://www.mlbstatic.com/team-logos/119.svg)LAD | L | 114 | 88.2 | 26.5 | -5.9 | 2.8GLV | -0.8 | 8.5 | -6.4 | 2.8GLV | -1.2 |
 | 2025 | Changeup | ![](https://www.mlbstatic.com/team-logos/119.svg)LAD | L | 243 | 85.5 | 27.5 | -3.6 | 13.0ARM | -1.0 | 9.9 | -4.7 | 13.0ARM | -1.2 |
 | 2025 | Curveball | ![](https://www.mlbstatic.com/team-logos/119.svg)LAD | L | 223 | 80.6 | 49.0 | -4.8 | 12.4GLV | 5.7 | -6.7 | -3.0 | 12.4GLV | 4.6 |
@@ -1151,12 +1158,12 @@ On the right, Induced Movement (or IVB) is reported without gravity, and attempt
 | Team | RV/100 | Run Value | Pitches | % | PA | BA | SLG | wOBA | Whiff% | K% | PutAway % | xBA | xSLG | xwOBA | Hard Hit % |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2026 | 4-Seam Fastball | ![](https://www.mlbstatic.com/team-logos/119.svg) | -2.8 | -1 | 32 | 41.6 | 6 | .750 | .750 | .683 | 20.0 | 0.0 | 0.0 | .420 | .456 | .494 | 0.0 |
-| 2026 | Curveball | ![](https://www.mlbstatic.com/team-logos/119.svg) | -1.5 | 0 | 16 | 20.8 | 6 | .167 | .167 | .300 | 50.0 | 50.0 | 27.3 | .085 | .091 | .080 | 0.0 |
+| 2026 | Curveball | ![](https://www.mlbstatic.com/team-logos/119.svg) | -1.4 | 0 | 16 | 20.8 | 6 | .167 | .167 | .300 | 50.0 | 50.0 | 27.3 | .085 | .091 | .080 | 0.0 |
 | 2026 | Slider | ![](https://www.mlbstatic.com/team-logos/119.svg) | -2.2 | 0 | 15 | 19.5 | 4 | .250 | .250 | .225 | 50.0 | 50.0 | 33.3 | .284 | .356 | .276 | 100.0 |
 | 2026 | Changeup | ![](https://www.mlbstatic.com/team-logos/119.svg) | -1.2 | 0 | 14 | 18.2 | 2 | .500 | .500 | .450 | 55.6 | 0.0 | 0.0 | .483 | .614 | .480 | 0.0 |
 | 2025 | 4-Seam Fastball | ![](https://www.mlbstatic.com/team-logos/119.svg) | 0.1 | 0 | 448 | 43.6 | 106 | .309 | .426 | .362 | 22.1 | 20.8 | 20.4 | .288 | .408 | .338 | 33.8 |
 | 2025 | Changeup | ![](https://www.mlbstatic.com/team-logos/119.svg) | 3.2 | 8 | 243 | 23.6 | 69 | .153 | .203 | .234 | 43.5 | 21.7 | 29.4 | .160 | .259 | .245 | 30.4 |
-| 2025 | Curveball | ![](https://www.mlbstatic.com/team-logos/119.svg) | 0.6 | 1 | 223 | 21.7 | 59 | .173 | .250 | .240 | 45.7 | 47.5 | 25.9 | .186 | .253 | .238 | 46.2 |
+| 2025 | Curveball | ![](https://www.mlbstatic.com/team-logos/119.svg) | 0.6 | 1 | 223 | 21.7 | 59 | .173 | .250 | .240 | 45.7 | 47.5 | 25.9 | .185 | .253 | .238 | 46.2 |
 | 2025 | Slider | ![](https://www.mlbstatic.com/team-logos/119.svg) | 0.3 | 0 | 114 | 11.1 | 19 | .235 | .294 | .282 | 54.0 | 36.8 | 21.2 | .207 | .270 | .260 | 20.0 |
 | 2024 | 4-Seam Fastball | ![](https://www.mlbstatic.com/team-logos/137.svg) | 1.0 | 9 | 821 | 46.3 | 165 | .201 | .306 | .284 | 24.4 | 24.8 | 20.9 | .193 | .347 | .295 | 33.0 |
 | 2024 | Curveball | ![](https://www.mlbstatic.com/team-logos/137.svg) | 2.3 | 11 | 462 | 26.1 | 138 | .111 | .183 | .182 | 49.8 | 50.7 | 29.9 | .126 | .177 | .181 | 25.0 |
@@ -1456,7 +1463,7 @@ View Complete Expected Home Runs Leaderboard](https://baseballsavant.mlb.com/lea
 | [OBP](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | .444 | +.137 | ↑ | .307 | +.044 | ↑ | .263 | -.030 | ↓ | .293 | +.001 | ↑ | .292 | -.025 | ↓ | .317 | +.020 | ↑ | .297 | -.014 | ↓ | .311 | +.057 | ↑ | .254 | -.063 | ↓ | .317 | -.044 | ↓ | .361 |
 | [xOBP](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | .350 | +.045 | ↑ | .305 | +.039 | ↑ | .266 | -.049 | ↓ | .315 | +.028 | ↑ | .287 | -.042 | ↓ | .329 | +.028 | ↑ | .301 | +.024 | ↑ | .277 | +.001 | ↑ | .276 | -.040 | ↓ | .316 | -.026 | ↓ | .342 |
 | [SLG](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | .375 | +.060 | ↑ | .315 | +.052 | ↑ | .263 | -.023 | ↓ | .286 | -.056 | ↓ | .342 | -.033 | ↓ | .375 | -.054 | ↓ | .429 | +.038 | ↑ | .391 | +.091 | ↑ | .300 | -.090 | ↓ | .390 | +.023 | ↑ | .367 |
-| [xSLG](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | .314 | -.008 | ↓ | .322 | +.039 | ↑ | .283 | -.069 | ↓ | .352 | -.001 | ↓ | .353 | -.078 | ↓ | .431 | +.025 | ↑ | .406 | +.081 | ↑ | .325 | -.016 | ↓ | .341 | -.043 | ↓ | .384 | +.026 | ↑ | .358 |
+| [xSLG](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | .314 | -.007 | ↓ | .321 | +.038 | ↑ | .283 | -.069 | ↓ | .352 | -.001 | ↓ | .353 | -.078 | ↓ | .431 | +.025 | ↑ | .406 | +.081 | ↑ | .325 | -.016 | ↓ | .341 | -.043 | ↓ | .384 | +.026 | ↑ | .358 |
 | [ISO](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | .000 | -.086 | ↓ | .086 | -.002 | ↓ | .088 | -.017 | ↓ | .105 | -.021 | ↓ | .126 | -.035 | ↓ | .161 | -.040 | ↓ | .201 | +.051 | ↑ | .150 | +.028 | ↑ | .122 | -.034 | ↓ | .156 | +.058 | ↑ | .098 |
 | [xISO](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | .046 | -.052 | ↓ | .098 | -.008 | ↓ | .106 | -.041 | ↓ | .147 | +.002 | ↑ | .145 | -.060 | ↓ | .205 | +.031 | ↑ | .174 | +.053 | ↑ | .121 | -.018 | ↓ | .139 | -.013 | ↓ | .152 | +.041 | ↑ | .111 |
 | [BABIP](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | .545 | +.225 | ↑ | .320 | +.054 | ↑ | .266 | +.010 | ↑ | .256 | -.052 | ↓ | .308 | +.012 | ↑ | .296 | +.008 | ↑ | .288 | -.055 | ↓ | .343 | +.101 | ↑ | .242 | -.039 | ↓ | .281 | -.078 | ↓ | .359 |
