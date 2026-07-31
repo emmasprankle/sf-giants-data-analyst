@@ -5,83 +5,53 @@ slug: baseballsavant-kyle-harrison
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/143.svg) | PHI | 6 | Final |
-| ![](https://www.mlbstatic.com/team-logos/146.svg) | MIA | 8 |
-
-|     |     |     |     |
-| --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/109.svg) | AZ | 3 | Final |
-| ![](https://www.mlbstatic.com/team-logos/134.svg) | PIT | 0 |
-
-|     |     |     |     |
-| --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/141.svg) | TOR | 5 | Final |
-| ![](https://www.mlbstatic.com/team-logos/120.svg) | WSH | 2 |
-
-|     |     |     |     |
-| --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/110.svg) | BAL | 10 | Final |
-| ![](https://www.mlbstatic.com/team-logos/116.svg) | DET | 9 |
-
-|     |     |     |     |
-| --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/144.svg) | ATL | 2 | Final |
-| ![](https://www.mlbstatic.com/team-logos/121.svg) | NYM | 3 |
-
-|     |     |     |     |
-| --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/144.svg) | ATL | 1 | Final |
-| ![](https://www.mlbstatic.com/team-logos/121.svg) | NYM | 0 |
-
-|     |     |     |     |
-| --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/158.svg) | MIL | 3 | Final |
-| ![](https://www.mlbstatic.com/team-logos/137.svg) | SF | 16 |
-
-|     |     |     |     |
-| --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/115.svg) | COL | 1 | Final |
-| ![](https://www.mlbstatic.com/team-logos/135.svg) | SD | 3 |
-
-|     |     |     |     |
-| --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/140.svg) | TEX | 0 | Final |
+| ![](https://www.mlbstatic.com/team-logos/140.svg) | TEX | 2 | Final |
 | ![](https://www.mlbstatic.com/team-logos/139.svg) | TB | 3 |
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/114.svg) | CLE | 6 | Final |
-| ![](https://www.mlbstatic.com/team-logos/113.svg) | CIN | 1 |
+| ![](https://www.mlbstatic.com/team-logos/118.svg) | KC | 3 | Final |
+| ![](https://www.mlbstatic.com/team-logos/142.svg) | MIN | 4 |
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/118.svg) | KC | 4 | Final |
-| ![](https://www.mlbstatic.com/team-logos/142.svg) | MIN | 0 |
+| ![](https://www.mlbstatic.com/team-logos/147.svg) | NYY | 1 | Final |
+| ![](https://www.mlbstatic.com/team-logos/145.svg) | CWS | 2 |
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/147.svg) | NYY | 5 | Final |
-| ![](https://www.mlbstatic.com/team-logos/145.svg) | CWS | 6 |
+| ![](https://www.mlbstatic.com/team-logos/112.svg) | CHC | 4 | Final |
+| ![](https://www.mlbstatic.com/team-logos/138.svg) | STL | 2 |
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/112.svg) | CHC | 2 | Final |
-| ![](https://www.mlbstatic.com/team-logos/138.svg) | STL | 3 |
+| ![](https://www.mlbstatic.com/team-logos/134.svg) | PIT | 2 | Final |
+| ![](https://www.mlbstatic.com/team-logos/113.svg) | CIN | 3 |
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/117.svg) | HOU | 7 | Final |
-| ![](https://www.mlbstatic.com/team-logos/108.svg) | LAA | 4 |
+| ![](https://www.mlbstatic.com/team-logos/146.svg) | MIA | 2 | Final |
+| ![](https://www.mlbstatic.com/team-logos/121.svg) | NYM | 4 |
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/111.svg) | BOS | 4 | Final |
-| ![](https://www.mlbstatic.com/team-logos/133.svg) | ATH | 2 |
+| ![](https://www.mlbstatic.com/team-logos/120.svg) | WSH | 4 | Final |
+| ![](https://www.mlbstatic.com/team-logos/144.svg) | ATL | 5 |
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| ![](https://www.mlbstatic.com/team-logos/111.svg) | BOS | 5 | Final |
+| ![](https://www.mlbstatic.com/team-logos/133.svg) | ATH | 4 |
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| ![](https://www.mlbstatic.com/team-logos/137.svg) | SF | 4 | Final |
+| ![](https://www.mlbstatic.com/team-logos/135.svg) | SD | 1 |
 
 |     |     |     |     |
 | --- | --- | --- | --- |
 | ![](https://www.mlbstatic.com/team-logos/136.svg) | SEA | 2 | Final |
-| ![](https://www.mlbstatic.com/team-logos/119.svg) | LAD | 4 |
+| ![](https://www.mlbstatic.com/team-logos/119.svg) | LAD | 6 |
 
 <
 
@@ -91,10 +61,7 @@ slug: baseballsavant-kyle-harrison
 
 [Kyle Harrison](https://www.mlb.com/player/690986)
 
-P \| Milwaukee Brewers
-![](https://www.mlbstatic.com/team-logos/158.svg)
-
-Bats/Throws:
+P \| Bats/Throws:
 R/L \|
 6' 2" 216 lbs \| Age:
 24
@@ -152,7 +119,7 @@ vs. LHH58%38%1%4%Pitchvs. RHH58%28%13%1%58%FF31%SV10%CH2%SI
 MLB Percentile Rankings
 [![](https://baseballsavant.mlb.com/site-core/images/comp_tool_icons27.png)](https://baseballsavant.mlb.com/comparison-tool?player=690986-2026-pitcher&openSearch=true "Compare to Other Players")
 
-![](https://baseballsavant.mlb.com/sections/evp/images/play.png)ValuesavantPOORAVERAGEGREATPitching Run Value12NOT QUALIFIED87Fastball Run Value8NOT QUALIFIED87Breaking Run Value7NOT QUALIFIED94Offspeed Run Value-3NOT QUALIFIED13PitchingxERA3.18NOT QUALIFIED83xBA.223NOT QUALIFIED71Fastball Velo95.0NOT QUALIFIED58Avg Exit Velo89.2NOT QUALIFIED40Chase %33.1NOT QUALIFIED75Whiff %29.0NOT QUALIFIED78K %29.6NOT QUALIFIED91BB %5.9NOT QUALIFIED86Barrel %6.5NOT QUALIFIED68Hard-Hit %36.6NOT QUALIFIED63GB %38.4NOT QUALIFIED29Extension6.6NOT QUALIFIED66
+![](https://baseballsavant.mlb.com/sections/evp/images/play.png)ValuesavantPOORAVERAGEGREATPitching Run Value12NOT QUALIFIED86Fastball Run Value8NOT QUALIFIED85Breaking Run Value7NOT QUALIFIED94Offspeed Run Value-3NOT QUALIFIED14PitchingxERA3.17NOT QUALIFIED83xBA.223NOT QUALIFIED70Fastball Velo95.0NOT QUALIFIED59Avg Exit Velo89.2NOT QUALIFIED40Chase %33.1NOT QUALIFIED75Whiff %29.0NOT QUALIFIED78K %29.6NOT QUALIFIED91BB %5.9NOT QUALIFIED86Barrel %6.5NOT QUALIFIED67Hard-Hit %36.6NOT QUALIFIED63GB %38.4NOT QUALIFIED28Extension6.6NOT QUALIFIED66
 
 20262026
 
@@ -197,7 +164,7 @@ MLB AVG.14.8 INCHES RISEARM ANGLE32°12"24"6"12"18"24"12"24"12"24"16.1 INCHES TA
 - Regular seasonSpring TrainingPostseason Cumulative▾
 
 
-- 2025202320222021▾
+- 20262025202320222021▾
 
 
 - MLB
@@ -214,7 +181,7 @@ MLB AVG.14.8 INCHES RISEARM ANGLE32°12"24"6"12"18"24"12"24"12"24"16.1 INCHES TA
 - Regular seasonSpring TrainingPostseason Cumulative▾
 
 
-- 2025202320222021▾
+- 20262025202320222021▾
 
 
 - 2026202520242023▾
@@ -301,12 +268,13 @@ No Minor League Hitting Statistics.
 | 2025 | Sacramento River Cats | PCL | AAA | 1 | 0 | 3.46 | 6 | 6 | 0 | 26.0 | 26 | 13 | 10 | 2 | 8 | 38 | 1.31 |
 | 2025 | Worcester Red Sox | INT | AAA | 4 | 2 | 3.75 | 12 | 12 | 0 | 50.1 | 53 | 22 | 21 | 5 | 27 | 50 | 1.59 |
 | 2025 | 2 Teams |  | AAA | 5 | 2 | 3.66 | 18 | 18 | 0 | 76.1 | 79 | 35 | 31 | 7 | 35 | 88 | 1.49 |
+| 2026 | Wisconsin Timber Rattlers | MID | A+ | 1 | 0 | 0.00 | 1 | 1 | 0 | 5.2 | 1 | 0 | 0 | 0 | 3 | 5 | 0.71 |
 |  | ACL Giants | ACL | ROK | 0 | 0 | 0.00 | 1 | 1 | 0 | 2.0 | 0 | 0 | 0 | 0 | 0 | 4 | 0.00 |
 |  | 2 Teams |  | AAA | 6 | 5 | 4.12 | 38 | 38 | 0 | 142.0 | 131 | 71 | 65 | 17 | 83 | 193 | 1.51 |
 |  | Richmond Flying Squirrels | EAS | AA | 4 | 2 | 3.11 | 18 | 18 | 0 | 84.0 | 60 | 30 | 29 | 11 | 39 | 127 | 1.18 |
-|  | Eugene Emeralds | NWL | A+ | 0 | 1 | 1.55 | 7 | 7 | 0 | 29.0 | 19 | 8 | 5 | 2 | 10 | 59 | 1.00 |
+|  | 2 Teams |  | A+ | 1 | 1 | 1.30 | 8 | 8 | 0 | 34.2 | 20 | 8 | 5 | 2 | 13 | 64 | 0.95 |
 |  | San Jose Giants | CAL | A | 4 | 3 | 3.19 | 23 | 23 | 0 | 98.2 | 86 | 43 | 35 | 3 | 52 | 157 | 1.40 |
-| Career Minors | 6 Teams |  |  | 14 | 11 | 3.39 | 87 | 87 | 0 | 355.2 | 296 | 152 | 134 | 33 | 184 | 540 | 1.35 |
+| Career Minors | 7 Teams |  |  | 15 | 11 | 3.34 | 88 | 88 | 0 | 361.1 | 297 | 152 | 134 | 33 | 187 | 545 | 1.34 |
 
 ## [Standard Minor League Fielding Statistics](https://baseballsavant.mlb.com/savant-player/kyle-harrison-690986?stats=statcast-r-pitching-mlb\#standard-milb-fielding-stats)
 
@@ -323,12 +291,13 @@ No Minor League Hitting Statistics.
 | 2025 | Sacramento River Cats | PCL | AAA | P | 6 | 6 | 26.0 | 1 | 0 | 1 | 0 | 0 |  | 1.000 |
 | 2025 | Worcester Red Sox | INT | AAA | P | 12 | 12 | 50.1 | 7 | 2 | 5 | 0 | 0 |  | 1.000 |
 | 2025 | 2 Teams |  | AAA | P | 18 | 18 | 76.1 | 8 | 2 | 6 | 0 | 0 |  | 1.000 |
+| 2026 | Wisconsin Timber Rattlers | MID | A+ | P | 1 | 1 | 5.2 | 2 | 0 | 2 | 0 | 0 |  | 1.000 |
 |  | ACL Giants | ACL | ROK | P | 1 | 1 | 2.0 | 0 | 0 | 0 | 0 | 0 |  | .000 |
 |  | 2 Teams |  | AAA | P | 38 | 38 | 142.0 | 16 | 6 | 10 | 0 | 0 |  | 1.000 |
 |  | Richmond Flying Squirrels | EAS | AA | P | 18 | 18 | 84.0 | 9 | 3 | 4 | 2 | 1 |  | .778 |
-|  | Eugene Emeralds | NWL | A+ | P | 7 | 7 | 29.0 | 4 | 0 | 3 | 1 | 0 |  | .750 |
+|  | 2 Teams |  | A+ | P | 8 | 8 | 34.2 | 6 | 0 | 5 | 1 | 0 |  | .833 |
 |  | San Jose Giants | CAL | A | P | 23 | 23 | 98.2 | 15 | 2 | 13 | 0 | 1 |  | 1.000 |
-| Career Minors | 6 Teams |  |  | P | 87 | 87 | 355.2 | 44 | 11 | 30 | 3 | 2 |  | .932 |
+| Career Minors | 7 Teams |  |  | P | 88 | 88 | 361.1 | 46 | 11 | 32 | 3 | 2 |  | .935 |
 
 ## [Rankings](https://baseballsavant.mlb.com/savant-player/kyle-harrison-690986?stats=statcast-r-pitching-mlb\#rankings)
 
@@ -342,7 +311,7 @@ No Minor League Hitting Statistics.
 
 | Year | SO | Rank |
 | --- | --- | --- |
-| 2026 | 101 | 23rd in NL |
+| 2026 | 101 | 24th in NL |
 
 #### Wins
 
@@ -410,6 +379,7 @@ No Minor League Hitting Statistics.
 
 | Team | Date | Transaction |
 | --- | --- | --- |
+| ![](https://www.mlbstatic.com/team-logos/572.svg) | 07/30/2026 | Milwaukee Brewers sent LHP Kyle Harrison on a rehab assignment to Wisconsin Timber Rattlers. |
 | ![](https://www.mlbstatic.com/team-logos/158.svg) | 07/11/2026 | Milwaukee Brewers placed LHP Kyle Harrison on the 15-day injured list retroactive to July 9, 2026. Left forearm tightness. |
 | ![](https://www.mlbstatic.com/team-logos/158.svg) | 04/16/2026 | LHP Kyle Harrison changed number to 52. |
 | ![](https://www.mlbstatic.com/team-logos/158.svg) | 04/15/2026 | LHP Kyle Harrison changed number to 42. |
@@ -433,17 +403,17 @@ No Minor League Hitting Statistics.
 | ![](https://www.mlbstatic.com/team-logos/319.svg) | 07/07/2023 | National League Futures activated LHP Kyle Harrison. |
 | ![](https://www.mlbstatic.com/team-logos/105.svg) | 07/06/2023 | Sacramento River Cats placed LHP Kyle Harrison on the 7-day injured list. |
 | ![](https://www.mlbstatic.com/team-logos/105.svg) | 03/30/2023 | LHP Kyle Harrison assigned to Sacramento River Cats from Richmond Flying Squirrels. |
-| ![](https://www.mlbstatic.com/team-logos/137.svg) | 02/06/2023 | LHP Kyle Harrison roster status changed by San Francisco Giants. |
 | ![](https://www.mlbstatic.com/team-logos/137.svg) | 02/06/2023 | San Francisco Giants invited non-roster LHP Kyle Harrison to spring training. |
+| ![](https://www.mlbstatic.com/team-logos/137.svg) | 02/06/2023 | LHP Kyle Harrison roster status changed by San Francisco Giants. |
 | ![](https://www.mlbstatic.com/team-logos/3410.svg) | 07/21/2022 | Richmond Flying Squirrels activated LHP Kyle Harrison from the temporarily inactive list. |
 | ![](https://www.mlbstatic.com/team-logos/3410.svg) | 07/16/2022 | Richmond Flying Squirrels placed LHP Kyle Harrison on the temporarily inactive list. |
-| ![](https://www.mlbstatic.com/team-logos/319.svg) | 07/07/2022 | National League Futures activated LHP Kyle Harrison. |
 | ![](https://www.mlbstatic.com/team-logos/319.svg) | 07/07/2022 | LHP Kyle Harrison assigned to National League Futures. |
+| ![](https://www.mlbstatic.com/team-logos/319.svg) | 07/07/2022 | National League Futures activated LHP Kyle Harrison. |
 | ![](https://www.mlbstatic.com/team-logos/3410.svg) | 05/24/2022 | LHP Kyle Harrison assigned to Richmond Flying Squirrels from Eugene Emeralds. |
 | ![](https://www.mlbstatic.com/team-logos/461.svg) | 04/07/2022 | LHP Kyle Harrison assigned to Eugene Emeralds. |
 | ![](https://www.mlbstatic.com/team-logos/476.svg) | 05/01/2021 | LHP Kyle Harrison assigned to San Jose Giants from AZL Giants Orange. |
-| ![](https://www.mlbstatic.com/team-logos/5370.svg) | 07/16/2020 | LHP Kyle Harrison assigned to AZL Giants Orange. |
 | ![](https://www.mlbstatic.com/team-logos/137.svg) | 07/16/2020 | San Francisco Giants signed LHP Kyle Harrison. |
+| ![](https://www.mlbstatic.com/team-logos/5370.svg) | 07/16/2020 | LHP Kyle Harrison assigned to AZL Giants Orange. |
 | ![](https://www.mlbstatic.com/team-logos/5056.svg) | 08/08/2019 | LHP Kyle Harrison assigned to PG West. |
 
 ### [Platoon Splits](https://baseballsavant.mlb.com/savant-player/kyle-harrison-690986?stats=statcast-r-pitching-mlb\#platoon-splits)
@@ -512,64 +482,52 @@ No Minor League Hitting Statistics.
 
 | Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP | AVG | OBP | SLG | OPS |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2 Teams | Minors | vs Left |  |  |  | 18 |  |  | 24.2 | 109 | 33 |  |  | 1 | 3 | 27 | 1.46 | .317 | .349 | .385 | .734 |
-| 2 Teams | Minors | vs Right |  |  |  | 18 |  |  | 51.2 | 234 | 46 |  |  | 6 | 32 | 61 | 1.51 | .232 | .338 | .374 | .712 |
+| Wisconsin Timber Rattlers | High-A | vs Left |  |  |  | 1 |  |  | 0.2 | 4 | 0 |  |  | 0 | 2 | 2 | 3.00 | .000 | .500 | .000 | .500 |
+| Wisconsin Timber Rattlers | High-A | vs Right |  |  |  | 1 |  |  | 5.0 | 15 | 1 |  |  | 0 | 1 | 3 | 0.40 | .071 | .133 | .143 | .276 |
 
 ### [Monthly Splits](https://baseballsavant.mlb.com/savant-player/kyle-harrison-690986?stats=statcast-r-pitching-mlb\#milb-monthly-splits)
 
 | Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP | AVG | OBP | SLG | OPS |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Sacramento River Cats | Triple-A | March | 0 | 0 | 2.25 | 1 | 1 | 0 | 4.0 | 15 | 4 | 1 | 1 | 1 | 1 | 5 | 1.25 | .286 | .333 | .500 | .833 |
-| Sacramento River Cats | Triple-A | April | 1 | 0 | 3.68 | 5 | 5 | 0 | 22.0 | 99 | 22 | 12 | 9 | 1 | 7 | 33 | 1.32 | .247 | .313 | .326 | .639 |
-| Worcester Red Sox | Triple-A | June | 0 | 1 | 9.00 | 1 | 1 | 0 | 4.0 | 20 | 8 | 4 | 4 | 1 | 1 | 4 | 2.25 | .421 | .450 | .579 | 1.029 |
-| Worcester Red Sox | Triple-A | July | 2 | 1 | 4.03 | 5 | 5 | 0 | 22.1 | 105 | 23 | 11 | 10 | 4 | 14 | 20 | 1.66 | .256 | .352 | .444 | .796 |
-| Worcester Red Sox | Triple-A | August | 2 | 0 | 2.35 | 5 | 5 | 0 | 23.0 | 98 | 20 | 6 | 6 | 0 | 11 | 24 | 1.35 | .235 | .327 | .282 | .609 |
-| Worcester Red Sox | Triple-A | September | 0 | 0 | 9.00 | 1 | 1 | 0 | 1.0 | 6 | 2 | 1 | 1 | 0 | 1 | 2 | 3.00 | .400 | .500 | .600 | 1.100 |
-| Sacramento River Cats | Triple-A | First Half | 1 | 0 | 3.46 | 6 | 6 | 0 | 26.0 | 114 | 26 | 13 | 10 | 2 | 8 | 38 | 1.31 | .252 | .316 | .350 | .666 |
-| Worcester Red Sox | Triple-A | Second Half | 4 | 2 | 3.75 | 12 | 12 | 0 | 50.1 | 229 | 53 | 22 | 21 | 5 | 27 | 50 | 1.59 | .266 | .354 | .392 | .746 |
+| Wisconsin Timber Rattlers | High-A | July | 1 | 0 | 0.00 | 1 | 1 | 0 | 5.2 | 19 | 1 | 0 | 0 | 0 | 3 | 5 | 0.71 | .063 | .211 | .125 | .336 |
+| Wisconsin Timber Rattlers | High-A | Second Half | 1 | 0 | 0.00 | 1 | 1 | 0 | 5.2 | 19 | 1 | 0 | 0 | 0 | 3 | 5 | 0.71 | .063 | .211 | .125 | .336 |
 
 ### [Baserunner Splits](https://baseballsavant.mlb.com/savant-player/kyle-harrison-690986?stats=statcast-r-pitching-mlb\#milb-baserunner-splits)
 
 | Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP | AVG | OBP | SLG | OPS |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2 Teams | Minors | Bases Empty |  |  |  | 18 |  |  | 37.0 | 176 | 43 |  |  | 4 | 21 | 42 | 1.73 | .279 | .369 | .416 | .785 |
-| 2 Teams | Minors | Bases Loaded |  |  |  | 7 |  |  | 3.1 | 10 | 1 |  |  | 0 | 0 | 2 | 0.30 | .111 | .100 | .111 | .211 |
-| 2 Teams | Minors | Runner at 1st |  |  |  | 17 |  |  | 15.0 | 65 | 17 |  |  | 1 | 6 | 16 | 1.53 | .288 | .354 | .373 | .727 |
-| 2 Teams | Minors | Runners at 1st & 2nd |  |  |  | 12 |  |  | 6.2 | 28 | 5 |  |  | 0 | 2 | 10 | 1.05 | .192 | .250 | .231 | .481 |
-| 2 Teams | Minors | Runners at 1st & 3rd |  |  |  | 9 |  |  | 2.0 | 12 | 3 |  |  | 1 | 1 | 2 | 2.00 | .300 | .417 | .600 | 1.017 |
-| 2 Teams | Minors | Runner at 2nd |  |  |  | 17 |  |  | 8.1 | 38 | 8 |  |  | 1 | 4 | 12 | 1.44 | .242 | .342 | .394 | .736 |
-| 2 Teams | Minors | Runners at 2nd & 3rd |  |  |  | 4 |  |  | 2.0 | 7 | 1 |  |  | 0 | 1 | 3 | 1.00 | .200 | .286 | .200 | .486 |
-| 2 Teams | Minors | Runner at 3rd |  |  |  | 5 |  |  | 2.0 | 7 | 1 |  |  | 0 | 0 | 1 | 0.50 | .167 | .143 | .167 | .310 |
-| 2 Teams | Minors | Scoring Position |  |  |  | 18 |  |  | 24.1 | 102 | 19 |  |  | 2 | 8 | 30 | 1.11 | .213 | .284 | .315 | .599 |
+| Wisconsin Timber Rattlers | High-A | Bases Empty |  |  |  | 1 |  |  | 3.1 | 13 | 1 |  |  | 0 | 2 | 3 | 0.90 | .091 | .231 | .182 | .413 |
+| Wisconsin Timber Rattlers | High-A | Runner at 1st |  |  |  | 1 |  |  | 0.2 | 1 | 0 |  |  | 0 | 0 | 0 | 0.00 | .000 | .000 | .000 | .000 |
+| Wisconsin Timber Rattlers | High-A | Runners at 1st & 2nd |  |  |  | 1 |  |  | 1.0 | 2 | 0 |  |  | 0 | 0 | 1 | 0.00 | .000 | .000 | .000 | .000 |
+| Wisconsin Timber Rattlers | High-A | Runner at 2nd |  |  |  | 1 |  |  | 0.2 | 3 | 0 |  |  | 0 | 1 | 1 | 1.50 | .000 | .333 | .000 | .333 |
+| Wisconsin Timber Rattlers | High-A | Scoring Position |  |  |  | 1 |  |  | 1.2 | 5 | 0 |  |  | 0 | 1 | 2 | 0.60 | .000 | .200 | .000 | .200 |
 
 ### [Game Type Splits](https://baseballsavant.mlb.com/savant-player/kyle-harrison-690986?stats=statcast-r-pitching-mlb\#milb-game-type-splits)
 
 | Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP | AVG | OBP | SLG | OPS |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2 Teams | Minors | Home Games | 2 | 1 | 3.55 | 8 | 8 | 0 | 33.0 | 150 | 39 | 14 | 13 | 3 | 12 | 37 | 1.55 | .293 | .353 | .429 | .782 |
-| 2 Teams | Minors | Away Games | 3 | 1 | 3.74 | 10 | 10 | 0 | 43.1 | 193 | 40 | 21 | 18 | 4 | 23 | 51 | 1.45 | .237 | .332 | .337 | .669 |
-| Worcester Red Sox | Triple-A | Day Games | 0 | 0 | 1.47 | 5 | 5 | 0 | 18.1 | 85 | 13 | 3 | 3 | 0 | 17 | 26 | 1.64 | .194 | .365 | .209 | .574 |
-| 2 Teams | Minors | Night Games | 5 | 2 | 4.34 | 13 | 13 | 0 | 58.0 | 258 | 66 | 32 | 28 | 7 | 18 | 62 | 1.45 | .281 | .333 | .426 | .759 |
-| 2 Teams | Minors | Leading Off Inning |  |  |  | 18 |  |  | 18.2 | 77 | 13 |  |  | 0 | 8 | 19 | 1.13 | .188 | .273 | .246 | .519 |
+| Wisconsin Timber Rattlers | High-A | Home Games | 1 | 0 | 0.00 | 1 | 1 | 0 | 5.2 | 19 | 1 | 0 | 0 | 0 | 3 | 5 | 0.71 | .063 | .211 | .125 | .336 |
+| Wisconsin Timber Rattlers | High-A | Night Games | 1 | 0 | 0.00 | 1 | 1 | 0 | 5.2 | 19 | 1 | 0 | 0 | 0 | 3 | 5 | 0.71 | .063 | .211 | .125 | .336 |
+| Wisconsin Timber Rattlers | High-A | Leading Off Inning |  |  |  | 1 |  |  | 1.2 | 6 | 1 |  |  | 0 | 0 | 0 | 0.60 | .167 | .167 | .333 | .500 |
 
 ### [Outs Splits](https://baseballsavant.mlb.com/savant-player/kyle-harrison-690986?stats=statcast-r-pitching-mlb\#milb-out-splits)
 
 | Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP | AVG | OBP | SLG | OPS |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2 Teams | Minors | No Outs |  |  |  | 18 |  |  | 26.1 | 103 | 16 |  |  | 0 | 10 | 29 | 0.99 | .174 | .252 | .217 | .469 |
-| 2 Teams | Minors | One Out |  |  |  | 18 |  |  | 25.1 | 125 | 31 |  |  | 5 | 17 | 29 | 1.89 | .295 | .392 | .486 | .878 |
-| 2 Teams | Minors | Two Outs |  |  |  | 18 |  |  | 24.2 | 115 | 32 |  |  | 2 | 8 | 30 | 1.62 | .305 | .365 | .410 | .775 |
+| Wisconsin Timber Rattlers | High-A | No Outs |  |  |  | 1 |  |  | 2.0 | 8 | 1 |  |  | 0 | 1 | 1 | 1.00 | .143 | .250 | .286 | .536 |
+| Wisconsin Timber Rattlers | High-A | One Out |  |  |  | 1 |  |  | 2.2 | 8 | 0 |  |  | 0 | 2 | 2 | 0.75 | .000 | .250 | .000 | .250 |
+| Wisconsin Timber Rattlers | High-A | Two Outs |  |  |  | 1 |  |  | 1.0 | 3 | 0 |  |  | 0 | 0 | 2 | 0.00 | .000 | .000 | .000 | .000 |
 
 ### [Inning Splits](https://baseballsavant.mlb.com/savant-player/kyle-harrison-690986?stats=statcast-r-pitching-mlb\#milb-inning-splits)
 
 | Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP | AVG | OBP | SLG | OPS |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2 Teams | Minors | First Inning |  |  | 6.00 | 18 |  |  | 18.0 | 86 | 24 | 13 | 12 | 5 | 7 | 20 | 1.72 | .308 | .372 | .538 | .910 |
-| 2 Teams | Minors | Second Inning |  |  | 3.71 | 17 |  |  | 17.0 | 78 | 16 | 10 | 7 | 0 | 12 | 22 | 1.65 | .254 | .372 | .302 | .674 |
-| 2 Teams | Minors | Third Inning |  |  | 4.24 | 17 |  |  | 17.0 | 76 | 20 | 8 | 8 | 2 | 7 | 15 | 1.59 | .290 | .355 | .391 | .746 |
-| 2 Teams | Minors | Fourth Inning |  |  | 0.00 | 15 |  |  | 14.1 | 58 | 8 | 0 | 0 | 0 | 5 | 20 | 0.91 | .154 | .241 | .173 | .414 |
-| 2 Teams | Minors | Fifth Inning |  |  | 4.50 | 8 |  |  | 8.0 | 38 | 10 | 4 | 4 | 0 | 4 | 9 | 1.75 | .303 | .368 | .485 | .853 |
-| 2 Teams | Minors | Sixth Inning |  |  | 0.00 | 2 |  |  | 2.0 | 7 | 1 | 0 | 0 | 0 | 0 | 2 | 0.50 | .143 | .143 | .143 | .286 |
+| Wisconsin Timber Rattlers | High-A | First Inning |  |  | 0.00 | 1 |  |  | 1.0 | 3 | 0 | 0 | 0 | 0 | 0 | 1 | 0.00 | .000 | .000 | .000 | .000 |
+| Wisconsin Timber Rattlers | High-A | Second Inning |  |  | 0.00 | 1 |  |  | 1.0 | 3 | 0 | 0 | 0 | 0 | 0 | 2 | 0.00 | .000 | .000 | .000 | .000 |
+| Wisconsin Timber Rattlers | High-A | Third Inning |  |  | 0.00 | 1 |  |  | 1.0 | 4 | 1 | 0 | 0 | 0 | 1 | 1 | 2.00 | .333 | .500 | .667 | 1.167 |
+| Wisconsin Timber Rattlers | High-A | Fourth Inning |  |  | 0.00 | 1 |  |  | 1.0 | 3 | 0 | 0 | 0 | 0 | 1 | 0 | 1.00 | .000 | .333 | .000 | .333 |
+| Wisconsin Timber Rattlers | High-A | Fifth Inning |  |  | 0.00 | 1 |  |  | 1.0 | 4 | 0 | 0 | 0 | 0 | 1 | 1 | 1.00 | .000 | .250 | .000 | .250 |
+| Wisconsin Timber Rattlers | High-A | Sixth Inning |  |  | 0.00 | 1 |  |  | 0.2 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0.00 | .000 | .000 | .000 | .000 |
 
 | Date | Home Tm | Away Tm | W | L | ERA | G | GS | SV | IP | H | R | ER | HR | BB | SO | WHIP |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -598,30 +556,8 @@ No Minor League Hitting Statistics.
 
 | Date | Home Tm | Away Tm | W | L | ERA | G | GS | SV | IP | H | R | ER | HR | BB | SO | WHIP |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [2025-03-29](https://baseballsavant.mlb.com/gamefeed?gamePk=779812&game_date=2025-03-29) | Sacramento River Cats | Albuquerque Isotopes | 0 | 0 | 2.25 | 1 | 1 | 0 | 4.0 | 4 | 1 | 1 | 1 | 1 | 5 | 1.25 | [![](https://baseballsavant.mlb.com/sections/gamefeed/images/pitch-report-icon.png)](https://baseballsavant.mlb.com/player-scroll/game?gamePk=779812&player_id=690986) |
-| March | Sacramento River Cats |  | 0 | 0 | 2.25 | 1 | 1 | 0 | 4.0 | 4 | 1 | 1 | 1 | 1 | 5 | 1.25 |  |
-| [2025-04-04](https://baseballsavant.mlb.com/gamefeed?gamePk=780106&game_date=2025-04-04) | Las Vegas Aviators | Sacramento River Cats | 0 | 0 | 1.13 | 1 | 1 | 0 | 4.0 | 2 | 0 | 0 | 0 | 3 | 6 | 1.25 | [![](https://baseballsavant.mlb.com/sections/gamefeed/images/pitch-report-icon.png)](https://baseballsavant.mlb.com/player-scroll/game?gamePk=780106&player_id=690986) |
-| [2025-04-12](https://baseballsavant.mlb.com/gamefeed?gamePk=779576&game_date=2025-04-12) | Tacoma Rainiers | Sacramento River Cats | 0 | 0 | 5.73 | 1 | 1 | 0 | 3.0 | 7 | 6 | 6 | 1 | 0 | 5 | 1.55 | [![](https://baseballsavant.mlb.com/sections/gamefeed/images/pitch-report-icon.png)](https://baseballsavant.mlb.com/player-scroll/game?gamePk=779576&player_id=690986) |
-| [2025-04-18](https://baseballsavant.mlb.com/gamefeed?gamePk=779802&game_date=2025-04-18) | Sacramento River Cats | Salt Lake Bees | 0 | 0 | 5.40 | 1 | 1 | 0 | 4.0 | 5 | 3 | 2 | 0 | 2 | 7 | 1.60 | [![](https://baseballsavant.mlb.com/sections/gamefeed/images/pitch-report-icon.png)](https://baseballsavant.mlb.com/player-scroll/game?gamePk=779802&player_id=690986) |
-| [2025-04-24](https://baseballsavant.mlb.com/gamefeed?gamePk=780166&game_date=2025-04-24) | El Paso Chihuahuas | Sacramento River Cats | 1 | 0 | 3.86 | 1 | 1 | 0 | 6.0 | 2 | 2 | 0 | 0 | 2 | 8 | 1.33 | [![](https://baseballsavant.mlb.com/sections/gamefeed/images/pitch-report-icon.png)](https://baseballsavant.mlb.com/player-scroll/game?gamePk=780166&player_id=690986) |
-| [2025-04-30](https://baseballsavant.mlb.com/gamefeed?gamePk=779796&game_date=2025-04-30) | Sacramento River Cats | Reno Aces | 0 | 0 | 3.46 | 1 | 1 | 0 | 5.0 | 6 | 1 | 1 | 0 | 0 | 7 | 1.31 | [![](https://baseballsavant.mlb.com/sections/gamefeed/images/pitch-report-icon.png)](https://baseballsavant.mlb.com/player-scroll/game?gamePk=779796&player_id=690986) |
-| April | Sacramento River Cats |  | 1 | 0 | 3.68 | 5 | 5 | 0 | 22.0 | 22 | 12 | 9 | 1 | 7 | 33 | 1.32 |  |
-| [2025-06-26](https://baseballsavant.mlb.com/gamefeed?gamePk=780595&game_date=2025-06-26) | Scranton/Wilkes-Barre RailRiders | Worcester Red Sox | 0 | 1 | 4.20 | 1 | 1 | 0 | 4.0 | 8 | 4 | 4 | 1 | 1 | 4 | 1.43 | [![](https://baseballsavant.mlb.com/sections/gamefeed/images/pitch-report-icon.png)](https://baseballsavant.mlb.com/player-scroll/game?gamePk=780595&player_id=690986) |
-| June |  |  | 0 | 1 | 9.00 | 1 | 1 | 0 | 4.0 | 8 | 4 | 4 | 1 | 1 | 4 | 2.25 |  |
-| [2025-07-02](https://baseballsavant.mlb.com/gamefeed?gamePk=780297&game_date=2025-07-02) | Worcester Red Sox | Syracuse Mets | 0 | 1 | 4.50 | 1 | 1 | 0 | 4.0 | 5 | 3 | 3 | 2 | 2 | 2 | 1.47 | [![](https://baseballsavant.mlb.com/sections/gamefeed/images/pitch-report-icon.png)](https://baseballsavant.mlb.com/player-scroll/game?gamePk=780297&player_id=690986) |
-| [2025-07-08](https://baseballsavant.mlb.com/gamefeed?gamePk=780673&game_date=2025-07-08) | Rochester Red Wings | Worcester Red Sox | 1 | 0 | 4.85 | 1 | 1 | 0 | 5.0 | 7 | 4 | 4 | 2 | 2 | 4 | 1.51 | [![](https://baseballsavant.mlb.com/sections/gamefeed/images/pitch-report-icon.png)](https://baseballsavant.mlb.com/player-scroll/game?gamePk=780673&player_id=690986) |
-| [2025-07-13](https://baseballsavant.mlb.com/gamefeed?gamePk=780658&game_date=2025-07-13) | Rochester Red Wings | Worcester Red Sox | 0 | 0 | 4.43 | 1 | 1 | 0 | 3.2 | 4 | 0 | 0 | 0 | 3 | 5 | 1.55 | [![](https://baseballsavant.mlb.com/sections/gamefeed/images/pitch-report-icon.png)](https://baseballsavant.mlb.com/player-scroll/game?gamePk=780658&player_id=690986) |
-| [2025-07-22](https://baseballsavant.mlb.com/gamefeed?gamePk=780507&game_date=2025-07-22) | St. Paul Saints | Worcester Red Sox | 1 | 0 | 4.07 | 1 | 1 | 0 | 6.0 | 3 | 2 | 1 | 0 | 1 | 5 | 1.44 | [![](https://baseballsavant.mlb.com/sections/gamefeed/images/pitch-report-icon.png)](https://baseballsavant.mlb.com/player-scroll/game?gamePk=780507&player_id=690986) |
-| [2025-07-27](https://baseballsavant.mlb.com/gamefeed?gamePk=780506&game_date=2025-07-27) | St. Paul Saints | Worcester Red Sox | 0 | 0 | 4.13 | 1 | 1 | 0 | 3.2 | 4 | 2 | 2 | 0 | 6 | 4 | 1.53 | [![](https://baseballsavant.mlb.com/sections/gamefeed/images/pitch-report-icon.png)](https://baseballsavant.mlb.com/player-scroll/game?gamePk=780506&player_id=690986) |
-| July |  |  | 2 | 1 | 4.03 | 5 | 5 | 0 | 22.1 | 23 | 11 | 10 | 4 | 14 | 20 | 1.66 |  |
-| [2025-08-01](https://baseballsavant.mlb.com/gamefeed?gamePk=780286&game_date=2025-08-01) | Worcester Red Sox | Lehigh Valley IronPigs | 1 | 0 | 4.08 | 1 | 1 | 0 | 5.0 | 8 | 2 | 2 | 0 | 2 | 5 | 1.57 | [![](https://baseballsavant.mlb.com/sections/gamefeed/images/pitch-report-icon.png)](https://baseballsavant.mlb.com/player-scroll/game?gamePk=780286&player_id=690986) |
-| [2025-08-07](https://baseballsavant.mlb.com/gamefeed?gamePk=780279&game_date=2025-08-07) | Worcester Red Sox | Buffalo Bisons | 0 | 0 | 3.75 | 1 | 1 | 0 | 5.0 | 2 | 0 | 0 | 0 | 3 | 7 | 1.52 | [![](https://baseballsavant.mlb.com/sections/gamefeed/images/pitch-report-icon.png)](https://baseballsavant.mlb.com/player-scroll/game?gamePk=780279&player_id=690986) |
-| [2025-08-13](https://baseballsavant.mlb.com/gamefeed?gamePk=781257&game_date=2025-08-13) | Iowa Cubs | Worcester Red Sox | 0 | 0 | 3.48 | 1 | 1 | 0 | 5.0 | 1 | 0 | 0 | 0 | 4 | 8 | 1.49 | [![](https://baseballsavant.mlb.com/sections/gamefeed/images/pitch-report-icon.png)](https://baseballsavant.mlb.com/player-scroll/game?gamePk=781257&player_id=690986) |
-| [2025-08-19](https://baseballsavant.mlb.com/gamefeed?gamePk=780278&game_date=2025-08-19) | Worcester Red Sox | Jacksonville Jumbo Shrimp | 1 | 0 | 3.61 | 1 | 1 | 0 | 5.0 | 7 | 3 | 3 | 0 | 1 | 2 | 1.49 | [![](https://baseballsavant.mlb.com/sections/gamefeed/images/pitch-report-icon.png)](https://baseballsavant.mlb.com/player-scroll/game?gamePk=780278&player_id=690986) |
-| [2025-08-26](https://baseballsavant.mlb.com/gamefeed?gamePk=781474&game_date=2025-08-26) | Durham Bulls | Worcester Red Sox | 0 | 0 | 3.58 | 1 | 1 | 0 | 3.0 | 2 | 1 | 1 | 0 | 1 | 2 | 1.47 | [![](https://baseballsavant.mlb.com/sections/gamefeed/images/pitch-report-icon.png)](https://baseballsavant.mlb.com/player-scroll/game?gamePk=781474&player_id=690986) |
-| August |  |  | 2 | 0 | 2.35 | 5 | 5 | 0 | 23.0 | 20 | 6 | 6 | 0 | 11 | 24 | 1.35 |  |
-| [2025-09-07](https://baseballsavant.mlb.com/gamefeed?gamePk=780267&game_date=2025-09-07) | Worcester Red Sox | Scranton/Wilkes-Barre RailRiders | 0 | 0 | 3.66 | 1 | 1 | 0 | 1.0 | 2 | 1 | 1 | 0 | 1 | 2 | 1.49 | [![](https://baseballsavant.mlb.com/sections/gamefeed/images/pitch-report-icon.png)](https://baseballsavant.mlb.com/player-scroll/game?gamePk=780267&player_id=690986) |
-| September |  |  | 0 | 0 | 9.00 | 1 | 1 | 0 | 1.0 | 2 | 1 | 1 | 0 | 1 | 2 | 3.00 |  |
+| [2026-07-30](https://baseballsavant.mlb.com/gamefeed?gamePk=819464&game_date=2026-07-30) | Wisconsin Timber Rattlers | Lansing Lugnuts | 1 | 0 | 0.00 | 1 | 1 | 0 | 5.2 | 1 | 0 | 0 | 0 | 3 | 5 | 0.71 | [![](https://baseballsavant.mlb.com/sections/gamefeed/images/pitch-report-icon.png)](https://baseballsavant.mlb.com/player-scroll/game?gamePk=819464&player_id=690986) |
+| July | Wisconsin Timber Rattlers |  | 1 | 0 | 0.00 | 1 | 1 | 0 | 5.2 | 1 | 0 | 0 | 0 | 3 | 5 | 0.71 |  |
 
 - PitchingFielding▾
 
@@ -637,9 +573,9 @@ No Minor League Hitting Statistics.
 | 2023 | 21 | 588 | 97 | 9 | 9.3 | 6.1 | 89.4 | 111.0 | 18.3 | 42.3 | .234 | .443 | .324 | .326 | .386 | 38.1 | 23.8 | 7.5 | 4.15 | 4.51 |
 | 2024 | 22 | 2078 | 365 | 37 | 10.1 | 7.0 | 90.7 | 114.9 | 14.9 | 34.2 | .255 | .444 | .330 | .341 | .404 | 44.1 | 22.2 | 7.9 | 4.56 | 4.84 |
 | 2025 | 23 | 588 | 103 | 7 | 6.8 | 4.5 | 90.7 | 110.9 | 13.6 | 40.8 | .246 | .409 | .315 | .316 | .382 | 42.7 | 24.4 | 9.0 | 4.04 | 4.16 |
-| 2026 | 24 | 1457 | 216 | 14 | 6.5 | 4.1 | 89.2 | 115.0 | 14.1 | 36.6 | .223 | .348 | .283 | .277 | .359 | 36.6 | 29.6 | 5.9 | 3.01 | 3.18 |
+| 2026 | 24 | 1457 | 216 | 14 | 6.5 | 4.1 | 89.2 | 115.0 | 14.1 | 36.6 | .223 | .348 | .283 | .277 | .359 | 36.6 | 29.6 | 5.9 | 3.01 | 3.17 |
 | **Player** |  | 4711 | 781 | 67 | 8.6 | 5.7 | 90.1 | 115.0 | 14.9 | 36.7 | .242 | .411 | .314 | .317 | .386 | 41.1 | 24.8 | 7.4 |  |  |
-| **MLB** |  |  |  |  | 7.6 | 4.9 | 88.6 | 122.9 | 12.5 | 33.3 | .243 | .407 | .316 | .316 | .369 | 37.1 | 22.2 | 8.4 |  |  |
+| **MLB** |  |  |  |  | 7.6 | 4.9 | 88.6 | 122.9 | 12.5 | 33.3 | .243 | .407 | .315 | .316 | .369 | 37.1 | 22.2 | 8.4 |  |  |
 
 ! Note: All figures in this table cover the period 2015-present.
 
@@ -758,7 +694,7 @@ Breaking: Slider, Curve, Knuckle, Sweeper, Slurve, Other
 | 2025 | 39.8 | 60.2 | 26.2 | 29.1 | 4.9 | 32.0 | 39.8 | 28.2 | 15.5 | 15.5 | 8.7 | 16.5 | 24.3 | 19.4 |
 | 2026 | 38.4 | 61.6 | 30.1 | 25.0 | 6.5 | 39.4 | 32.4 | 28.2 | 20.8 | 12.5 | 5.1 | 18.5 | 19.9 | 23.1 |
 | **Player** | 38.4 | 61.6 | 30.2 | 24.7 | 6.7 | 34.6 | 37.0 | 28.4 | 17.7 | 14.7 | 6.0 | 16.9 | 22.3 | 22.4 |
-| **MLB** | 44.1 | 55.9 | 24.2 | 24.6 | 7.1 | 37.5 | 37.3 | 25.1 | 20.7 | 17.6 | 5.8 | 16.8 | 19.7 | 19.2 |
+| **MLB** | 44.1 | 55.9 | 24.2 | 24.6 | 7.1 | 37.5 | 37.3 | 25.1 | 20.7 | 17.5 | 5.8 | 16.8 | 19.7 | 19.2 |
 
 ! Note: All figures in this table cover the period 2015-present.
 
@@ -809,7 +745,7 @@ On the right, Induced Movement (or IVB) is reported without gravity, and attempt
 | Year | Pitch | Team | Hand | # | MPH | Vertical<br>Drop | vs.<br>Comparable | Horizontal<br>Break | vs.<br>Comparable | Vertical<br>Break | vs. Avg | Horizontal<br>Break | vs. Avg |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2026 | Sinker | ![](https://www.mlbstatic.com/team-logos/158.svg)MIL | L | 25 | 94.7 | 19.7 | -5.0 | 16.1ARM | -0.2 | 10.8 | -3.3 | 16.1ARM | 0.7 |
-| 2026 | Changeup | ![](https://www.mlbstatic.com/team-logos/158.svg)MIL | L | 140 | 86.3 | 40.6 | 5.0 | 10.8ARM | -3.8 | -3.9 | 8.6 | 10.8ARM | -3.1 |
+| 2026 | Changeup | ![](https://www.mlbstatic.com/team-logos/158.svg)MIL | L | 140 | 86.3 | 40.6 | 5.0 | 10.8ARM | -3.7 | -3.9 | 8.6 | 10.8ARM | -3.1 |
 | 2026 | 4-Seam Fastball | ![](https://www.mlbstatic.com/team-logos/158.svg)MIL | L | 844 | 95.0 | 15.6 | 0.5 | 12.8ARM | 3.0 | 14.8 | -0.8 | 12.8ARM | 4.8 |
 | 2026 | Slurve | ![](https://www.mlbstatic.com/team-logos/158.svg)MIL | L | 448 | 82.2 | 44.8 | 0.0 | 10.6GLV | 0.0 | -4.2 | 0.0 | 10.6GLV | -1.9 |
 | 2025 | Changeup | ![](https://www.mlbstatic.com/team-logos/111.svg)BOS | L | 47 | 86.3 | 35.7 | -0.8 | 13.7ARM | -0.4 | 1.0 | 4.2 | 13.7ARM | -0.5 |
@@ -948,7 +884,7 @@ These run values are **leveraged**, meaning the base/out situation at the time o
 | 2023 | ![](https://www.mlbstatic.com/team-logos/137.svg) | 147 | 588 | -3 | 6 | -2 | -2 | -1 | 1 |
 | 2024 | ![](https://www.mlbstatic.com/team-logos/137.svg) | 532 | 2,078 | 8 | 14 | -13 | -10 | 0 | 12 |
 | 2025 | ![](https://www.mlbstatic.com/team-logos/111.svg) | 155 | 588 | 4 | 1 | -2 | -1 | 3 | 2 |
-| 2026 | ![](https://www.mlbstatic.com/team-logos/158.svg) | 340 | 1,457 | 11 | 9 | -6 | -4 | 10 | -2 |
+| 2026 | ![](https://www.mlbstatic.com/team-logos/158.svg) | 340 | 1,457 | 11 | 9 | -6 | -4 | 9 | -2 |
 | Player |  | 1,174 | 4,711 | 20 | 31 | -23 | 20 | 11 | 13 |
 
 – Hide Leverage-Based Run Value
@@ -974,7 +910,7 @@ These run values are **leveraged**, meaning the base/out situation at the time o
 | 2023 |  |  |  |  |  | 41 | 52 |  |  |  |  |  |  |  |  |  | 76 |
 | 2024 | 9 | 27 | 23 | 4 | 14 | 28 | 38 |  | 6 | 19 | 34 | 44 | 51 | 11 | 10 | 42 | 75 |
 | 2025 |  |  |  |  |  | 53 | 51 |  |  |  |  |  |  |  |  |  | 71 |
-| 2026 | 87 | 87 | 94 | 13 | 83 | 58 | 75 |  | 40 | 75 | 78 | 91 | 86 | 68 | 63 | 29 | 66 |
+| 2026 | 86 | 85 | 94 | 14 | 83 | 59 | 75 |  | 40 | 75 | 78 | 91 | 86 | 67 | 63 | 28 | 66 |
 
 [+\\
 View Complete Percentile Rankings Leaderboard](https://baseballsavant.mlb.com/leaderboard/percentile-rankings?type=pitcher)
@@ -993,7 +929,7 @@ Adjusted
 | 2024 | ![](https://www.mlbstatic.com/team-logos/137.svg) | 23.86 | 18 | 16.8 | 1 | 7 | 15 | 7 | 38.9 |
 | 2025 | ![](https://www.mlbstatic.com/team-logos/111.svg) | 22.04 | 4 | 4.1 | 0 | 5 | 3 | 1 | 25.0 |
 | 2026 | ![](https://www.mlbstatic.com/team-logos/158.svg) | 24.35 | 10 | 9.2 | 1 | 3 | 11 | 3 | 30.0 |
-| **Player** |  | 23.63 | 40 | 36.3 | 4 | 17 | 35 | 13 | 32.5 |
+| **Player** |  | 23.63 | 40 | 36.2 | 4 | 17 | 35 | 13 | 32.5 |
 
 Note: xHR tells how many of this pitcher's batted balls allowed would have been out of other stadiums. The "Adjusted" view here accounts for different wall heights, distances and environmental effects using Statcast Park Factor data.
 
@@ -1023,8 +959,8 @@ Adjusted
 | 2023 | 8 | 6 | 3 | 5 | 6 | 6 | 6 | 6 | 5 | 6 | 6 | 6 | 7 | 5 | 6 | 7 | 7 | 7 | 7 | 7 | 5 | 6 | 7 | 8 | 4 | 6 | 6 | 8 | 8 | 7 | 6 |
 | 2024 | 18 | 15 | 17 | 15 | 15 | 17 | 20 | 16 | 11 | 10 | 15 | 16 | 18 | 15 | 16 | 13 | 16 | 15 | 16 | 22 | 18 | 15 | 27 | 20 | 18 | 16 | 15 | 20 | 21 | 21 | 16 |
 | 2025 | 4 | 4 | 3 | 3 | 5 | 4 | 4 | 4 | 4 | 3 | 4 | 6 | 4 | 6 | 4 | 4 | 4 | 4 | 3 | 6 | 3 | 5 | 5 | 4 | 3 | 3 | 4 | 5 | 4 | 4 | 3 |
-| 2026 | 10 | 10 | 7 | 12 | 9 | 10 | 9 | 8 | 11 | 12 | 8 | 11 | 5 | 12 | 11 | 13 | 10 | 7 | 9 | 14 | 4 | 7 | 12 | 12 | 7 | 4 | 6 | 9 | 8 | 6 | 10 |
-| **Player** | 40 | 35 | 30 | 35 | 35 | 37 | 39 | 34 | 31 | 31 | 33 | 39 | 34 | 38 | 37 | 37 | 37 | 33 | 35 | 49 | 30 | 33 | 51 | 44 | 32 | 29 | 31 | 42 | 41 | 38 | 35 |
+| 2026 | 10 | 10 | 7 | 12 | 9 | 10 | 10 | 8 | 11 | 12 | 8 | 11 | 5 | 13 | 11 | 13 | 10 | 7 | 9 | 14 | 4 | 5 | 13 | 11 | 7 | 3 | 6 | 9 | 8 | 6 | 10 |
+| **Player** | 40 | 35 | 30 | 35 | 35 | 37 | 40 | 34 | 31 | 31 | 33 | 39 | 34 | 39 | 37 | 37 | 37 | 33 | 35 | 49 | 30 | 31 | 52 | 43 | 32 | 28 | 31 | 42 | 41 | 38 | 35 |
 
 Note: xHR tells how many of this pitcher's batted balls allowed would have been out of other stadiums. The "Adjusted" view here accounts for different wall heights, distances and environmental effects using Statcast Park Factor data.
 
@@ -1076,11 +1012,11 @@ View Complete Expected Home Runs Leaderboard](https://baseballsavant.mlb.com/lea
 | [Barrel %](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 6.5 | -0.3 | ↓ | 6.8 | -3.3 | ↓ | 10.1 | +0.8 | ↑ | 9.3 |
 | [Avg Launch Angle](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 14.1 | +0.5 | ↑ | 13.6 | -1.3 | ↓ | 14.9 | -3.4 | ↓ | 18.3 |
 | Statcast Bat Tracking |  |  |  |  |  |  |  |  |  |  |
-| [Bat Speed](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 71.9 | +0.2 | ↑ | 71.7 | +0.3 | ↑ | 71.4 | +0.2 | ↑ | 71.2 |
+| [Bat Speed](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 71.8 | +0.2 | ↑ | 71.6 | +0.3 | ↑ | 71.3 | +0.2 | ↑ | 71.1 |
 | [Attack Angle](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 6° | +1° | ↑ | 5° | -3° | ↓ | 8° | 0° | ↑ | 8° |
-| [Ideal Attack Angle %](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 41.4 | +5.9 | ↑ | 35.5 | -12.4 | ↓ | 47.9 | -4.4 | ↓ | 52.3 |
+| [Ideal Attack Angle %](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 41.7 | +5.6 | ↑ | 36.1 | -11.8 | ↓ | 47.9 | -3.7 | ↓ | 51.6 |
 | [Attack Direction](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 4° | -1° | ↓ | 5° | +3° | ↑ | 2° | +1° | ↑ | 1° |
-| [Swing Path - Tilt](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 31° | 0° | ↑ | 31° | 0° |  | 31° | -1° | ↓ | 32° |
+| [Swing Path - Tilt](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 31° | 0° |  | 31° | 0° | ↑ | 31° | -1° | ↓ | 32° |
 | [Swing Length](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 7.1 | +0.1 | ↑ | 7.0 | -0.2 | ↓ | 7.2 | 0.0 |  | 7.2 |
 | Statcast Pitch Metrics |  |  |  |  |  |  |  |  |  |  |
 | [Fastball Velocity](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 95.0 | +0.9 | ↑ | 94.1 | +1.6 | ↑ | 92.5 | -0.9 | ↓ | 93.4 |
@@ -1295,13 +1231,13 @@ Created with Highcharts 6.2.0Exit VelocityPitchesChart context menuKyle Harrison
 
 ## Run Value
 
-Kyle HarrisonPitcher RV (All)3.22.11.73.84.63.33.73.60.9-2.0-4.7-3.0-5.2
+Kyle HarrisonPitcher RV (All)3.12.11.73.84.63.33.73.60.9-2.0-4.7-3.0-5.2
 
-Kyle HarrisonPitcher RV (Swings)2.61.11.31.92.71.51.40.6-1.01.94.45.30.0
+Kyle HarrisonPitcher RV (Swings)2.61.11.31.92.71.51.40.6-1.01.94.55.30.0
 
-Kyle HarrisonPitcher RV (Takes)0.61.00.41.91.91.82.43.02.0-3.9-9.1-8.3-5.2
+Kyle HarrisonPitcher RV (Takes)0.61.00.41.91.91.82.43.01.9-3.9-9.1-8.3-5.2
 
-Kyle HarrisonPitcher RV (Contact)2.1-0.8-0.50.30.60.50.80.2-1.70.1-0.40.0-1.6
+Kyle HarrisonPitcher RV (Contact)2.1-0.8-0.50.30.60.50.80.2-1.60.1-0.30.0-1.6
 
 ## Standard
 
@@ -1369,7 +1305,7 @@ Kyle HarrisonAvg Launch Angle28331491277881691710
 
 Kyle HarrisonBat Speed (MPH)72727273737272747369707172
 
-Kyle HarrisonSwing Length (ft)6.86.76.77.17.16.97.77.67.66.56.78.37.8
+Kyle HarrisonSwing Length (ft)6.86.76.77.17.16.97.77.67.66.56.68.37.8
 
 Kyle HarrisonSquared up % / Swings182219212224301937510918
 
@@ -1399,7 +1335,7 @@ Kyle HarrisonHard Hit / Pitches (%)01171071438181113
 
 Kyle HarrisonxBA.056.307.206.243.251.324.194.176.232.124.209.148.259
 
-Kyle HarrisonxBA (Contact).075.380.270.313.335.402.290.237.305.372.450.354.440
+Kyle HarrisonxBA (Contact).075.380.271.313.335.402.290.237.305.372.450.354.440
 
 Kyle HarrisonxOBP.245.307.206.243.251.324.194.176.232.343.432.246.337
 

@@ -3,6 +3,60 @@ source: https://baseballsavant.mlb.com/savant-player/landen-roupp-694738
 slug: baseballsavant-landen-roupp
 ---
 
+|     |     |     |     |
+| --- | --- | --- | --- |
+| ![](https://www.mlbstatic.com/team-logos/140.svg) | TEX | 2 | Final |
+| ![](https://www.mlbstatic.com/team-logos/139.svg) | TB | 3 |
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| ![](https://www.mlbstatic.com/team-logos/118.svg) | KC | 3 | Final |
+| ![](https://www.mlbstatic.com/team-logos/142.svg) | MIN | 4 |
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| ![](https://www.mlbstatic.com/team-logos/147.svg) | NYY | 1 | Final |
+| ![](https://www.mlbstatic.com/team-logos/145.svg) | CWS | 2 |
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| ![](https://www.mlbstatic.com/team-logos/112.svg) | CHC | 4 | Final |
+| ![](https://www.mlbstatic.com/team-logos/138.svg) | STL | 2 |
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| ![](https://www.mlbstatic.com/team-logos/134.svg) | PIT | 2 | Final |
+| ![](https://www.mlbstatic.com/team-logos/113.svg) | CIN | 3 |
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| ![](https://www.mlbstatic.com/team-logos/146.svg) | MIA | 2 | Final |
+| ![](https://www.mlbstatic.com/team-logos/121.svg) | NYM | 4 |
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| ![](https://www.mlbstatic.com/team-logos/120.svg) | WSH | 4 | Final |
+| ![](https://www.mlbstatic.com/team-logos/144.svg) | ATL | 5 |
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| ![](https://www.mlbstatic.com/team-logos/111.svg) | BOS | 5 | Final |
+| ![](https://www.mlbstatic.com/team-logos/133.svg) | ATH | 4 |
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| ![](https://www.mlbstatic.com/team-logos/137.svg) | SF | 4 | Final |
+| ![](https://www.mlbstatic.com/team-logos/135.svg) | SD | 1 |
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| ![](https://www.mlbstatic.com/team-logos/136.svg) | SEA | 2 | Final |
+| ![](https://www.mlbstatic.com/team-logos/119.svg) | LAD | 6 |
+
+<
+
+>
+
 ![](https://securea.mlb.com/images/players/action_shots/694738.jpg)![](https://content.mlb.com/images/headshots/current/60x60/694738@3x.png)
 
 [Landen Roupp](https://www.mlb.com/player/694738)
@@ -41,18 +95,46 @@ Player Apps
 
 Random Video [illustrator](https://baseballsavant.mlb.com/illustrator?playerId=694738&playerType=pitcher&name=Landen%20Roupp&tabSelection=0&shape=square&shapeName=Square%20(Instagram)&subTitle=&chartType=zoneChart-totalPitches&chartName=Zone%20-%20Total%20Pitches&pitcherThrows=&batterStands=&plateAppearanceResults=[]&pitchTypes=[]&pitchResults=[]&facingPlayer=[]&balls=[]&years=[2026]&strikes=[]&outs=[]&selectedGames=[]&homeTeam=[]&awayTeam=[]&vsTeam=[]&exitVelocityGT=0&exitVelocityLT=125&pitchVelocityGT=0&pitchVelocityLT=105&launchAngleGT=-90&launchAngleLT=90) [Visual Report](https://baseballsavant.mlb.com/player-scroll?player_id=694738) [3D Pitches](https://baseballsavant.mlb.com/visuals/pitch3d?player_id=694738) [Player Similarity](https://baseballsavant.mlb.com/affinity-pitchersAndHitters-byHittingProfile#players=hitters&player=694738-R&s=0.7) [Swing Take Profile](https://baseballsavant.mlb.com/visuals/swing-take?playerId=694738&playerSet=hitters&year=2026)
 
+20262026
+
+2026
+
+2025
+
+2024
+
 Pitch Usage
+
+vs. LHH34%21%26%14%6%Pitchvs. RHH37%33%12%14%4%35%SI26%CU20%CH14%FC5%FF
+
+20262026
+
+2026
+
+2025
+
+2024
 
 MLB Percentile Rankings
 [![](https://baseballsavant.mlb.com/site-core/images/comp_tool_icons27.png)](https://baseballsavant.mlb.com/comparison-tool?player=694738-2026-pitcher&openSearch=true "Compare to Other Players")
 
-![](https://baseballsavant.mlb.com/sections/evp/images/play.png)
+![](https://baseballsavant.mlb.com/sections/evp/images/play.png)ValuesavantPOORAVERAGEGREATPitching Run Value10NOT QUALIFIED81Fastball Run Value-1NOT QUALIFIED33Breaking Run Value6NOT QUALIFIED90Offspeed Run Value5NOT QUALIFIED91PitchingxERA3.48NOT QUALIFIED70xBA.228NOT QUALIFIED64Fastball Velo93.3NOT QUALIFIED29Avg Exit Velo86.3NOT QUALIFIED92Chase %30.2NOT QUALIFIED48Whiff %24.7NOT QUALIFIED45K %24.0NOT QUALIFIED58BB %10.1NOT QUALIFIED26Barrel %4.2NOT QUALIFIED90Hard-Hit %29.4NOT QUALIFIED96GB %52.4NOT QUALIFIED90Extension6.4NOT QUALIFIED45
+
+20262026
+
+2026
+
+2025
+
+2024
 
 Movement Profile (Induced Break)
 
 
 ?
 
+
+MLB AVG.3.1 INCHES RISEARM ANGLE24°12"24"6"12"18"24"12"24"12"24"10.9 INCHES TAIL11.1 INCHES RISE3.0 INCHES BREAK5.6 INCHES RISEAVG15.4 INCHES TAIL2.6 INCHES DROPAVG19.2 INCHES BREAK8.4 INCHES DROPAVG17.2 INCHES TAIL3.1 INCHES RISEAVG1B3BMOVES TOWARD︎MORERISEMOREDROPUSAGEMPHRHP AVGSinker35%93.394.5Curve26%76.781.0Change20%87.286.9Cutter14%88.990.24-Seam5%92.995.2SAMPLE100 PITCH
 
 [Statcast](https://baseballsavant.mlb.com/savant-player/landen-roupp-694738#statcast) [Standard](https://baseballsavant.mlb.com/savant-player/landen-roupp-694738#standard) [Splits](https://baseballsavant.mlb.com/savant-player/landen-roupp-694738#splits) [Game Logs](https://baseballsavant.mlb.com/savant-player/landen-roupp-694738#gamelogs)
 
@@ -111,12 +193,12 @@ Movement Profile (Induced Break)
 
 PitchingFieldingBat TrackingABSBreakdownsZones
 
-## [Standard MLB Batting Statistics](https://baseballsavant.mlb.com/savant-player/landen-roupp-694738\#standard-mlb-batting-stats)
+## [Standard MLB Batting Statistics](https://baseballsavant.mlb.com/savant-player/landen-roupp-694738?stats=statcast-r-pitching-mlb\#standard-mlb-batting-stats)
 
 No MLB Hitting Statistics.
 
 
-## [Standard MLB Pitching Statistics](https://baseballsavant.mlb.com/savant-player/landen-roupp-694738\#standard-mlb-pitching-stats)
+## [Standard MLB Pitching Statistics](https://baseballsavant.mlb.com/savant-player/landen-roupp-694738?stats=statcast-r-pitching-mlb\#standard-mlb-pitching-stats)
 
 |  | Season | Tm | LG | BF | W | L | ERA | G | GS | SV | IP | H | R | ER | HR | BB | SO | WHIP |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -130,7 +212,7 @@ Rankings AL/NL: Top 5101520,
 Click for Chart.
 
 
-## [Standard MLB Fielding Statistics](https://baseballsavant.mlb.com/savant-player/landen-roupp-694738\#standard-mlb-fielding-stats)
+## [Standard MLB Fielding Statistics](https://baseballsavant.mlb.com/savant-player/landen-roupp-694738?stats=statcast-r-pitching-mlb\#standard-mlb-fielding-stats)
 
 | Season | Tm | LG | POS | G | GS | INN | TC | PO | A | E | DP | RF | FPCT% |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -139,7 +221,7 @@ Click for Chart.
 | 2026 | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | NL | P | 21 | 21 | 113.2 | 24 | 8 | 16 | 0 | 4 |  | 1.000 |
 | 3 Seasons | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | NL | P | 66 | 47 | 270.2 | 50 | 14 | 36 | 0 | 5 |  | 1.000 |
 
-## [Spray Chart](https://baseballsavant.mlb.com/savant-player/landen-roupp-694738\#spray-chart)
+## [Spray Chart](https://baseballsavant.mlb.com/savant-player/landen-roupp-694738?stats=statcast-r-pitching-mlb\#spray-chart)
 
 All Seasons
 
@@ -157,12 +239,12 @@ Save Image
 
 ###### Loading Spray Data...
 
-## [Standard Minor League Batting Statistics](https://baseballsavant.mlb.com/savant-player/landen-roupp-694738\#standard-milb-batting-stats)
+## [Standard Minor League Batting Statistics](https://baseballsavant.mlb.com/savant-player/landen-roupp-694738?stats=statcast-r-pitching-mlb\#standard-milb-batting-stats)
 
 No Minor League Hitting Statistics.
 
 
-## [Standard Minor League Pitching Statistics](https://baseballsavant.mlb.com/savant-player/landen-roupp-694738\#standard-milb-pitching-stats)
+## [Standard Minor League Pitching Statistics](https://baseballsavant.mlb.com/savant-player/landen-roupp-694738?stats=statcast-r-pitching-mlb\#standard-milb-pitching-stats)
 
 | Season | Tm | LG | L | W | L | ERA | G | GS | SV | IP | H | R | ER | HR | BB | SO | WHIP |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -185,7 +267,7 @@ No Minor League Hitting Statistics.
 |  | San Jose Giants | CAL | A | 5 | 2 | 2.49 | 15 | 2 | 0 | 50.2 | 34 | 14 | 14 | 2 | 17 | 71 | 1.01 |
 | Career Minors | 5 Teams |  |  | 10 | 4 | 2.56 | 53 | 33 | 0 | 175.2 | 118 | 51 | 50 | 8 | 61 | 254 | 1.02 |
 
-## [Standard Minor League Fielding Statistics](https://baseballsavant.mlb.com/savant-player/landen-roupp-694738\#standard-milb-fielding-stats)
+## [Standard Minor League Fielding Statistics](https://baseballsavant.mlb.com/savant-player/landen-roupp-694738?stats=statcast-r-pitching-mlb\#standard-milb-fielding-stats)
 
 | Season | Tm | LG | L | POS | G | GS | INN | TC | PO | A | E | DP | RF | FPCT% |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -208,19 +290,19 @@ No Minor League Hitting Statistics.
 |  | San Jose Giants | CAL | A | P | 15 | 2 | 50.2 | 11 | 3 | 8 | 0 | 0 |  | 1.000 |
 | Career Minors | 5 Teams |  |  | P | 53 | 33 | 175.2 | 27 | 10 | 17 | 0 | 1 |  | 1.000 |
 
-## [Rankings](https://baseballsavant.mlb.com/savant-player/landen-roupp-694738\#rankings)
+## [Rankings](https://baseballsavant.mlb.com/savant-player/landen-roupp-694738?stats=statcast-r-pitching-mlb\#rankings)
 
 #### Runs
 
 | Year | R | Rank |
 | --- | --- | --- |
-| 2026 | 56 | 19th in NL |
+| 2026 | 56 | 20th in NL |
 
 #### Doubles
 
 | Year | 2B | Rank |
 | --- | --- | --- |
-| 2026 | 24 | 8th in NL |
+| 2026 | 24 | 9th in NL |
 
 #### Triples
 
@@ -238,7 +320,7 @@ No Minor League Hitting Statistics.
 
 | Year | AVG | Rank |
 | --- | --- | --- |
-| 2026 | .227 | 11th in NL |
+| 2026 | .227 | 12th in NL |
 
 #### Caught Stealing
 
@@ -256,7 +338,7 @@ No Minor League Hitting Statistics.
 
 | Year | IP | Rank |
 | --- | --- | --- |
-| 2026 | 113.2 | 20th in NL |
+| 2026 | 113.2 | 21st in NL |
 
 #### Losses
 
@@ -272,7 +354,7 @@ No Minor League Hitting Statistics.
 
 \+ View More Rankings
 
-## [Transactions](https://baseballsavant.mlb.com/savant-player/landen-roupp-694738\#transactions)
+## [Transactions](https://baseballsavant.mlb.com/savant-player/landen-roupp-694738?stats=statcast-r-pitching-mlb\#transactions)
 
 | Team | Date | Transaction |
 | --- | --- | --- |
@@ -315,14 +397,14 @@ No Minor League Hitting Statistics.
 | ![](https://www.mlbstatic.com/team-logos/408.svg) | 08/31/2021 | RHP Landen Roupp assigned to ACL Giants Black. |
 | ![](https://www.mlbstatic.com/team-logos/137.svg) | 07/23/2021 | San Francisco Giants signed RHP Landen Roupp. |
 
-### [Platoon Splits](https://baseballsavant.mlb.com/savant-player/landen-roupp-694738\#platoon-splits)
+### [Platoon Splits](https://baseballsavant.mlb.com/savant-player/landen-roupp-694738?stats=statcast-r-pitching-mlb\#platoon-splits)
 
 | Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP | AVG | OBP | SLG | OPS |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | San Francisco Giants | MLB | vs Left |  |  |  | 21 |  |  | 65.1 | 275 | 51 |  |  | 3 | 34 | 64 | 1.30 | .216 | .322 | .318 | .640 |
 | San Francisco Giants | MLB | vs Right |  |  |  | 21 |  |  | 48.0 | 200 | 44 |  |  | 5 | 14 | 50 | 1.21 | .240 | .295 | .393 | .688 |
 
-### [Monthly Splits](https://baseballsavant.mlb.com/savant-player/landen-roupp-694738\#monthly-splits)
+### [Monthly Splits](https://baseballsavant.mlb.com/savant-player/landen-roupp-694738?stats=statcast-r-pitching-mlb\#monthly-splits)
 
 | Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP | AVG | OBP | SLG | OPS |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -334,7 +416,7 @@ No Minor League Hitting Statistics.
 | San Francisco Giants | MLB | Pre All-Star | 6 | 8 | 4.27 | 18 | 18 | 0 | 97.0 | 411 | 85 | 50 | 46 | 7 | 42 | 104 | 1.31 | .234 | .317 | .366 | .683 |
 | San Francisco Giants | MLB | Post All-Star | 1 | 1 | 3.24 | 3 | 3 | 0 | 16.2 | 64 | 10 | 6 | 6 | 1 | 6 | 10 | 0.96 | .179 | .270 | .250 | .520 |
 
-### [Baserunner Splits](https://baseballsavant.mlb.com/savant-player/landen-roupp-694738\#baserunner-splits)
+### [Baserunner Splits](https://baseballsavant.mlb.com/savant-player/landen-roupp-694738?stats=statcast-r-pitching-mlb\#baserunner-splits)
 
 | Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP | AVG | OBP | SLG | OPS |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -348,7 +430,7 @@ No Minor League Hitting Statistics.
 | San Francisco Giants | MLB | Runner at 3rd |  |  |  | 7 |  |  | 2.0 | 9 | 3 |  |  | 0 | 0 | 2 | 1.50 | .429 | .333 | .571 | .904 |
 | San Francisco Giants | MLB | Scoring Position |  |  |  | 20 |  |  | 23.1 | 104 | 24 |  |  | 3 | 12 | 33 | 1.54 | .270 | .356 | .427 | .783 |
 
-### [Game Type Splits](https://baseballsavant.mlb.com/savant-player/landen-roupp-694738\#game-type-splits)
+### [Game Type Splits](https://baseballsavant.mlb.com/savant-player/landen-roupp-694738?stats=statcast-r-pitching-mlb\#game-type-splits)
 
 | Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP | AVG | OBP | SLG | OPS |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -359,7 +441,7 @@ No Minor League Hitting Statistics.
 | San Francisco Giants | MLB | Leading Off Inning |  |  |  | 21 |  |  | 26.1 | 120 | 25 |  |  | 3 | 14 | 32 | 1.48 | .238 | .333 | .371 | .704 |
 | San Francisco Giants | MLB | Late / Close |  |  |  | 1 |  |  | 1.0 | 3 | 0 |  |  | 0 | 0 | 1 | 0.00 | .000 | .000 | .000 | .000 |
 
-### [Outs Splits](https://baseballsavant.mlb.com/savant-player/landen-roupp-694738\#out-splits)
+### [Outs Splits](https://baseballsavant.mlb.com/savant-player/landen-roupp-694738?stats=statcast-r-pitching-mlb\#out-splits)
 
 | Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP | AVG | OBP | SLG | OPS |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -367,7 +449,7 @@ No Minor League Hitting Statistics.
 | San Francisco Giants | MLB | One Out |  |  |  | 21 |  |  | 38.0 | 160 | 37 |  |  | 1 | 14 | 33 | 1.34 | .259 | .325 | .371 | .696 |
 | San Francisco Giants | MLB | Two Outs |  |  |  | 21 |  |  | 34.1 | 144 | 26 |  |  | 3 | 15 | 38 | 1.19 | .203 | .292 | .336 | .628 |
 
-### [Inning Splits](https://baseballsavant.mlb.com/savant-player/landen-roupp-694738\#inning-splits)
+### [Inning Splits](https://baseballsavant.mlb.com/savant-player/landen-roupp-694738?stats=statcast-r-pitching-mlb\#inning-splits)
 
 | Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP | AVG | OBP | SLG | OPS |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -380,21 +462,21 @@ No Minor League Hitting Statistics.
 | San Francisco Giants | MLB | Seventh Inning |  |  | 6.00 | 5 |  |  | 3.0 | 13 | 4 | 2 | 2 | 1 | 1 | 1 | 1.67 | .333 | .385 | .750 | 1.135 |
 | San Francisco Giants | MLB | Eighth Inning |  |  | 0.00 | 2 |  |  | 1.2 | 7 | 1 | 0 | 0 | 0 | 1 | 3 | 1.20 | .167 | .286 | .167 | .453 |
 
-### [Platoon Splits](https://baseballsavant.mlb.com/savant-player/landen-roupp-694738\#milb-platoon-splits)
+### [Platoon Splits](https://baseballsavant.mlb.com/savant-player/landen-roupp-694738?stats=statcast-r-pitching-mlb\#milb-platoon-splits)
 
 | Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP | AVG | OBP | SLG | OPS |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Sacramento River Cats | Triple-A | vs Left |  |  |  | 1 |  |  | 1.1 | 5 | 1 |  |  | 0 | 0 | 1 | 0.75 | .200 | .200 | .400 | .600 |
 | Sacramento River Cats | Triple-A | vs Right |  |  |  | 1 |  |  | 1.2 | 7 | 2 |  |  | 0 | 0 | 3 | 1.20 | .286 | .286 | .571 | .857 |
 
-### [Monthly Splits](https://baseballsavant.mlb.com/savant-player/landen-roupp-694738\#milb-monthly-splits)
+### [Monthly Splits](https://baseballsavant.mlb.com/savant-player/landen-roupp-694738?stats=statcast-r-pitching-mlb\#milb-monthly-splits)
 
 | Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP | AVG | OBP | SLG | OPS |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Sacramento River Cats | Triple-A | August | 0 | 0 | 6.00 | 1 | 1 | 0 | 3.0 | 12 | 3 | 2 | 2 | 0 | 0 | 4 | 1.00 | .250 | .250 | .500 | .750 |
 | Sacramento River Cats | Triple-A | Second Half | 0 | 0 | 6.00 | 1 | 1 | 0 | 3.0 | 12 | 3 | 2 | 2 | 0 | 0 | 4 | 1.00 | .250 | .250 | .500 | .750 |
 
-### [Baserunner Splits](https://baseballsavant.mlb.com/savant-player/landen-roupp-694738\#milb-baserunner-splits)
+### [Baserunner Splits](https://baseballsavant.mlb.com/savant-player/landen-roupp-694738?stats=statcast-r-pitching-mlb\#milb-baserunner-splits)
 
 | Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP | AVG | OBP | SLG | OPS |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -402,7 +484,7 @@ No Minor League Hitting Statistics.
 | Sacramento River Cats | Triple-A | Runner at 2nd |  |  |  | 1 |  |  | 0.2 | 4 | 2 |  |  | 0 | 0 | 1 | 3.00 | .500 | .500 | 1.000 | 1.500 |
 | Sacramento River Cats | Triple-A | Scoring Position |  |  |  | 1 |  |  | 0.2 | 4 | 2 |  |  | 0 | 0 | 1 | 3.00 | .500 | .500 | 1.000 | 1.500 |
 
-### [Game Type Splits](https://baseballsavant.mlb.com/savant-player/landen-roupp-694738\#milb-game-type-splits)
+### [Game Type Splits](https://baseballsavant.mlb.com/savant-player/landen-roupp-694738?stats=statcast-r-pitching-mlb\#milb-game-type-splits)
 
 | Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP | AVG | OBP | SLG | OPS |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -410,7 +492,7 @@ No Minor League Hitting Statistics.
 | Sacramento River Cats | Triple-A | Day Games | 0 | 0 | 6.00 | 1 | 1 | 0 | 3.0 | 12 | 3 | 2 | 2 | 0 | 0 | 4 | 1.00 | .250 | .250 | .500 | .750 |
 | Sacramento River Cats | Triple-A | Leading Off Inning |  |  |  | 1 |  |  | 1.0 | 3 | 0 |  |  | 0 | 0 | 2 | 0.00 | .000 | .000 | .000 | .000 |
 
-### [Outs Splits](https://baseballsavant.mlb.com/savant-player/landen-roupp-694738\#milb-out-splits)
+### [Outs Splits](https://baseballsavant.mlb.com/savant-player/landen-roupp-694738?stats=statcast-r-pitching-mlb\#milb-out-splits)
 
 | Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP | AVG | OBP | SLG | OPS |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -418,7 +500,7 @@ No Minor League Hitting Statistics.
 | Sacramento River Cats | Triple-A | One Out |  |  |  | 1 |  |  | 1.0 | 4 | 1 |  |  | 0 | 0 | 1 | 1.00 | .250 | .250 | .500 | .750 |
 | Sacramento River Cats | Triple-A | Two Outs |  |  |  | 1 |  |  | 1.0 | 5 | 2 |  |  | 0 | 0 | 1 | 2.00 | .400 | .400 | .800 | 1.200 |
 
-### [Inning Splits](https://baseballsavant.mlb.com/savant-player/landen-roupp-694738\#milb-inning-splits)
+### [Inning Splits](https://baseballsavant.mlb.com/savant-player/landen-roupp-694738?stats=statcast-r-pitching-mlb\#milb-inning-splits)
 
 | Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP | AVG | OBP | SLG | OPS |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -469,17 +551,17 @@ No Minor League Hitting Statistics.
 - All DirectionsPullStraightawayOpposite▾
 
 
-## [Statcast Statistics](https://baseballsavant.mlb.com/savant-player/landen-roupp-694738\#statcast-statistics)
+## [Statcast Statistics](https://baseballsavant.mlb.com/savant-player/landen-roupp-694738?stats=statcast-r-pitching-mlb\#statcast-statistics)
 
 | 2024 | 25 | 907 | 143 | 7 | 4.9 | 3.2 | 89.0 | 111.6 | 10.6 | 35.0 | .238 | .363 | .294 | .313 | .345 | 39.2 | 21.7 | 12.0 | 3.58 | 3.99 |
 | 2025 | 26 | 1851 | 326 | 29 | 8.9 | 6.1 | 88.4 | 115.4 | 9.8 | 36.5 | .248 | .408 | .325 | .319 | .366 | 36.5 | 21.4 | 9.5 | 3.80 | 4.24 |
-| 2026 | 27 | 2008 | 309 | 13 | 4.2 | 2.7 | 86.3 | 112.9 | 9.1 | 32.7 | .228 | .329 | .297 | .290 | .328 | 29.4 | 24.0 | 10.1 | 4.12 | 3.50 |
-| **Player** |  | 4766 | 778 | 49 | 6.3 | 4.2 | 87.7 | 115.4 | 9.7 | 34.7 | .238 | .368 | .307 | .306 | .347 | 34.2 | 22.5 | 10.2 |  |  |
-| **MLB** |  |  |  |  | 7.6 | 4.9 | 88.6 | 122.9 | 12.5 | 33.3 | .243 | .407 | .316 | .316 | .369 | 37.1 | 22.2 | 8.4 |  |  |
+| 2026 | 27 | 2008 | 309 | 13 | 4.2 | 2.7 | 86.3 | 112.9 | 9.1 | 32.7 | .228 | .329 | .297 | .290 | .328 | 29.4 | 24.0 | 10.1 | 4.12 | 3.48 |
+| **Player** |  | 4766 | 778 | 49 | 6.3 | 4.2 | 87.7 | 115.4 | 9.7 | 34.7 | .238 | .368 | .308 | .306 | .347 | 34.2 | 22.5 | 10.2 |  |  |
+| **MLB** |  |  |  |  | 7.6 | 4.9 | 88.6 | 122.9 | 12.5 | 33.3 | .243 | .407 | .315 | .316 | .369 | 37.1 | 22.2 | 8.4 |  |  |
 
 ! Note: All figures in this table cover the period 2015-present.
 
-## [Statcast Pitch Arsenal](https://baseballsavant.mlb.com/savant-player/landen-roupp-694738\#statcast-pitch-arsenal)
+## [Statcast Pitch Arsenal](https://baseballsavant.mlb.com/savant-player/landen-roupp-694738?stats=statcast-r-pitching-mlb\#statcast-pitch-arsenal)
 
 Roupp relies on 5 pitches.
 
@@ -503,6 +585,8 @@ Cutter
 Four Seamer
 
 (4.9%) ,
+
+Sinker703 Pitches (35%)
 
 - All PitchesSwing & MissesBase HitsRight Handed BatterLeft Handed BatterAhead In CountBehind In CountEven Count2 Strikes▾
 
@@ -535,6 +619,8 @@ Landen Roupp's Pitches in 3d](https://baseballsavant.mlb.com/visuals/pitch3d?pla
 \-\-\- [Compare\\
 All Similar Pitchers](https://baseballsavant.mlb.com/affinity-pitchers-bySHV#players=pitchers&player=694738-R)
 
+Created with Highcharts 6.2.0%Chart context menuLanden Roupp Pitch % by SeasonSource: baseballsavant.mlb.comSinkerCurveballChangeupCutterFour SeamerSlider202420252026010203040
+
 Fastball: 4 Seam, Sinker, Cutter
 Offspeed: Change, Split, Fork, Screw
 Breaking: Slider, Curve, Knuckle, Sweeper, Slurve, Other
@@ -550,16 +636,36 @@ Breaking: Slider, Curve, Knuckle, Sweeper, Slurve, Other
 
 - Count0-00-10-21-01-11-22-02-12-23-03-13-2Batter AheadBatter Behind2 Strikes3 Balls▾
 
-- All Pitches▾
+- All PitchesSinkerCurveballChangeupCutterFour SeamerSlider▾
 
 - All Seasons202620252024▾
 
 - Regular SeasonRegular + Postseason▾
 
 
-## [Pitch Tracking](https://baseballsavant.mlb.com/savant-player/landen-roupp-694738\#pitch_tracking)
+## [Pitch Tracking](https://baseballsavant.mlb.com/savant-player/landen-roupp-694738?stats=statcast-r-pitching-mlb\#pitch_tracking)
 
-## [Batted Ball Profile](https://baseballsavant.mlb.com/savant-player/landen-roupp-694738\#batted_ball_profile)
+| 2026 | Sinker | 703 | 306 | 397 | 35.0 | 93.3 | 162 | 134 | 34 | 17 | 10 | 1 | 6 | 20 | 115 | .254 | .273 | .478 | .469 | .375 | .380 | 88.3 | 4 | 2061 | 6.4 | 9.3 | 15.9 |
+| 2026 | Curveball | 517 | 273 | 244 | 25.7 | 76.7 | 130 | 115 | 23 | 17 | 5 | 0 | 1 | 48 | 69 | .200 | .183 | .270 | .228 | .250 | .228 | 81.9 | 13 | 3071 | 6.0 | 33.6 | 25.8 |
+| 2026 | Changeup | 410 | 97 | 313 | 20.4 | 87.2 | 108 | 101 | 19 | 14 | 5 | 0 | 0 | 23 | 79 | .188 | .227 | .238 | .282 | .215 | .250 | 81.6 | 0 | 1879 | 6.2 | 29.5 | 14.9 |
+| 2026 | Cutter | 279 | 115 | 164 | 13.9 | 88.9 | 55 | 50 | 16 | 11 | 3 | 1 | 1 | 13 | 37 | .320 | .261 | .480 | .359 | .377 | .309 | 85.2 | 17 | 2347 | 6.2 | 29.3 | 24.1 |
+| 2026 | Four Seamer | 99 | 33 | 66 | 4.9 | 92.9 | 20 | 19 | 3 | 2 | 1 | 0 | 0 | 10 | 9 | .158 | .103 | .211 | .123 | .188 | .130 | 90.6 | 30 | 2148 | 6.4 | 34.4 | 14.1 |
+| 2025 | Sinker | 739 | 359 | 380 | 39.9 | 92.8 | 194 | 169 | 60 | 45 | 12 | 0 | 3 | 26 | 145 | .355 | .304 | .479 | .459 | .398 | .368 | 91.0 | 7 | 2100 | 6.4 | 10.5 | 20.2 |
+| 2025 | Curveball | 660 | 353 | 307 | 35.7 | 76.7 | 168 | 147 | 29 | 18 | 5 | 0 | 6 | 49 | 101 | .197 | .186 | .354 | .320 | .281 | .267 | 83.3 | 14 | 3029 | 6.1 | 35.8 | 23.7 |
+| 2025 | Changeup | 315 | 88 | 227 | 17.0 | 86.6 | 80 | 73 | 14 | 9 | 4 | 0 | 1 | 19 | 55 | .192 | .228 | .288 | .388 | .239 | .292 | 88.4 | 0 | 1827 | 6.3 | 28.7 | 14.5 |
+| 2025 | Cutter | 124 | 35 | 89 | 6.7 | 90.3 | 30 | 30 | 10 | 7 | 2 | 0 | 1 | 6 | 24 | .333 | .302 | .500 | .643 | .357 | .396 | 83.8 | 24 | 2324 | 6.3 | 28.3 | 19.4 |
+| 2025 | Four Seamer | 13 | 4 | 9 | 0.7 | 93.1 | 3 | 3 | 0 | 0 | 0 | 0 | 0 | 2 | 1 | .000 | .039 | .000 | .062 | .000 | .039 | 88.7 | 24 | 2102 | 6.4 | 28.6 | 18.2 |
+| 2024 | Curveball | 400 | 206 | 194 | 44.2 | 77.4 | 109 | 98 | 22 | 13 | 7 | 0 | 2 | 35 | 63 | .224 | .193 | .357 | .328 | .293 | .270 | 85.3 | 15 | 2964 | 6.4 | 33.5 | 21.0 |
+| 2024 | Sinker | 359 | 179 | 180 | 39.6 | 94.4 | 78 | 66 | 17 | 12 | 5 | 0 | 0 | 7 | 59 | .258 | .303 | .333 | .407 | .322 | .369 | 92.5 | 2 | 2086 | 6.7 | 4.9 | 9.7 |
+| 2024 | Changeup | 85 | 11 | 74 | 9.4 | 88.2 | 22 | 18 | 2 | 2 | 0 | 0 | 0 | 3 | 15 | .111 | .229 | .111 | .315 | .205 | .318 | 82.5 | 14 | 1819 | 6.6 | 35.7 | 10.0 |
+| 2024 | Slider | 38 | 32 | 6 | 4.2 | 83.9 | 4 | 4 | 1 | 1 | 0 | 0 | 0 | 0 | 4 | .250 | .234 | .250 | .296 | .220 | .230 | 96.4 | 44 | 2742 | 6.6 | 60.0 | 0.0 |
+| 2024 | Four Seamer | 24 | 9 | 15 | 2.6 | 93.7 | 4 | 4 | 1 | 0 | 1 | 0 | 0 | 2 | 2 | .250 | .301 | .500 | .781 | .314 | .447 | 100.5 | 16 | 2014 | 6.6 | 28.6 | 15.4 |
+
+! Note: Years are in reverse order.
+
+\+ Show More Seasons
+
+## [Batted Ball Profile](https://baseballsavant.mlb.com/savant-player/landen-roupp-694738?stats=statcast-r-pitching-mlb\#batted_ball_profile)
 
 |  |  | AIR: Fly Balls + Line Drives + Popups | All Batted Balls | Batted Ball Breakdown |
 | --- | --- | --- | --- | --- |
@@ -568,11 +674,11 @@ Breaking: Slider, Curve, Knuckle, Sweeper, Slurve, Other
 | 2025 | 46.0 | 54.0 | 24.2 | 24.8 | 4.9 | 41.1 | 38.0 | 20.9 | 23.6 | 17.5 | 4.9 | 17.5 | 20.6 | 16.0 |
 | 2026 | 52.4 | 47.6 | 20.4 | 22.7 | 4.5 | 42.7 | 36.6 | 20.7 | 28.2 | 18.8 | 5.5 | 14.6 | 17.8 | 15.2 |
 | **Player** | 48.8 | 51.2 | 21.6 | 24.4 | 5.1 | 41.8 | 37.0 | 21.2 | 25.6 | 18.1 | 5.1 | 16.2 | 18.9 | 16.1 |
-| **MLB** | 44.1 | 55.9 | 24.2 | 24.6 | 7.1 | 37.5 | 37.3 | 25.1 | 20.7 | 17.6 | 5.8 | 16.8 | 19.7 | 19.2 |
+| **MLB** | 44.1 | 55.9 | 24.2 | 24.6 | 7.1 | 37.5 | 37.3 | 25.1 | 20.7 | 17.5 | 5.8 | 16.8 | 19.7 | 19.2 |
 
 ! Note: All figures in this table cover the period 2015-present.
 
-## [Quality of Contact](https://baseballsavant.mlb.com/savant-player/landen-roupp-694738\#quality_of_contact)
+## [Quality of Contact](https://baseballsavant.mlb.com/savant-player/landen-roupp-694738?stats=statcast-r-pitching-mlb\#quality_of_contact)
 
 | 2024 | 4.2 | 35.7 | 23.1 | 23.1 | 9.1 | 4.9 | 3.2 |
 | 2025 | 6.7 | 33.1 | 22.1 | 23.9 | 5.2 | 8.9 | 6.1 |
@@ -599,7 +705,9 @@ Landen Roupp:
 \-\-\- [Compare\\
 All Similar Pitchers](https://baseballsavant.mlb.com/affinity-pitchersAndHitters-byHittingProfile#players=pitchers&player=694738-R)
 
-## [Pitch Movement](https://baseballsavant.mlb.com/savant-player/landen-roupp-694738\#pitch_movement)
+## [Pitch Movement](https://baseballsavant.mlb.com/savant-player/landen-roupp-694738?stats=statcast-r-pitching-mlb\#pitch_movement)
+
+Created with Highcharts 6.2.0Chart context menuLanden Roupp Vertical Movement vs Avg (Inches) by SeasonSource: baseballsavant.mlb.comCutterFour SeamerSinkerCurveballChangeupSlider202420252026-7.5-5-2.502.557.5
 
 - Vertical Movement vs Avg (Inches)Horizontal Movement vs Avg (Inches)Horizontal Movement (Inches)Vertical Movement (Inches)Induced Vertical Movement (Inches)Horizontal Movement % Break vs AvgVertical Movement % Break vs Avg▾
 
@@ -637,7 +745,7 @@ On the right, Induced Movement (or IVB) is reported without gravity, and attempt
 
 [\+ View Complete Pitch Movement Leaderboard](https://baseballsavant.mlb.com/pitch-movement)
 
-## [Run Values by Pitch Type](https://baseballsavant.mlb.com/savant-player/landen-roupp-694738\#run_value)
+## [Run Values by Pitch Type](https://baseballsavant.mlb.com/savant-player/landen-roupp-694738?stats=statcast-r-pitching-mlb\#run_value)
 
 | Team | RV/100 | Run Value | Pitches | % | PA | BA | SLG | wOBA | Whiff% | K% | PutAway % | xBA | xSLG | xwOBA | Hard Hit % |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -652,7 +760,7 @@ On the right, Induced Movement (or IVB) is reported without gravity, and attempt
 | 2025 | Cutter | ![](https://www.mlbstatic.com/team-logos/137.svg) | -1.0 | -1 | 124 | 6.7 | 30 | .333 | .500 | .360 | 28.3 | 20.0 | 19.4 | .302 | .643 | .396 | 41.7 |
 | 2025 | 4-Seam Fastball | ![](https://www.mlbstatic.com/team-logos/137.svg) | 4.1 | 1 | 13 | 0.7 | 3 | .000 | .000 | .000 | 28.6 | 66.7 | 18.2 | .039 | .062 | .039 | 0.0 |
 | 2024 | Curveball | ![](https://www.mlbstatic.com/team-logos/137.svg) | 0.5 | 2 | 400 | 44.2 | 109 | .224 | .357 | .295 | 33.5 | 32.1 | 21.0 | .193 | .328 | .271 | 25.4 |
-| 2024 | Sinker | ![](https://www.mlbstatic.com/team-logos/137.svg) | 0.1 | 1 | 359 | 39.6 | 78 | .258 | .333 | .326 | 4.9 | 9.0 | 9.7 | .303 | .407 | .370 | 57.6 |
+| 2024 | Sinker | ![](https://www.mlbstatic.com/team-logos/137.svg) | 0.1 | 1 | 359 | 39.6 | 78 | .258 | .333 | .326 | 4.9 | 9.0 | 9.7 | .303 | .406 | .370 | 57.6 |
 | 2024 | Changeup | ![](https://www.mlbstatic.com/team-logos/137.svg) | 1.8 | 1 | 85 | 9.4 | 22 | .111 | .111 | .209 | 35.7 | 13.6 | 10.0 | .229 | .315 | .320 | 13.3 |
 | 2024 | Slider | ![](https://www.mlbstatic.com/team-logos/137.svg) | 1.3 | 0 | 38 | 4.2 | 4 | .250 | .250 | .225 | 60.0 | 0.0 | 0.0 | .234 | .296 | .230 | 50.0 |
 | 2024 | 4-Seam Fastball | ![](https://www.mlbstatic.com/team-logos/137.svg) | -3.0 | -1 | 24 | 2.6 | 4 | .250 | .500 | .313 | 28.6 | 50.0 | 15.4 | .301 | .781 | .447 | 100.0 |
@@ -665,7 +773,7 @@ On the right, Induced Movement (or IVB) is reported without gravity, and attempt
 
 [\+ View Complete Pitch Arsenal Stats Leaderboard](https://baseballsavant.mlb.com/leaderboard/pitch-arsenal-stats?type=pitcher)
 
-## [Spin Direction](https://baseballsavant.mlb.com/savant-player/landen-roupp-694738\#spin_axis)
+## [Spin Direction](https://baseballsavant.mlb.com/savant-player/landen-roupp-694738?stats=statcast-r-pitching-mlb\#spin_axis)
 
 | Year | Pitch Type | Pitches | MPH | Active Spin % | Total Movement (In.) | Spin-Based | Observed | Deviation |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -689,6 +797,10 @@ On the right, Induced Movement (or IVB) is reported without gravity, and attempt
 
 \+ Show More Seasons
 
+1212345678910114-SEAM FASTBALLSINKERCUTTERCHANGEUPCURVEBALLLanden RouppSpin-Based Movement by Pitch TypeSPIN DIRECTION - PITCHER POV
+
+1212345678910114-SEAM FASTBALLSINKERCUTTERCHANGEUPCURVEBALLLanden RouppObserved Movement by Pitch TypeSPIN DIRECTION - PITCHER POV
+
 202620252024▾
 
 ! Note: This table is showing data from the PITCHER perspective.
@@ -697,14 +809,18 @@ On the right, Induced Movement (or IVB) is reported without gravity, and attempt
 [+\\
 View Complete Spin Direction Leaderboard](https://baseballsavant.mlb.com/leaderboard/spin-direction-pitches)
 
-## [Pitcher Arm Angle](https://baseballsavant.mlb.com/savant-player/landen-roupp-694738\#arm_angles)
+## [Pitcher Arm Angle](https://baseballsavant.mlb.com/savant-player/landen-roupp-694738?stats=statcast-r-pitching-mlb\#arm_angles)
+
+'24'25'26All YearsClick a year to see pitches
+
+ARM ANGLE27°2024ARM ANGLE23°2025ARM ANGLE24°2026
 
 ! Note: Data is available from 2020 through the present.
 
 
 [\+ View Complete Arm Angle Leaderboard](https://baseballsavant.mlb.com/leaderboard/pitcher-arm-angles)
 
-## [Statcast Pitching Run Value](https://baseballsavant.mlb.com/savant-player/landen-roupp-694738\#swing_take)
+## [Statcast Pitching Run Value](https://baseballsavant.mlb.com/savant-player/landen-roupp-694738?stats=statcast-r-pitching-mlb\#swing_take)
 
 These run values are **context-neutral**, meaning they do not take into account the base/out situation at the time the event occurred.
 
@@ -723,7 +839,7 @@ View Complete Pitching Run Value Leaderboard](https://baseballsavant.mlb.com/lea
 
 \+ Show Leverage-Based Run Value
 
-## [Statcast Pitching Run Value (Leveraged)](https://baseballsavant.mlb.com/savant-player/landen-roupp-694738\#swing_take_lev)
+## [Statcast Pitching Run Value (Leveraged)](https://baseballsavant.mlb.com/savant-player/landen-roupp-694738?stats=statcast-r-pitching-mlb\#swing_take_lev)
 
 These run values are **leveraged**, meaning the base/out situation at the time of the event does impact the run value (thus introducing context outside the batter's own contribution).
 
@@ -734,12 +850,12 @@ These run values are **leveraged**, meaning the base/out situation at the time o
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2024 | ![](https://www.mlbstatic.com/team-logos/137.svg) | 217 | 907 | 3 | 14 | -7 | -5 | 5 | 1 |
 | 2025 | ![](https://www.mlbstatic.com/team-logos/137.svg) | 475 | 1,851 | 3 | 15 | -10 | -7 | 1 | 6 |
-| 2026 | ![](https://www.mlbstatic.com/team-logos/137.svg) | 475 | 2,008 | 7 | 28 | -24 | -8 | 5 | -5 |
+| 2026 | ![](https://www.mlbstatic.com/team-logos/137.svg) | 475 | 2,008 | 7 | 28 | -23 | -8 | 5 | -5 |
 | Player |  | 1,167 | 4,766 | 14 | 57 | -40 | 14 | 11 | 2 |
 
 – Hide Leverage-Based Run Value
 
-## [Plate Discipline](https://baseballsavant.mlb.com/savant-player/landen-roupp-694738\#plate_discipline)
+## [Plate Discipline](https://baseballsavant.mlb.com/savant-player/landen-roupp-694738?stats=statcast-r-pitching-mlb\#plate_discipline)
 
 | 2024 | 907 | 46.3 | 57.6 | 82.6 | 26.7 | 60.0 | 39.3 | 61.3 | 41.0 | 25.3 | 8.4 | 75.0 |
 | 2025 | 1,851 | 47.1 | 60.3 | 83.3 | 29.0 | 59.2 | 44.6 | 61.1 | 43.8 | 25.2 | 6.2 | 70.2 |
@@ -750,7 +866,7 @@ These run values are **leveraged**, meaning the base/out situation at the time o
 ! Note: All figures in this table cover the period 2015-present.
 
 
-## [Percentile Rankings](https://baseballsavant.mlb.com/savant-player/landen-roupp-694738\#percent_rank)
+## [Percentile Rankings](https://baseballsavant.mlb.com/savant-player/landen-roupp-694738?stats=statcast-r-pitching-mlb\#percent_rank)
 
 |  | Run Value | Pitching |
 | --- | --- | --- |
@@ -758,7 +874,7 @@ These run values are **leveraged**, meaning the base/out situation at the time o
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2024 | 61 | 42 | 67 | 74 | 49 | 56 | 13 | 94 | 42 | 25 | 48 | 39 | 8 | 90 | 46 | 76 | 69 |
 | 2025 | 26 | 14 | 55 | 64 | 36 | 26 | 10 | 95 | 73 | 57 | 51 | 41 | 25 | 41 | 82 | 69 | 45 |
-| 2026 | 81 | 34 | 90 | 91 | 70 | 29 | 9 | 96 | 91 | 49 | 46 | 58 | 26 | 91 | 97 | 89 | 45 |
+| 2026 | 81 | 33 | 90 | 91 | 70 | 29 | 9 | 96 | 92 | 48 | 45 | 58 | 26 | 90 | 96 | 90 | 45 |
 
 [+\\
 View Complete Percentile Rankings Leaderboard](https://baseballsavant.mlb.com/leaderboard/percentile-rankings?type=pitcher)
@@ -767,7 +883,7 @@ View Complete Percentile Rankings Leaderboard](https://baseballsavant.mlb.com/le
 \\
 Compare To Other Players ![](https://baseballsavant.mlb.com/site-core/images/comp_tool_icons27.png)](https://baseballsavant.mlb.com/comparison-tool?player=694738-2026-pitcher&openSearch=true)
 
-## [Expected Home Runs](https://baseballsavant.mlb.com/savant-player/landen-roupp-694738\#xhr)
+## [Expected Home Runs](https://baseballsavant.mlb.com/savant-player/landen-roupp-694738?stats=statcast-r-pitching-mlb\#xhr)
 
 Adjusted
 
@@ -796,7 +912,7 @@ Note: xHR tells how many of this pitcher's batted balls allowed would have been 
 +
 View Standard Expected Home Runs
 
-## [Expected Home Runs by Park](https://baseballsavant.mlb.com/savant-player/landen-roupp-694738\#xhr-park)
+## [Expected Home Runs by Park](https://baseballsavant.mlb.com/savant-player/landen-roupp-694738?stats=statcast-r-pitching-mlb\#xhr-park)
 
 Adjusted
 
@@ -804,8 +920,8 @@ Adjusted
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2024 | 2 | 2 | 1 | 2 | 1 | 2 | 1 | 2 | 1 | 1 | 1 | 1 | 2 | 1 | 1 | 2 | 1 | 2 | 3 | 2 | 3 | 2 | 3 | 3 | 1 | 1 | 1 | 2 | 3 | 1 | 2 |
 | 2025 | 11 | 12 | 10 | 10 | 10 | 12 | 12 | 8 | 11 | 6 | 10 | 12 | 12 | 15 | 12 | 9 | 13 | 9 | 9 | 13 | 9 | 14 | 13 | 13 | 8 | 7 | 11 | 12 | 12 | 13 | 7 |
-| 2026 | 8 | 10 | 5 | 6 | 6 | 6 | 6 | 7 | 5 | 8 | 4 | 7 | 5 | 8 | 6 | 8 | 9 | 7 | 7 | 10 | 5 | 7 | 7 | 10 | 7 | 3 | 5 | 6 | 11 | 4 | 7 |
-| **Player** | 21 | 24 | 16 | 18 | 17 | 20 | 19 | 17 | 17 | 15 | 15 | 20 | 19 | 24 | 19 | 19 | 23 | 18 | 19 | 25 | 17 | 23 | 23 | 26 | 16 | 11 | 17 | 20 | 26 | 18 | 16 |
+| 2026 | 8 | 9 | 5 | 6 | 6 | 6 | 6 | 7 | 5 | 7 | 4 | 7 | 5 | 9 | 6 | 8 | 9 | 7 | 7 | 10 | 6 | 7 | 7 | 10 | 7 | 3 | 5 | 6 | 11 | 4 | 7 |
+| **Player** | 21 | 23 | 16 | 18 | 17 | 20 | 19 | 17 | 17 | 14 | 15 | 20 | 19 | 25 | 19 | 19 | 23 | 18 | 19 | 25 | 18 | 23 | 23 | 26 | 16 | 11 | 17 | 20 | 26 | 18 | 16 |
 
 Note: xHR tells how many of this pitcher's batted balls allowed would have been out of other stadiums. The "Adjusted" view here accounts for different wall heights, distances and environmental effects using Statcast Park Factor data.
 
@@ -829,7 +945,7 @@ View Standard Expected Home Runs By Park
 \\
 View Complete Expected Home Runs Leaderboard](https://baseballsavant.mlb.com/leaderboard/home-runs?player_type=Pitcher)
 
-## [Year to Year Changes](https://baseballsavant.mlb.com/savant-player/landen-roupp-694738\#yty)
+## [Year to Year Changes](https://baseballsavant.mlb.com/savant-player/landen-roupp-694738?stats=statcast-r-pitching-mlb\#yty)
 
 |  | 2026 | +/- |  | 2025 | +/- |  | 2024 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -856,10 +972,10 @@ View Complete Expected Home Runs Leaderboard](https://baseballsavant.mlb.com/lea
 | [Barrel %](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 4.2 | -4.7 | ↓ | 8.9 | +4.0 | ↑ | 4.9 |
 | [Avg Launch Angle](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 9.1 | -0.7 | ↓ | 9.8 | -0.8 | ↓ | 10.6 |
 | Statcast Bat Tracking |  |  |  |  |  |  |  |
-| [Bat Speed](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 71.9 | +0.1 | ↑ | 71.8 | +0.7 | ↑ | 71.1 |
-| [Attack Angle](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 12° | -1° | ↓ | 13° | 0° | ↓ | 13° |
-| [Ideal Attack Angle %](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 50.4 | +4.4 | ↑ | 46.0 | -2.6 | ↓ | 48.6 |
-| [Attack Direction](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | -5° | 0° | ↓ | -5° | +3° | ↑ | -8° |
+| [Bat Speed](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 71.9 | +0.1 | ↑ | 71.8 | +0.8 | ↑ | 71.0 |
+| [Attack Angle](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 12° | -1° | ↓ | 13° | 0° | ↑ | 13° |
+| [Ideal Attack Angle %](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 50.2 | +4.3 | ↑ | 45.9 | -1.2 | ↓ | 47.1 |
+| [Attack Direction](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | -6° | -1° | ↓ | -5° | +3° | ↑ | -8° |
 | [Swing Path - Tilt](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 34° | -1° | ↓ | 35° | +1° | ↑ | 33° |
 | [Swing Length](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | 7.4 | -0.1 | ↓ | 7.5 | -0.1 | ↓ | 7.6 |
 | Statcast Pitch Metrics |  |  |  |  |  |  |  |
@@ -937,7 +1053,7 @@ Toggle Viewing All Player's Year to Year Stats
 [+\\
 View Complete Year to Year Changes Leaderboard](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher)
 
-## [Statcast Fielder Positioning](https://baseballsavant.mlb.com/savant-player/landen-roupp-694738\#shift_stats)
+## [Statcast Fielder Positioning](https://baseballsavant.mlb.com/savant-player/landen-roupp-694738?stats=statcast-r-pitching-mlb\#shift_stats)
 
 |  | vs RHH | vs LHH |
 | --- | --- | --- |
@@ -954,7 +1070,7 @@ _their typical responsible slices of the field._
 [Learn more about\\
 how positioning is defined here](https://baseballsavant.mlb.com/sections/visuals-new/images/if-oaa.png)
 
-## [Pitch Tempo](https://baseballsavant.mlb.com/savant-player/landen-roupp-694738\#pitch-tempo)
+## [Pitch Tempo](https://baseballsavant.mlb.com/savant-player/landen-roupp-694738?stats=statcast-r-pitching-mlb\#pitch-tempo)
 
 |  | Bases Empty | Runners On Base |
 | --- | --- | --- |
@@ -967,15 +1083,29 @@ how positioning is defined here](https://baseballsavant.mlb.com/sections/visuals
 [+\\
 View Complete Pitch Tempo Leaderboard](https://baseballsavant.mlb.com/leaderboard/pitch-tempo)
 
-## [Pitch Distribution](https://baseballsavant.mlb.com/savant-player/landen-roupp-694738\#pitch_distribution)
+## [Pitch Distribution](https://baseballsavant.mlb.com/savant-player/landen-roupp-694738?stats=statcast-r-pitching-mlb\#pitch_distribution)
 
 - 202620252024▾
 
 
+Landen Roupp - 2026 Frequency of Pitches by Pitch Speed4-Seam FastballChangeupCurveballCutterSinkerAll Pitches75 MPH80 MPH85 MPH90 MPH95 MPHPitch Speed0%2%4%6%8%10%12%14%Frequency of Speed
+
+## [Statcast Pitcher Running Game](https://baseballsavant.mlb.com/savant-player/landen-roupp-694738?stats=statcast-r-pitching-mlb\#pitcher_running_game)
+
+|  | Runner on 1B (Only Runner On) | _SB + BK_ | _CS + PK_ | Runner Distance to 2B<br>on all SB Opportunities | Runner Distance to 2B<br>on SB Attempts Only |
+| --- | --- | --- | --- | --- | --- |
+| Year | Team | Pitcher <br>Stealing <br>Runs | Net <br>Bases<br>Prev. | Adv. <br> Prev.<br> vs Avg | Outs <br>vs Avg | SB Opp<br>(pitches) | SB Att % | SB | CS | Pickoffs | Balks | Forced <br>Balks | Base<br>Advances<br>Allowed | Outs<br>Created<br>On Bases | Lead<br>Distance<br>Gained | At<br>Pitcher's<br>First Move | At<br>Pitch<br>Release | Lead<br>Distance<br>Gained | At<br>Pitcher's<br>First Move | At<br>Pitch<br>Release |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2024 | ![](https://www.mlbstatic.com/team-logos/137.svg) | -1 | -1 | 0 | -1 | 344 | 0.9% | 3 | 0 | 0 | 2 | 0 | 5 | 0 | 3.9 | 12.4 | 16.3 | 13.0 | 12.6 | 25.6 |
+| 2025 | ![](https://www.mlbstatic.com/team-logos/137.svg) | 0 | 2 | 3 | -1 | 693 | 0.7% | 3 | 2 | 0 | 1 | 0 | 4 | 2 | 3.4 | 11.4 | 14.8 | 10.4 | 11.1 | 21.5 |
+| 2026 | ![](https://www.mlbstatic.com/team-logos/137.svg) | -1 | -2 | -1 | -1 | 644 | 1.4% | 6 | 3 | 0 | 0 | 0 | 6 | 3 | 4.1 | 11.4 | 15.5 | 14.8 | 11.8 | 26.6 |
+
+[\+ View Complete Pitcher Running Game Leaderboard](https://baseballsavant.mlb.com/leaderboard/pitcher-running-game)
+
 Loading Bat Tracking...
 
 
-## [Statcast Fielding Breakdown](https://baseballsavant.mlb.com/savant-player/landen-roupp-694738\#statcast-fielding-breakdown)
+## [Statcast Fielding Breakdown](https://baseballsavant.mlb.com/savant-player/landen-roupp-694738?stats=statcast-r-pitching-mlb\#statcast-fielding-breakdown)
 
 - 202620252024▾
 
@@ -983,6 +1113,8 @@ Loading Bat Tracking...
 
 
 Loading Chart Data...
+
+Landen RouppResponsible Plays for 20260ft20ft40ft60ft80ft100ft120ft140ftDistance From Ball Landing12345678Opportunity Time (Sec.)◀▶▼▲League Wide Catch Difficulty Scale★★★★★★012345OutHitWallBack
 
 \\* Click Any Legend Option to Reset Chart \| Save Chart
 
@@ -1011,7 +1143,7 @@ Show Hulls:
 
 Save Chart
 
-## [Pitching Rolling Stats Line Charts](https://baseballsavant.mlb.com/savant-player/landen-roupp-694738\#statcast-pitcher-rolling-stats-line-chart)
+## [Pitching Rolling Stats Line Charts](https://baseballsavant.mlb.com/savant-player/landen-roupp-694738?stats=statcast-r-pitching-mlb\#statcast-pitcher-rolling-stats-line-chart)
 
 - Expected wOBAExpected SLGExpected BAwOBASLGBatting AverageLaunch AngleExit VelocityHard Hit %Sweet Spot %K %BB %Swing & Miss %Bat SpeedAttack AngleSwing LengthAttack DirectionPercent Squared UpSwing Path - TiltIdeal Angle %▾
 
@@ -1020,7 +1152,9 @@ Save Chart
 - All Seasons202620252024▾
 
 
-## [Histograms](https://baseballsavant.mlb.com/savant-player/landen-roupp-694738\#statcast-histograms)
+## [Histograms](https://baseballsavant.mlb.com/savant-player/landen-roupp-694738?stats=statcast-r-pitching-mlb\#statcast-histograms)
+
+Created with Highcharts 6.2.0Exit VelocityPitchesChart context menuLanden Roupp Exit Velocity Histogram20253035404550556065707580859095100105110115120050100150200
 
 - Exit VelocityLaunch AnglePitch VelocityBat SpeedSwing LengthAttack AngleAttack DirectionSwing Path TiltPercent Squared UpArm AngleMiss Distance▾
 
@@ -1037,11 +1171,11 @@ Save Chart
 - All One ColorPitch VelocityHard Hit %Batter Run ValuePitcher Run ValueBatter RV / 100Pitcher RV / 100wOBABASLGxwOBAxBAxSLGExit VelocityBat SpeedSwing Length▾
 
 
-## [Pitching ABS Challenges](https://baseballsavant.mlb.com/savant-player/landen-roupp-694738\#statcast-abs)
+## [Pitching ABS Challenges](https://baseballsavant.mlb.com/savant-player/landen-roupp-694738?stats=statcast-r-pitching-mlb\#statcast-abs)
 
-## [Catching ABS Challenges](https://baseballsavant.mlb.com/savant-player/landen-roupp-694738\#statcast-abs-catcher)
+## [Catching ABS Challenges](https://baseballsavant.mlb.com/savant-player/landen-roupp-694738?stats=statcast-r-pitching-mlb\#statcast-abs-catcher)
 
-## [Statcast Zone Charts](https://baseballsavant.mlb.com/savant-player/landen-roupp-694738\#statcast-zone-chart)
+## [Statcast Zone Charts](https://baseballsavant.mlb.com/savant-player/landen-roupp-694738?stats=statcast-r-pitching-mlb\#statcast-zone-chart)
 
 - Compare Season202620252024▾
 
@@ -1049,5 +1183,123 @@ Save Chart
 
 - 202620252024▾
 
+
+## Run Value
+
+Landen RouppPitcher RV (All)3.2-1.77.88.22.45.85.2-1.01.2-4.4-6.2-5.8-5.0
+
+Landen RouppPitcher RV (Swings)1.7-3.55.35.90.83.51.7-3.00.03.81.911.010.7
+
+Landen RouppPitcher RV (Takes)1.41.82.62.31.62.33.52.01.3-8.2-8.2-16.8-15.7
+
+Landen RouppPitcher RV (Contact)1.5-5.13.25.50.42.90.7-3.5-2.51.10.56.3-0.6
+
+## Standard
+
+Landen RouppPitch %344454665992021
+
+Landen RouppTotal Pitches578879859883122125104176175403413
+
+Landen RouppSwing % By Zone47655358695959667120213237
+
+Landen RouppSwings By Zone2757424968497283743537129151
+
+Landen RouppK %171938173172122548241944
+
+Landen RouppWhiff %1123216961472640303152
+
+Landen RouppWhiffs By Zone31393631061914114079
+
+Landen RouppBatted Balls By Zone92217253219334121584928
+
+Landen RouppHits By Zone21234125916812912
+
+Landen RouppSingles By Zone16347447511711
+
+Landen RouppDoubles By Zone1300514420121
+
+Landen RouppTriples By Zone0000000200000
+
+Landen RouppHome Runs By Zone0300001310000
+
+Landen RouppXBH By Zone1600515930121
+
+Landen RouppStrikeouts By Zone25115149171361535
+
+Landen RouppBB %80300000030401719
+
+Landen RouppGround Ball %56325956345345515240506964
+
+Landen RouppLine Drive %33181820311630291020252018
+
+Landen RouppFlyball %11451816253221172920131014
+
+Landen RouppPopup %0568903210201304
+
+Landen RouppBABIP.250.474.176.160.375.263.250.351.350.200.250.184.429
+
+Landen RouppBatting Average.200.444.107.133.375.217.214.400.286.056.143.141.190
+
+Landen RouppBACON.250.545.176.160.375.263.273.400.381.200.250.184.429
+
+Landen RouppOBP.273.444.138.133.364.217.214.390.286.370.520.286.363
+
+Landen RouppSLG.300.889.107.133.531.261.381.825.464.056.214.172.206
+
+Landen RouppISO.100.444.000.000.156.043.167.425.179.000.071.031.016
+
+Landen RouppwOBA.259.564.116.119.379.209.253.502.322.267.394.231.287
+
+Landen RouppwOBA (Contact).268.692.157.142.391.253.322.514.429.178.268.178.394
+
+## Statcast
+
+Landen RouppAvg Exit Velocity80868288909089878586748177
+
+Landen RouppAvg Launch Angle5177718984181714-2-2
+
+Landen RouppBat Speed (MPH)70707172737273737270717272
+
+Landen RouppSwing Length (ft)6.66.46.67.07.27.07.67.77.96.66.77.88.1
+
+Landen RouppSquared up % / Swings222817313722312816611178
+
+Landen RouppSquared up % / Contact25362133402435302210152517
+
+Landen RouppAttack Angle347696131319671420
+
+Landen RouppAttack Direction141153-22-4-10-1884-9-19
+
+Landen RouppSwing Path (Tilt)27292932323236353429273637
+
+Landen RouppBarrels0300202510000
+
+Landen RouppBarrels / BIP (%)014006061250000
+
+Landen RouppBarrels / Swings (%)0500303610000
+
+Landen RouppBarrels / Pitches (%)0300202410000
+
+Landen RouppHard Hit2927136151741186
+
+Landen RouppHard Hit / BIP (%)22411228413245411920131621
+
+Landen RouppHard Hit / Swings (%)7165141912212053364
+
+Landen RouppHard Hit / Pitches (%)41038137121441121
+
+Landen RouppxBA.320.289.143.231.296.213.267.400.266.027.091.219.141
+
+Landen RouppxBA (Contact).400.355.235.277.296.257.340.400.354.099.159.288.316
+
+Landen RouppxOBP.382.289.172.231.287.213.267.390.266.352.491.353.323
+
+Landen RouppxSLG.384.511.170.269.471.265.457.696.362.038.105.255.165
+
+Landen RouppxISO.064.222.027.039.175.052.190.296.096.011.014.035.024
+
+Landen RouppxwOBA.342.340.155.219.318.207.308.456.272.253.357.291.254
+
+Landen RouppxwOBA (Contact).383.418.224.263.328.251.392.467.363.102.151.272.301
 
 Loading Chart...
