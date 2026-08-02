@@ -22,7 +22,7 @@ Pitcher
 **Team:** [Milwaukee Brewers](https://www.baseball-reference.com/teams/MIL/2026.shtml) (majors, 15-day IL)
 
 
-**[Born:](https://www.baseball-reference.com/bio/)**[August 12](https://www.baseball-reference.com/friv/birthdays.cgi?month=8&day=12), [2001](https://www.baseball-reference.com/leagues/majors/2001-births.shtml)(Age: 24-353d)
+**[Born:](https://www.baseball-reference.com/bio/)**[August 12](https://www.baseball-reference.com/friv/birthdays.cgi?month=8&day=12), [2001](https://www.baseball-reference.com/leagues/majors/2001-births.shtml)(Age: 24-355d)
 
 in San Jose, [CA](https://www.baseball-reference.com/bio/CA_born.shtml)us
 
@@ -158,9 +158,9 @@ More bio, uniform, draft, salary info
 
 [![](https://cdn.ssref.net/req/202607201/images/klecko/mlbtr.png)](http://www.mlbtraderumors.com/)
 
-**7/28** Over the course of the next six days, the Mets figure to ship out around a half dozen players. Right-hander Freddy Peralta is mired in a deep slump, but even amid a rough stint on the mound, he’s
+**7/31** Amid ample speculation about the Brewers making a play for reigning two-time AL Cy Young Award winner Tarik Skubal, Ken Rosenthal of The Athletic reports that owner Mark Attanasio would be willing to take
 
-[See More at MLBTradeRumors](https://www.mlbtraderumors.com/2026/07/mets-trade-rumors-freddy-peralta-brewers-cubs-rays-phillies.html)
+[See More at MLBTradeRumors](https://www.mlbtraderumors.com/2026/07/tarik-skubal-trade-rumors-brewers-pay-full-salary.html)
 
 **Kyle Harrison** Menu
 
@@ -363,15 +363,15 @@ Standard Pitching Table
 | [2025](https://www.baseball-reference.com/players/gl.fcgi?id=harriky01&t=p&year=2025) | 23 | 2TM | 2LG | 35.2 | 11 | 6 | 16 | 4.04 | 4.34 | 0.14 | 0.09 | 0.16 | 103 | 4.58 | 2 | 0.2 | 0.63 | -0.1 | 0.5 | 5 | .521 | .500 |  |
 | [2025](https://www.baseball-reference.com/players/gl.fcgi?id=harriky01&t=p&year=2025) | 23 | [SFG](https://www.baseball-reference.com/teams/SFG/2025.shtml) | [NL](https://www.baseball-reference.com/leagues/NL/2025.shtml) | 23.2 | 8 | 4 | 12 | 4.56 | 4.25 | 0.05 | 0.09 | 0.23 | 103 | 4.65 | 0 | 0.0 | 0.58 | 0.0 | 0.2 | 2 | .504 | .500 |  |
 | [2025](https://www.baseball-reference.com/players/gl.fcgi?id=harriky01&t=p&year=2025) | 23 | [BOS](https://www.baseball-reference.com/teams/BOS/2025.shtml) | [AL](https://www.baseball-reference.com/leagues/AL/2025.shtml) | 12.0 | 3 | 2 | 4 | 3.00 | 4.51 | 0.30 | 0.08 | 0.00 | 104 | 4.45 | 2 | 0.2 | 0.83 | 0.0 | 0.3 | 3 | .568 | .501 |  |
-| [2026](https://www.baseball-reference.com/players/gl.fcgi?id=harriky01&t=p&year=2026) | 24 | [MIL](https://www.baseball-reference.com/teams/MIL/2026.shtml) | [NL](https://www.baseball-reference.com/leagues/NL/2026.shtml) | 83.2 | 17 | 17 | 28 | 3.01 | 4.80 | 0.24 | 0.23 | 0.00 | 99 | 4.72 | 16 | 1.8 |  | -0.1 | 2.5 | 24 | .604 | .511 |  |
-| 4 Yrs | 278.1 | 59 | 54 | 128 | 4.14 | 4.59 | 0.09 | 0.20 | 0.02 | 97 | 4.60 | 14 | 1.6 | 0.63 | -0.3 | 3.9 | 41 | .526 | .502 |  |
-| 162 Game Avg | 167 | 36 | 32 | 77 | 4.14 | 4.59 | 0.09 | 0.20 | 0.02 | 97 | 4.60 | 9 | 0.9 | 0.63 | -0.2 | 2.4 | 24 | .526 | .502 |  |
+| [2026](https://www.baseball-reference.com/players/gl.fcgi?id=harriky01&t=p&year=2026) | 24 | [MIL](https://www.baseball-reference.com/teams/MIL/2026.shtml) | [NL](https://www.baseball-reference.com/leagues/NL/2026.shtml) | 83.2 | 17 | 17 | 28 | 3.01 | 4.79 | 0.23 | 0.22 | 0.00 | 99 | 4.73 | 16 | 1.8 |  | -0.1 | 2.5 | 24 | .604 | .511 |  |
+| 4 Yrs | 278.1 | 59 | 54 | 128 | 4.14 | 4.59 | 0.08 | 0.20 | 0.02 | 97 | 4.60 | 14 | 1.6 | 0.63 | -0.3 | 3.9 | 41 | .527 | .502 |  |
+| 162 Game Avg | 167 | 36 | 32 | 77 | 4.14 | 4.59 | 0.08 | 0.20 | 0.02 | 97 | 4.60 | 9 | 0.9 | 0.63 | -0.2 | 2.4 | 24 | .527 | .502 |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | SFG (3 Yrs) | 182.2 | 39 | 35 | 96 | 4.73 | 4.51 | 0.00 | 0.19 | 0.03 | 96 | 4.55 | -4 | -0.4 | 0.58 | -0.2 | 1.2 | 14 | .489 | .499 |  |
-| MIL (1 Yr) | 83.2 | 17 | 17 | 28 | 3.01 | 4.80 | 0.24 | 0.23 | 0.00 | 99 | 4.72 | 16 | 1.8 |  | -0.1 | 2.5 | 24 | .604 | .511 |  |
+| MIL (1 Yr) | 83.2 | 17 | 17 | 28 | 3.01 | 4.79 | 0.23 | 0.22 | 0.00 | 99 | 4.73 | 16 | 1.8 |  | -0.1 | 2.5 | 24 | .604 | .511 |  |
 | BOS (1 Yr) | 12.0 | 3 | 2 | 4 | 3.00 | 4.51 | 0.30 | 0.08 | 0.00 | 104 | 4.45 | 2 | 0.2 | 0.83 | 0.0 | 0.3 | 3 | .568 | .501 |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| NL (4 Yrs) | 266.1 | 56 | 52 | 124 | 4.19 | 4.60 | 0.08 | 0.20 | 0.02 | 97 | 4.61 | 12 | 1.4 | 0.58 | -0.2 | 3.6 | 37 | .524 | .502 |  |
+| NL (4 Yrs) | 266.1 | 56 | 52 | 124 | 4.19 | 4.60 | 0.07 | 0.20 | 0.02 | 97 | 4.61 | 12 | 1.4 | 0.58 | -0.2 | 3.6 | 38 | .524 | .502 |  |
 | AL (1 Yr) | 12.0 | 3 | 2 | 4 | 3.00 | 4.51 | 0.30 | 0.08 | 0.00 | 104 | 4.45 | 2 | 0.2 | 0.83 | 0.0 | 0.3 | 3 | .568 | .501 |  |
 
 Value Pitching Table
@@ -393,7 +393,7 @@ Regular Season
 | [2025](https://www.baseball-reference.com/players/gl.fcgi?id=harriky01&t=p&year=2025) | 23 | [BOS](https://www.baseball-reference.com/teams/BOS/2025.shtml) | [AL](https://www.baseball-reference.com/leagues/AL/2025.shtml) | 12.0 | .280 | .357 | .340 | .697 | .378 | 0.0 | 23.2 | 8.9 | 86.0 | 32.4 | 27.0 | 43.2 | 24.3 | 0.80 | 0.1 | 0.3% | 0.48 |  |
 | [2026](https://www.baseball-reference.com/players/gl.fcgi?id=harriky01&t=p&year=2026) | 24 | [MIL](https://www.baseball-reference.com/teams/MIL/2026.shtml) | [NL](https://www.baseball-reference.com/leagues/NL/2026.shtml) | 83.2 | .221 | .276 | .366 | .642 | .291 | 2.9 | 29.6 | 5.9 | 88.6 | 36.6 | 25.0 | 37.0 | 30.1 | 0.60 | 0.8 | 0.8% | 12.62 |  |
 | 4 Yrs | 278.1 | .243 | .308 | .412 | .720 | .296 | 3.4 | 24.8 | 7.4 | 89.5 | 41.1 | 24.7 | 37.3 | 30.2 | 0.60 | 0.3 | 0.5% | 9.86 |  |
-| MLB Average |  | .245 | .316 | .405 | .721 | .292 | 3.1 | 22.4 | 8.5 | 88.5 | 39.7 | 23.8 | 41.7 | 26.5 | 0.73 |  |  |  |  |
+| MLB Average |  | .245 | .316 | .405 | .721 | .292 | 3.1 | 22.4 | 8.5 | 88.5 | 39.7 | 23.8 | 41.8 | 26.5 | 0.73 |  |  |  |  |
 
 Advanced Pitching Table
 
@@ -422,7 +422,17 @@ Powered by ![Stathead Logo](https://cdn.ssref.net/req/202101292/logos/stathead-l
 - [Player News RSS Feed](https://www.baseball-reference.com/players/news.fcgi?id=harriky01&rss=1)
 - Show/Hide More Stories
 
-- **7/31** [RotoWire: Notches scoreless rehab outing](https://www.rotowire.com/baseball/player/kyle-harrison-16741?refer=SportsRef): _Harrison (forearm) pitched 5.2 scoreless innings, surrendering_...
+- **8/2** [RotoWire: Expected back vs. Pittsburgh](https://www.rotowire.com/baseball/player/kyle-harrison-16741?refer=SportsRef): _Harrison (forearm) is expected to make his next start for the_...
+
+- **8/1** [Fantasy Six Pack: 2026 Fantasy Baseball Week 19 Two-Start Pitchers and Streamers](https://fantasysixpack.net/2026-fantasy-baseball-week-19-two-start-pitchers-and-streamers/): _The 2026 Fantasy Baseball Week 19 Two-Start Pitchers and Streamers_...
+
+- **7/31** [Brewer Fanatic: Jose Soriano Could Round Out the Brewers' Rotation — At What Price?](https://brewerfanatic.com/videos/milwaukee-brewers/jose-soriano-could-round-out-the-brewers-rotation-%E2%80%94-at-what-price-r444/): _The Milwaukee Brewers are one of the best teams in baseball_...
+
+- **7/31** [MLBTradeRumors: Brewers Willing To Pay Remainder Of Salary In Potential Skubal Trade](https://www.mlbtraderumors.com/2026/07/tarik-skubal-trade-rumors-brewers-pay-full-salary.html): _Amid ample speculation about the Brewers making a play for reigning_...
+
+- **7/31** [Brewer Fanatic: Brewers Minor League Link Report (7/30): Walk-Off Magic for Biloxi & Kyle Harrison Shines in a Home Run Derby in Appleton](https://brewerfanatic.com/news-rumors/brewers-minor-league/brewers-minor-league-link-report-730-walk-off-magic-for-biloxi-kyle-harrison-shines-in-a-home-run-derby-in-appleton-r4838/): _Kyle Harrison returned to the mound in Appleton, where_...
+
+- Show 9 more stories
 
 - **7/31** [newbaseballmedia.com: 2026 Injury Report: Updates on Ohtani, Chisholm Jr., McClanahan](https://newbaseballmedia.com/2026-injury-report-updates-on-ohtani-mcclanahan-07302026/): _No Shohei Ohtani for the Dodgers on July 30, which was, arguably,_...
 
@@ -431,8 +441,6 @@ Powered by ![Stathead Logo](https://cdn.ssref.net/req/202101292/logos/stathead-l
 - **7/30** [Brewer Fanatic: While Perhaps Pricey, Brewers Would Be A Good Fit For Giants' Logan Webb](https://brewerfanatic.com/milwaukee-brewers-free-agents-trade-rumors/rumors/while-perhaps-pricey-brewers-would-be-a-good-fit-for-giants-logan-webb-r253/): _It can be a little dangerous at the trade deadline when_...
 
 - **7/29** [Brewer Fanatic: What Trading for Jose Soriano Would Cost the Brewers](https://brewerfanatic.com/news-rumors/milwaukee-brewers/what-trading-for-jose-soriano-would-cost-the-brewers-r4832/): _The move that would make the Milwaukee Brewers’ rotation historic_...
-
-- Show 8 more stories
 
 - **7/28** [Brewer Fanatic: Who's the Very Best Player the Brewers Could Acquire Before MLB Trade Deadline?](https://brewerfanatic.com/news-rumors/milwaukee-brewers/whos-the-very-best-player-the-brewers-could-acquire-before-mlb-trade-deadline-r4826/): _It's easy to identify the superstar most likely to be_...
 
@@ -443,12 +451,6 @@ Powered by ![Stathead Logo](https://cdn.ssref.net/req/202101292/logos/stathead-l
 - **7/27** [Braves Today: The Braves Have a Surplus. They Should Start Spending It.](https://www.bravestoday.com/p/the-braves-have-a-surplus-they-should): _The Red Sox have quietly turned backend starting pitchers into_...
 
 - **7/26** [RotoBaller.com: Kyle Harrison Set to Make Rehab Start this Week](https://www.rotoballer.com/player-news/kyle-harrison-set-to-make-rehab-start-this-week/1897752): _Milwaukee Brewers left-hander Kyle Harrison (forearm) is set_...
-
-- **7/24** [Brewer Fanatic: Sources: Brewers "Starting Conversations" About Aggressive Trade Deadline Moves, But Unlikely to Make One](https://brewerfanatic.com/news-rumors/milwaukee-brewers/sources-brewers-starting-conversations-about-aggressive-trade-deadline-moves-but-unlikely-to-make-one-r4809/): _Rather than sit and wait until the final few days, the Milwaukee_...
-
-- **7/24** [Braves Today: Why the Braves Can Afford to Trade Top Prospects](https://www.bravestoday.com/p/why-the-braves-can-afford-to-trade): _The hardest part of trading for a superstar isn't giving up prospects._...
-
-- **7/24** [MLBTradeRumors: Brewers Have Checked In On Tarik Skubal, Mason Miller](https://www.mlbtraderumors.com/2026/07/brewers-have-checked-in-on-tarik-skubal-mason-miller.html): _The Brewers are one of the best clubs in baseball and are clear_...
 
 
 ## Appearances
@@ -491,7 +493,7 @@ Regular Season
 | [2025](https://www.baseball-reference.com/players/gl.fcgi?id=harriky01&t=f&year=2025) | 23 | 2TM | 2LG | P | 11 | 6 | 0 | 35.2 | 4 | 2 | 2 | 0 | 0 | 1.000 | .950 | -1 | -6 | 1.01 | 1.34 | 0.36 | 1.32 | 2 | 1 | 33.3 | 23.3 | 0 |  |
 | [2025](https://www.baseball-reference.com/players/gl.fcgi?id=harriky01&t=f&year=2025) | 23 | [SFG](https://www.baseball-reference.com/teams/SFG/2025.shtml) | [NL](https://www.baseball-reference.com/leagues/NL/2025.shtml) | P | 8 | 4 | 0 | 23.2 | 3 | 1 | 2 | 0 | 0 | 1.000 | .953 | -1 | -8 | 1.14 | 1.37 | 0.38 | 1.35 | 2 | 1 | 33.3 | 23.3 | 0 |  |
 | [2025](https://www.baseball-reference.com/players/gl.fcgi?id=harriky01&t=f&year=2025) | 23 | [BOS](https://www.baseball-reference.com/teams/BOS/2025.shtml) | [AL](https://www.baseball-reference.com/leagues/AL/2025.shtml) | P | 3 | 2 | 0 | 12.0 | 1 | 1 | 0 | 0 | 0 | 1.000 | .940 | 0 | 0 | 0.75 | 1.28 | 0.33 | 1.23 | 0 | 0 |  |  | 0 |  |
-| [2026](https://www.baseball-reference.com/players/gl.fcgi?id=harriky01&t=f&year=2026) | 24 | [MIL](https://www.baseball-reference.com/teams/MIL/2026.shtml) | [NL](https://www.baseball-reference.com/leagues/NL/2026.shtml) | P | 17 | 17 | 0 | 83.2 | 8 | 5 | 3 | 0 | 0 | 1.000 | .946 | 0 | 0 | 0.86 | 1.38 | 0.47 | 1.36 | 2 | 1 | 33.3 | 24.0 | 1 |  |
+| [2026](https://www.baseball-reference.com/players/gl.fcgi?id=harriky01&t=f&year=2026) | 24 | [MIL](https://www.baseball-reference.com/teams/MIL/2026.shtml) | [NL](https://www.baseball-reference.com/leagues/NL/2026.shtml) | P | 17 | 17 | 0 | 83.2 | 8 | 5 | 3 | 0 | 0 | 1.000 | .945 | 0 | 0 | 0.86 | 1.38 | 0.47 | 1.36 | 2 | 1 | 33.3 | 24.0 | 1 |  |
 | 4 Yrs |  | 59 | 54 | 0 | 278.1 | 28 | 9 | 19 | 0 | 1 | 1.000 | .948 | -3 | -2 | 0.91 | 1.36 | 0.47 | 1.34 | 25 | 11 | 30.6 | 20.7 | 4 |  |
 
 Standard Fielding Table
