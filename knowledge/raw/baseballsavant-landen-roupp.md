@@ -5,43 +5,63 @@ slug: baseballsavant-landen-roupp
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/108.svg) | LAA | 1 | Final |
-| ![](https://www.mlbstatic.com/team-logos/110.svg) | BAL | 3 |
+| ![](https://www.mlbstatic.com/team-logos/141.svg) | TOR | 5 | Final |
+| ![](https://www.mlbstatic.com/team-logos/117.svg) | HOU | 4 |
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| ![](https://www.mlbstatic.com/team-logos/119.svg) | LAD | 6 | Final |
+| ![](https://www.mlbstatic.com/team-logos/112.svg) | CHC | 7 |
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| ![](https://www.mlbstatic.com/team-logos/137.svg) | SF | 0 | Final |
+| ![](https://www.mlbstatic.com/team-logos/140.svg) | TEX | 6 |
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| ![](https://www.mlbstatic.com/team-logos/139.svg) | TB | 4 | Final |
+| ![](https://www.mlbstatic.com/team-logos/115.svg) | COL | 0 |
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| ![](https://www.mlbstatic.com/team-logos/108.svg) | LAA | 2 | Final |
+| ![](https://www.mlbstatic.com/team-logos/110.svg) | BAL | 5 |
 
 |     |     |     |     |
 | --- | --- | --- | --- |
 | ![](https://www.mlbstatic.com/team-logos/121.svg) | NYM | 6 | Final |
-| ![](https://www.mlbstatic.com/team-logos/114.svg) | CLE | 2 |
+| ![](https://www.mlbstatic.com/team-logos/114.svg) | CLE | 5 |
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/133.svg) | ATH | 4 | Final |
-| ![](https://www.mlbstatic.com/team-logos/113.svg) | CIN | 5 |
+| ![](https://www.mlbstatic.com/team-logos/133.svg) | ATH | 2 | Final |
+| ![](https://www.mlbstatic.com/team-logos/113.svg) | CIN | 3 |
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/120.svg) | WSH | 0 | Final |
-| ![](https://www.mlbstatic.com/team-logos/143.svg) | PHI | 5 |
+| ![](https://www.mlbstatic.com/team-logos/120.svg) | WSH | 10 | Final |
+| ![](https://www.mlbstatic.com/team-logos/143.svg) | PHI | 4 |
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/138.svg) | STL | 0 | Final |
-| ![](https://www.mlbstatic.com/team-logos/147.svg) | NYY | 2 |
+| ![](https://www.mlbstatic.com/team-logos/138.svg) | STL | 3 | Final |
+| ![](https://www.mlbstatic.com/team-logos/147.svg) | NYY | 1 |
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/145.svg) | CWS | 2 | Final |
-| ![](https://www.mlbstatic.com/team-logos/111.svg) | BOS | 14 |
+| ![](https://www.mlbstatic.com/team-logos/145.svg) | CWS | 0 | Final |
+| ![](https://www.mlbstatic.com/team-logos/111.svg) | BOS | 4 |
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/146.svg) | MIA | 2 | Final |
+| ![](https://www.mlbstatic.com/team-logos/146.svg) | MIA | 1 | Final |
 | ![](https://www.mlbstatic.com/team-logos/144.svg) | ATL | 4 |
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/142.svg) | MIN | 2 | Final |
-| ![](https://www.mlbstatic.com/team-logos/118.svg) | KC | 8 |
+| ![](https://www.mlbstatic.com/team-logos/142.svg) | MIN | 1 | Final |
+| ![](https://www.mlbstatic.com/team-logos/118.svg) | KC | 2 |
 
 |     |     |     |     |
 | --- | --- | --- | --- |
@@ -50,33 +70,13 @@ slug: baseballsavant-landen-roupp
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/119.svg) | LAD | 1 | Final |
-| ![](https://www.mlbstatic.com/team-logos/112.svg) | CHC | 5 |
+| ![](https://www.mlbstatic.com/team-logos/135.svg) | SD | 4 | Final |
+| ![](https://www.mlbstatic.com/team-logos/109.svg) | AZ | 10 |
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/137.svg) | SF | 4 | Final |
-| ![](https://www.mlbstatic.com/team-logos/140.svg) | TEX | 5 |
-
-|     |     |     |     |
-| --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/141.svg) | TOR | 2 | Final |
-| ![](https://www.mlbstatic.com/team-logos/117.svg) | HOU | 7 |
-
-|     |     |     |     |
-| --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/139.svg) | TB | 9 | Final |
-| ![](https://www.mlbstatic.com/team-logos/115.svg) | COL | 7 |
-
-|     |     |     |     |
-| --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/135.svg) | SD | 9 | Final |
-| ![](https://www.mlbstatic.com/team-logos/109.svg) | AZ | 4 |
-
-|     |     |     |     |
-| --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/116.svg) | DET | 8 | Final |
-| ![](https://www.mlbstatic.com/team-logos/136.svg) | SEA | 0 |
+| ![](https://www.mlbstatic.com/team-logos/116.svg) | DET | 2 | Final |
+| ![](https://www.mlbstatic.com/team-logos/136.svg) | SEA | 4 |
 
 <
 
@@ -143,7 +143,7 @@ vs. LHH33%21%27%14%6%Pitchvs. RHH38%33%12%13%4%35%SI26%CU21%CH14%FC5%FF
 MLB Percentile Rankings
 [![](https://baseballsavant.mlb.com/site-core/images/comp_tool_icons27.png)](https://baseballsavant.mlb.com/comparison-tool?player=694738-2026-pitcher&openSearch=true "Compare to Other Players")
 
-![](https://baseballsavant.mlb.com/sections/evp/images/play.png)ValuesavantPOORAVERAGEGREATPitching Run Value8NOT QUALIFIED75Fastball Run Value-3NOT QUALIFIED23Breaking Run Value7NOT QUALIFIED92Offspeed Run Value5NOT QUALIFIED91PitchingxERA3.59NOT QUALIFIED67xBA.231NOT QUALIFIED62Fastball Velo93.3NOT QUALIFIED29Avg Exit Velo86.5NOT QUALIFIED90Chase %30.0NOT QUALIFIED47Whiff %25.1NOT QUALIFIED47K %24.0NOT QUALIFIED60BB %10.4NOT QUALIFIED25Barrel %4.3NOT QUALIFIED90Hard-Hit %29.7NOT QUALIFIED95GB %52.6NOT QUALIFIED90Extension6.4NOT QUALIFIED47
+![](https://baseballsavant.mlb.com/sections/evp/images/play.png)ValuesavantPOORAVERAGEGREATPitching Run Value8NOT QUALIFIED75Fastball Run Value-3NOT QUALIFIED23Breaking Run Value7NOT QUALIFIED93Offspeed Run Value5NOT QUALIFIED91PitchingxERA3.58NOT QUALIFIED67xBA.231NOT QUALIFIED61Fastball Velo93.3NOT QUALIFIED29Avg Exit Velo86.5NOT QUALIFIED89Chase %30.0NOT QUALIFIED46Whiff %25.1NOT QUALIFIED47K %24.0NOT QUALIFIED60BB %10.4NOT QUALIFIED25Barrel %4.3NOT QUALIFIED91Hard-Hit %29.7NOT QUALIFIED96GB %52.6NOT QUALIFIED90Extension6.4NOT QUALIFIED47
 
 20262026
 
@@ -321,7 +321,7 @@ No Minor League Hitting Statistics.
 
 | Year | R | Rank |
 | --- | --- | --- |
-| 2026 | 61 | 16th in NL |
+| 2026 | 61 | 17th in NL |
 
 #### Doubles
 
@@ -333,13 +333,13 @@ No Minor League Hitting Statistics.
 
 | Year | 3B | Rank |
 | --- | --- | --- |
-| 2026 | 2 | 17th in NL |
+| 2026 | 2 | 18th in NL |
 
 #### Strikeouts
 
 | Year | SO | Rank |
 | --- | --- | --- |
-| 2026 | 120 | 14th in NL |
+| 2026 | 120 | 16th in NL |
 
 #### Batting Average
 
@@ -589,9 +589,9 @@ No Minor League Hitting Statistics.
 
 | 2024 | 25 | 907 | 143 | 7 | 4.9 | 3.2 | 89.0 | 111.6 | 10.6 | 35.0 | .238 | .363 | .294 | .313 | .345 | 39.2 | 21.7 | 12.0 | 3.58 | 3.99 |
 | 2025 | 26 | 1851 | 326 | 29 | 8.9 | 6.1 | 88.4 | 115.4 | 9.8 | 36.5 | .248 | .408 | .325 | .319 | .366 | 36.5 | 21.4 | 9.5 | 3.80 | 4.24 |
-| 2026 | 27 | 2107 | 323 | 14 | 4.3 | 2.8 | 86.5 | 112.9 | 9.0 | 33.4 | .231 | .334 | .301 | .294 | .333 | 29.7 | 24.0 | 10.4 | 4.33 | 3.59 |
+| 2026 | 27 | 2107 | 323 | 14 | 4.3 | 2.8 | 86.5 | 112.9 | 9.0 | 33.4 | .231 | .334 | .301 | .294 | .333 | 29.7 | 24.0 | 10.4 | 4.33 | 3.58 |
 | **Player** |  | 4865 | 792 | 50 | 6.3 | 4.2 | 87.7 | 115.4 | 9.6 | 35.0 | .239 | .369 | .309 | .308 | .349 | 34.2 | 22.6 | 10.3 |  |  |
-| **MLB** |  |  |  |  | 7.6 | 4.9 | 88.6 | 122.9 | 12.5 | 33.3 | .243 | .407 | .316 | .316 | .369 | 37.1 | 22.2 | 8.4 |  |  |
+| **MLB** |  |  |  |  | 7.6 | 4.9 | 88.6 | 122.9 | 12.5 | 33.3 | .243 | .407 | .315 | .316 | .369 | 37.1 | 22.2 | 8.4 |  |  |
 
 ! Note: All figures in this table cover the period 2015-present.
 
@@ -757,10 +757,10 @@ On the right, Induced Movement (or IVB) is reported without gravity, and attempt
 | --- | --- | --- |
 | Year | Pitch | Team | Hand | # | MPH | Vertical<br>Drop | vs.<br>Comparable | Horizontal<br>Break | vs.<br>Comparable | Vertical<br>Break | vs. Avg | Horizontal<br>Break | vs. Avg |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2026 | Changeup | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 433 | 87.1 | 38.5 | 4.7 | 15.3ARM | 0.7 | -2.5 | 6.4 | 15.3ARM | 1.0 |
+| 2026 | Changeup | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 433 | 87.1 | 38.5 | 4.7 | 15.3ARM | 0.7 | -2.5 | 6.3 | 15.3ARM | 1.0 |
 | 2026 | 4-Seam Fastball | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 105 | 92.9 | 20.5 | -4.0 | 10.9ARM | 2.4 | 11.1 | -4.6 | 10.9ARM | 3.1 |
 | 2026 | Curveball | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 546 | 76.6 | 55.5 | -1.3 | 19.1GLV | 6.8 | -8.4 | -1.8 | 19.1GLV | 10.0 |
-| 2026 | Cutter | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 285 | 89.0 | 28.6 | -2.0 | 3.0GLV | 1.0 | 5.7 | -2.3 | 3.0GLV | 0.8 |
+| 2026 | Cutter | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 285 | 89.0 | 28.6 | -2.0 | 3.0GLV | 1.0 | 5.7 | -2.3 | 3.0GLV | 0.7 |
 | 2026 | Sinker | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 738 | 93.3 | 28.4 | 3.5 | 17.3ARM | 1.4 | 3.0 | 4.6 | 17.3ARM | 2.2 |
 | 2025 | Changeup | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 315 | 86.6 | 38.9 | 5.2 | 16.0ARM | 1.3 | -2.3 | 6.4 | 16.0ARM | 1.5 |
 | 2025 | Sinker | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 739 | 92.8 | 28.9 | 3.6 | 17.9ARM | 2.2 | 3.0 | 4.4 | 17.9ARM | 2.8 |
@@ -786,7 +786,7 @@ On the right, Induced Movement (or IVB) is reported without gravity, and attempt
 | 2026 | Sinker | ![](https://www.mlbstatic.com/team-logos/137.svg) | 0.1 | 1 | 738 | 35.0 | 172 | .268 | .479 | .389 | 8.9 | 12.2 | 16.2 | .281 | .468 | .384 | 38.5 |
 | 2026 | Curveball | ![](https://www.mlbstatic.com/team-logos/137.svg) | 1.3 | 7 | 546 | 25.9 | 136 | .192 | .258 | .252 | 35.1 | 38.2 | 26.8 | .178 | .220 | .224 | 20.0 |
 | 2026 | Changeup | ![](https://www.mlbstatic.com/team-logos/137.svg) | 1.1 | 5 | 433 | 20.6 | 113 | .189 | .236 | .222 | 29.5 | 20.4 | 14.6 | .231 | .286 | .252 | 22.6 |
-| 2026 | Cutter | ![](https://www.mlbstatic.com/team-logos/137.svg) | -0.9 | -3 | 285 | 13.5 | 56 | .320 | .480 | .399 | 28.8 | 23.2 | 24.1 | .261 | .359 | .315 | 29.7 |
+| 2026 | Cutter | ![](https://www.mlbstatic.com/team-logos/137.svg) | -0.9 | -3 | 285 | 13.5 | 56 | .320 | .480 | .399 | 28.8 | 23.2 | 24.1 | .261 | .358 | .315 | 29.7 |
 | 2026 | 4-Seam Fastball | ![](https://www.mlbstatic.com/team-logos/137.svg) | -1.7 | -2 | 105 | 5.0 | 22 | .190 | .381 | .261 | 36.1 | 50.0 | 14.9 | .132 | .265 | .192 | 50.0 |
 | 2025 | Sinker | ![](https://www.mlbstatic.com/team-logos/137.svg) | -0.8 | -6 | 739 | 39.9 | 194 | .355 | .479 | .416 | 10.5 | 13.4 | 20.2 | .304 | .459 | .369 | 45.5 |
 | 2025 | Curveball | ![](https://www.mlbstatic.com/team-logos/137.svg) | 0.1 | 1 | 660 | 35.7 | 168 | .197 | .354 | .291 | 35.8 | 29.2 | 23.7 | .186 | .320 | .272 | 19.8 |
@@ -908,7 +908,7 @@ These run values are **leveraged**, meaning the base/out situation at the time o
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2024 | 61 | 42 | 67 | 74 | 49 | 56 | 13 | 93 | 42 | 25 | 48 | 39 | 8 | 90 | 46 | 76 | 69 |
 | 2025 | 26 | 14 | 55 | 64 | 36 | 26 | 10 | 95 | 73 | 57 | 51 | 41 | 25 | 41 | 82 | 69 | 45 |
-| 2026 | 75 | 23 | 92 | 91 | 67 | 29 | 8 | 96 | 90 | 47 | 47 | 60 | 25 | 90 | 95 | 90 | 47 |
+| 2026 | 75 | 23 | 93 | 91 | 67 | 29 | 8 | 96 | 89 | 46 | 47 | 60 | 25 | 91 | 96 | 90 | 47 |
 
 [+\\
 View Complete Percentile Rankings Leaderboard](https://baseballsavant.mlb.com/leaderboard/percentile-rankings?type=pitcher)
@@ -925,8 +925,8 @@ Adjusted
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2024 | ![](https://www.mlbstatic.com/team-logos/137.svg) | 21.49 | 2 | 1.7 | 0 | 3 | 1 | 1 | 50.0 |
 | 2025 | ![](https://www.mlbstatic.com/team-logos/137.svg) | 23.41 | 11 | 10.8 | 0 | 6 | 9 | 4 | 36.4 |
-| 2026 | ![](https://www.mlbstatic.com/team-logos/137.svg) | 23.96 | 9 | 7.7 | 1 | 4 | 6 | 4 | 44.4 |
-| **Player** |  | 23.46 | 22 | 20.2 | 2 | 13 | 16 | 9 | 40.9 |
+| 2026 | ![](https://www.mlbstatic.com/team-logos/137.svg) | 23.96 | 9 | 7.8 | 1 | 4 | 6 | 4 | 44.4 |
+| **Player** |  | 23.46 | 22 | 20.3 | 2 | 13 | 16 | 9 | 40.9 |
 
 Note: xHR tells how many of this pitcher's batted balls allowed would have been out of other stadiums. The "Adjusted" view here accounts for different wall heights, distances and environmental effects using Statcast Park Factor data.
 
@@ -954,8 +954,8 @@ Adjusted
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2024 | 2 | 2 | 1 | 2 | 1 | 2 | 1 | 2 | 1 | 1 | 1 | 1 | 2 | 1 | 1 | 2 | 1 | 2 | 3 | 2 | 3 | 2 | 3 | 3 | 1 | 1 | 1 | 2 | 3 | 1 | 2 |
 | 2025 | 11 | 12 | 10 | 10 | 10 | 12 | 12 | 8 | 11 | 6 | 10 | 12 | 12 | 15 | 12 | 9 | 13 | 9 | 9 | 13 | 9 | 14 | 13 | 13 | 8 | 7 | 11 | 12 | 12 | 13 | 7 |
-| 2026 | 9 | 10 | 6 | 7 | 7 | 7 | 7 | 9 | 6 | 8 | 5 | 8 | 6 | 10 | 7 | 9 | 10 | 8 | 8 | 11 | 7 | 8 | 8 | 11 | 8 | 4 | 6 | 7 | 11 | 5 | 8 |
-| **Player** | 22 | 24 | 17 | 19 | 18 | 21 | 20 | 19 | 18 | 15 | 16 | 21 | 20 | 26 | 20 | 20 | 24 | 19 | 20 | 26 | 19 | 24 | 24 | 27 | 17 | 12 | 18 | 21 | 26 | 19 | 17 |
+| 2026 | 9 | 11 | 6 | 7 | 7 | 7 | 7 | 8 | 6 | 8 | 6 | 8 | 6 | 10 | 7 | 9 | 10 | 8 | 8 | 11 | 7 | 8 | 8 | 11 | 8 | 4 | 6 | 7 | 11 | 5 | 8 |
+| **Player** | 22 | 25 | 17 | 19 | 18 | 21 | 20 | 18 | 18 | 15 | 17 | 21 | 20 | 26 | 20 | 20 | 24 | 19 | 20 | 26 | 19 | 24 | 24 | 27 | 17 | 12 | 18 | 21 | 26 | 19 | 17 |
 
 Note: xHR tells how many of this pitcher's batted balls allowed would have been out of other stadiums. The "Adjusted" view here accounts for different wall heights, distances and environmental effects using Statcast Park Factor data.
 
@@ -1220,11 +1220,11 @@ Created with Highcharts 6.2.0Exit VelocityPitchesChart context menuLanden Roupp 
 
 ## Run Value
 
-Landen RouppPitcher RV (All)3.2-1.68.07.82.05.35.4-0.92.2-5.5-6.1-6.0-5.5
+Landen RouppPitcher RV (All)3.2-1.68.07.82.05.35.4-0.82.2-5.5-6.1-6.0-5.5
 
-Landen RouppPitcher RV (Swings)1.7-3.55.25.50.32.81.7-3.00.52.92.111.811.1
+Landen RouppPitcher RV (Swings)1.7-3.55.25.50.32.81.7-3.00.52.92.111.911.1
 
-Landen RouppPitcher RV (Takes)1.51.92.82.31.72.43.82.11.7-8.5-8.2-17.8-16.6
+Landen RouppPitcher RV (Takes)1.51.92.82.31.72.43.82.11.7-8.5-8.2-17.9-16.6
 
 Landen RouppPitcher RV (Contact)1.5-5.03.25.0-0.12.20.7-3.6-2.2-0.10.67.0-0.6
 

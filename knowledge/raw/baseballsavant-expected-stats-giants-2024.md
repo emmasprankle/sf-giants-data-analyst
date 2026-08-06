@@ -5,67 +5,63 @@ slug: baseballsavant-expected-stats-giants-2024
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/108.svg) | LAA | 1 | Final |
-| ![](https://www.mlbstatic.com/team-logos/110.svg) | BAL | 3 |
+| ![](https://www.mlbstatic.com/team-logos/141.svg) | TOR | 5 | Final |
+| ![](https://www.mlbstatic.com/team-logos/117.svg) | HOU | 4 |
 
-[View Gamefeed](https://baseballsavant.mlb.com/gamefeed?gamePk=824403&game_date=2026-08-04)
+|     |     |     |     |
+| --- | --- | --- | --- |
+| ![](https://www.mlbstatic.com/team-logos/119.svg) | LAD | 6 | Final |
+| ![](https://www.mlbstatic.com/team-logos/112.svg) | CHC | 7 |
 
-Manaea vs. Cantillo
+|     |     |     |     |
+| --- | --- | --- | --- |
+| ![](https://www.mlbstatic.com/team-logos/137.svg) | SF | 0 | Final |
+| ![](https://www.mlbstatic.com/team-logos/140.svg) | TEX | 6 |
 
-[(compare pitchers)](https://baseballsavant.mlb.com/comparison-tool?player=640455-2026-pitcher&player=676282-2026-pitcher)
+|     |     |     |     |
+| --- | --- | --- | --- |
+| ![](https://www.mlbstatic.com/team-logos/139.svg) | TB | 4 | Final |
+| ![](https://www.mlbstatic.com/team-logos/115.svg) | COL | 0 |
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| ![](https://www.mlbstatic.com/team-logos/108.svg) | LAA | 2 | Final |
+| ![](https://www.mlbstatic.com/team-logos/110.svg) | BAL | 5 |
 
 |     |     |     |     |
 | --- | --- | --- | --- |
 | ![](https://www.mlbstatic.com/team-logos/121.svg) | NYM | 6 | Final |
-| ![](https://www.mlbstatic.com/team-logos/114.svg) | CLE | 2 |
+| ![](https://www.mlbstatic.com/team-logos/114.svg) | CLE | 5 |
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/133.svg) | ATH | 4 | Final |
-| ![](https://www.mlbstatic.com/team-logos/113.svg) | CIN | 5 |
+| ![](https://www.mlbstatic.com/team-logos/133.svg) | ATH | 2 | Final |
+| ![](https://www.mlbstatic.com/team-logos/113.svg) | CIN | 3 |
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/120.svg) | WSH | 0 | Final |
-| ![](https://www.mlbstatic.com/team-logos/143.svg) | PHI | 5 |
-
-[View Gamefeed](https://baseballsavant.mlb.com/gamefeed?gamePk=823517&game_date=2026-08-04)
-
-Dobbins vs. Weathers
-
-[(compare pitchers)](https://baseballsavant.mlb.com/comparison-tool?player=690928-2026-pitcher&player=677960-2026-pitcher)
+| ![](https://www.mlbstatic.com/team-logos/120.svg) | WSH | 10 | Final |
+| ![](https://www.mlbstatic.com/team-logos/143.svg) | PHI | 4 |
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/138.svg) | STL | 0 | Final |
-| ![](https://www.mlbstatic.com/team-logos/147.svg) | NYY | 2 |
+| ![](https://www.mlbstatic.com/team-logos/138.svg) | STL | 3 | Final |
+| ![](https://www.mlbstatic.com/team-logos/147.svg) | NYY | 1 |
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/145.svg) | CWS | 2 | Final |
-| ![](https://www.mlbstatic.com/team-logos/111.svg) | BOS | 14 |
+| ![](https://www.mlbstatic.com/team-logos/145.svg) | CWS | 0 | Final |
+| ![](https://www.mlbstatic.com/team-logos/111.svg) | BOS | 4 |
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/146.svg) | MIA | 2 | Final |
+| ![](https://www.mlbstatic.com/team-logos/146.svg) | MIA | 1 | Final |
 | ![](https://www.mlbstatic.com/team-logos/144.svg) | ATL | 4 |
 
-[View Gamefeed](https://baseballsavant.mlb.com/gamefeed?gamePk=824084&game_date=2026-08-04)
-
-Ryan vs. Dobnak
-
-[(compare pitchers)](https://baseballsavant.mlb.com/comparison-tool?player=657746-2026-pitcher&player=677976-2026-pitcher)
-
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/142.svg) | MIN | 2 | Final |
-| ![](https://www.mlbstatic.com/team-logos/118.svg) | KC | 8 |
-
-[View Gamefeed](https://baseballsavant.mlb.com/gamefeed?gamePk=823756&game_date=2026-08-04)
-
-Jones vs. Henderson
-
-[(compare pitchers)](https://baseballsavant.mlb.com/comparison-tool?player=683003-2026-pitcher&player=701656-2026-pitcher)
+| ![](https://www.mlbstatic.com/team-logos/142.svg) | MIN | 1 | Final |
+| ![](https://www.mlbstatic.com/team-logos/118.svg) | KC | 2 |
 
 |     |     |     |     |
 | --- | --- | --- | --- |
@@ -74,45 +70,13 @@ Jones vs. Henderson
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/119.svg) | LAD | 1 | Final |
-| ![](https://www.mlbstatic.com/team-logos/112.svg) | CHC | 5 |
+| ![](https://www.mlbstatic.com/team-logos/135.svg) | SD | 4 | Final |
+| ![](https://www.mlbstatic.com/team-logos/109.svg) | AZ | 10 |
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/137.svg) | SF | 4 | Final |
-| ![](https://www.mlbstatic.com/team-logos/140.svg) | TEX | 5 |
-
-|     |     |     |     |
-| --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/141.svg) | TOR | 2 | Final |
-| ![](https://www.mlbstatic.com/team-logos/117.svg) | HOU | 7 |
-
-[View Gamefeed](https://baseballsavant.mlb.com/gamefeed?gamePk=824321&game_date=2026-08-04)
-
-Peralta vs. Hughes
-
-[(compare pitchers)](https://baseballsavant.mlb.com/comparison-tool?player=642547-2026-pitcher&player=687312-2026-pitcher)
-
-|     |     |     |     |
-| --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/139.svg) | TB | 9 | Final |
-| ![](https://www.mlbstatic.com/team-logos/115.svg) | COL | 7 |
-
-[View Gamefeed](https://baseballsavant.mlb.com/gamefeed?gamePk=825054&game_date=2026-08-04)
-
-Vásquez vs. Rodriguez
-
-[(compare pitchers)](https://baseballsavant.mlb.com/comparison-tool?player=681190-2026-pitcher&player=593958-2026-pitcher)
-
-|     |     |     |     |
-| --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/135.svg) | SD | 9 | Final |
-| ![](https://www.mlbstatic.com/team-logos/109.svg) | AZ | 4 |
-
-|     |     |     |     |
-| --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/116.svg) | DET | 8 | Final |
-| ![](https://www.mlbstatic.com/team-logos/136.svg) | SEA | 0 |
+| ![](https://www.mlbstatic.com/team-logos/116.svg) | DET | 2 | Final |
+| ![](https://www.mlbstatic.com/team-logos/136.svg) | SEA | 4 |
 
 <
 
@@ -200,12 +164,12 @@ Download CSV
 | 2 | ![](https://content.mlb.com/images/headshots/current/60x60/686790.png)[McDonald, Trevor](https://baseballsavant.mlb.com/savant-player/686790) | ![](https://www.mlbstatic.com/team-logos/137.svg) | 10 | 8 | .000 | .137 | -.137 | .000 | .154 | -.154 | .069 | .203 | -.134 | 0.00 | 1.67 | -1.67 |
 | 3 | ![](https://content.mlb.com/images/headshots/current/60x60/670103.png)[Burgos, Raymond](https://baseballsavant.mlb.com/savant-player/670103) | ![](https://www.mlbstatic.com/team-logos/137.svg) | 7 | 5 | .500 | .166 | +.334 | .500 | .183 | +.317 | .476 | .233 | +.243 | 9.00 | 2.17 | +6.83 |
 | 4 | ![](https://content.mlb.com/images/headshots/current/60x60/605483.png)[Snell, Blake](https://baseballsavant.mlb.com/savant-player/605483) | ![](https://www.mlbstatic.com/team-logos/137.svg) | 418 | 228 | .174 | .177 | -.003 | .263 | .283 | -.020 | .241 | .252 | -.011 | 3.12 | 2.54 | +0.57 |
-| 5 | ![](https://content.mlb.com/images/headshots/current/60x60/676254.png)[Walker, Ryan](https://baseballsavant.mlb.com/savant-player/676254) | ![](https://www.mlbstatic.com/team-logos/137.svg) | 308 | 182 | .179 | .190 | -.011 | .265 | .299 | -.034 | .233 | .255 | -.022 | 1.91 | 2.60 | -0.69 |
+| 5 | ![](https://content.mlb.com/images/headshots/current/60x60/676254.png)[Walker, Ryan](https://baseballsavant.mlb.com/savant-player/676254) | ![](https://www.mlbstatic.com/team-logos/137.svg) | 308 | 182 | .179 | .191 | -.012 | .265 | .299 | -.034 | .233 | .255 | -.022 | 1.91 | 2.60 | -0.69 |
 | 6 | ![](https://content.mlb.com/images/headshots/current/60x60/643511.png)[Rogers, Tyler](https://baseballsavant.mlb.com/savant-player/643511) | ![](https://www.mlbstatic.com/team-logos/137.svg) | 290 | 225 | .245 | .237 | +.008 | .374 | .348 | +.026 | .281 | .276 | +.005 | 2.81 | 3.06 | -0.24 |
 | 7 | ![](https://content.mlb.com/images/headshots/current/60x60/669062.png)[Miller, Erik](https://baseballsavant.mlb.com/savant-player/669062) | ![](https://www.mlbstatic.com/team-logos/137.svg) | 284 | 158 | .205 | .189 | +.016 | .344 | .304 | +.040 | .296 | .280 | +.016 | 3.88 | 3.15 | +0.73 |
 | 8 | ![](https://content.mlb.com/images/headshots/current/60x60/573124.png)[Rogers, Taylor](https://baseballsavant.mlb.com/savant-player/573124) | ![](https://www.mlbstatic.com/team-logos/137.svg) | 249 | 161 | .237 | .213 | +.024 | .397 | .338 | +.059 | .309 | .282 | +.027 | 2.40 | 3.20 | -0.80 |
 | 9 | ![](https://content.mlb.com/images/headshots/current/60x60/678495.png)[Rodríguez, Randy](https://baseballsavant.mlb.com/savant-player/678495) | ![](https://www.mlbstatic.com/team-logos/137.svg) | 221 | 146 | .240 | .209 | +.031 | .372 | .355 | +.017 | .301 | .285 | +.016 | 4.30 | 3.27 | +1.03 |
-| 10 | ![](https://content.mlb.com/images/headshots/current/60x60/666808.png)[Doval, Camilo](https://baseballsavant.mlb.com/savant-player/666808) | ![](https://www.mlbstatic.com/team-logos/137.svg) | 271 | 152 | .241 | .182 | +.059 | .393 | .319 | +.074 | .327 | .288 | +.039 | 4.88 | 3.34 | +1.54 |
+| 10 | ![](https://content.mlb.com/images/headshots/current/60x60/666808.png)[Doval, Camilo](https://baseballsavant.mlb.com/savant-player/666808) | ![](https://www.mlbstatic.com/team-logos/137.svg) | 271 | 152 | .241 | .182 | +.059 | .393 | .318 | +.075 | .327 | .288 | +.039 | 4.88 | 3.34 | +1.54 |
 | 11 | ![](https://content.mlb.com/images/headshots/current/60x60/663546.png)[Hjelle, Sean](https://baseballsavant.mlb.com/savant-player/663546) | ![](https://www.mlbstatic.com/team-logos/137.svg) | 337 | 243 | .268 | .247 | +.021 | .398 | .385 | +.013 | .306 | .297 | +.009 | 3.90 | 3.57 | +0.34 |
 | 12 | ![](https://content.mlb.com/images/headshots/current/60x60/592662.png)[Ray, Robbie](https://baseballsavant.mlb.com/savant-player/592662) | ![](https://www.mlbstatic.com/team-logos/137.svg) | 129 | 64 | .189 | .179 | +.010 | .387 | .361 | +.026 | .316 | .304 | +.012 | 4.70 | 3.75 | +0.95 |
 | 13 | ![](https://content.mlb.com/images/headshots/current/60x60/663941.png)[Beck, Tristan](https://baseballsavant.mlb.com/savant-player/663941) | ![](https://www.mlbstatic.com/team-logos/137.svg) | 67 | 48 | .230 | .219 | +.011 | .393 | .417 | -.024 | .293 | .304 | -.011 | 1.69 | 3.75 | -2.06 |
