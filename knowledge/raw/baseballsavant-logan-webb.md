@@ -5,38 +5,43 @@ slug: baseballsavant-logan-webb
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/144.svg) | ATL | 4 | Final |
-| ![](https://www.mlbstatic.com/team-logos/147.svg) | NYY | 5 |
+| ![](https://www.mlbstatic.com/team-logos/113.svg) | CIN | 1 | Final |
+| ![](https://www.mlbstatic.com/team-logos/120.svg) | WSH | 7 |
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/133.svg) | ATH | 7 | Final |
+| ![](https://www.mlbstatic.com/team-logos/133.svg) | ATH | 4 | Final |
 | ![](https://www.mlbstatic.com/team-logos/111.svg) | BOS | 3 |
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/108.svg) | LAA | 0 | Final |
-| ![](https://www.mlbstatic.com/team-logos/146.svg) | MIA | 7 |
+| ![](https://www.mlbstatic.com/team-logos/121.svg) | NYM | 11 | Final |
+| ![](https://www.mlbstatic.com/team-logos/134.svg) | PIT | 1 |
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/141.svg) | TOR | 7 | Final |
-| ![](https://www.mlbstatic.com/team-logos/143.svg) | PHI | 5 |
+| ![](https://www.mlbstatic.com/team-logos/141.svg) | TOR | 6 | Final |
+| ![](https://www.mlbstatic.com/team-logos/143.svg) | PHI | 7 |
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/121.svg) | NYM | 0 | Final |
-| ![](https://www.mlbstatic.com/team-logos/134.svg) | PIT | 9 |
+| ![](https://www.mlbstatic.com/team-logos/144.svg) | ATL | 2 | Final |
+| ![](https://www.mlbstatic.com/team-logos/147.svg) | NYY | 1 |
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/113.svg) | CIN | 2 | Final |
-| ![](https://www.mlbstatic.com/team-logos/120.svg) | WSH | 8 |
+| ![](https://www.mlbstatic.com/team-logos/108.svg) | LAA | 3 | Final |
+| ![](https://www.mlbstatic.com/team-logos/146.svg) | MIA | 12 |
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/112.svg) | CHC | 3 | Final |
-| ![](https://www.mlbstatic.com/team-logos/118.svg) | KC | 6 |
+| ![](https://www.mlbstatic.com/team-logos/112.svg) | CHC | 10 | Final |
+| ![](https://www.mlbstatic.com/team-logos/118.svg) | KC | 2 |
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| ![](https://www.mlbstatic.com/team-logos/114.svg) | CLE | 3 | Final |
+| ![](https://www.mlbstatic.com/team-logos/145.svg) | CWS | 5 |
 
 |     |     |     |     |
 | --- | --- | --- | --- |
@@ -45,38 +50,33 @@ slug: baseballsavant-logan-webb
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/117.svg) | HOU | 2 | Final |
-| ![](https://www.mlbstatic.com/team-logos/135.svg) | SD | 3 |
+| ![](https://www.mlbstatic.com/team-logos/115.svg) | COL | 4 | Final |
+| ![](https://www.mlbstatic.com/team-logos/138.svg) | STL | 7 |
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/116.svg) | DET | 8 | Final |
-| ![](https://www.mlbstatic.com/team-logos/137.svg) | SF | 0 |
-
-|     |     |     |     |
-| --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/115.svg) | COL | 8 | Final |
-| ![](https://www.mlbstatic.com/team-logos/138.svg) | STL | 6 |
-
-|     |     |     |     |
-| --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/110.svg) | BAL | 1 | Final |
+| ![](https://www.mlbstatic.com/team-logos/110.svg) | BAL | 10 | Final |
 | ![](https://www.mlbstatic.com/team-logos/140.svg) | TEX | 5 |
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/114.svg) | CLE | 3 | Final |
-| ![](https://www.mlbstatic.com/team-logos/145.svg) | CWS | 6 |
+| ![](https://www.mlbstatic.com/team-logos/116.svg) | DET | 3 | Final |
+| ![](https://www.mlbstatic.com/team-logos/137.svg) | SF | 1 |
 
 |     |     |     |     |
 | --- | --- | --- | --- |
 | ![](https://www.mlbstatic.com/team-logos/119.svg) | LAD | 2 | Final |
-| ![](https://www.mlbstatic.com/team-logos/109.svg) | AZ | 1 |
+| ![](https://www.mlbstatic.com/team-logos/109.svg) | AZ | 4 |
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/139.svg) | TB | 3 | Final |
-| ![](https://www.mlbstatic.com/team-logos/136.svg) | SEA | 2 |
+| ![](https://www.mlbstatic.com/team-logos/139.svg) | TB | 4 | Final |
+| ![](https://www.mlbstatic.com/team-logos/136.svg) | SEA | 1 |
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| ![](https://www.mlbstatic.com/team-logos/117.svg) | HOU | 2 | Final |
+| ![](https://www.mlbstatic.com/team-logos/135.svg) | SD | 7 |
 
 <
 
@@ -106,15 +106,15 @@ Rocklin (CA) HS
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2024 | 13 | 10 | 3.47 | 33 | 33 | 0 | 204.2 | 172 | 1.23 |
 | 2025 | 15 | 11 | 3.22 | 34 | 34 | 0 | 207 | 224 | 1.24 |
-| 2026 | 7 | 7 | 3.74 | 20 | 20 | 0 | 125 | 101 | 1.11 |
-| 8 Seasons | 77 | 60 | 3.42 | 200 | 197 | 0 | 1,187.1 | 1,095 | 1.19 |
+| 2026 | 7 | 7 | 3.59 | 21 | 21 | 0 | 133 | 103 | 1.08 |
+| 8 Seasons | 77 | 60 | 3.40 | 201 | 198 | 0 | 1,195.1 | 1,097 | 1.18 |
 
 |  | G | W-L | ERA | IP | SO | WHIP |
 | --- | --- | --- | --- | --- | --- | --- |
 | 2024 | 33 | 13-10 | 3.47 | 204.2 | 172 | 1.23 |
 | 2025 | 34 | 15-11 | 3.22 | 207 | 224 | 1.24 |
-| 2026 | 20 | 7-7 | 3.74 | 125 | 101 | 1.11 |
-| 8 Seasons | 200 | 77-60 | 3.42 | 1,187.1 | 1,095 | 1.19 |
+| 2026 | 21 | 7-7 | 3.59 | 133 | 103 | 1.08 |
+| 8 Seasons | 201 | 77-60 | 3.40 | 1,195.1 | 1,097 | 1.18 |
 
 Player Apps
 
@@ -140,7 +140,7 @@ Random Video [illustrator](https://baseballsavant.mlb.com/illustrator?playerId=6
 
 Pitch Usage
 
-vs. LHH21%30%21%14%14%Pitchvs. RHH44%17%16%12%11%30%SI25%CH19%ST13%FC13%FF
+vs. LHH21%30%21%14%14%Pitchvs. RHH43%17%17%12%11%30%SI25%CH19%ST13%FC13%FF
 
 20262026
 
@@ -163,7 +163,7 @@ vs. LHH21%30%21%14%14%Pitchvs. RHH44%17%16%12%11%30%SI25%CH19%ST13%FC13%FF
 MLB Percentile Rankings
 [![](https://baseballsavant.mlb.com/site-core/images/comp_tool_icons27.png)](https://baseballsavant.mlb.com/comparison-tool?player=657277-2026-pitcher&openSearch=true "Compare to Other Players")
 
-![](https://baseballsavant.mlb.com/sections/evp/images/play.png)ValuesavantPOORAVERAGEGREATPitching Run Value21NOT QUALIFIED98Fastball Run Value18NOT QUALIFIED98Breaking Run Value4NOT QUALIFIED78Offspeed Run Value0NOT QUALIFIED42PitchingxERA3.82NOT QUALIFIED58xBA.254NOT QUALIFIED31Fastball Velo92.2NOT QUALIFIED17Avg Exit Velo88.4NOT QUALIFIED57Chase %33.6NOT QUALIFIED81Whiff %21.2NOT QUALIFIED18K %19.8NOT QUALIFIED31BB %6.1NOT QUALIFIED86Barrel %5.4NOT QUALIFIED83Hard-Hit %39.1NOT QUALIFIED46GB %52.3NOT QUALIFIED90Extension6.9NOT QUALIFIED84
+![](https://baseballsavant.mlb.com/sections/evp/images/play.png)ValuesavantPOORAVERAGEGREATPitching Run Value24NOT QUALIFIED98Fastball Run Value19NOT QUALIFIED98Breaking Run Value4NOT QUALIFIED81Offspeed Run Value1NOT QUALIFIED68PitchingxERA3.73NOT QUALIFIED62xBA.251NOT QUALIFIED36Fastball Velo92.1NOT QUALIFIED15Avg Exit Velo88.0NOT QUALIFIED64Chase %33.2NOT QUALIFIED77Whiff %20.5NOT QUALIFIED14K %19.1NOT QUALIFIED27BB %5.9NOT QUALIFIED88Barrel %5.3NOT QUALIFIED83Hard-Hit %38.4NOT QUALIFIED50GB %52.5NOT QUALIFIED90Extension6.9NOT QUALIFIED84
 
 20262026
 
@@ -257,7 +257,7 @@ BattingPitchingFieldingBat TrackingRunningABSBreakdownsZones
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | 2019 | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | NL | 9 | 11 | 9 | 0 | 1 | 0 | 0 | 0 | 0 | 1 | 2 | 0 | 0 | 0 | .111 | .200 | .111 | .311 |
 |  | 2021 | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | NL | 28 | 53 | 46 | 7 | 6 | 2 | 1 | 1 | 7 | 2 | 21 | 0 | 0 | 0 | .130 | .167 | .283 | .450 |
-|  | 2 Seasons | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | NL | 202 | 64 | 55 | 7 | 7 | 2 | 1 | 1 | 7 | 3 | 23 | 0 | 0 | 0 | .127 | .172 | .255 | .427 |
+|  | 2 Seasons | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | NL | 203 | 64 | 55 | 7 | 7 | 2 | 1 | 1 | 7 | 3 | 23 | 0 | 0 | 0 | .127 | .172 | .255 | .427 |
 
 \*: All Star Season,
 Rankings AL/NL: Top 5101520,
@@ -283,8 +283,8 @@ Click for Chart.
 |  | 2023 | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | NL | 850 | 11 | 13 | 3.25 | 33 | 33 | 0 | 216.0 | 201 | 83 | 78 | 20 | 31 | 194 | 1.07 |
 | \* | 2024 | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | NL | 841 | 13 | 10 | 3.47 | 33 | 33 | 0 | 204.2 | 202 | 83 | 79 | 11 | 50 | 172 | 1.23 |
 | \* | 2025 | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | NL | 856 | 15 | 11 | 3.22 | 34 | 34 | 0 | 207.0 | 210 | 82 | 74 | 14 | 46 | 224 | 1.24 |
-| \* | 2026 | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | NL | 510 | 7 | 7 | 3.74 | 20 | 20 | 0 | 125.0 | 108 | 55 | 52 | 9 | 31 | 101 | 1.11 |
-|  | 8 Seasons | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | NL | 4860 | 77 | 60 | 3.42 | 200 | 197 | 0 | 1187.1 | 1128 | 495 | 451 | 83 | 281 | 1095 | 1.19 |
+| \* | 2026 | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | NL | 538 | 7 | 7 | 3.59 | 21 | 21 | 0 | 133.0 | 112 | 56 | 53 | 9 | 32 | 103 | 1.08 |
+|  | 8 Seasons | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | NL | 4888 | 77 | 60 | 3.40 | 201 | 198 | 0 | 1195.1 | 1132 | 496 | 452 | 83 | 282 | 1097 | 1.18 |
 
 \*: All Star Season,
 Rankings AL/NL: Top 5101520,
@@ -302,8 +302,8 @@ Click for Chart.
 | 2023 | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | NL | P | 33 | 33 | 216.0 | 38 | 17 | 20 | 1 | 4 |  | .974 |
 | 2024 | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | NL | P | 33 | 33 | 204.2 | 50 | 15 | 33 | 2 | 5 |  | .960 |
 | 2025 | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | NL | P | 34 | 34 | 207.0 | 42 | 7 | 34 | 1 | 3 |  | .976 |
-| 2026 | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | NL | P | 20 | 20 | 125.0 | 25 | 9 | 15 | 1 | 1 |  | .960 |
-| 8 Seasons | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | NL | P | 200 | 197 | 1187.1 | 249 | 88 | 156 | 5 | 18 |  | .980 |
+| 2026 | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | NL | P | 21 | 21 | 133.0 | 26 | 9 | 16 | 1 | 1 |  | .962 |
+| 8 Seasons | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | NL | P | 201 | 198 | 1195.1 | 250 | 88 | 157 | 5 | 18 |  | .980 |
 
 ## [Spray Chart](https://baseballsavant.mlb.com/savant-player/logan-webb-657277?stats=statcast-r-pitching-mlb\#spray-chart)
 
@@ -477,7 +477,7 @@ Save Image
 
 | Year | IP | Rank |
 | --- | --- | --- |
-| 2026 | 125.0 | 17th in NL |
+| 2026 | 133.0 | 7th in NL |
 | 2025 | 207.0 | 1st in NL |
 | 2024 | 204.2 | 1st in NL |
 | 2023 | 216.0 | 1st in NL |
@@ -496,7 +496,7 @@ Save Image
 
 | Year | AVG | Rank |
 | --- | --- | --- |
-| 2026 | .230 | 12th in NL |
+| 2026 | .225 | 7th in NL |
 
 #### Caught Stealing
 
@@ -514,13 +514,13 @@ Save Image
 
 | Year | ERA | Rank |
 | --- | --- | --- |
-| 2026 | 3.74 | 19th in NL |
+| 2026 | 3.59 | 15th in NL |
 
 #### WHIP
 
 | Year | WHIP | Rank |
 | --- | --- | --- |
-| 2026 | 1.11 | 7th in NL |
+| 2026 | 1.08 | 5th in NL |
 
 \+ View More Rankings
 
@@ -614,8 +614,8 @@ Save Image
 
 | Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP | AVG | OBP | SLG | OPS |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| San Francisco Giants | MLB | vs Left |  |  |  | 20 |  |  | 74.0 | 310 | 70 |  |  | 6 | 19 | 61 | 1.20 | .244 | .298 | .359 | .657 |
-| San Francisco Giants | MLB | vs Right |  |  |  | 20 |  |  | 50.0 | 200 | 38 |  |  | 3 | 12 | 40 | 1.00 | .208 | .266 | .311 | .577 |
+| San Francisco Giants | MLB | vs Left |  |  |  | 21 |  |  | 79.0 | 326 | 72 |  |  | 6 | 19 | 63 | 1.15 | .238 | .289 | .347 | .636 |
+| San Francisco Giants | MLB | vs Right |  |  |  | 21 |  |  | 53.0 | 212 | 40 |  |  | 3 | 13 | 40 | 1.00 | .206 | .265 | .309 | .574 |
 
 ### [Monthly Splits](https://baseballsavant.mlb.com/savant-player/logan-webb-657277?stats=statcast-r-pitching-mlb\#monthly-splits)
 
@@ -626,55 +626,55 @@ Save Image
 | San Francisco Giants | MLB | May | 0 | 1 | 7.56 | 2 | 2 | 0 | 8.1 | 40 | 10 | 7 | 7 | 1 | 3 | 9 | 1.56 | .286 | .375 | .486 | .861 |
 | San Francisco Giants | MLB | June | 3 | 1 | 0.71 | 5 | 5 | 0 | 38.0 | 133 | 19 | 4 | 3 | 1 | 4 | 29 | 0.61 | .148 | .174 | .195 | .369 |
 | San Francisco Giants | MLB | July | 1 | 2 | 6.59 | 5 | 5 | 0 | 28.2 | 125 | 29 | 21 | 21 | 4 | 8 | 17 | 1.29 | .254 | .312 | .430 | .742 |
-| San Francisco Giants | MLB | August | 1 | 0 | 0.00 | 1 | 1 | 0 | 6.0 | 24 | 5 | 0 | 0 | 0 | 1 | 8 | 1.00 | .217 | .250 | .217 | .467 |
+| San Francisco Giants | MLB | August | 1 | 0 | 0.64 | 2 | 2 | 0 | 14.0 | 52 | 9 | 1 | 1 | 0 | 2 | 10 | 0.79 | .180 | .212 | .200 | .412 |
 | San Francisco Giants | MLB | Pre All-Star | 5 | 7 | 3.86 | 16 | 16 | 0 | 100.1 | 412 | 90 | 46 | 43 | 8 | 26 | 80 | 1.16 | .237 | .293 | .350 | .643 |
-| San Francisco Giants | MLB | Post All-Star | 2 | 0 | 3.28 | 4 | 4 | 0 | 24.2 | 98 | 18 | 9 | 9 | 1 | 5 | 21 | 0.93 | .200 | .255 | .300 | .555 |
+| San Francisco Giants | MLB | Post All-Star | 2 | 0 | 2.76 | 5 | 5 | 0 | 32.2 | 126 | 22 | 10 | 10 | 1 | 6 | 23 | 0.86 | .188 | .238 | .274 | .512 |
 
 ### [Baserunner Splits](https://baseballsavant.mlb.com/savant-player/logan-webb-657277?stats=statcast-r-pitching-mlb\#baserunner-splits)
 
 | Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP | AVG | OBP | SLG | OPS |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| San Francisco Giants | MLB | Bases Empty |  |  |  | 20 |  |  | 74.1 | 309 | 61 |  |  | 5 | 18 | 69 | 1.06 | .213 | .269 | .317 | .586 |
+| San Francisco Giants | MLB | Bases Empty |  |  |  | 21 |  |  | 78.2 | 327 | 64 |  |  | 5 | 19 | 71 | 1.06 | .211 | .266 | .313 | .579 |
 | San Francisco Giants | MLB | Bases Loaded |  |  |  | 4 |  |  | 1.2 | 7 | 2 |  |  | 1 | 1 | 1 | 1.80 | .333 | .429 | .833 | 1.262 |
-| San Francisco Giants | MLB | Runner at 1st |  |  |  | 20 |  |  | 22.0 | 82 | 21 |  |  | 1 | 3 | 8 | 1.09 | .276 | .321 | .368 | .689 |
+| San Francisco Giants | MLB | Runner at 1st |  |  |  | 21 |  |  | 23.2 | 87 | 22 |  |  | 1 | 3 | 8 | 1.06 | .272 | .314 | .358 | .672 |
 | San Francisco Giants | MLB | Runners at 1st & 2nd |  |  |  | 15 |  |  | 6.0 | 25 | 10 |  |  | 1 | 0 | 4 | 1.67 | .400 | .400 | .720 | 1.120 |
-| San Francisco Giants | MLB | Runners at 1st & 3rd |  |  |  | 9 |  |  | 3.2 | 11 | 1 |  |  | 0 | 0 | 2 | 0.27 | .100 | .091 | .100 | .191 |
-| San Francisco Giants | MLB | Runner at 2nd |  |  |  | 18 |  |  | 10.1 | 43 | 9 |  |  | 1 | 3 | 12 | 1.16 | .225 | .279 | .325 | .604 |
+| San Francisco Giants | MLB | Runners at 1st & 3rd |  |  |  | 10 |  |  | 4.1 | 12 | 1 |  |  | 0 | 0 | 2 | 0.23 | .091 | .083 | .091 | .174 |
+| San Francisco Giants | MLB | Runner at 2nd |  |  |  | 19 |  |  | 11.2 | 47 | 9 |  |  | 1 | 3 | 12 | 1.03 | .205 | .255 | .295 | .550 |
 | San Francisco Giants | MLB | Runners at 2nd & 3rd |  |  |  | 6 |  |  | 1.1 | 8 | 1 |  |  | 0 | 2 | 1 | 2.25 | .200 | .429 | .200 | .629 |
 | San Francisco Giants | MLB | Runner at 3rd |  |  |  | 13 |  |  | 5.2 | 25 | 3 |  |  | 0 | 4 | 4 | 1.24 | .143 | .280 | .143 | .423 |
-| San Francisco Giants | MLB | Scoring Position |  |  |  | 20 |  |  | 28.2 | 119 | 26 |  |  | 3 | 10 | 24 | 1.26 | .243 | .305 | .383 | .688 |
+| San Francisco Giants | MLB | Scoring Position |  |  |  | 21 |  |  | 30.2 | 124 | 26 |  |  | 3 | 10 | 24 | 1.17 | .232 | .293 | .366 | .659 |
 
 ### [Game Type Splits](https://baseballsavant.mlb.com/savant-player/logan-webb-657277?stats=statcast-r-pitching-mlb\#game-type-splits)
 
 | Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP | AVG | OBP | SLG | OPS |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| San Francisco Giants | MLB | Home Games | 3 | 4 | 3.88 | 10 | 10 | 0 | 65.0 | 262 | 59 | 30 | 28 | 2 | 11 | 49 | 1.08 | .240 | .280 | .333 | .613 |
+| San Francisco Giants | MLB | Home Games | 3 | 4 | 3.58 | 11 | 11 | 0 | 73.0 | 290 | 63 | 31 | 29 | 2 | 12 | 51 | 1.03 | .231 | .270 | .319 | .589 |
 | San Francisco Giants | MLB | Away Games | 4 | 3 | 3.60 | 10 | 10 | 0 | 60.0 | 248 | 49 | 25 | 24 | 7 | 20 | 52 | 1.15 | .219 | .291 | .348 | .639 |
-| San Francisco Giants | MLB | Day Games | 2 | 3 | 2.52 | 7 | 7 | 0 | 50.0 | 196 | 43 | 15 | 14 | 3 | 9 | 32 | 1.04 | .234 | .273 | .326 | .599 |
+| San Francisco Giants | MLB | Day Games | 2 | 3 | 2.33 | 8 | 8 | 0 | 58.0 | 224 | 47 | 16 | 15 | 3 | 10 | 34 | 0.98 | .223 | .261 | .308 | .569 |
 | San Francisco Giants | MLB | Night Games | 5 | 4 | 4.56 | 13 | 13 | 0 | 75.0 | 314 | 65 | 40 | 38 | 6 | 22 | 69 | 1.16 | .227 | .293 | .350 | .643 |
-| San Francisco Giants | MLB | Leading Off Inning |  |  |  | 20 |  |  | 31.2 | 126 | 27 |  |  | 2 | 4 | 30 | 0.98 | .221 | .246 | .344 | .590 |
-| San Francisco Giants | MLB | Late / Close |  |  |  | 6 |  |  | 7.0 | 27 | 5 |  |  | 0 | 1 | 2 | 0.86 | .208 | .240 | .250 | .490 |
+| San Francisco Giants | MLB | Leading Off Inning |  |  |  | 21 |  |  | 33.1 | 134 | 28 |  |  | 2 | 5 | 32 | 0.99 | .217 | .246 | .333 | .579 |
+| San Francisco Giants | MLB | Late / Close |  |  |  | 7 |  |  | 9.0 | 34 | 6 |  |  | 0 | 1 | 3 | 0.78 | .194 | .219 | .258 | .477 |
 
 ### [Outs Splits](https://baseballsavant.mlb.com/savant-player/logan-webb-657277?stats=statcast-r-pitching-mlb\#out-splits)
 
 | Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP | AVG | OBP | SLG | OPS |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| San Francisco Giants | MLB | No Outs |  |  |  | 20 |  |  | 44.0 | 178 | 45 |  |  | 4 | 7 | 38 | 1.18 | .265 | .292 | .412 | .704 |
-| San Francisco Giants | MLB | One Out |  |  |  | 20 |  |  | 41.2 | 166 | 31 |  |  | 4 | 12 | 33 | 1.03 | .209 | .291 | .331 | .622 |
-| San Francisco Giants | MLB | Two Outs |  |  |  | 20 |  |  | 39.1 | 166 | 32 |  |  | 1 | 12 | 30 | 1.12 | .211 | .273 | .270 | .543 |
+| San Francisco Giants | MLB | No Outs |  |  |  | 21 |  |  | 47.0 | 190 | 47 |  |  | 4 | 8 | 40 | 1.17 | .260 | .289 | .398 | .687 |
+| San Francisco Giants | MLB | One Out |  |  |  | 21 |  |  | 44.1 | 174 | 32 |  |  | 4 | 12 | 33 | 0.99 | .205 | .283 | .327 | .610 |
+| San Francisco Giants | MLB | Two Outs |  |  |  | 21 |  |  | 41.2 | 174 | 33 |  |  | 1 | 12 | 30 | 1.08 | .206 | .266 | .263 | .529 |
 
 ### [Inning Splits](https://baseballsavant.mlb.com/savant-player/logan-webb-657277?stats=statcast-r-pitching-mlb\#inning-splits)
 
 | Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP | AVG | OBP | SLG | OPS |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| San Francisco Giants | MLB | First Inning |  |  | 4.50 | 20 |  |  | 20.0 | 82 | 17 | 10 | 10 | 3 | 7 | 23 | 1.20 | .227 | .293 | .413 | .706 |
-| San Francisco Giants | MLB | Second Inning |  |  | 5.85 | 20 |  |  | 20.0 | 85 | 22 | 13 | 13 | 3 | 4 | 22 | 1.30 | .275 | .318 | .438 | .756 |
-| San Francisco Giants | MLB | Third Inning |  |  | 3.15 | 20 |  |  | 20.0 | 84 | 19 | 8 | 7 | 1 | 8 | 14 | 1.35 | .250 | .321 | .316 | .637 |
-| San Francisco Giants | MLB | Fourth Inning |  |  | 6.16 | 19 |  |  | 19.0 | 85 | 22 | 13 | 13 | 1 | 5 | 18 | 1.42 | .278 | .329 | .443 | .772 |
-| San Francisco Giants | MLB | Fifth Inning |  |  | 2.08 | 18 |  |  | 17.1 | 66 | 12 | 5 | 4 | 0 | 2 | 14 | 0.81 | .197 | .242 | .246 | .488 |
-| San Francisco Giants | MLB | Sixth Inning |  |  | 1.13 | 16 |  |  | 16.0 | 58 | 7 | 2 | 2 | 0 | 3 | 6 | 0.63 | .130 | .190 | .130 | .320 |
-| San Francisco Giants | MLB | Seventh Inning |  |  | 2.79 | 10 |  |  | 9.2 | 38 | 6 | 3 | 3 | 1 | 2 | 2 | 0.83 | .176 | .243 | .294 | .537 |
-| San Francisco Giants | MLB | Eighth Inning |  |  | 0.00 | 3 |  |  | 3.0 | 12 | 3 | 1 | 0 | 0 | 0 | 2 | 1.00 | .273 | .273 | .273 | .546 |
+| San Francisco Giants | MLB | First Inning |  |  | 4.29 | 21 |  |  | 21.0 | 85 | 17 | 10 | 10 | 3 | 7 | 23 | 1.14 | .218 | .282 | .397 | .679 |
+| San Francisco Giants | MLB | Second Inning |  |  | 5.57 | 21 |  |  | 21.0 | 89 | 23 | 13 | 13 | 3 | 4 | 23 | 1.29 | .274 | .315 | .429 | .744 |
+| San Francisco Giants | MLB | Third Inning |  |  | 3.00 | 21 |  |  | 21.0 | 87 | 19 | 8 | 7 | 1 | 9 | 14 | 1.33 | .244 | .322 | .308 | .630 |
+| San Francisco Giants | MLB | Fourth Inning |  |  | 5.85 | 20 |  |  | 20.0 | 89 | 22 | 13 | 13 | 1 | 5 | 18 | 1.35 | .265 | .315 | .422 | .737 |
+| San Francisco Giants | MLB | Fifth Inning |  |  | 1.96 | 19 |  |  | 18.1 | 69 | 12 | 5 | 4 | 0 | 2 | 14 | 0.76 | .188 | .232 | .234 | .466 |
+| San Francisco Giants | MLB | Sixth Inning |  |  | 1.59 | 17 |  |  | 17.0 | 62 | 9 | 3 | 3 | 0 | 3 | 6 | 0.71 | .155 | .210 | .155 | .365 |
+| San Francisco Giants | MLB | Seventh Inning |  |  | 2.53 | 11 |  |  | 10.2 | 41 | 6 | 3 | 3 | 1 | 2 | 3 | 0.75 | .162 | .225 | .270 | .495 |
+| San Francisco Giants | MLB | Eighth Inning |  |  | 0.00 | 4 |  |  | 4.0 | 16 | 4 | 1 | 0 | 0 | 0 | 2 | 1.00 | .267 | .267 | .333 | .600 |
 
 ### [Platoon Splits](https://baseballsavant.mlb.com/savant-player/logan-webb-657277?stats=statcast-r-pitching-mlb\#milb-platoon-splits)
 
@@ -752,7 +752,8 @@ Save Image
 | [2026-07-29](https://baseballsavant.mlb.com/gamefeed?gamePk=823192&game_date=2026-07-29) | ![](https://www.mlbstatic.com/team-logos/137.svg)San Francisco Giants | ![](https://www.mlbstatic.com/team-logos/158.svg)Milwaukee Brewers | 1 | 0 | 3.93 | 1 | 1 | 0 | 6.0 | 5 | 2 | 2 | 0 | 1 | 4 | 1.12 | [![](https://baseballsavant.mlb.com/sections/gamefeed/images/pitch-report-icon.png)](https://baseballsavant.mlb.com/player-scroll/game?gamePk=823192&player_id=657277) |
 | July | ![](https://www.mlbstatic.com/team-logos/137.svg)San Francisco Giants | ![](https://www.mlbstatic.com/team-logos/.svg) | 1 | 2 | 6.59 | 5 | 5 | 0 | 28.2 | 29 | 21 | 21 | 4 | 8 | 17 | 1.29 |  |
 | [2026-08-03](https://baseballsavant.mlb.com/gamefeed?gamePk=822867&game_date=2026-08-03) | ![](https://www.mlbstatic.com/team-logos/140.svg)Texas Rangers | ![](https://www.mlbstatic.com/team-logos/137.svg)San Francisco Giants | 1 | 0 | 3.74 | 1 | 1 | 0 | 6.0 | 5 | 0 | 0 | 0 | 1 | 8 | 1.11 | [![](https://baseballsavant.mlb.com/sections/gamefeed/images/pitch-report-icon.png)](https://baseballsavant.mlb.com/player-scroll/game?gamePk=822867&player_id=657277) |
-| August | ![](https://www.mlbstatic.com/team-logos/137.svg)San Francisco Giants | ![](https://www.mlbstatic.com/team-logos/.svg) | 1 | 0 | 0.00 | 1 | 1 | 0 | 6.0 | 5 | 0 | 0 | 0 | 1 | 8 | 1.00 |  |
+| [2026-08-09](https://baseballsavant.mlb.com/gamefeed?gamePk=823190&game_date=2026-08-09) | ![](https://www.mlbstatic.com/team-logos/137.svg)San Francisco Giants | ![](https://www.mlbstatic.com/team-logos/116.svg)Detroit Tigers | 0 | 0 | 3.59 | 1 | 1 | 0 | 8.0 | 4 | 1 | 1 | 0 | 1 | 2 | 1.08 | [![](https://baseballsavant.mlb.com/sections/gamefeed/images/pitch-report-icon.png)](https://baseballsavant.mlb.com/player-scroll/game?gamePk=823190&player_id=657277) |
+| August | ![](https://www.mlbstatic.com/team-logos/137.svg)San Francisco Giants | ![](https://www.mlbstatic.com/team-logos/.svg) | 1 | 0 | 0.64 | 2 | 2 | 0 | 14.0 | 9 | 1 | 1 | 0 | 2 | 10 | 0.79 |  |
 
 | Date | Home Tm | Away Tm | W | L | ERA | G | GS | SV | IP | H | R | ER | HR | BB | SO | WHIP |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -777,8 +778,8 @@ Save Image
 | 2023 | 26 | 3182 | 619 | 43 | 7.0 | 5.1 | 90.7 | 114.2 | 0.6 | 28.4 | .251 | .397 | .283 | .295 | .365 | 46.0 | 22.8 | 3.6 | 3.25 | 3.63 |
 | 2024 | 27 | 3201 | 617 | 43 | 7.0 | 5.1 | 89.8 | 120.4 | 2.5 | 32.1 | .270 | .421 | .288 | .325 | .387 | 46.2 | 20.5 | 5.9 | 3.47 | 4.34 |
 | 2025 | 28 | 3282 | 579 | 48 | 8.3 | 5.6 | 89.7 | 116.8 | 5.7 | 32.8 | .246 | .385 | .303 | .295 | .374 | 40.2 | 26.2 | 5.4 | 3.22 | 3.58 |
-| 2026 | 29 | 1885 | 371 | 20 | 5.4 | 3.9 | 88.4 | 114.4 | 6.7 | 30.7 | .254 | .375 | .279 | .303 | .345 | 39.1 | 19.8 | 6.1 | 3.74 | 3.82 |
-| **Player** |  | 18444 | 3436 | 223 | 6.5 | 4.6 | 89.4 | 120.4 | 3.3 | 30.8 | .253 | .389 | .291 | .304 | .365 | 41.7 | 22.5 | 5.8 |  |  |
+| 2026 | 29 | 1985 | 396 | 21 | 5.3 | 3.9 | 88.0 | 114.4 | 6.8 | 30.6 | .251 | .372 | .273 | .299 | .339 | 38.4 | 19.1 | 5.9 | 3.59 | 3.73 |
+| **Player** |  | 18544 | 3461 | 224 | 6.5 | 4.6 | 89.3 | 120.4 | 3.3 | 30.8 | .253 | .388 | .291 | .304 | .364 | 41.6 | 22.4 | 5.8 |  |  |
 | **MLB** |  |  |  |  | 7.6 | 4.9 | 88.6 | 122.9 | 12.5 | 33.3 | .243 | .407 | .315 | .316 | .369 | 37.1 | 22.2 | 8.4 |  |  |
 
 ! Note: All figures in this table cover the period 2015-present.
@@ -921,8 +922,8 @@ Breaking: Slider, Curve, Knuckle, Sweeper, Slurve, Other
 | 2023 | 62.7 | 37.3 | 14.9 | 20.5 | 1.9 | 38.6 | 41.8 | 19.5 | 29.9 | 27.5 | 5.3 | 8.7 | 14.4 | 14.2 |
 | 2024 | 57.2 | 42.8 | 17.3 | 23.2 | 2.3 | 33.4 | 42.1 | 24.5 | 24.0 | 24.3 | 8.9 | 9.4 | 17.8 | 15.6 |
 | 2025 | 54.2 | 45.8 | 16.9 | 25.6 | 3.3 | 36.3 | 39.6 | 24.2 | 23.7 | 24.4 | 6.2 | 12.6 | 15.2 | 18.0 |
-| 2026 | 52.3 | 47.7 | 19.9 | 23.2 | 4.6 | 40.2 | 35.3 | 24.5 | 26.7 | 19.9 | 5.7 | 13.5 | 15.4 | 18.9 |
-| **Player** | 57.3 | 42.7 | 16.0 | 23.6 | 3.0 | 37.4 | 39.8 | 22.8 | 26.5 | 24.1 | 6.7 | 10.9 | 15.7 | 16.1 |
+| 2026 | 52.5 | 47.5 | 19.2 | 23.5 | 4.8 | 41.2 | 34.8 | 24.0 | 27.5 | 19.4 | 5.6 | 13.6 | 15.4 | 18.4 |
+| **Player** | 57.3 | 42.7 | 16.0 | 23.7 | 3.1 | 37.5 | 39.8 | 22.7 | 26.6 | 24.0 | 6.7 | 10.9 | 15.7 | 16.1 |
 | **MLB** | 44.1 | 55.9 | 24.2 | 24.6 | 7.1 | 37.5 | 37.3 | 25.1 | 20.7 | 17.5 | 5.8 | 16.8 | 19.7 | 19.2 |
 
 ! Note: All figures in this table cover the period 2015-present.
@@ -936,8 +937,8 @@ Breaking: Slider, Curve, Knuckle, Sweeper, Slurve, Other
 | 2023 | 3.9 | 46.7 | 12.1 | 25.4 | 4.2 | 7.0 | 5.1 |
 | 2024 | 5.5 | 42.1 | 12.5 | 26.4 | 6.3 | 7.0 | 5.1 |
 | 2025 | 4.5 | 40.4 | 16.6 | 25.6 | 4.1 | 8.3 | 5.6 |
-| 2026 | 6.2 | 37.2 | 18.6 | 27.0 | 5.4 | 5.4 | 3.9 |
-| **Player** | 4.9 | 42.6 | 14.5 | 26.5 | 4.6 | 6.5 | 4.6 |
+| 2026 | 6.3 | 37.4 | 19.2 | 26.0 | 5.6 | 5.3 | 3.9 |
+| **Player** | 4.9 | 42.6 | 14.6 | 26.4 | 4.7 | 6.5 | 4.6 |
 | **MLB** | 4.0 | 32.3 | 25.0 | 24.4 | 5.9 | 7.6 | 4.9 |
 
 ! Note: All figures in this table cover the period 2015-present.
@@ -961,7 +962,7 @@ All Similar Pitchers](https://baseballsavant.mlb.com/affinity-pitchersAndHitters
 
 ## [Pitch Movement](https://baseballsavant.mlb.com/savant-player/logan-webb-657277?stats=statcast-r-pitching-mlb\#pitch_movement)
 
-Created with Highcharts 6.2.0Chart context menuLogan Webb Vertical Movement vs Avg (Inches) by SeasonSource: baseballsavant.mlb.comSinkerCutterFour SeamerChangeupSweeper20192020202120222023202420252026-10-50510
+Created with Highcharts 6.2.0Chart context menuLogan Webb Vertical Movement vs Avg (Inches) by SeasonSource: baseballsavant.mlb.comFour SeamerSweeperChangeupCutterSinker20192020202120222023202420252026-10-50510
 
 - Vertical Movement vs Avg (Inches)Horizontal Movement vs Avg (Inches)Horizontal Movement (Inches)Vertical Movement (Inches)Induced Vertical Movement (Inches)Horizontal Movement % Break vs AvgVertical Movement % Break vs Avg▾
 
@@ -977,43 +978,43 @@ On the right, Induced Movement (or IVB) is reported without gravity, and attempt
 | --- | --- | --- |
 | Year | Pitch | Team | Hand | # | MPH | Vertical<br>Drop | vs.<br>Comparable | Horizontal<br>Break | vs.<br>Comparable | Vertical<br>Break | vs. Avg | Horizontal<br>Break | vs. Avg |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026 | 4-Seam Fastball | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 239 | 92.3 | 22.0 | -4.2 | 7.7ARM | -1.8 | 9.9 | -5.8 | 7.7ARM | -0.1 |
+| 2026 | Sweeper | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 356 | 84.1 | 37.6 | 0.3 | 14.4GLV | 0.6 | 1.0 | 0.0 | 14.4GLV | 0.8 |
+| 2026 | Changeup | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 473 | 86.0 | 42.1 | 5.0 | 10.0ARM | -4.2 | -5.3 | 9.2 | 10.0ARM | -4.2 |
+| 2026 | Cutter | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 250 | 89.8 | 26.8 | -0.7 | 0.9ARM | -2.3 | 6.9 | -1.1 | 0.9ARM | -3.1 |
 | 2026 | Sinker | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 567 | 92.1 | 32.0 | 5.7 | 15.5ARM | -0.5 | 0.3 | 7.3 | 15.5ARM | 0.4 |
-| 2026 | Cutter | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 250 | 89.8 | 26.8 | -0.8 | 0.9ARM | -2.3 | 6.9 | -1.1 | 0.9ARM | -3.2 |
-| 2026 | 4-Seam Fastball | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 239 | 92.3 | 22.0 | -4.3 | 7.7ARM | -1.9 | 9.9 | -5.8 | 7.7ARM | -0.1 |
-| 2026 | Changeup | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 473 | 86.0 | 42.1 | 4.9 | 10.0ARM | -4.2 | -5.3 | 9.2 | 10.0ARM | -4.2 |
-| 2026 | Sweeper | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 356 | 84.1 | 37.6 | 0.3 | 14.4GLV | 0.5 | 1.0 | 0.0 | 14.4GLV | 0.8 |
-| 2025 | Changeup | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 792 | 86.5 | 42.0 | 6.1 | 8.5ARM | -5.4 | -5.6 | 9.7 | 8.5ARM | -6.0 |
 | 2025 | Sweeper | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 873 | 84.6 | 38.7 | 1.2 | 14.6GLV | 1.1 | -0.5 | 1.4 | 14.6GLV | 0.7 |
 | 2025 | Cutter | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 255 | 91.0 | 25.2 | -0.9 | 2.0ARM | -2.9 | 7.7 | -0.7 | 2.0ARM | -4.2 |
 | 2025 | 4-Seam Fastball | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 258 | 92.8 | 21.0 | -3.5 | 8.9ARM | -0.7 | 10.7 | -5.1 | 8.9ARM | 1.3 |
+| 2025 | Changeup | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 792 | 86.5 | 42.0 | 6.1 | 8.5ARM | -5.4 | -5.6 | 9.7 | 8.5ARM | -6.0 |
 | 2025 | Sinker | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 1104 | 92.6 | 31.6 | 5.9 | 15.7ARM | -0.2 | 0.5 | 6.9 | 15.7ARM | 0.6 |
+| 2024 | Sweeper | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 680 | 83.8 | 39.9 | 2.8 | 16.4GLV | 2.8 | -0.9 | 2.2 | 16.4GLV | 2.5 |
 | 2024 | 4-Seam Fastball | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 176 | 92.6 | 22.5 | -4.9 | 8.6ARM | -0.9 | 9.2 | -6.6 | 8.6ARM | 1.1 |
 | 2024 | Changeup | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 990 | 87.4 | 40.4 | 5.6 | 9.8ARM | -4.1 | -4.8 | 9.7 | 9.8ARM | -4.3 |
-| 2024 | Sweeper | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 680 | 83.8 | 39.9 | 2.8 | 16.4GLV | 2.8 | -0.9 | 2.2 | 16.4GLV | 2.5 |
-| 2024 | Sinker | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 1270 | 92.6 | 30.9 | 5.5 | 15.1ARM | -0.3 | 1.1 | 6.1 | 15.1ARM | 0.3 |
 | 2024 | Cutter | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 84 | 91.0 | 25.2 | -0.5 | 1.2ARM | -2.3 | 7.7 | -0.6 | 1.2ARM | -3.9 |
-| 2023 | Changeup | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 1324 | 87.5 | 40.0 | 6.2 | 11.3ARM | -3.0 | -4.4 | 9.8 | 11.3ARM | -3.1 |
+| 2024 | Sinker | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 1270 | 92.6 | 30.9 | 5.5 | 15.1ARM | -0.3 | 1.1 | 6.1 | 15.1ARM | 0.3 |
 | 2023 | Sweeper | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 673 | 84.3 | 38.0 | 1.5 | 12.3GLV | -0.1 | 0.5 | 0.7 | 12.3GLV | -1.6 |
+| 2023 | Changeup | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 1324 | 87.5 | 40.0 | 6.2 | 11.3ARM | -3.0 | -4.4 | 9.8 | 11.3ARM | -3.1 |
 | 2023 | 4-Seam Fastball | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 130 | 92.6 | 23.0 | -6.0 | 10.8ARM | 2.4 | 8.8 | -7.0 | 10.8ARM | 3.4 |
 | 2023 | Sinker | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 1055 | 92.3 | 31.2 | 6.0 | 16.0ARM | 0.7 | 0.9 | 6.8 | 16.0ARM | 1.1 |
-| 2022 | Sweeper | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 983 | 82.5 | 39.4 | 1.7 | 10.2GLV | -2.9 | 0.7 | 0.7 | 10.2GLV | -3.6 |
+| 2022 | 4-Seam Fastball | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 118 | 92.3 | 24.8 | -7.4 | 10.4ARM | 1.1 | 7.2 | -9.0 | 10.4ARM | 3.0 |
 | 2022 | Sinker | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 969 | 91.8 | 34.8 | 8.2 | 14.8ARM | -0.9 | -2.2 | 10.5 | 14.8ARM | 0.1 |
 | 2022 | Changeup | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 936 | 86.4 | 42.0 | 6.3 | 7.1ARM | -6.4 | -5.6 | 11.5 | 7.1ARM | -7.1 |
-| 2022 | 4-Seam Fastball | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 118 | 92.3 | 24.8 | -7.4 | 10.4ARM | 1.1 | 7.2 | -9.0 | 10.4ARM | 3.0 |
-| 2021 | Cutter | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 24 | 91.2 | 26.0 | -2.1 | 1.3ARM | -2.5 | 6.7 | -1.2 | 1.3ARM | -4.1 |
+| 2022 | Sweeper | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 983 | 82.5 | 39.4 | 1.7 | 10.2GLV | -2.9 | 0.7 | 0.7 | 10.2GLV | -3.6 |
 | 2021 | Sinker | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 837 | 92.8 | 31.7 | 8.4 | 15.2ARM | -0.1 | 0.1 | 8.7 | 15.2ARM | 0.4 |
-| 2021 | Sweeper | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 614 | 82.4 | 41.9 | 1.9 | 10.8GLV | -2.8 | -1.8 | 2.4 | 10.8GLV | -3.2 |
 | 2021 | 4-Seam Fastball | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 217 | 93.2 | 20.4 | -4.3 | 8.4ARM | 0.1 | 11.0 | -5.2 | 8.4ARM | 1.2 |
+| 2021 | Sweeper | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 614 | 82.4 | 41.9 | 1.9 | 10.8GLV | -2.8 | -1.8 | 2.4 | 10.8GLV | -3.2 |
+| 2021 | Cutter | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 24 | 91.2 | 26.0 | -2.1 | 1.3ARM | -2.5 | 6.7 | -1.2 | 1.3ARM | -4.1 |
 | 2021 | Changeup | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 522 | 86.2 | 41.6 | 7.9 | 8.9ARM | -5.8 | -5.0 | 11.3 | 8.9ARM | -5.0 |
 | 2020 | Cutter | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 54 | 90.5 | 24.9 | 0.0 | 1.5ARM | -3.2 | 8.2 | 0.1 | 1.5ARM | -4.3 |
-| 2020 | 4-Seam Fastball | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 323 | 93.1 | 18.9 | -2.9 | 8.7ARM | 0.8 | 12.5 | -3.5 | 8.7ARM | 1.4 |
+| 2020 | Sweeper | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 153 | 81.4 | 42.4 | 0.5 | 12.1GLV | -2.9 | -1.2 | 0.7 | 12.1GLV | -2.8 |
 | 2020 | Sinker | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 162 | 91.7 | 27.2 | 3.9 | 17.3ARM | 2.4 | 5.3 | 3.9 | 17.3ARM | 2.4 |
 | 2020 | Changeup | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 306 | 84.6 | 39.9 | 7.3 | 12.6ARM | -1.0 | -2.0 | 8.5 | 12.6ARM | -0.8 |
-| 2020 | Sweeper | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 153 | 81.4 | 42.4 | 0.5 | 12.1GLV | -2.9 | -1.2 | 0.7 | 12.1GLV | -2.8 |
+| 2020 | 4-Seam Fastball | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 323 | 93.1 | 18.9 | -2.9 | 8.7ARM | 0.8 | 12.5 | -3.5 | 8.7ARM | 1.4 |
 | 2019 | Sinker | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 87 | 91.8 | 24.9 | 1.8 | 16.3ARM | 1.7 | 7.4 | 1.7 | 16.3ARM | 1.4 |
-| 2019 | 4-Seam Fastball | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 294 | 93.2 | 17.8 | -1.8 | 8.9ARM | 1.2 | 13.5 | -2.1 | 8.9ARM | 1.4 |
 | 2019 | Sweeper | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 159 | 81.9 | 42.5 | 0.6 | 10.7GLV | -5.4 | -1.3 | 0.8 | 10.7GLV | -5.9 |
 | 2019 | Changeup | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 136 | 84.9 | 38.3 | 7.3 | 11.8ARM | -2.2 | -0.8 | 7.7 | 11.8ARM | -1.7 |
+| 2019 | 4-Seam Fastball | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 294 | 93.2 | 17.8 | -1.8 | 8.9ARM | 1.2 | 13.5 | -2.1 | 8.9ARM | 1.4 |
 
 ! Note: Years are in reverse order.
 
@@ -1025,11 +1026,11 @@ On the right, Induced Movement (or IVB) is reported without gravity, and attempt
 
 | Team | RV/100 | Run Value | Pitches | % | PA | BA | SLG | wOBA | Whiff% | K% | PutAway % | xBA | xSLG | xwOBA | Hard Hit % |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2026 | Sinker | ![](https://www.mlbstatic.com/team-logos/137.svg) | 2.1 | 12 | 567 | 30.1 | 180 | .230 | .360 | .306 | 10.6 | 8.9 | 17.4 | .291 | .441 | .354 | 52.4 |
-| 2026 | Changeup | ![](https://www.mlbstatic.com/team-logos/137.svg) | -0.1 | 0 | 473 | 25.1 | 129 | .240 | .322 | .291 | 29.5 | 27.1 | 16.1 | .257 | .338 | .286 | 33.3 |
-| 2026 | Sweeper | ![](https://www.mlbstatic.com/team-logos/137.svg) | 1.0 | 4 | 356 | 18.9 | 72 | .212 | .333 | .274 | 25.2 | 31.9 | 26.1 | .190 | .354 | .269 | 34.9 |
-| 2026 | Cutter | ![](https://www.mlbstatic.com/team-logos/137.svg) | 0.3 | 1 | 250 | 13.3 | 62 | .288 | .441 | .342 | 20.6 | 12.9 | 18.2 | .264 | .375 | .290 | 21.2 |
-| 2026 | 4-Seam Fastball | ![](https://www.mlbstatic.com/team-logos/137.svg) | 2.1 | 5 | 239 | 12.7 | 67 | .175 | .238 | .211 | 22.7 | 28.4 | 15.1 | .212 | .298 | .248 | 31.8 |
+| 2026 | Sinker | ![](https://www.mlbstatic.com/team-logos/137.svg) | 2.3 | 13 | 589 | 29.7 | 187 | .226 | .351 | .299 | 10.5 | 8.6 | 17.0 | .289 | .437 | .351 | 52.0 |
+| 2026 | Changeup | ![](https://www.mlbstatic.com/team-logos/137.svg) | 0.2 | 1 | 494 | 24.9 | 136 | .227 | .305 | .276 | 29.0 | 26.5 | 16.1 | .246 | .324 | .274 | 31.2 |
+| 2026 | Sweeper | ![](https://www.mlbstatic.com/team-logos/137.svg) | 1.0 | 4 | 386 | 19.4 | 80 | .205 | .315 | .278 | 23.7 | 30.0 | 25.8 | .192 | .349 | .270 | 32.7 |
+| 2026 | Cutter | ![](https://www.mlbstatic.com/team-logos/137.svg) | 0.5 | 1 | 264 | 13.3 | 65 | .274 | .419 | .326 | 19.9 | 12.3 | 18.2 | .255 | .362 | .280 | 20.0 |
+| 2026 | 4-Seam Fastball | ![](https://www.mlbstatic.com/team-logos/137.svg) | 1.6 | 4 | 252 | 12.7 | 70 | .197 | .273 | .233 | 21.6 | 27.1 | 14.6 | .226 | .331 | .265 | 36.2 |
 | 2025 | Sinker | ![](https://www.mlbstatic.com/team-logos/137.svg) | 0.7 | 8 | 1,104 | 33.6 | 298 | .294 | .438 | .348 | 13.0 | 15.8 | 22.4 | .275 | .428 | .329 | 45.9 |
 | 2025 | Sweeper | ![](https://www.mlbstatic.com/team-logos/137.svg) | -0.2 | -2 | 873 | 26.6 | 198 | .286 | .401 | .337 | 29.0 | 25.8 | 20.9 | .257 | .436 | .318 | 32.1 |
 | 2025 | Changeup | ![](https://www.mlbstatic.com/team-logos/137.svg) | 1.3 | 10 | 792 | 24.1 | 238 | .207 | .308 | .253 | 31.8 | 34.0 | 24.5 | .225 | .326 | .258 | 44.5 |
@@ -1190,8 +1191,8 @@ These run values are **leveraged**, meaning the base/out situation at the time o
 | 2023 | 3,182 | 49.7 | 62.6 | 88.7 | 32.4 | 61.0 | 45.7 | 65.3 | 47.4 | 20.8 | 6.8 | 78.1 |
 | 2024 | 3,201 | 47.3 | 61.1 | 88.1 | 32.9 | 64.4 | 44.8 | 69.6 | 46.2 | 20.8 | 6.8 | 77.6 |
 | 2025 | 3,282 | 49.2 | 63.2 | 86.3 | 29.8 | 52.8 | 44.1 | 68.5 | 46.2 | 24.7 | 7.0 | 70.4 |
-| 2026 | 1,885 | 45.9 | 65.2 | 86.4 | 33.6 | 66.4 | 44.5 | 62.7 | 48.1 | 21.2 | 5.4 | 71.3 |
-| **Player** | 18,444 | 48.3 | 63.0 | 86.5 | 31.1 | 58.4 | 43.9 | 65.9 | 46.5 | 23.2 | 6.6 | 72.9 |
+| 2026 | 1,985 | 46.5 | 64.6 | 86.9 | 33.2 | 66.8 | 44.7 | 62.6 | 47.8 | 20.5 | 5.6 | 69.4 |
+| **Player** | 18,544 | 48.3 | 62.9 | 86.6 | 31.1 | 58.5 | 43.9 | 65.9 | 46.5 | 23.1 | 6.6 | 72.7 |
 | **MLB** |  | 48.7 | 67.0 | 82.7 | 28.6 | 57.9 | 42.6 | 61.2 | 47.3 | 25.0 | 7.3 | 76.2 |
 
 ! Note: All figures in this table cover the period 2015-present.
@@ -1210,7 +1211,7 @@ These run values are **leveraged**, meaning the base/out situation at the time o
 | 2023 | 98 | 43 | 48 | 100 | 74 | 24 | 1 |  | 10 | 86 | 11 | 44 | 99 | 66 | 6 | 99 | 91 |
 | 2024 | 96 | 98 | 71 | 69 | 32 | 28 | 3 |  | 23 | 89 | 11 | 29 | 83 | 66 | 4 | 95 | 92 |
 | 2025 | 84 | 67 | 32 | 98 | 70 | 23 | 3 |  | 38 | 68 | 47 | 76 | 91 | 51 | 52 | 91 | 84 |
-| 2026 | 98 | 98 | 78 | 42 | 58 | 17 | 2 |  | 57 | 81 | 18 | 31 | 86 | 83 | 46 | 90 | 84 |
+| 2026 | 98 | 98 | 81 | 68 | 62 | 15 | 2 |  | 64 | 77 | 14 | 27 | 88 | 83 | 50 | 90 | 84 |
 
 [+\\
 View Complete Percentile Rankings Leaderboard](https://baseballsavant.mlb.com/leaderboard/percentile-rankings?type=pitcher)
@@ -1271,8 +1272,8 @@ Adjusted
 | 2023 | 20 | 18 | 15 | 23 | 20 | 21 | 22 | 18 | 20 | 18 | 18 | 20 | 23 | 22 | 23 | 23 | 23 | 19 | 22 | 24 | 21 | 18 | 28 | 25 | 20 | 19 | 21 | 24 | 22 | 21 | 16 |
 | 2024 | 11 | 13 | 10 | 14 | 9 | 11 | 13 | 13 | 8 | 9 | 11 | 15 | 15 | 12 | 13 | 10 | 13 | 12 | 14 | 13 | 14 | 10 | 19 | 15 | 11 | 13 | 9 | 11 | 14 | 10 | 9 |
 | 2025 | 14 | 14 | 11 | 12 | 15 | 15 | 12 | 13 | 11 | 13 | 13 | 14 | 16 | 21 | 14 | 14 | 16 | 13 | 11 | 16 | 12 | 13 | 17 | 17 | 13 | 13 | 11 | 15 | 17 | 14 | 14 |
-| 2026 | 9 | 9 | 6 | 12 | 8 | 10 | 6 | 7 | 10 | 8 | 7 | 9 | 6 | 10 | 7 | 9 | 7 | 7 | 7 | 13 | 6 | 9 | 12 | 11 | 5 | 6 | 5 | 11 | 11 | 6 | 7 |
-| **Player** | 83 | 93 | 70 | 95 | 84 | 86 | 88 | 78 | 74 | 72 | 73 | 98 | 95 | 93 | 89 | 95 | 87 | 80 | 87 | 101 | 81 | 86 | 118 | 103 | 76 | 76 | 83 | 97 | 102 | 80 | 73 |
+| 2026 | 9 | 9 | 6 | 12 | 8 | 10 | 6 | 7 | 10 | 8 | 7 | 9 | 6 | 11 | 7 | 9 | 7 | 7 | 7 | 13 | 6 | 9 | 12 | 11 | 5 | 6 | 5 | 10 | 11 | 6 | 7 |
+| **Player** | 83 | 93 | 70 | 95 | 84 | 86 | 88 | 78 | 74 | 72 | 73 | 98 | 95 | 94 | 89 | 95 | 87 | 80 | 87 | 101 | 81 | 86 | 118 | 103 | 76 | 76 | 83 | 96 | 102 | 80 | 73 |
 
 Note: xHR tells how many of this pitcher's batted balls allowed would have been out of other stadiums. The "Adjusted" view here accounts for different wall heights, distances and environmental effects using Statcast Park Factor data.
 
@@ -1422,7 +1423,7 @@ View Complete Year to Year Changes Leaderboard](https://baseballsavant.mlb.com/l
 | 2023 | Shades | 850 | .283 | 421 | 9 | 2.1 | 429 | 254 | 59.2 |
 | 2024 | Shades | 838 | .288 | 406 | 9 | 2.2 | 432 | 91 | 21.1 |
 | 2025 | Shades | 856 | .303 | 428 | 1 | 0.2 | 428 | 19 | 4.4 |
-| 2026 | Shades | 510 | .279 | 200 | 50 | 25.0 | 310 | 164 | 52.9 |
+| 2026 | Shades | 538 | .273 | 212 | 50 | 23.6 | 326 | 166 | 50.9 |
 
 _! Note: Shifts are through the 2022 season, Shaded starting from the 2023 season, **Shift:**_
 _three or more infielders are on the same side of second base, **Shade:** positioned outside of_
@@ -1466,10 +1467,10 @@ Logan Webb - 2026 Frequency of Pitches by Pitch Speed4-Seam FastballChangeupCutt
 | 2020 | ![](https://www.mlbstatic.com/team-logos/137.svg) | 0 | -3 | -5 | 2 | 378 | 2.9% | 7 | 4 | 0 | 0 | 0 | 7 | 4 | 4.7 | 11.4 | 16.1 | 10.2 | 12.3 | 22.5 |
 | 2021 | ![](https://www.mlbstatic.com/team-logos/137.svg) | 0 | -2 | -3 | 2 | 677 | 1.6% | 10 | 1 | 1 | 0 | 0 | 10 | 2 | 4.5 | 11.5 | 16.1 | 10.3 | 11.1 | 21.4 |
 | 2022 | ![](https://www.mlbstatic.com/team-logos/137.svg) | -1 | -4 | -4 | 0 | 1055 | 1.4% | 12 | 3 | 0 | 0 | 0 | 12 | 3 | 4.5 | 11.7 | 16.2 | 12.0 | 11.6 | 23.6 |
-| 2023 | ![](https://www.mlbstatic.com/team-logos/137.svg) | -2 | -9 | -8 | 0 | 933 | 2.3% | 17 | 4 | 0 | 0 | 0 | 17 | 4 | 5.0 | 11.4 | 16.4 | 12.2 | 11.5 | 23.8 |
+| 2023 | ![](https://www.mlbstatic.com/team-logos/137.svg) | -2 | -8 | -8 | 0 | 933 | 2.3% | 17 | 4 | 0 | 0 | 0 | 17 | 4 | 5.0 | 11.4 | 16.4 | 12.2 | 11.5 | 23.8 |
 | 2024 | ![](https://www.mlbstatic.com/team-logos/137.svg) | -1 | -5 | -6 | 1 | 1122 | 2.0% | 18 | 4 | 1 | 1 | 0 | 19 | 5 | 4.9 | 11.5 | 16.5 | 13.5 | 12.1 | 25.5 |
 | 2025 | ![](https://www.mlbstatic.com/team-logos/137.svg) | 0 | 5 | 7 | -2 | 1169 | 0.7% | 5 | 3 | 0 | 0 | 0 | 5 | 3 | 4.3 | 11.4 | 15.7 | 12.0 | 11.6 | 23.6 |
-| 2026 | ![](https://www.mlbstatic.com/team-logos/137.svg) | -1 | -6 | -6 | 1 | 510 | 2.9% | 11 | 4 | 0 | 0 | 0 | 11 | 4 | 4.7 | 11.7 | 16.4 | 12.7 | 11.6 | 24.3 |
+| 2026 | ![](https://www.mlbstatic.com/team-logos/137.svg) | -1 | -6 | -7 | 1 | 539 | 3.0% | 12 | 4 | 0 | 0 | 0 | 12 | 4 | 4.7 | 11.6 | 16.4 | 12.8 | 11.7 | 24.5 |
 
 [\+ View Complete Pitcher Running Game Leaderboard](https://baseballsavant.mlb.com/leaderboard/pitcher-running-game)
 
@@ -1568,13 +1569,13 @@ Created with Highcharts 6.2.0Exit VelocityPitchesChart context menuLogan Webb Ex
 
 ## Run Value
 
-Logan WebbPitcher RV (All)3.46.25.41.94.42.35.21.45.9-3.9-1.4-0.8-9.4
+Logan WebbPitcher RV (All)3.46.15.41.94.42.35.21.45.9-3.9-1.4-0.8-9.4
 
 Logan WebbPitcher RV (Swings)1.95.03.60.32.60.02.9-1.53.15.53.97.73.3
 
-Logan WebbPitcher RV (Takes)1.51.21.81.51.82.32.42.92.8-9.4-5.3-8.4-12.7
+Logan WebbPitcher RV (Takes)1.51.21.81.51.82.32.42.92.8-9.3-5.3-8.4-12.6
 
-Logan WebbPitcher RV (Contact)1.03.13.00.01.6-1.12.1-2.82.32.22.64.1-4.1
+Logan WebbPitcher RV (Contact)1.03.13.00.01.6-1.12.1-2.82.32.22.64.2-4.1
 
 ## Standard
 
@@ -1632,7 +1633,7 @@ Logan WebbISO.059.000.079.100.077.268.028.404.000.000.000.017.107
 
 Logan WebbwOBA.179.148.194.304.303.362.233.423.198.277.251.222.332
 
-Logan WebbwOBA (Contact).253.193.231.314.329.401.270.481.281.242.074.201.445
+Logan WebbwOBA (Contact).253.193.231.314.329.401.270.481.281.243.074.201.445
 
 ## Statcast
 
@@ -1642,7 +1643,7 @@ Logan WebbAvg Launch Angle151816789-137315-43
 
 Logan WebbBat Speed (MPH)69717072737373757369697373
 
-Logan WebbSwing Length (ft)6.46.56.77.06.97.07.37.57.56.56.57.78.0
+Logan WebbSwing Length (ft)6.46.56.77.06.97.07.37.57.46.56.57.78.0
 
 Logan WebbSquared up % / Swings201428313536304720912179
 
@@ -1680,7 +1681,7 @@ Logan WebbxSLG.322.218.274.395.546.429.373.705.297.139.173.283.330
 
 Logan WebbxISO.104.036.060.107.200.163.112.336.064.029.031.036.104
 
-Logan WebbxwOBA.232.176.212.294.380.297.274.457.231.267.313.289.327
+Logan WebbxwOBA.232.176.212.294.380.297.274.457.231.267.313.289.328
 
 Logan WebbxwOBA (Contact).329.229.251.304.412.329.318.520.328.215.208.299.439
 
