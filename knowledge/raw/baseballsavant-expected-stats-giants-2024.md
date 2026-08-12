@@ -5,78 +5,78 @@ slug: baseballsavant-expected-stats-giants-2024
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/113.svg) | CIN | 1 | Final |
-| ![](https://www.mlbstatic.com/team-logos/120.svg) | WSH | 7 |
+| ![](https://www.mlbstatic.com/team-logos/114.svg) | CLE | 4 | Final |
+| ![](https://www.mlbstatic.com/team-logos/116.svg) | DET | 6 |
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/133.svg) | ATH | 4 | Final |
-| ![](https://www.mlbstatic.com/team-logos/111.svg) | BOS | 3 |
+| ![](https://www.mlbstatic.com/team-logos/134.svg) | PIT | 0 | Final |
+| ![](https://www.mlbstatic.com/team-logos/146.svg) | MIA | 2 |
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/121.svg) | NYM | 11 | Final |
-| ![](https://www.mlbstatic.com/team-logos/134.svg) | PIT | 1 |
+| ![](https://www.mlbstatic.com/team-logos/112.svg) | CHC | 8 | Final |
+| ![](https://www.mlbstatic.com/team-logos/120.svg) | WSH | 6 |
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/141.svg) | TOR | 6 | Final |
-| ![](https://www.mlbstatic.com/team-logos/143.svg) | PHI | 7 |
+| ![](https://www.mlbstatic.com/team-logos/136.svg) | SEA | 1 | Final |
+| ![](https://www.mlbstatic.com/team-logos/147.svg) | NYY | 4 |
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/144.svg) | ATL | 2 | Final |
-| ![](https://www.mlbstatic.com/team-logos/147.svg) | NYY | 1 |
+| ![](https://www.mlbstatic.com/team-logos/111.svg) | BOS | 3 | Final |
+| ![](https://www.mlbstatic.com/team-logos/141.svg) | TOR | 5 |
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/108.svg) | LAA | 3 | Final |
-| ![](https://www.mlbstatic.com/team-logos/146.svg) | MIA | 12 |
+| ![](https://www.mlbstatic.com/team-logos/121.svg) | NYM | 0 | Final |
+| ![](https://www.mlbstatic.com/team-logos/144.svg) | ATL | 4 |
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/112.svg) | CHC | 10 | Final |
-| ![](https://www.mlbstatic.com/team-logos/118.svg) | KC | 2 |
+| ![](https://www.mlbstatic.com/team-logos/110.svg) | BAL | 5 | Final |
+| ![](https://www.mlbstatic.com/team-logos/142.svg) | MIN | 2 |
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/114.svg) | CLE | 3 | Final |
-| ![](https://www.mlbstatic.com/team-logos/145.svg) | CWS | 5 |
+| ![](https://www.mlbstatic.com/team-logos/113.svg) | CIN | 5 | Final |
+| ![](https://www.mlbstatic.com/team-logos/145.svg) | CWS | 4 |
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/142.svg) | MIN | 3 | Final |
-| ![](https://www.mlbstatic.com/team-logos/158.svg) | MIL | 4 |
+| ![](https://www.mlbstatic.com/team-logos/143.svg) | PHI | 0 | Final |
+| ![](https://www.mlbstatic.com/team-logos/138.svg) | STL | 2 |
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/115.svg) | COL | 4 | Final |
-| ![](https://www.mlbstatic.com/team-logos/138.svg) | STL | 7 |
+| ![](https://www.mlbstatic.com/team-logos/140.svg) | TEX | 2 | Final |
+| ![](https://www.mlbstatic.com/team-logos/108.svg) | LAA | 3 |
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/110.svg) | BAL | 10 | Final |
-| ![](https://www.mlbstatic.com/team-logos/140.svg) | TEX | 5 |
+| ![](https://www.mlbstatic.com/team-logos/115.svg) | COL | 3 | Final |
+| ![](https://www.mlbstatic.com/team-logos/109.svg) | AZ | 2 |
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/116.svg) | DET | 3 | Final |
-| ![](https://www.mlbstatic.com/team-logos/137.svg) | SF | 1 |
+| ![](https://www.mlbstatic.com/team-logos/139.svg) | TB | 12 | Final |
+| ![](https://www.mlbstatic.com/team-logos/133.svg) | ATH | 4 |
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/119.svg) | LAD | 2 | Final |
-| ![](https://www.mlbstatic.com/team-logos/109.svg) | AZ | 4 |
+| ![](https://www.mlbstatic.com/team-logos/158.svg) | MIL | 2 | Final |
+| ![](https://www.mlbstatic.com/team-logos/135.svg) | SD | 11 |
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/139.svg) | TB | 4 | Final |
-| ![](https://www.mlbstatic.com/team-logos/136.svg) | SEA | 1 |
+| ![](https://www.mlbstatic.com/team-logos/117.svg) | HOU | 1 | Final |
+| ![](https://www.mlbstatic.com/team-logos/137.svg) | SF | 4 |
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/117.svg) | HOU | 2 | Final |
-| ![](https://www.mlbstatic.com/team-logos/135.svg) | SD | 7 |
+| ![](https://www.mlbstatic.com/team-logos/118.svg) | KC | 4 | Final |
+| ![](https://www.mlbstatic.com/team-logos/119.svg) | LAD | 5 |
 
 <
 
