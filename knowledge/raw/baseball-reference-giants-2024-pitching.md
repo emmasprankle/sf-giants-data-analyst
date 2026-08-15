@@ -3,6 +3,8 @@ source: https://www.baseball-reference.com/teams/SFG/2024-pitching.shtml
 slug: baseball-reference-giants-2024-pitching
 ---
 
+We're hiring a Scrum Master to join our team! Learn more and [apply here](https://sports-reference-llc.breezy.hr/p/ba2fef1394d1-scrum-master).
+
 ![2024 San Francisco Giants Logo](https://cdn.ssref.net/req/202607231/tlogo/br/SFG-2024.png)
 
 [via Sports Logos.net](http://www.sportslogos.net/)

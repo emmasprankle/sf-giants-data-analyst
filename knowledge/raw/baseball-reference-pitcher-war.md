@@ -3,6 +3,8 @@ source: https://www.baseball-reference.com/about/war_explained_pitch.shtml
 slug: baseball-reference-pitcher-war
 ---
 
+We're hiring a Scrum Master to join our team! Learn more and [apply here](https://sports-reference-llc.breezy.hr/p/ba2fef1394d1-scrum-master).
+
 **About** Menu
 
 - [About Baseball Reference](https://www.baseball-reference.com/about/)
