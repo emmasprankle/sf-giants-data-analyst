@@ -24,7 +24,7 @@ Pitcher
 **Team:** [Milwaukee Brewers](https://www.baseball-reference.com/teams/MIL/2026.shtml) (majors)
 
 
-**[Born:](https://www.baseball-reference.com/bio/)**[August 12](https://www.baseball-reference.com/friv/birthdays.cgi?month=8&day=12), [2001](https://www.baseball-reference.com/leagues/majors/2001-births.shtml)(Age: 25-004d)
+**[Born:](https://www.baseball-reference.com/bio/)**[August 12](https://www.baseball-reference.com/friv/birthdays.cgi?month=8&day=12), [2001](https://www.baseball-reference.com/leagues/majors/2001-births.shtml)(Age: 25-005d)
 
 in San Jose, [CA](https://www.baseball-reference.com/bio/CA_born.shtml)us
 
@@ -359,12 +359,12 @@ Standard Pitching Table
 | [2025](https://www.baseball-reference.com/players/gl.fcgi?id=harriky01&t=p&year=2025) | 23 | 2TM | 2LG | 35.2 | 11 | 6 | 16 | 4.04 | 4.34 | 0.14 | 0.09 | 0.16 | 103 | 4.58 | 2 | 0.2 | 0.63 | -0.1 | 0.5 | 5 | .521 | .500 |  |
 | [2025](https://www.baseball-reference.com/players/gl.fcgi?id=harriky01&t=p&year=2025) | 23 | [SFG](https://www.baseball-reference.com/teams/SFG/2025.shtml) | [NL](https://www.baseball-reference.com/leagues/NL/2025.shtml) | 23.2 | 8 | 4 | 12 | 4.56 | 4.25 | 0.05 | 0.09 | 0.23 | 103 | 4.65 | 0 | 0.0 | 0.58 | 0.0 | 0.2 | 2 | .504 | .500 |  |
 | [2025](https://www.baseball-reference.com/players/gl.fcgi?id=harriky01&t=p&year=2025) | 23 | [BOS](https://www.baseball-reference.com/teams/BOS/2025.shtml) | [AL](https://www.baseball-reference.com/leagues/AL/2025.shtml) | 12.0 | 3 | 2 | 4 | 3.00 | 4.51 | 0.30 | 0.08 | 0.00 | 104 | 4.45 | 2 | 0.2 | 0.83 | 0.0 | 0.3 | 3 | .568 | .501 |  |
-| [2026](https://www.baseball-reference.com/players/gl.fcgi?id=harriky01&t=p&year=2026) | 24 | [MIL](https://www.baseball-reference.com/teams/MIL/2026.shtml) | [NL](https://www.baseball-reference.com/leagues/NL/2026.shtml) | 93.1 | 19 | 19 | 36 | 3.47 | 4.82 | 0.31 | 0.22 | 0.00 | 98 | 4.65 | 12 | 1.3 |  | -0.1 | 2.1 | 21 | .570 | .508 |  |
+| [2026](https://www.baseball-reference.com/players/gl.fcgi?id=harriky01&t=p&year=2026) | 24 | [MIL](https://www.baseball-reference.com/teams/MIL/2026.shtml) | [NL](https://www.baseball-reference.com/leagues/NL/2026.shtml) | 93.1 | 19 | 19 | 36 | 3.47 | 4.81 | 0.31 | 0.22 | 0.00 | 98 | 4.65 | 12 | 1.3 |  | -0.1 | 2.1 | 21 | .570 | .508 |  |
 | 4 Yrs | 288.0 | 61 | 56 | 136 | 4.25 | 4.61 | 0.11 | 0.20 | 0.02 | 97 | 4.58 | 11 | 1.1 | 0.63 | -0.3 | 3.6 | 38 | .518 | .502 |  |
 | 162 Game Avg | 167 | 35 | 33 | 79 | 4.25 | 4.61 | 0.11 | 0.20 | 0.02 | 97 | 4.58 | 6 | 0.6 | 0.63 | -0.1 | 2.1 | 22 | .518 | .502 |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | SFG (3 Yrs) | 182.2 | 39 | 35 | 96 | 4.73 | 4.51 | 0.00 | 0.19 | 0.03 | 96 | 4.55 | -4 | -0.4 | 0.58 | -0.2 | 1.2 | 14 | .489 | .499 |  |
-| MIL (1 Yr) | 93.1 | 19 | 19 | 36 | 3.47 | 4.82 | 0.31 | 0.22 | 0.00 | 98 | 4.65 | 12 | 1.3 |  | -0.1 | 2.1 | 21 | .570 | .508 |  |
+| MIL (1 Yr) | 93.1 | 19 | 19 | 36 | 3.47 | 4.81 | 0.31 | 0.22 | 0.00 | 98 | 4.65 | 12 | 1.3 |  | -0.1 | 2.1 | 21 | .570 | .508 |  |
 | BOS (1 Yr) | 12.0 | 3 | 2 | 4 | 3.00 | 4.51 | 0.30 | 0.08 | 0.00 | 104 | 4.45 | 2 | 0.2 | 0.83 | 0.0 | 0.3 | 3 | .568 | .501 |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | NL (4 Yrs) | 276.0 | 58 | 54 | 132 | 4.30 | 4.61 | 0.11 | 0.20 | 0.02 | 97 | 4.59 | 9 | 0.9 | 0.58 | -0.2 | 3.3 | 35 | .516 | .502 |  |
@@ -418,17 +418,23 @@ Powered by ![Stathead Logo](https://cdn.ssref.net/req/202101292/logos/stathead-l
 - [Player News RSS Feed](https://www.baseball-reference.com/players/news.fcgi?id=harriky01&rss=1)
 - Show/Hide More Stories
 
+- **8/17** [Brewer Fanatic: Brewers Week In Review: West Coast Blues](https://brewerfanatic.com/news-rumors/milwaukee-brewers/brewers-week-in-review-west-coast-blues-r4903/): _Weekly Snapshot:_
+_Record Last Week: 3-4 (Overall: 77-48)_
+_Runs_...
+
+- **8/16** [Brewer Fanatic: Should The Brewers Take Their Cue From An Old HGTV Hit This Offseason?](https://brewerfanatic.com/news-rumors/milwaukee-brewers/should-the-brewers-take-their-cue-from-an-old-hgtv-hit-this-offseason-r4880/): _It might seem too early to think about the offseason, but in_...
+
 - **8/16** [newbaseballmedia.com: 2026 Fantasy Baseball: Week 19 Risers & Fallers](https://newbaseballmedia.com/2026-fantasy-baseball-week-19-risers-fallers/): _For those who’ve stuck with Chandler Simpson and Alex Bregman_...
 
 - **8/14** [Brewer Fanatic: Abner Uribe Goes On Brewers' Injured List With Flexor Strain](https://brewerfanatic.com/milwaukee-brewers-free-agents-trade-rumors/notes/abner-uribe-goes-on-brewers-injured-list-with-flexor-strain-r266/): _In a potentially big blow to the Milwaukee Brewers, right-handed_...
 
 - **8/13** [RotoWire: Rocked for eight runs in loss](https://www.rotowire.com/baseball/player/kyle-harrison-16741?refer=SportsRef): _Harrison (9-3) took the loss Tuesday against the Padres, allowing_...
 
+- Show 7 more stories
+
 - **8/12** [Brewer Fanatic: Going Oppo: This Offseason, Bring Back Freddy Peralta](https://brewerfanatic.com/news-rumors/milwaukee-brewers/going-oppo-this-offseason-bring-back-freddy-peralta-r4881/): _In the 2025-2026 offseason, the Brewers traded Freddy Peralta,_...
 
 - **8/12** [Brewer Fanatic: Going Oppo: Why Bringing Back Freddy Peralta Is A Bad Baseball Decision](https://brewerfanatic.com/news-rumors/milwaukee-brewers/going-oppo-why-bringing-back-freddy-peralta-is-a-bad-baseball-decision-r4888/): _Freddy Peralta is in the final year of his contract, and it_...
-
-- Show 8 more stories
 
 - **8/12** [East Village Times: Padres crush Brewers behind Luis Rengifo grand slam, Walker Buehler gem](https://eastvillagetimes.com/padres-crush-brewers-behind-luis-rengifo-grand-slam-walker-buehler-gem/?utm_source=rss&utm_medium=rss&utm_campaign=padres-crush-brewers-behind-luis-rengifo-grand-slam-walker-buehler-gem): _The Milwaukee Brewers decided Luis Rengifo wasn’t worth_...
 
@@ -439,14 +445,6 @@ Powered by ![Stathead Logo](https://cdn.ssref.net/req/202101292/logos/stathead-l
 - **8/10** [RotoBaller.com: Kyle Harrison in Line to Make his Next Start on Tuesday in SD](https://www.rotoballer.com/player-news/kyle-harrison-in-line-to-make-his-next-start-on-tuesday-in-sd/1906382): _Milwaukee Brewers left-hander Kyle Harrison (calves) is expected_...
 
 - **8/10** [North Shore Nine: Our Takeaways from Another Uncompetitive Game and Series Loss](https://northshorenine.com/article/our-takeaways-from-another-uncompetitive-game-and-series-loss): _Another Pirates starter getting hit around as the Pirates bats_...
-
-- **8/9** [Brewer Fanatic: Brewers Week In Review: Winning The Close Ones](https://brewerfanatic.com/news-rumors/milwaukee-brewers/brewers-week-in-review-winning-the-close-ones-r4882/): _Weekly Snapshot:_
-_Record Last Week: 5-2 (Overall: 74-44)_
-_Runs_...
-
-- **8/9** [Brewer Fanatic: Is The Brewers Rotation Better Than The Dodgers?](https://brewerfanatic.com/videos/milwaukee-brewers/is-the-brewers-rotation-better-than-the-dodgers-r451/): _The Milwaukee Brewers squared off with the Los Angeles Dodgers_...
-
-- **8/9** [Brewer Fanatic: Can The Brewers Rotation Compete With Tarik Skubal And The Dodgers?](https://brewerfanatic.com/news-rumors/milwaukee-brewers/can-the-brewers-rotation-compete-with-tarik-skubal-and-the-dodgers-r4874/): _The Milwaukee Brewers and Los Angeles Dodgers may yet again_...
 
 
 ## Appearances
@@ -489,8 +487,8 @@ Regular Season
 | [2025](https://www.baseball-reference.com/players/gl.fcgi?id=harriky01&t=f&year=2025) | 23 | 2TM | 2LG | P | 11 | 6 | 0 | 35.2 | 4 | 2 | 2 | 0 | 0 | 1.000 | .950 | -1 | -6 | 1.01 | 1.34 | 0.36 | 1.32 | 2 | 1 | 33.3 | 23.3 | 0 |  |
 | [2025](https://www.baseball-reference.com/players/gl.fcgi?id=harriky01&t=f&year=2025) | 23 | [SFG](https://www.baseball-reference.com/teams/SFG/2025.shtml) | [NL](https://www.baseball-reference.com/leagues/NL/2025.shtml) | P | 8 | 4 | 0 | 23.2 | 3 | 1 | 2 | 0 | 0 | 1.000 | .953 | -1 | -8 | 1.14 | 1.37 | 0.38 | 1.35 | 2 | 1 | 33.3 | 23.3 | 0 |  |
 | [2025](https://www.baseball-reference.com/players/gl.fcgi?id=harriky01&t=f&year=2025) | 23 | [BOS](https://www.baseball-reference.com/teams/BOS/2025.shtml) | [AL](https://www.baseball-reference.com/leagues/AL/2025.shtml) | P | 3 | 2 | 0 | 12.0 | 1 | 1 | 0 | 0 | 0 | 1.000 | .940 | 0 | 0 | 0.75 | 1.28 | 0.33 | 1.23 | 0 | 0 |  |  | 0 |  |
-| [2026](https://www.baseball-reference.com/players/gl.fcgi?id=harriky01&t=f&year=2026) | 24 | [MIL](https://www.baseball-reference.com/teams/MIL/2026.shtml) | [NL](https://www.baseball-reference.com/leagues/NL/2026.shtml) | P | 19 | 19 | 0 | 93.1 | 9 | 5 | 4 | 0 | 0 | 1.000 | .944 | 1 | 2 | 0.87 | 1.37 | 0.47 | 1.35 | 2 | 1 | 33.3 | 23.3 | 1 |  |
-| 4 Yrs |  | 61 | 56 | 0 | 288.0 | 29 | 9 | 20 | 0 | 1 | 1.000 | .947 | -2 | -1 | 0.91 | 1.36 | 0.48 | 1.34 | 25 | 11 | 30.6 | 20.6 | 4 |  |
+| [2026](https://www.baseball-reference.com/players/gl.fcgi?id=harriky01&t=f&year=2026) | 24 | [MIL](https://www.baseball-reference.com/teams/MIL/2026.shtml) | [NL](https://www.baseball-reference.com/leagues/NL/2026.shtml) | P | 19 | 19 | 0 | 93.1 | 9 | 5 | 4 | 0 | 0 | 1.000 | .946 | 1 | 2 | 0.87 | 1.37 | 0.47 | 1.35 | 2 | 1 | 33.3 | 23.7 | 1 |  |
+| 4 Yrs |  | 61 | 56 | 0 | 288.0 | 29 | 9 | 20 | 0 | 1 | 1.000 | .948 | -2 | -1 | 0.91 | 1.36 | 0.48 | 1.34 | 25 | 11 | 30.6 | 20.6 | 4 |  |
 
 Standard Fielding Table
 
