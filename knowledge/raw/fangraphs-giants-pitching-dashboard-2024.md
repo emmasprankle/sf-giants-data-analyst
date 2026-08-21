@@ -1116,8 +1116,6 @@ Changeup+
 Knuckle Curve+
 Forkball+
 
-Data Export \[ [Members Only](https://plus.fangraphs.com/product/fangraphs-membership/)\]
-
 Heat Map:
 
 Off
@@ -1125,6 +1123,8 @@ Off
 On
 
 Heat Map
+
+Data Export \[ [Members Only](https://plus.fangraphs.com/product/fangraphs-membership/)\]
 
 | # | Name | Team | W | L | SV | G | GS | IP | \-\- Line Break -- | K/9 | BB/9 | HR/9 | BABIP | LOB% | GB% | HR/FB | \-\- Line Break -- | vFA (pi) | \-\- Line Break -- | ERA | xERA | FIP | xFIP | \-\- Line Break -- | WAR |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |

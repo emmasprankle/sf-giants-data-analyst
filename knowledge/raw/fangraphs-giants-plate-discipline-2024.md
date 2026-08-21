@@ -1116,16 +1116,16 @@ Changeup+
 Knuckle Curve+
 Forkball+
 
+Heat Map:
+
+Off
+
+On
+
+Heat Map
+
 Data Export \[ [Members Only](https://plus.fangraphs.com/product/fangraphs-membership/)\]
 
-Heat Map:
-
-Off
-
-On
-
-Heat Map
-
 | # | Name | Team | O-Swing% | Z-Swing% | Swing% | O-Contact% | Z-Contact% | Contact% | Zone% | F-Strike% | SwStr% | CStr% | CSW% |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1 | [Ryan Walker](https://www.fangraphs.com/players/ryan-walker/20423/stats?position=P) | [SFG](https://www.fangraphs.com/leaders/major-league?pos=all&stats=pit&lg=all&qual=0&type=5&team=30&season=2024&season1=2024) | 32.4% | 61.4% | 45.7% | 54.9% | 84.2% | 72.9% | 45.7% | 63.6% | 12.4% | 21.2% | 33.6% |
@@ -1219,3 +1219,13 @@ On
 Heat Map
 
 1 - 30 of 31 results
+
+Support FanGraphs
+
+Become a Member
+
+Please consider becoming a FanGraphs Member. All the great work that you've come to rely on is made possible by Member support, including analysis, stats, projections, RosterResource, prospect coverage, and podcasts.
+
+Already a Member: [Log In](https://blogs.fangraphs.com/wp-login.php?redirect_to=https://www.fangraphs.com/)
+
+[Sign Me Up](https://plus.fangraphs.com/product/fangraphs-membership/)
