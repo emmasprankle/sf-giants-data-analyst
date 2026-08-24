@@ -3,7 +3,7 @@ source: https://www.baseball-reference.com/teams/SFG/2024-pitching.shtml
 slug: baseball-reference-giants-2024-pitching
 ---
 
-![2024 San Francisco Giants Logo](https://cdn.ssref.net/req/202607231/tlogo/br/SFG-2024.png)
+![2024 San Francisco Giants Logo](https://cdn.ssref.net/req/202608202/tlogo/br/SFG-2024.png)
 
 [via Sports Logos.net](http://www.sportslogos.net/)
 
@@ -357,8 +357,6 @@ Advanced Pitching Table
 | Name | Age | IP | Ptn% | HR% | SO% | BB% | SO-BB% | XBH% | X/H% | GB/FB | GO/AO | IP% | LD% | HR/FB | IF/FB | Opp | DP | % | PAu |
 
 Team Pitching Ratios\*
-
-[Become a Stathead & surf this site ad-free.](https://www.sports-reference.com/stathead/?ref=br&utm_source=br&utm_medium=sr_xsite&utm_campaign=2024_04_23_adfree_callouts)
 
 ## Team Batting Against\*
 
