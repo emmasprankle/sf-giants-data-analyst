@@ -3,6 +3,8 @@ source: https://www.baseball-reference.com/about/war_explained_pitch.shtml
 slug: baseball-reference-pitcher-war
 ---
 
+Coming soon: Your customizable sports homepage. [Learn more about Hub here](https://info.sports-reference.com/hub).
+
 **About** Menu
 
 - [About Baseball Reference](https://www.baseball-reference.com/about/)

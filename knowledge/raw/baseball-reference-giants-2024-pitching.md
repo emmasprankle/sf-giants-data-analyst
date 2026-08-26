@@ -3,6 +3,8 @@ source: https://www.baseball-reference.com/teams/SFG/2024-pitching.shtml
 slug: baseball-reference-giants-2024-pitching
 ---
 
+Coming soon: Your customizable sports homepage. [Learn more about Hub here](https://info.sports-reference.com/hub).
+
 ![2024 San Francisco Giants Logo](https://cdn.ssref.net/req/202608202/tlogo/br/SFG-2024.png)
 
 [via Sports Logos.net](http://www.sportslogos.net/)

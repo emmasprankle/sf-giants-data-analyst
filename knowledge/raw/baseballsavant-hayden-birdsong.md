@@ -5,78 +5,78 @@ slug: baseballsavant-hayden-birdsong
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/139.svg) | TB | 3 | Final |
-| ![](https://www.mlbstatic.com/team-logos/110.svg) | BAL | 1 |
+| ![](https://www.mlbstatic.com/team-logos/139.svg) | TB | 1 | Final |
+| ![](https://www.mlbstatic.com/team-logos/116.svg) | DET | 4 |
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/138.svg) | STL | 4 | Final |
-| ![](https://www.mlbstatic.com/team-logos/143.svg) | PHI | 6 |
+| ![](https://www.mlbstatic.com/team-logos/111.svg) | BOS | 7 | Final |
+| ![](https://www.mlbstatic.com/team-logos/146.svg) | MIA | 3 |
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/141.svg) | TOR | 3 | Final |
-| ![](https://www.mlbstatic.com/team-logos/147.svg) | NYY | 8 |
+| ![](https://www.mlbstatic.com/team-logos/115.svg) | COL | 3 | Final |
+| ![](https://www.mlbstatic.com/team-logos/120.svg) | WSH | 1 |
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/120.svg) | WSH | 2 | Final |
-| ![](https://www.mlbstatic.com/team-logos/146.svg) | MIA | 6 |
+| ![](https://www.mlbstatic.com/team-logos/117.svg) | HOU | 9 | Final |
+| ![](https://www.mlbstatic.com/team-logos/147.svg) | NYY | 7 |
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/116.svg) | DET | 7 | Final |
-| ![](https://www.mlbstatic.com/team-logos/118.svg) | KC | 11 |
+| ![](https://www.mlbstatic.com/team-logos/118.svg) | KC | 5 | Final |
+| ![](https://www.mlbstatic.com/team-logos/141.svg) | TOR | 3 |
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/133.svg) | ATH | 7 | Final |
-| ![](https://www.mlbstatic.com/team-logos/117.svg) | HOU | 6 |
+| ![](https://www.mlbstatic.com/team-logos/158.svg) | MIL | 2 | Final |
+| ![](https://www.mlbstatic.com/team-logos/121.svg) | NYM | 3 |
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/121.svg) | NYM | 1 | Final |
-| ![](https://www.mlbstatic.com/team-logos/145.svg) | CWS | 2 |
+| ![](https://www.mlbstatic.com/team-logos/119.svg) | LAD | 3 | Final |
+| ![](https://www.mlbstatic.com/team-logos/144.svg) | ATL | 4 |
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/108.svg) | LAA | 3 | Final |
-| ![](https://www.mlbstatic.com/team-logos/140.svg) | TEX | 5 |
+| ![](https://www.mlbstatic.com/team-logos/140.svg) | TEX | 7 | Final |
+| ![](https://www.mlbstatic.com/team-logos/145.svg) | CWS | 11 |
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/114.svg) | CLE | 7 | Final |
-| ![](https://www.mlbstatic.com/team-logos/115.svg) | COL | 2 |
+| ![](https://www.mlbstatic.com/team-logos/110.svg) | BAL | 13 | Final |
+| ![](https://www.mlbstatic.com/team-logos/138.svg) | STL | 1 |
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/137.svg) | SF | 4 | Final |
-| ![](https://www.mlbstatic.com/team-logos/111.svg) | BOS | 5 |
+| ![](https://www.mlbstatic.com/team-logos/114.svg) | CLE | 8 | Final |
+| ![](https://www.mlbstatic.com/team-logos/108.svg) | LAA | 6 |
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/134.svg) | PIT | 0 | Final |
-| ![](https://www.mlbstatic.com/team-logos/119.svg) | LAD | 4 |
-
-|     |     |     |     |
-| --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/112.svg) | CHC | 19 | Final |
-| ![](https://www.mlbstatic.com/team-logos/136.svg) | SEA | 2 |
-
-|     |     |     |     |
-| --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/142.svg) | MIN | 1 | Final |
-| ![](https://www.mlbstatic.com/team-logos/135.svg) | SD | 8 |
-
-|     |     |     |     |
-| --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/113.svg) | CIN | 3 | Final |
+| ![](https://www.mlbstatic.com/team-logos/112.svg) | CHC | 4 | Final |
 | ![](https://www.mlbstatic.com/team-logos/109.svg) | AZ | 5 |
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/144.svg) | ATL | 4 | Final |
-| ![](https://www.mlbstatic.com/team-logos/158.svg) | MIL | 2 |
+| ![](https://www.mlbstatic.com/team-logos/134.svg) | PIT | 1 | Final |
+| ![](https://www.mlbstatic.com/team-logos/135.svg) | SD | 0 |
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| ![](https://www.mlbstatic.com/team-logos/142.svg) | MIN | 2 | Final |
+| ![](https://www.mlbstatic.com/team-logos/133.svg) | ATH | 4 |
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| ![](https://www.mlbstatic.com/team-logos/143.svg) | PHI | 1 | Final |
+| ![](https://www.mlbstatic.com/team-logos/136.svg) | SEA | 4 |
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| ![](https://www.mlbstatic.com/team-logos/113.svg) | CIN | 1 | Final |
+| ![](https://www.mlbstatic.com/team-logos/137.svg) | SF | 3 |
 
 <
 
@@ -609,9 +609,9 @@ Hayden Birdsong's Pitches in 3d](https://baseballsavant.mlb.com/visuals/pitch3d?
 
 ![](https://content.mlb.com/images/headshots/current/60x60/683004.png)[2024 - Jack Leiter](https://baseballsavant.mlb.com/savant-player/683004)
 
-![](https://content.mlb.com/images/headshots/current/60x60/665622.png)[2024 - Luis Medina](https://baseballsavant.mlb.com/savant-player/665622)
-
 ![](https://content.mlb.com/images/headshots/current/60x60/680732.png)[2024 - Sean Burke](https://baseballsavant.mlb.com/savant-player/680732)
+
+![](https://content.mlb.com/images/headshots/current/60x60/665622.png)[2024 - Luis Medina](https://baseballsavant.mlb.com/savant-player/665622)
 
 ![](https://content.mlb.com/images/headshots/current/60x60/663554.png)[2024 - Casey Mize](https://baseballsavant.mlb.com/savant-player/663554)
 
@@ -651,7 +651,7 @@ Breaking: Slider, Curve, Knuckle, Sweeper, Slurve, Other
 | 2025 | Slurve | 20 | 12 | 8 | 1.7 | 84.7 | 3 | 3 | 1 | 0 | 0 | 0 | 1 | 0 | 3 | .333 | .527 | 1.333 | 1.236 | .679 | .731 | 91.0 | 21 | 2651 | 6.4 | 22.2 | 0.0 |
 | 2024 | Four Seamer | 619 | 249 | 370 | 44.6 | 95.8 | 151 | 116 | 25 | 12 | 6 | 1 | 6 | 25 | 94 | .216 | .271 | .440 | .545 | .363 | .417 | 92.4 | 21 | 2291 | 6.5 | 18.2 | 16.1 |
 | 2024 | Curveball | 259 | 107 | 152 | 18.7 | 80.5 | 60 | 55 | 8 | 6 | 1 | 0 | 1 | 27 | 29 | .145 | .178 | .218 | .252 | .190 | .220 | 85.9 | 7 | 2868 | 6.5 | 32.7 | 19.9 |
-| 2024 | Changeup | 256 | 63 | 193 | 18.4 | 88.1 | 55 | 52 | 14 | 11 | 2 | 0 | 1 | 18 | 34 | .269 | .229 | .365 | .359 | .297 | .278 | 91.5 | -4 | 1248 | 6.6 | 34.5 | 21.4 |
+| 2024 | Changeup | 256 | 63 | 193 | 18.4 | 88.1 | 55 | 52 | 14 | 11 | 2 | 0 | 1 | 18 | 34 | .269 | .229 | .365 | .358 | .297 | .278 | 91.5 | -4 | 1248 | 6.6 | 34.5 | 21.4 |
 | 2024 | Slider | 254 | 151 | 103 | 18.3 | 86.4 | 49 | 41 | 10 | 5 | 2 | 0 | 3 | 18 | 23 | .244 | .176 | .512 | .329 | .380 | .293 | 88.2 | 12 | 2485 | 6.4 | 49.1 | 30.0 |
 
 ! Note: Years are in reverse order.
@@ -737,7 +737,7 @@ On the right, Induced Movement (or IVB) is reported without gravity, and attempt
 | 2025 | Slurve | ![](https://www.mlbstatic.com/team-logos/137.svg) | -3.4 | -1 | 20 | 1.7 | 3 | .333 | 1.333 | .667 | 22.2 | 0.0 | 0.0 | .527 | 1.236 | .731 | 66.7 |
 | 2024 | 4-Seam Fastball | ![](https://www.mlbstatic.com/team-logos/137.svg) | -0.4 | -3 | 619 | 44.6 | 151 | .216 | .440 | .364 | 18.2 | 16.6 | 16.1 | .271 | .545 | .419 | 54.3 |
 | 2024 | Curveball | ![](https://www.mlbstatic.com/team-logos/137.svg) | 0.9 | 2 | 259 | 18.7 | 60 | .145 | .218 | .191 | 32.7 | 45.0 | 19.9 | .178 | .252 | .219 | 31.0 |
-| 2024 | Changeup | ![](https://www.mlbstatic.com/team-logos/137.svg) | -1.0 | -3 | 256 | 18.4 | 55 | .269 | .365 | .300 | 34.5 | 32.7 | 21.4 | .229 | .359 | .279 | 52.9 |
+| 2024 | Changeup | ![](https://www.mlbstatic.com/team-logos/137.svg) | -1.0 | -3 | 256 | 18.4 | 55 | .269 | .365 | .300 | 34.5 | 32.7 | 21.4 | .229 | .358 | .278 | 52.9 |
 | 2024 | Slider | ![](https://www.mlbstatic.com/team-logos/137.svg) | -0.4 | -1 | 254 | 18.3 | 49 | .244 | .512 | .380 | 49.1 | 36.7 | 30.0 | .176 | .329 | .294 | 52.2 |
 
 ! Note: Years are in reverse order.
