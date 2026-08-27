@@ -5,78 +5,68 @@ slug: baseballsavant-statcast-glossary
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/139.svg) | TB | 1 | Final |
-| ![](https://www.mlbstatic.com/team-logos/116.svg) | DET | 4 |
+| ![](https://www.mlbstatic.com/team-logos/115.svg) | COL | 1 | 7th |
+| ![](https://www.mlbstatic.com/team-logos/120.svg) | WSH | 4 |
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/111.svg) | BOS | 7 | Final |
-| ![](https://www.mlbstatic.com/team-logos/146.svg) | MIA | 3 |
+| ![](https://www.mlbstatic.com/team-logos/110.svg) | BAL | 0 | 5th |
+| ![](https://www.mlbstatic.com/team-logos/138.svg) | STL | 5 |
+
+[Preview Matchup](https://baseballsavant.mlb.com/preview?game_pk=823503&game_date=2026-08-27)
+
+Wesneski vs. Cole
+
+[(compare pitchers)](https://baseballsavant.mlb.com/comparison-tool?player=669713-2026-pitcher&player=543037-2026-pitcher)
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/115.svg) | COL | 3 | Final |
-| ![](https://www.mlbstatic.com/team-logos/120.svg) | WSH | 1 |
+| ![](https://www.mlbstatic.com/team-logos/117.svg) | HOU |  | 7:05 PM |
+| ![](https://www.mlbstatic.com/team-logos/147.svg) | NYY |  |
+
+[Preview Matchup](https://baseballsavant.mlb.com/preview?game_pk=822771&game_date=2026-08-27)
+
+Cameron vs. Arrighetti
+
+[(compare pitchers)](https://baseballsavant.mlb.com/comparison-tool?player=702070-2026-pitcher&player=681293-2026-pitcher)
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/117.svg) | HOU | 9 | Final |
-| ![](https://www.mlbstatic.com/team-logos/147.svg) | NYY | 7 |
+| ![](https://www.mlbstatic.com/team-logos/118.svg) | KC |  | 7:07 PM |
+| ![](https://www.mlbstatic.com/team-logos/141.svg) | TOR |  |
+
+[Preview Matchup](https://baseballsavant.mlb.com/preview?game_pk=823581&game_date=2026-08-27)
+
+Misiorowski vs. Manaea
+
+[(compare pitchers)](https://baseballsavant.mlb.com/comparison-tool?player=694819-2026-pitcher&player=640455-2026-pitcher)
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/118.svg) | KC | 5 | Final |
-| ![](https://www.mlbstatic.com/team-logos/141.svg) | TOR | 3 |
+| ![](https://www.mlbstatic.com/team-logos/158.svg) | MIL |  | 7:10 PM |
+| ![](https://www.mlbstatic.com/team-logos/121.svg) | NYM |  |
+
+[Preview Matchup](https://baseballsavant.mlb.com/preview?game_pk=824879&game_date=2026-08-27)
+
+Yamamoto vs. Sale
+
+[(compare pitchers)](https://baseballsavant.mlb.com/comparison-tool?player=808967-2026-pitcher&player=519242-2026-pitcher)
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/158.svg) | MIL | 2 | Final |
-| ![](https://www.mlbstatic.com/team-logos/121.svg) | NYM | 3 |
+| ![](https://www.mlbstatic.com/team-logos/119.svg) | LAD |  | 7:15 PM |
+| ![](https://www.mlbstatic.com/team-logos/144.svg) | ATL |  |
+
+[Preview Matchup](https://baseballsavant.mlb.com/preview?game_pk=823179&game_date=2026-08-27)
+
+Cabrera vs. Roupp
+
+[(compare pitchers)](https://baseballsavant.mlb.com/comparison-tool?player=703615-2026-pitcher&player=694738-2026-pitcher)
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/119.svg) | LAD | 3 | Final |
-| ![](https://www.mlbstatic.com/team-logos/144.svg) | ATL | 4 |
-
-|     |     |     |     |
-| --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/140.svg) | TEX | 7 | Final |
-| ![](https://www.mlbstatic.com/team-logos/145.svg) | CWS | 11 |
-
-|     |     |     |     |
-| --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/110.svg) | BAL | 13 | Final |
-| ![](https://www.mlbstatic.com/team-logos/138.svg) | STL | 1 |
-
-|     |     |     |     |
-| --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/114.svg) | CLE | 8 | Final |
-| ![](https://www.mlbstatic.com/team-logos/108.svg) | LAA | 6 |
-
-|     |     |     |     |
-| --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/112.svg) | CHC | 4 | Final |
-| ![](https://www.mlbstatic.com/team-logos/109.svg) | AZ | 5 |
-
-|     |     |     |     |
-| --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/134.svg) | PIT | 1 | Final |
-| ![](https://www.mlbstatic.com/team-logos/135.svg) | SD | 0 |
-
-|     |     |     |     |
-| --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/142.svg) | MIN | 2 | Final |
-| ![](https://www.mlbstatic.com/team-logos/133.svg) | ATH | 4 |
-
-|     |     |     |     |
-| --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/143.svg) | PHI | 1 | Final |
-| ![](https://www.mlbstatic.com/team-logos/136.svg) | SEA | 4 |
-
-|     |     |     |     |
-| --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/113.svg) | CIN | 1 | Final |
-| ![](https://www.mlbstatic.com/team-logos/137.svg) | SF | 3 |
+| ![](https://www.mlbstatic.com/team-logos/109.svg) | AZ |  | 9:45 PM |
+| ![](https://www.mlbstatic.com/team-logos/137.svg) | SF |  |
 
 <
 

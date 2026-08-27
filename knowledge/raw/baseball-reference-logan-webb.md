@@ -24,7 +24,7 @@ Pitcher
 **Team:** [San Francisco Giants](https://www.baseball-reference.com/teams/SFG/2026.shtml) (majors)
 
 
-**[Born:](https://www.baseball-reference.com/bio/)**[November 18](https://www.baseball-reference.com/friv/birthdays.cgi?month=11&day=18), [1996](https://www.baseball-reference.com/leagues/majors/1996-births.shtml)(Age: 29-281d)
+**[Born:](https://www.baseball-reference.com/bio/)**[November 18](https://www.baseball-reference.com/friv/birthdays.cgi?month=11&day=18), [1996](https://www.baseball-reference.com/leagues/majors/1996-births.shtml)(Age: 29-282d)
 
 in Rocklin, [CA](https://www.baseball-reference.com/bio/CA_born.shtml)us
 
@@ -92,9 +92,9 @@ More bio, uniform, draft, salary info
 
 **WAR**
 
-1.9
+2.1
 
-23.8
+24.0
 
 **W**
 
@@ -110,21 +110,21 @@ More bio, uniform, draft, salary info
 
 **ERA**
 
-3.75
+3.72
 
 3.42
 
 **G**
 
-23
+24
 
-203
+204
 
 **GS**
 
-23
+24
 
-200
+201
 
 **SV**
 
@@ -134,27 +134,27 @@ More bio, uniform, draft, salary info
 
 **IP**
 
-141.2
+147.2
 
-1204.0
+1210.0
 
 **SO**
 
-112
+118
 
-1106
+1112
 
 **WHIP**
 
-1.108
+1.104
 
-1.185
+1.184
 
-[![](https://cdn.ssref.net/req/202608101/images/klecko/mlbtr.png)](http://www.mlbtraderumors.com/)
+[![](https://cdn.ssref.net/req/202608261/images/klecko/mlbtr.png)](http://www.mlbtraderumors.com/)
 
-**8/25** Giants lefty Carson Whisenhunt exited last night’s game after experiencing pain in his left elbow and is headed for an MRI to determine if there’s a notable injury at play, reports Shayna Rubin
+**8/26** The Giants announced that they have selected the contract of right-hander Braxton Roxby. He will take the active roster spot of fellow righty Adrian Houser, who has been placed on the 15-day injured list
 
-[See More at MLBTradeRumors](https://www.mlbtraderumors.com/2026/08/giants-rumors-carson-whisenhunt-elbow-injury-mri.html)
+[See More at MLBTradeRumors](https://www.mlbtraderumors.com/2026/08/giants-select-braxton-roxby.html)
 
 **Logan Webb** Menu
 
@@ -388,11 +388,11 @@ More Logan Webb Pages at Baseball Reference
 
 | Date | Tm |  | Opp | Result | App,Dec | DR | IP | H | R | ER | BB | SO | HR | HBP | WP | IBB | PO | BK | BF | Pit | Str | StL | StS | GB | FB | LD | PU | Unk | GmSc | IR | IS | WPA | aLI | cWPA | acLI | RE24 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| [2026-08-26](https://www.baseball-reference.com/boxes/SFN/SFN202608260.shtml) | [SFG](https://www.baseball-reference.com/teams/SFG/2026.shtml) |  | [CIN](https://www.baseball-reference.com/teams/CIN/2026.shtml) | L, 9-10 | GS-6 | 4 | 6.0 | 5 | 2 | 2 | 1 | 6 | 1 | 1 | 0 | 0 | 0 | 0 | 25 | 97 | 64 | 21 | 7 | 7 | 10 | 5 | 0 | 0 | 59 |  |  | 0.108 | 1.24 | 0.0% | 0.00 | 0.886 |
 | [2026-08-21](https://www.baseball-reference.com/boxes/BOS/BOS202608210.shtml) | [SFG](https://www.baseball-reference.com/teams/SFG/2026.shtml) | @ | [BOS](https://www.baseball-reference.com/teams/BOS/2026.shtml) | L, 4-6 | GS-3, L | 5 | 2.2 | 6 | 5 | 5 | 3 | 2 | 1 | 2 | 0 | 0 | 0 | 0 | 18 | 70 | 41 | 17 | 2 | 5 | 6 | 3 | 0 | 0 | 25 |  |  | -0.376 | 1.00 | 0.0% | 0.00 | -4.291 |
 | [2026-08-15](https://www.baseball-reference.com/boxes/SFN/SFN202608150.shtml) | [SFG](https://www.baseball-reference.com/teams/SFG/2026.shtml) |  | [COL](https://www.baseball-reference.com/teams/COL/2026.shtml) | W, 7-1 | GS-6, W | 5 | 6.0 | 4 | 1 | 1 | 0 | 7 | 0 | 0 | 0 | 0 | 0 | 0 | 22 | 80 | 57 | 10 | 11 | 6 | 9 | 1 | 1 | 0 | 67 |  |  | 0.112 | 0.80 | 0.0% | 0.00 | 1.899 |
 | [2026-08-09](https://www.baseball-reference.com/boxes/SFN/SFN202608090.shtml) | [SFG](https://www.baseball-reference.com/teams/SFG/2026.shtml) |  | [DET](https://www.baseball-reference.com/teams/DET/2026.shtml) | L, 1-3 (10) | GS-8 | 5 | 8.0 | 4 | 1 | 1 | 1 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 28 | 100 | 66 | 24 | 3 | 14 | 11 | 7 | 2 | 0 | 71 |  |  | 0.321 | 1.21 | 0.0% | 0.01 | 2.866 |
 | [2026-08-03](https://www.baseball-reference.com/boxes/TEX/TEX202608030.shtml) | [SFG](https://www.baseball-reference.com/teams/SFG/2026.shtml) | @ | [TEX](https://www.baseball-reference.com/teams/TEX/2026.shtml) | W, 5-1 | GS-6, W | 4 | 6.0 | 5 | 0 | 0 | 1 | 8 | 0 | 0 | 0 | 0 | 0 | 0 | 24 | 96 | 64 | 15 | 12 | 4 | 11 | 5 | 1 | 0 | 69 |  |  | 0.290 | 0.98 | 0.0% | 0.00 | 2.771 |
-| [2026-07-29](https://www.baseball-reference.com/boxes/SFN/SFN202607290.shtml) | [SFG](https://www.baseball-reference.com/teams/SFG/2026.shtml) |  | [MIL](https://www.baseball-reference.com/teams/MIL/2026.shtml) | W, 16-3 | GS-6, W | 4 | 6.0 | 5 | 2 | 2 | 1 | 4 | 0 | 0 | 0 | 0 | 0 | 0 | 23 | 96 | 61 | 19 | 8 | 12 | 6 | 5 | 0 | 0 | 57 |  |  | 0.166 | 1.22 | 0.0% | 0.00 | 0.912 |
 
 Last 5 Games Table
 
@@ -429,9 +429,9 @@ Playoffs
 | [2023](https://www.baseball-reference.com/players/gl.fcgi?id=webblo01&t=p&year=2023) | 26 | [SFG](https://www.baseball-reference.com/teams/SFG/2023.shtml) | [NL](https://www.baseball-reference.com/leagues/NL/2023.shtml) | 5.6 | 11 | 13 | .458 | 3.25 | 33 | 33 | 0 | 2 | **1** | 0 | **_216.0_** | 201 | 83 | 78 | 20 | 31 | 0 | 194 | 5 | 0 | 1 | 850 | 128 | 3.16 | 1.074 | 8.4 | 0.8 | **1.3** | 8.1 | **6.26** | [CYA-2](https://www.baseball-reference.com/awards/awards_2023.shtml#all_NL_CYA_voting), [MVP-17](https://www.baseball-reference.com/awards/awards_2023.shtml#all_NL_MVP_voting) |
 | [2024](https://www.baseball-reference.com/players/gl.fcgi?id=webblo01&t=p&year=2024) | 27 | [SFG](https://www.baseball-reference.com/teams/SFG/2024.shtml) | [NL](https://www.baseball-reference.com/leagues/NL/2024.shtml) | 3.8 | 13 | 10 | .565 | 3.47 | 33 | **_33_** | 0 | 1 | **_1_** | 0 | **204.2** | 202 | 83 | 79 | 11 | 50 | 3 | 172 | 2 | 1 | 4 | **_841_** | 112 | 2.95 | 1.231 | 8.9 | 0.5 | 2.2 | 7.6 | 3.44 | [AS](https://www.baseball-reference.com/allstar/2024-allstar-game.shtml), [CYA-6](https://www.baseball-reference.com/awards/awards_2024.shtml#all_NL_CYA_voting) |
 | [2025](https://www.baseball-reference.com/players/gl.fcgi?id=webblo01&t=p&year=2025) | 28 | [SFG](https://www.baseball-reference.com/teams/SFG/2025.shtml) | [NL](https://www.baseball-reference.com/leagues/NL/2025.shtml) | 4.2 | 15 | 11 | .577 | 3.22 | 34 | **_34_** | 0 | 0 | 0 | 0 | **_207.0_** | **_210_** | 82 | 74 | 14 | 46 | 0 | **224** | 6 | 0 | 2 | **_856_** | 124 | 2.60 | 1.237 | 9.1 | 0.6 | 2.0 | 9.7 | 4.87 | [AS](https://www.baseball-reference.com/allstar/2025-allstar-game.shtml), [CYA-4](https://www.baseball-reference.com/awards/awards_2025.shtml#all_NL_CYA_voting), [GG](https://www.baseball-reference.com/awards/gold_glove_nl.shtml#2025) |
-| [2026](https://www.baseball-reference.com/players/gl.fcgi?id=webblo01&t=p&year=2026) | 29 | [SFG](https://www.baseball-reference.com/teams/SFG/2026.shtml) | [NL](https://www.baseball-reference.com/leagues/NL/2026.shtml) | 1.9 | 8 | 8 | .500 | 3.75 | 23 | 23 | 0 | **_1_** | 0 | 0 | 141.2 | 122 | 62 | 59 | 10 | 35 | 0 | 112 | 8 | 0 | 1 | 578 | 105 | 3.33 | 1.108 | 7.8 | 0.6 | 2.2 | 7.1 | 3.20 | [AS](https://www.baseball-reference.com/allstar/2026-allstar-game.shtml) |
-| 8 Yrs | 23.6 | 78 | 61 | .561 | 3.42 | 203 | 200 | 0 | 4 | 2 | 0 | 1204.0 | 1142 | 502 | 458 | 84 | 285 | 4 | 1106 | 44 | 1 | 23 | 4928 | 118 | 3.05 | 1.185 | 8.5 | _0.6_ | 2.1 | 8.3 | 3.88 |  |
-| 162 Game Avg | 4.0 | 13 | 10 | .561 | 3.42 | 34 | 34 | 0 | 1 | 0 | 0 | 203 | 193 | 85 | 77 | 14 | 48 | 1 | 187 | 7 | 0 | 4 | 832 | 118 | 3.05 | 1.185 | 8.5 | 0.6 | 2.1 | 8.3 | 3.88 |  |
+| [2026](https://www.baseball-reference.com/players/gl.fcgi?id=webblo01&t=p&year=2026) | 29 | [SFG](https://www.baseball-reference.com/teams/SFG/2026.shtml) | [NL](https://www.baseball-reference.com/leagues/NL/2026.shtml) | 2.1 | 8 | 8 | .500 | 3.72 | 24 | 24 | 0 | **_1_** | 0 | 0 | 147.2 | 127 | 64 | 61 | 11 | 36 | 0 | 118 | 9 | 0 | 1 | 603 | 107 | 3.37 | 1.104 | 7.7 | 0.7 | 2.2 | 7.2 | 3.28 | [AS](https://www.baseball-reference.com/allstar/2026-allstar-game.shtml) |
+| 8 Yrs | 23.8 | 78 | 61 | .561 | 3.42 | 204 | 201 | 0 | 4 | 2 | 0 | 1210.0 | 1147 | 504 | 460 | 85 | 286 | 4 | 1112 | 45 | 1 | 23 | 4953 | 118 | 3.06 | 1.184 | 8.5 | _0.6_ | 2.1 | 8.3 | 3.89 |  |
+| 162 Game Avg | 4.0 | 13 | 10 | .561 | 3.42 | 34 | 34 | 0 | 1 | 0 | 0 | 203 | 193 | 85 | 77 | 14 | 48 | 1 | 187 | 8 | 0 | 4 | 832 | 118 | 3.06 | 1.184 | 8.5 | 0.6 | 2.1 | 8.3 | 3.89 |  |
 
 Standard Pitching Table
 
@@ -456,9 +456,9 @@ Standard Pitching Table
 | [2023](https://www.baseball-reference.com/players/gl.fcgi?id=webblo01&t=p&year=2023) | 26 | [SFG](https://www.baseball-reference.com/teams/SFG/2023.shtml) | [NL](https://www.baseball-reference.com/leagues/NL/2023.shtml) | **_216.0_** | 33 | 33 | 83 | 3.46 | 4.77 | -0.07 | 0.22 | 0.00 | 97 | 4.92 | 35 | 3.8 |  | -0.2 | 5.6 | 56 | .614 | .523 | [CYA-2](https://www.baseball-reference.com/awards/awards_2023.shtml#all_NL_CYA_voting), [MVP-17](https://www.baseball-reference.com/awards/awards_2023.shtml#all_NL_MVP_voting) |
 | [2024](https://www.baseball-reference.com/players/gl.fcgi?id=webblo01&t=p&year=2024) | 27 | [SFG](https://www.baseball-reference.com/teams/SFG/2024.shtml) | [NL](https://www.baseball-reference.com/leagues/NL/2024.shtml) | **204.2** | 33 | **_33_** | 83 | 3.65 | 4.62 | 0.01 | 0.21 | 0.00 | 94 | 4.51 | 20 | 2.1 |  | -0.2 | 3.8 | 39 | .562 | .513 | [AS](https://www.baseball-reference.com/allstar/2024-allstar-game.shtml), [CYA-6](https://www.baseball-reference.com/awards/awards_2024.shtml#all_NL_CYA_voting) |
 | [2025](https://www.baseball-reference.com/players/gl.fcgi?id=webblo01&t=p&year=2025) | 28 | [SFG](https://www.baseball-reference.com/teams/SFG/2025.shtml) | [NL](https://www.baseball-reference.com/leagues/NL/2025.shtml) | **_207.0_** | 34 | **_34_** | 82 | 3.57 | 4.51 | 0.05 | 0.21 | 0.00 | 97 | 4.51 | 22 | 2.5 |  | -0.2 | 4.2 | 41 | .572 | .515 | [AS](https://www.baseball-reference.com/allstar/2025-allstar-game.shtml), [CYA-4](https://www.baseball-reference.com/awards/awards_2025.shtml#all_NL_CYA_voting), [GG](https://www.baseball-reference.com/awards/gold_glove_nl.shtml#2025) |
-| [2026](https://www.baseball-reference.com/players/gl.fcgi?id=webblo01&t=p&year=2026) | 29 | [SFG](https://www.baseball-reference.com/teams/SFG/2026.shtml) | [NL](https://www.baseball-reference.com/leagues/NL/2026.shtml) | 141.2 | 23 | 23 | 62 | 3.94 | 4.57 | 0.13 | 0.21 | 0.00 | 94 | 4.38 | 7 | 0.8 |  | -0.1 | 1.9 | 20 | .533 | .505 | [AS](https://www.baseball-reference.com/allstar/2026-allstar-game.shtml) |
-| 8 Yrs | 1204.0 | 203 | 200 | 502 | 3.75 | 4.61 | -0.01 | 0.21 | 0.00 | 96 | 4.65 | 120 | 13.4 | 1.05 | -1.0 | 23.6 | 234 | .566 | .513 |  |
-| 162 Game Avg | 203 | 34 | 34 | 85 | 3.75 | 4.61 | -0.01 | 0.21 | 0.00 | 96 | 4.65 | 20 | 2.3 | 1.05 | -0.2 | 4.0 | 40 | .566 | .513 |  |
+| [2026](https://www.baseball-reference.com/players/gl.fcgi?id=webblo01&t=p&year=2026) | 29 | [SFG](https://www.baseball-reference.com/teams/SFG/2026.shtml) | [NL](https://www.baseball-reference.com/leagues/NL/2026.shtml) | 147.2 | 24 | 24 | 64 | 3.90 | 4.55 | 0.16 | 0.21 | 0.00 | 95 | 4.37 | 8 | 0.8 |  | -0.1 | 2.1 | 22 | .535 | .505 | [AS](https://www.baseball-reference.com/allstar/2026-allstar-game.shtml) |
+| 8 Yrs | 1210.0 | 204 | 201 | 504 | 3.75 | 4.61 | 0.00 | 0.21 | 0.00 | 96 | 4.65 | 121 | 13.5 | 1.05 | -1.0 | 23.8 | 236 | .566 | .513 |  |
+| 162 Game Avg | 203 | 34 | 34 | 85 | 3.75 | 4.61 | 0.00 | 0.21 | 0.00 | 96 | 4.65 | 20 | 2.3 | 1.05 | -0.2 | 4.0 | 40 | .566 | .513 |  |
 
 Value Pitching Table
 
@@ -485,8 +485,8 @@ Playoffs
 | [2023](https://www.baseball-reference.com/players/gl.fcgi?id=webblo01&t=p&year=2023) | 26 | [SFG](https://www.baseball-reference.com/teams/SFG/2023.shtml) | [NL](https://www.baseball-reference.com/leagues/NL/2023.shtml) | **_216.0_** | .248 | .280 | .374 | .653 | .303 | 2.4 | 22.8 | 3.6 | 90.3 | 46.4 | 20.5 | 62.0 | 14.9 | 1.66 | 2.9 | 1.5% | 31.34 | [CYA-2](https://www.baseball-reference.com/awards/awards_2023.shtml#all_NL_CYA_voting), [MVP-17](https://www.baseball-reference.com/awards/awards_2023.shtml#all_NL_MVP_voting) |
 | [2024](https://www.baseball-reference.com/players/gl.fcgi?id=webblo01&t=p&year=2024) | 27 | [SFG](https://www.baseball-reference.com/teams/SFG/2024.shtml) | [NL](https://www.baseball-reference.com/leagues/NL/2024.shtml) | **204.2** | .258 | .302 | .355 | .657 | .316 | 1.3 | 20.5 | 5.9 | 89.7 | 46.3 | 23.2 | 57.1 | 17.3 | 1.33 | 1.2 | 0.9% | 16.21 | [AS](https://www.baseball-reference.com/allstar/2024-allstar-game.shtml), [CYA-6](https://www.baseball-reference.com/awards/awards_2024.shtml#all_NL_CYA_voting) |
 | [2025](https://www.baseball-reference.com/players/gl.fcgi?id=webblo01&t=p&year=2025) | 28 | [SFG](https://www.baseball-reference.com/teams/SFG/2025.shtml) | [NL](https://www.baseball-reference.com/leagues/NL/2025.shtml) | **_207.0_** | .264 | .308 | .386 | .694 | .349 | 1.6 | 26.2 | 5.4 | 89.0 | 40.5 | 25.6 | 52.8 | 16.9 | 1.15 | 1.8 | 0.5% | 20.11 | [AS](https://www.baseball-reference.com/allstar/2025-allstar-game.shtml), [CYA-4](https://www.baseball-reference.com/awards/awards_2025.shtml#all_NL_CYA_voting), [GG](https://www.baseball-reference.com/awards/gold_glove_nl.shtml#2025) |
-| [2026](https://www.baseball-reference.com/players/gl.fcgi?id=webblo01&t=p&year=2026) | 29 | [SFG](https://www.baseball-reference.com/teams/SFG/2026.shtml) | [NL](https://www.baseball-reference.com/leagues/NL/2026.shtml) | 141.2 | .229 | .286 | .338 | .625 | .273 | 1.7 | 19.4 | 6.1 | 87.5 | 38.2 | 23.0 | 51.2 | 20.4 | 1.06 | 1.1 | -0.1% | 6.85 | [AS](https://www.baseball-reference.com/allstar/2026-allstar-game.shtml) |
-| 8 Yrs | 1204.0 | .250 | .300 | .364 | .664 | .312 | 1.7 | 22.4 | 5.8 | 88.9 | 41.9 | 23.6 | 56.3 | 16.1 | 1.32 | 10.8 | 5.0% | 107.79 |  |
+| [2026](https://www.baseball-reference.com/players/gl.fcgi?id=webblo01&t=p&year=2026) | 29 | [SFG](https://www.baseball-reference.com/teams/SFG/2026.shtml) | [NL](https://www.baseball-reference.com/leagues/NL/2026.shtml) | 147.2 | .229 | .287 | .341 | .628 | .272 | 1.8 | 19.6 | 6.0 | 87.4 | 38.3 | 23.2 | 50.6 | 20.7 | 1.04 | 1.2 | -0.1% | 7.74 | [AS](https://www.baseball-reference.com/allstar/2026-allstar-game.shtml) |
+| 8 Yrs | 1210.0 | .250 | .300 | .365 | .664 | .312 | 1.7 | 22.5 | 5.8 | 88.8 | 41.9 | 23.6 | 56.2 | 16.2 | 1.31 | 10.9 | 5.0% | 108.67 |  |
 | MLB Average |  | .246 | .317 | .409 | .726 | .293 | 3.2 | 22.7 | 8.5 | 88.4 | 39.3 | 24.2 | 42.2 | 25.6 | 0.74 |  |  |  |  |
 
 Advanced Pitching Table
@@ -524,7 +524,17 @@ Powered by ![Stathead Logo](https://cdn.ssref.net/req/202101292/logos/stathead-l
 - [Player News RSS Feed](https://www.baseball-reference.com/players/news.fcgi?id=webblo01&rss=1)
 - Show/Hide More Stories
 
+- **8/27** [RotoWire: Moved up to start Wednesday](https://www.rotowire.com/baseball/player/logan-webb-13478?refer=SportsRef): _Webb will start Wednesday's game against the Reds, Susan Slusser_...
+
+- **8/26** [MLBTradeRumors: Giants Select Braxton Roxby](https://www.mlbtraderumors.com/2026/08/giants-select-braxton-roxby.html): _The Giants announced that they have selected the contract of right-hander_...
+
+- **8/26** [MLBTradeRumors: Giants’ Carson Whisenhunt To Undergo UCL Surgery](https://www.mlbtraderumors.com/2026/08/giants-carson-whisenhunt-tommy-john-surgery-ucl-internal-brace.html): _Giants lefty Carson Whisenhunt will undergo surgery to repair_...
+
+- **8/26** [MLBTradeRumors: Willy Adames Diagnosed With UCL Sprain; Adrian Houser Headed For MRI](https://www.mlbtraderumors.com/2026/08/giants-rumors-willy-adames-ucl-sprain-adrian-houser-mri.html): _Giants shortstop Willy Adames has been diagnosed with a sprained_...
+
 - **8/25** [MLBTradeRumors: Carson Whisenhunt Undergoing MRI Due To Elbow Discomfort](https://www.mlbtraderumors.com/2026/08/giants-rumors-carson-whisenhunt-elbow-injury-mri.html): _Giants lefty Carson Whisenhunt exited last night’s game_...
+
+- Show 6 more stories
 
 - **8/24** [MLBTradeRumors: Trade Rumors Front Office Subscriber Chat Transcript](https://www.mlbtraderumors.com/2026/08/trade-rumors-front-office-subscriber-chat-today-3pm-ct-24.html): _Steve Adams Good afternoon! We’ll get going at 3pm CT —_...
 
@@ -538,11 +548,7 @@ _Record Last Week: 5-1_
 
 _Runs_...
 
-- **8/23** [RotoWire: Implodes in third frame](https://www.rotowire.com/baseball/player/logan-webb-13478?refer=SportsRef): _Webb (8-8) took the loss against the Red Sox on Friday, allowing_...
-
 - **8/22** [Swing Completo LLC: ¿Rencor o madurez? Rafael Devers habla sin filtros sobre su polémica salida de Boston](https://swingcompleto.com/dominicanos-grandes-ligas/declaraciones-de-rafael-devers-los-detalles-tras-su-salida-de-boston-20260821-0015.html): _El primera base no se guardó nada en su vuelta a Boston, siendo_...
-
-- Show 3 more stories
 
 - **8/22** [Swing Completo LLC: Jonrón de Willson Contreras guía victoria de Boston y arruina regreso de Rafael Devers al Fenway Park](https://swingcompleto.com/mlb/boston-domina-a-san-francisco-en-el-regreso-de-devers-al-fenway-20260821-0018.html): _Los bostonianos amargaron la vuelta del pelotero dominicano Rafael_...
 
@@ -680,8 +686,8 @@ Playoffs
 | [2023](https://www.baseball-reference.com/players/gl.fcgi?id=webblo01&t=f&year=2023) | 26 | [SFG](https://www.baseball-reference.com/teams/SFG/2023.shtml) | [NL](https://www.baseball-reference.com/leagues/NL/2023.shtml) | 33 | 33 | 0 | 33 | 33 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | [2024](https://www.baseball-reference.com/players/gl.fcgi?id=webblo01&t=f&year=2024) | 27 | [SFG](https://www.baseball-reference.com/teams/SFG/2024.shtml) | [NL](https://www.baseball-reference.com/leagues/NL/2024.shtml) | 33 | 33 | 0 | 33 | 33 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | [2025](https://www.baseball-reference.com/players/gl.fcgi?id=webblo01&t=f&year=2025) | 28 | [SFG](https://www.baseball-reference.com/teams/SFG/2025.shtml) | [NL](https://www.baseball-reference.com/leagues/NL/2025.shtml) | 34 | 34 | 0 | 34 | 34 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| [2026](https://www.baseball-reference.com/players/gl.fcgi?id=webblo01&t=f&year=2026) | 29 | [SFG](https://www.baseball-reference.com/teams/SFG/2026.shtml) | [NL](https://www.baseball-reference.com/leagues/NL/2026.shtml) | 23 | 23 | 0 | 23 | 23 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 8 Yrs | 205 | 200 | 33 | 203 | 203 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 |
+| [2026](https://www.baseball-reference.com/players/gl.fcgi?id=webblo01&t=f&year=2026) | 29 | [SFG](https://www.baseball-reference.com/teams/SFG/2026.shtml) | [NL](https://www.baseball-reference.com/leagues/NL/2026.shtml) | 24 | 24 | 0 | 24 | 24 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 8 Yrs | 206 | 201 | 33 | 204 | 204 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 |
 
 Appearances Table
 
@@ -715,8 +721,8 @@ Playoffs
 | [2023](https://www.baseball-reference.com/players/gl.fcgi?id=webblo01&t=f&year=2023) | 26 | [SFG](https://www.baseball-reference.com/teams/SFG/2023.shtml) | [NL](https://www.baseball-reference.com/leagues/NL/2023.shtml) | P | 33 | 33 | 2 | 216.0 | 38 | 17 | 20 | 1 | **_4_** | .974 | .951 | -1 | -1 | 1.54 | 1.37 | 1.12 | 1.34 | 20 | 4 | 16.7 | 19.1 | 0 | [CYA-2](https://www.baseball-reference.com/awards/awards_2023.shtml#all_NL_CYA_voting), [MVP-17](https://www.baseball-reference.com/awards/awards_2023.shtml#all_NL_MVP_voting) |
 | [2024](https://www.baseball-reference.com/players/gl.fcgi?id=webblo01&t=f&year=2024) | 27 | [SFG](https://www.baseball-reference.com/teams/SFG/2024.shtml) | [NL](https://www.baseball-reference.com/leagues/NL/2024.shtml) | P | 33 | 33 | 1 | 204.2 | 50 | 15 | **_33_** | 2 | **_5_** | .960 | .948 | -3 | -3 | 2.11 | 1.36 | **1.45** | 1.34 | 21 | 5 | 19.2 | 20.3 | 2 | [AS](https://www.baseball-reference.com/allstar/2024-allstar-game.shtml), [CYA-6](https://www.baseball-reference.com/awards/awards_2024.shtml#all_NL_CYA_voting) |
 | [2025](https://www.baseball-reference.com/players/gl.fcgi?id=webblo01&t=f&year=2025) | 28 | [SFG](https://www.baseball-reference.com/teams/SFG/2025.shtml) | [NL](https://www.baseball-reference.com/leagues/NL/2025.shtml) | P | 34 | 34 | 0 | 207.0 | 42 | 7 | **34** | 1 | **_3_** | .976 | .954 | 7 | 7 | 1.78 | 1.37 | 1.21 | 1.35 | 9 | 7 | 43.8 | 23.2 | 2 | [AS](https://www.baseball-reference.com/allstar/2025-allstar-game.shtml), [CYA-4](https://www.baseball-reference.com/awards/awards_2025.shtml#all_NL_CYA_voting), [GG](https://www.baseball-reference.com/awards/gold_glove_nl.shtml#2025) |
-| [2026](https://www.baseball-reference.com/players/gl.fcgi?id=webblo01&t=f&year=2026) | 29 | [SFG](https://www.baseball-reference.com/teams/SFG/2026.shtml) | [NL](https://www.baseball-reference.com/leagues/NL/2026.shtml) | P | 23 | 23 | 1 | 141.2 | 29 | 10 | 18 | 1 | 1 | .966 | .947 | 0 | 0 | 1.78 | 1.37 | 1.22 | 1.35 | 16 | 5 | 23.8 | 23.4 | 0 | [AS](https://www.baseball-reference.com/allstar/2026-allstar-game.shtml) |
-| 8 Yrs |  | 203 | 200 | 4 | 1204.0 | 253 | 89 | 159 | 5 | 18 | .980 | .952 | 3 | 0 | 1.85 | 1.39 | 1.22 | 1.37 | 99 | 32 | 24.4 | 22.4 | 7 |  |
+| [2026](https://www.baseball-reference.com/players/gl.fcgi?id=webblo01&t=f&year=2026) | 29 | [SFG](https://www.baseball-reference.com/teams/SFG/2026.shtml) | [NL](https://www.baseball-reference.com/leagues/NL/2026.shtml) | P | 24 | 24 | 1 | 147.2 | 30 | 10 | 19 | 1 | 1 | .967 | .947 | -1 | -1 | 1.77 | 1.38 | 1.21 | 1.36 | 18 | 5 | 21.7 | 23.4 | 0 | [AS](https://www.baseball-reference.com/allstar/2026-allstar-game.shtml) |
+| 8 Yrs |  | 204 | 201 | 4 | 1210.0 | 254 | 89 | 160 | 5 | 18 | .980 | .952 | 2 | 0 | 1.85 | 1.39 | 1.22 | 1.37 | 101 | 32 | 24.1 | 22.4 | 7 |  |
 
 Standard Fielding Table
 
@@ -789,7 +795,7 @@ Standard Fielding Table
 
 [2025 NL](https://www.baseball-reference.com/leagues/NL/2025-pitching-leaders.shtml)  4.2 (10th)
 
-[Active](https://www.baseball-reference.com/leaders/WAR_pitch_active.shtml)  23.6 (19th)
+[Active](https://www.baseball-reference.com/leaders/WAR_pitch_active.shtml)  23.8 (19th)
 
 4 Seasons in Top 10
 
@@ -829,11 +835,11 @@ Wins
 
 [2023 NL](https://www.baseball-reference.com/leagues/NL/2023-pitching-leaders.shtml)  1.074 (2nd)
 
-[2026 NL](https://www.baseball-reference.com/leagues/NL/2026-pitching-leaders.shtml)  1.108 (5th)
+[2026 NL](https://www.baseball-reference.com/leagues/NL/2026-pitching-leaders.shtml)  1.104 (5th)
 
-[Active](https://www.baseball-reference.com/leaders/whip_active.shtml)  1.185 (13th)
+[Active](https://www.baseball-reference.com/leaders/whip_active.shtml)  1.184 (13th)
 
-[Career](https://www.baseball-reference.com/leaders/whip_career.shtml)  1.185 (129th)
+[Career](https://www.baseball-reference.com/leaders/whip_career.shtml)  1.184 (128th)
 
 2 Seasons in Top 10
 
@@ -849,11 +855,11 @@ Wins
 
 [2025 NL](https://www.baseball-reference.com/leagues/NL/2025-pitching-leaders.shtml)  2.000 (4th)
 
-[2026 NL](https://www.baseball-reference.com/leagues/NL/2026-pitching-leaders.shtml)  2.224 (7th)
+[2026 NL](https://www.baseball-reference.com/leagues/NL/2026-pitching-leaders.shtml)  2.194 (7th)
 
-[Active](https://www.baseball-reference.com/leaders/bases_on_balls_per_nine_active.shtml)  2.130 (5th)
+[Active](https://www.baseball-reference.com/leaders/bases_on_balls_per_nine_active.shtml)  2.127 (5th)
 
-[Career](https://www.baseball-reference.com/leaders/bases_on_balls_per_nine_career.shtml)  2.130 (153rd)
+[Career](https://www.baseball-reference.com/leaders/bases_on_balls_per_nine_career.shtml)  2.127 (150th)
 
 5 Seasons in Top 10
 
@@ -863,9 +869,9 @@ Wins
 
 [2025 NL](https://www.baseball-reference.com/leagues/NL/2025-pitching-leaders.shtml)  9.739 (7th)
 
-[Active](https://www.baseball-reference.com/leaders/strikeouts_per_nine_active.shtml)  8.267 (35th)
+[Active](https://www.baseball-reference.com/leaders/strikeouts_per_nine_active.shtml)  8.271 (35th)
 
-[Career](https://www.baseball-reference.com/leaders/strikeouts_per_nine_career.shtml)  8.267 (85th)
+[Career](https://www.baseball-reference.com/leaders/strikeouts_per_nine_career.shtml)  8.271 (85th)
 
 #### Innings Pitched
 
@@ -879,9 +885,11 @@ Innings Pitched
 
 [2025 NL](https://www.baseball-reference.com/leagues/NL/2025-pitching-leaders.shtml)  207.0 (1st)
 
-[Active](https://www.baseball-reference.com/leaders/IP_active.shtml)  1,204.0 (32nd)
+[2026 NL](https://www.baseball-reference.com/leagues/NL/2026-pitching-leaders.shtml)  147.7 (10th)
 
-4 Seasons in Top 10
+[Active](https://www.baseball-reference.com/leaders/IP_active.shtml)  1,210.0 (32nd)
+
+5 Seasons in Top 10
 
 #### Strikeouts
 
@@ -889,7 +897,7 @@ Strikeouts
 
 [2025 NL](https://www.baseball-reference.com/leagues/NL/2025-pitching-leaders.shtml)  224 (1st)
 
-[Active](https://www.baseball-reference.com/leaders/SO_p_active.shtml)  1,106 (41st)
+[Active](https://www.baseball-reference.com/leaders/SO_p_active.shtml)  1,112 (41st)
 
 #### Games Started
 
@@ -903,7 +911,7 @@ Games Started
 
 [2025 NL](https://www.baseball-reference.com/leagues/NL/2025-pitching-leaders.shtml)  34 (1st)
 
-[Active](https://www.baseball-reference.com/leaders/GS_active.shtml)  200 (36th)
+[Active](https://www.baseball-reference.com/leaders/GS_active.shtml)  201 (36th)
 
 4 Seasons in Top 10
 
@@ -951,7 +959,7 @@ Hits/Hits Allowed
 
 [2025 NL](https://www.baseball-reference.com/leagues/NL/2025-pitching-leaders.shtml)  210 (1st)
 
-[Active](https://www.baseball-reference.com/leaders/H_p_active.shtml)  1,142 (29th)
+[Active](https://www.baseball-reference.com/leaders/H_p_active.shtml)  1,147 (29th)
 
 4 Seasons in Top 10
 
@@ -963,9 +971,9 @@ Hits/Hits Allowed
 
 [2025 NL](https://www.baseball-reference.com/leagues/NL/2025-pitching-leaders.shtml)  4.870 (3rd)
 
-[Active](https://www.baseball-reference.com/leaders/strikeouts_per_base_on_balls_active.shtml)  3.881 (8th)
+[Active](https://www.baseball-reference.com/leaders/strikeouts_per_base_on_balls_active.shtml)  3.888 (8th)
 
-[Career](https://www.baseball-reference.com/leaders/strikeouts_per_base_on_balls_career.shtml)  3.881 (22nd)
+[Career](https://www.baseball-reference.com/leaders/strikeouts_per_base_on_balls_career.shtml)  3.888 (22nd)
 
 2 Seasons in Top 10
 
@@ -981,9 +989,9 @@ Hits/Hits Allowed
 
 [2025 NL](https://www.baseball-reference.com/leagues/NL/2025-pitching-leaders.shtml)  0.609 (4th)
 
-[2026 NL](https://www.baseball-reference.com/leagues/NL/2026-pitching-leaders.shtml)  0.635 (2nd)
+[2026 NL](https://www.baseball-reference.com/leagues/NL/2026-pitching-leaders.shtml)  0.670 (4th)
 
-[Active](https://www.baseball-reference.com/leaders/home_runs_per_nine_active.shtml)  0.628 (1st)
+[Active](https://www.baseball-reference.com/leaders/home_runs_per_nine_active.shtml)  0.632 (1st)
 
 5 Seasons in Top 10
 
@@ -999,7 +1007,7 @@ Times Hit by a Pitch.
 
 [2020 NL](https://www.baseball-reference.com/leagues/NL/2020-pitching-leaders.shtml)  7 (1st)
 
-[Active](https://www.baseball-reference.com/leaders/HBP_p_active.shtml)  44 (43rd)
+[Active](https://www.baseball-reference.com/leaders/HBP_p_active.shtml)  45 (43rd)
 
 #### Batters Faced
 
@@ -1013,7 +1021,7 @@ Batters Faced
 
 [2025 NL](https://www.baseball-reference.com/leagues/NL/2025-pitching-leaders.shtml)  856 (1st)
 
-[Active](https://www.baseball-reference.com/leaders/batters_faced_active.shtml)  4,928 (36th)
+[Active](https://www.baseball-reference.com/leaders/batters_faced_active.shtml)  4,953 (36th)
 
 4 Seasons in Top 10
 
@@ -1029,7 +1037,7 @@ Batters Faced
 
 [Active](https://www.baseball-reference.com/leaders/earned_run_avg_plus_active.shtml)  118 (11th)
 
-[Career](https://www.baseball-reference.com/leaders/earned_run_avg_plus_career.shtml)  118 (178th)
+[Career](https://www.baseball-reference.com/leaders/earned_run_avg_plus_career.shtml)  118 (172nd)
 
 3 Seasons in Top 10
 
@@ -1045,11 +1053,11 @@ Batters Faced
 
 [2025 NL](https://www.baseball-reference.com/leagues/NL/2025-pitching-leaders.shtml)  2.60 (3rd)
 
-[2026 NL](https://www.baseball-reference.com/leagues/NL/2026-pitching-leaders.shtml)  3.33 (8th)
+[2026 NL](https://www.baseball-reference.com/leagues/NL/2026-pitching-leaders.shtml)  3.37 (8th)
 
-[Active](https://www.baseball-reference.com/leaders/fip_active.shtml)  3.05 (3rd)
+[Active](https://www.baseball-reference.com/leaders/fip_active.shtml)  3.06 (3rd)
 
-[Career](https://www.baseball-reference.com/leaders/fip_career.shtml)  3.05 (153rd)
+[Career](https://www.baseball-reference.com/leaders/fip_career.shtml)  3.06 (155th)
 
 5 Seasons in Top 10
 
@@ -1059,7 +1067,7 @@ Batters Faced
 
 [2023 NL](https://www.baseball-reference.com/leagues/NL/2023-pitching-leaders.shtml)  24 (3rd)
 
-[Active](https://www.baseball-reference.com/leaders/apRuns_active.shtml)  83 (27th)
+[Active](https://www.baseball-reference.com/leaders/apRuns_active.shtml)  84 (25th)
 
 #### Adj. Pitching Wins
 
@@ -1067,7 +1075,7 @@ Batters Faced
 
 [2023 NL](https://www.baseball-reference.com/leagues/NL/2023-pitching-leaders.shtml)  2.4 (3rd)
 
-[Active](https://www.baseball-reference.com/leaders/apWins_active.shtml)  8.6 (28th)
+[Active](https://www.baseball-reference.com/leaders/apWins_active.shtml)  8.7 (27th)
 
 #### Base-Out Runs Saved (RE24)
 
@@ -1075,9 +1083,9 @@ Batters Faced
 
 [2023 NL](https://www.baseball-reference.com/leagues/NL/2023-pitching-leaders.shtml)  31.34 (2nd)
 
-[Active](https://www.baseball-reference.com/leaders/re24_def_active.shtml)  107.79 (22nd)
+[Active](https://www.baseball-reference.com/leaders/re24_def_active.shtml)  108.67 (20th)
 
-[Career](https://www.baseball-reference.com/leaders/re24_def_career.shtml)  107.79 (234th)
+[Career](https://www.baseball-reference.com/leaders/re24_def_career.shtml)  108.67 (231st)
 
 #### Win Probability Added (WPA)
 
@@ -1085,7 +1093,7 @@ Batters Faced
 
 [2023 NL](https://www.baseball-reference.com/leagues/NL/2023-pitching-leaders.shtml)  2.9 (9th)
 
-[Active](https://www.baseball-reference.com/leaders/wpa_def_active.shtml)  10.8 (26th)
+[Active](https://www.baseball-reference.com/leaders/wpa_def_active.shtml)  10.9 (25th)
 
 #### Sit. Wins Saved (WPA/LI)
 
@@ -1107,7 +1115,7 @@ Batters Faced
 
 [2023 NL](https://www.baseball-reference.com/leagues/NL/2023-pitching-leaders.shtml)  1.5 (9th)
 
-[Active](https://www.baseball-reference.com/leaders/cwpa_def_active.shtml)  5.0 (43rd)
+[Active](https://www.baseball-reference.com/leaders/cwpa_def_active.shtml)  5.0 (44th)
 
 #### Base-Out Wins Saved (REW)
 
@@ -1115,9 +1123,9 @@ Batters Faced
 
 [2023 NL](https://www.baseball-reference.com/leagues/NL/2023-pitching-leaders.shtml)  3.3 (2nd)
 
-[Active](https://www.baseball-reference.com/leaders/rew_def_active.shtml)  11.5 (22nd)
+[Active](https://www.baseball-reference.com/leaders/rew_def_active.shtml)  11.6 (21st)
 
-[Career](https://www.baseball-reference.com/leaders/rew_def_career.shtml)  11.5 (232nd)
+[Career](https://www.baseball-reference.com/leaders/rew_def_career.shtml)  11.6 (228th)
 
 #### Putouts as P
 
@@ -1133,9 +1141,9 @@ Batters Faced
 
 [2025 NL](https://www.baseball-reference.com/leagues/NL/2025-fielding-leaders.shtml)  34 (1st)
 
-[2026 NL](https://www.baseball-reference.com/leagues/NL/2026-fielding-leaders.shtml)  18 (3rd)
+[2026 NL](https://www.baseball-reference.com/leagues/NL/2026-fielding-leaders.shtml)  19 (3rd)
 
-[Active](https://www.baseball-reference.com/leaders/A_p_active.shtml)  159 (21st)
+[Active](https://www.baseball-reference.com/leaders/A_p_active.shtml)  160 (21st)
 
 3 Seasons in Top 10
 
@@ -1177,7 +1185,7 @@ Batters Faced
 
 [2025 NL](https://www.baseball-reference.com/leagues/NL/2025-fielding-leaders.shtml)  1.21 (4th)
 
-[2026 NL](https://www.baseball-reference.com/leagues/NL/2026-fielding-leaders.shtml)  1.22 (5th)
+[2026 NL](https://www.baseball-reference.com/leagues/NL/2026-fielding-leaders.shtml)  1.21 (5th)
 
 [Active](https://www.baseball-reference.com/leaders/range_factor_per_game_p_active.shtml)  1.22 (5th)
 
@@ -1189,7 +1197,7 @@ Batters Faced
 
 [2022 NL](https://www.baseball-reference.com/leagues/NL/2022-fielding-leaders.shtml)  1.000 (1st)
 
-[Active](https://www.baseball-reference.com/leaders/fielding_perc_p_active.shtml)  .980 (20th)
+[Active](https://www.baseball-reference.com/leaders/fielding_perc_p_active.shtml)  .980 (19th)
 
 ## Hall of Fame Statistics
 
@@ -1198,13 +1206,13 @@ Batters Faced
 | [Black Ink](https://www.baseball-reference.com/about/leader_glossary.shtml#black_ink) |
 | Pitching -<br> **21** (120th),<br> _Average_<br>_HOFer ≈ 40_ |
 | [Gray Ink](https://www.baseball-reference.com/about/leader_glossary.shtml#gray_ink) |
-| Pitching -<br> **66** (495th),<br> _Average_<br>_HOFer ≈ 185_ |
+| Pitching -<br> **69** (468th),<br> _Average_<br>_HOFer ≈ 185_ |
 | [Hall of Fame Monitor](https://www.baseball-reference.com/about/leader_glossary.shtml#hof_monitor) |
 | Pitching -<br> **27** (535th),<br> _Likely_<br>_HOFer ≈ 100_ |
 | [Hall of Fame Standards](https://www.baseball-reference.com/about/leader_glossary.shtml#hof_standard) |
 | Pitching -<br> **16** (528th),<br> _Average_<br>_HOFer ≈ 50_ |
 | [JAWS](https://www.baseball-reference.com/about/jaws.shtml) |
-| [Starting Pitcher **(383rd)**](https://www.baseball-reference.com/leaders/jaws_P.shtml):<br>**23.8** career WAR<br> \| **24.2** 7yr-peak WAR<br> \| **24.0** JAWS<br> \| **24.0** S-JAWS<br> \| **4.0** WAR/162<br>   Average HOF P (out of 67):<br>     73.0 career WAR \| 49.8 7yr-peak WAR \| 61.4 JAWS<br> \| 56.8 S-JAWS<br> \| 4.5 WAR/162 |
+| [Starting Pitcher **(377th)**](https://www.baseball-reference.com/leaders/jaws_P.shtml):<br>**23.9** career WAR<br> \| **24.3** 7yr-peak WAR<br> \| **24.1** JAWS<br> \| **24.1** S-JAWS<br> \| **4.0** WAR/162<br>   Average HOF P (out of 67):<br>     73.0 career WAR \| 49.8 7yr-peak WAR \| 61.4 JAWS<br> \| 56.8 S-JAWS<br> \| 4.5 WAR/162 |
 
 ## Similarity Scores
 
@@ -1315,7 +1323,7 @@ Logan Webb is a Pitcher.
 
 ### How many strikeouts does Logan Webb have?
 
-Logan Webb has 112 strikeouts this season and has 1,106 strikeouts over his career.
+Logan Webb has 118 strikeouts this season and has 1,112 strikeouts over his career.
 
 ### How much is Logan Webb worth?
 

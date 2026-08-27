@@ -1124,6 +1124,16 @@ On
 
 Heat Map
 
+?Member Feature
+
+PreviewBeta
+
+FindFilter
+
+​
+
+0 PlayersEdit
+
 Data Export \[ [Members Only](https://plus.fangraphs.com/product/fangraphs-membership/)\]
 
 | # | Name | Team | W | L | SV | G | GS | IP | \-\- Line Break -- | K/9 | BB/9 | HR/9 | BABIP | LOB% | GB% | HR/FB | \-\- Line Break -- | vFA (pi) | \-\- Line Break -- | ERA | xERA | FIP | xFIP | \-\- Line Break -- | WAR |
@@ -1133,8 +1143,8 @@ Data Export \[ [Members Only](https://plus.fangraphs.com/product/fangraphs-membe
 | 3 | [Ryan Walker](https://www.fangraphs.com/players/ryan-walker/20423/stats?position=P) | [SFG](https://www.fangraphs.com/leaders/major-league?pos=all&stats=pit&lg=all&qual=0&type=8&team=30&season=2024&season1=2024) | 10 | 4 | 10 | 76 | 1 | 80.0 |  | 11.14 | 2.03 | 0.56 | .254 | 82.9% | 46.9% | 8.6% |  | 94.8 |  | 1.91 | 2.61 | 2.52 | 2.80 |  | 1.7 |
 | 4 | [Kyle Harrison](https://www.fangraphs.com/players/kyle-harrison/27758/stats?position=P) | [SFG](https://www.fangraphs.com/leaders/major-league?pos=all&stats=pit&lg=all&qual=0&type=8&team=30&season=2024&season1=2024) | 7 | 7 | 0 | 24 | 24 | 124.1 |  | 8.54 | 3.04 | 1.30 | .308 | 73.3% | 40.9% | 12.3% |  | 92.9 |  | 4.56 | 4.83 | 4.33 | 4.23 |  | 0.8 |
 | 5 | [Tyler Rogers](https://www.fangraphs.com/players/tyler-rogers/15541/stats?position=P) | [SFG](https://www.fangraphs.com/leaders/major-league?pos=all&stats=pit&lg=all&qual=0&type=8&team=30&season=2024&season1=2024) | 3 | 4 | 1 | 77 | 0 | 70.1 |  | 6.53 | 0.77 | 0.90 | .274 | 81.2% | 54.5% | 10.6% |  |  |  | 2.82 | 3.07 | 3.56 | 3.69 |  | 0.6 |
-| 6 | [Landen Roupp](https://www.fangraphs.com/players/landen-roupp/30076/stats?position=P) | [SFG](https://www.fangraphs.com/leaders/major-league?pos=all&stats=pit&lg=all&qual=0&type=8&team=30&season=2024&season1=2024) | 1 | 2 | 0 | 23 | 4 | 50.1 |  | 8.40 | 4.65 | 0.36 | .291 | 72.9% | 47.2% | 4.8% |  | 93.7 |  | 3.58 | 4.01 | 3.42 | 4.17 |  | 0.5 |
-| 7 | [Randy Rodríguez](https://www.fangraphs.com/players/randy-rodriguez/23974/stats?position=P) | [SFG](https://www.fangraphs.com/leaders/major-league?pos=all&stats=pit&lg=all&qual=0&type=8&team=30&season=2024&season1=2024) | 3 | 2 | 0 | 35 | 1 | 52.1 |  | 9.11 | 3.10 | 0.69 | .301 | 62.5% | 41.0% | 6.6% |  | 97.9 |  | 4.30 | 3.27 | 3.34 | 4.11 |  | 0.5 |
+| 6 | [Randy Rodríguez](https://www.fangraphs.com/players/randy-rodriguez/23974/stats?position=P) | [SFG](https://www.fangraphs.com/leaders/major-league?pos=all&stats=pit&lg=all&qual=0&type=8&team=30&season=2024&season1=2024) | 3 | 2 | 0 | 35 | 1 | 52.1 |  | 9.11 | 3.10 | 0.69 | .301 | 62.5% | 41.0% | 6.6% |  | 97.9 |  | 4.30 | 3.27 | 3.34 | 4.11 |  | 0.5 |
+| 7 | [Landen Roupp](https://www.fangraphs.com/players/landen-roupp/30076/stats?position=P) | [SFG](https://www.fangraphs.com/leaders/major-league?pos=all&stats=pit&lg=all&qual=0&type=8&team=30&season=2024&season1=2024) | 1 | 2 | 0 | 23 | 4 | 50.1 |  | 8.40 | 4.65 | 0.36 | .291 | 72.9% | 47.2% | 4.8% |  | 93.7 |  | 3.58 | 4.01 | 3.42 | 4.17 |  | 0.5 |
 | 8 | [Jordan Hicks](https://www.fangraphs.com/players/jordan-hicks/19618/stats?position=P) | [SFG](https://www.fangraphs.com/leaders/major-league?pos=all&stats=pit&lg=all&qual=0&type=8&team=30&season=2024&season1=2024) | 4 | 7 | 1 | 29 | 20 | 109.2 |  | 7.88 | 3.86 | 0.98 | .315 | 75.4% | 50.9% | 11.9% |  | 95.9 |  | 4.10 | 4.73 | 4.37 | 4.34 |  | 0.5 |
 | 9 | [Erik Miller](https://www.fangraphs.com/players/erik-miller/26252/stats?position=P) | [SFG](https://www.fangraphs.com/leaders/major-league?pos=all&stats=pit&lg=all&qual=0&type=8&team=30&season=2024&season1=2024) | 4 | 5 | 0 | 73 | 10 | 67.1 |  | 11.63 | 5.08 | 0.94 | .285 | 70.7% | 50.6% | 13.0% |  | 97.1 |  | 3.88 | 3.15 | 3.67 | 3.53 |  | 0.4 |
 | 10 | [Sean Hjelle](https://www.fangraphs.com/players/sean-hjelle/21481/stats?position=P) | [SFG](https://www.fangraphs.com/leaders/major-league?pos=all&stats=pit&lg=all&qual=0&type=8&team=30&season=2024&season1=2024) | 3 | 4 | 0 | 58 | 0 | 80.2 |  | 8.37 | 1.56 | 1.12 | .318 | 74.2% | 59.0% | 18.9% |  |  |  | 3.90 | 3.58 | 3.63 | 3.01 |  | 0.3 |
@@ -1166,8 +1176,8 @@ Data Export \[ [Members Only](https://plus.fangraphs.com/product/fangraphs-membe
 | 3 | [Ryan Walker](https://www.fangraphs.com/players/ryan-walker/20423/stats?position=P) | [SFG](https://www.fangraphs.com/leaders/major-league?pos=all&stats=pit&lg=all&qual=0&type=8&team=30&season=2024&season1=2024) | 10 | 4 | 10 | 76 | 1 | 80.0 |  | 11.14 | 2.03 | 0.56 | .254 | 82.9% | 46.9% | 8.6% |  | 94.8 |  | 1.91 | 2.61 | 2.52 | 2.80 |  | 1.7 |
 | 4 | [Kyle Harrison](https://www.fangraphs.com/players/kyle-harrison/27758/stats?position=P) | [SFG](https://www.fangraphs.com/leaders/major-league?pos=all&stats=pit&lg=all&qual=0&type=8&team=30&season=2024&season1=2024) | 7 | 7 | 0 | 24 | 24 | 124.1 |  | 8.54 | 3.04 | 1.30 | .308 | 73.3% | 40.9% | 12.3% |  | 92.9 |  | 4.56 | 4.83 | 4.33 | 4.23 |  | 0.8 |
 | 5 | [Tyler Rogers](https://www.fangraphs.com/players/tyler-rogers/15541/stats?position=P) | [SFG](https://www.fangraphs.com/leaders/major-league?pos=all&stats=pit&lg=all&qual=0&type=8&team=30&season=2024&season1=2024) | 3 | 4 | 1 | 77 | 0 | 70.1 |  | 6.53 | 0.77 | 0.90 | .274 | 81.2% | 54.5% | 10.6% |  |  |  | 2.82 | 3.07 | 3.56 | 3.69 |  | 0.6 |
-| 6 | [Landen Roupp](https://www.fangraphs.com/players/landen-roupp/30076/stats?position=P) | [SFG](https://www.fangraphs.com/leaders/major-league?pos=all&stats=pit&lg=all&qual=0&type=8&team=30&season=2024&season1=2024) | 1 | 2 | 0 | 23 | 4 | 50.1 |  | 8.40 | 4.65 | 0.36 | .291 | 72.9% | 47.2% | 4.8% |  | 93.7 |  | 3.58 | 4.01 | 3.42 | 4.17 |  | 0.5 |
-| 7 | [Randy Rodríguez](https://www.fangraphs.com/players/randy-rodriguez/23974/stats?position=P) | [SFG](https://www.fangraphs.com/leaders/major-league?pos=all&stats=pit&lg=all&qual=0&type=8&team=30&season=2024&season1=2024) | 3 | 2 | 0 | 35 | 1 | 52.1 |  | 9.11 | 3.10 | 0.69 | .301 | 62.5% | 41.0% | 6.6% |  | 97.9 |  | 4.30 | 3.27 | 3.34 | 4.11 |  | 0.5 |
+| 6 | [Randy Rodríguez](https://www.fangraphs.com/players/randy-rodriguez/23974/stats?position=P) | [SFG](https://www.fangraphs.com/leaders/major-league?pos=all&stats=pit&lg=all&qual=0&type=8&team=30&season=2024&season1=2024) | 3 | 2 | 0 | 35 | 1 | 52.1 |  | 9.11 | 3.10 | 0.69 | .301 | 62.5% | 41.0% | 6.6% |  | 97.9 |  | 4.30 | 3.27 | 3.34 | 4.11 |  | 0.5 |
+| 7 | [Landen Roupp](https://www.fangraphs.com/players/landen-roupp/30076/stats?position=P) | [SFG](https://www.fangraphs.com/leaders/major-league?pos=all&stats=pit&lg=all&qual=0&type=8&team=30&season=2024&season1=2024) | 1 | 2 | 0 | 23 | 4 | 50.1 |  | 8.40 | 4.65 | 0.36 | .291 | 72.9% | 47.2% | 4.8% |  | 93.7 |  | 3.58 | 4.01 | 3.42 | 4.17 |  | 0.5 |
 | 8 | [Jordan Hicks](https://www.fangraphs.com/players/jordan-hicks/19618/stats?position=P) | [SFG](https://www.fangraphs.com/leaders/major-league?pos=all&stats=pit&lg=all&qual=0&type=8&team=30&season=2024&season1=2024) | 4 | 7 | 1 | 29 | 20 | 109.2 |  | 7.88 | 3.86 | 0.98 | .315 | 75.4% | 50.9% | 11.9% |  | 95.9 |  | 4.10 | 4.73 | 4.37 | 4.34 |  | 0.5 |
 | 9 | [Erik Miller](https://www.fangraphs.com/players/erik-miller/26252/stats?position=P) | [SFG](https://www.fangraphs.com/leaders/major-league?pos=all&stats=pit&lg=all&qual=0&type=8&team=30&season=2024&season1=2024) | 4 | 5 | 0 | 73 | 10 | 67.1 |  | 11.63 | 5.08 | 0.94 | .285 | 70.7% | 50.6% | 13.0% |  | 97.1 |  | 3.88 | 3.15 | 3.67 | 3.53 |  | 0.4 |
 | 10 | [Sean Hjelle](https://www.fangraphs.com/players/sean-hjelle/21481/stats?position=P) | [SFG](https://www.fangraphs.com/leaders/major-league?pos=all&stats=pit&lg=all&qual=0&type=8&team=30&season=2024&season1=2024) | 3 | 4 | 0 | 58 | 0 | 80.2 |  | 8.37 | 1.56 | 1.12 | .318 | 74.2% | 59.0% | 18.9% |  |  |  | 3.90 | 3.58 | 3.63 | 3.01 |  | 0.3 |

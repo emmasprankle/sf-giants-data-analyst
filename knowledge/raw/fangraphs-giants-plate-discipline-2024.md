@@ -1124,6 +1124,16 @@ On
 
 Heat Map
 
+?Member Feature
+
+PreviewBeta
+
+FindFilter
+
+​
+
+0 PlayersEdit
+
 Data Export \[ [Members Only](https://plus.fangraphs.com/product/fangraphs-membership/)\]
 
 | # | Name | Team | O-Swing% | Z-Swing% | Swing% | O-Contact% | Z-Contact% | Contact% | Zone% | F-Strike% | SwStr% | CStr% | CSW% |
