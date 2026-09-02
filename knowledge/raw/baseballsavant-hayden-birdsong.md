@@ -3,159 +3,80 @@ source: https://baseballsavant.mlb.com/savant-player/hayden-birdsong-806185
 slug: baseballsavant-hayden-birdsong
 ---
 
-[Preview Matchup](https://baseballsavant.mlb.com/preview?game_pk=822688&game_date=2026-08-30)
-
-Junk vs. Alvarez
-
-[(compare pitchers)](https://baseballsavant.mlb.com/comparison-tool?player=676083-2026-pitcher&player=674841-2026-pitcher)
+|     |     |     |     |
+| --- | --- | --- | --- |
+| ![](https://www.mlbstatic.com/team-logos/135.svg) | SD | 3 | Final |
+| ![](https://www.mlbstatic.com/team-logos/113.svg) | CIN | 4 |
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/146.svg) | MIA |  | 12:15 PM |
-| ![](https://www.mlbstatic.com/team-logos/120.svg) | WSH |  |
-
-[Preview Matchup](https://baseballsavant.mlb.com/preview?game_pk=824876&game_date=2026-08-30)
-
-Adams vs. Mahle
-
-[(compare pitchers)](https://baseballsavant.mlb.com/comparison-tool?player=690279-2026-pitcher&player=641816-2026-pitcher)
+| ![](https://www.mlbstatic.com/team-logos/137.svg) | SF | 12 | Final |
+| ![](https://www.mlbstatic.com/team-logos/134.svg) | PIT | 13 |
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/115.svg) | COL |  | 1:35 PM |
-| ![](https://www.mlbstatic.com/team-logos/144.svg) | ATL |  |
-
-[Preview Matchup](https://baseballsavant.mlb.com/preview?game_pk=823502&game_date=2026-08-30)
-
-Suarez vs. Warren
-
-[(compare pitchers)](https://baseballsavant.mlb.com/comparison-tool?player=624133-2026-pitcher&player=701542-2026-pitcher)
+| ![](https://www.mlbstatic.com/team-logos/121.svg) | NYM | 2 | Final |
+| ![](https://www.mlbstatic.com/team-logos/139.svg) | TB | 6 |
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/111.svg) | BOS |  | 1:35 PM |
-| ![](https://www.mlbstatic.com/team-logos/147.svg) | NYY |  |
-
-[Preview Matchup](https://baseballsavant.mlb.com/preview?game_pk=822766&game_date=2026-08-30)
-
-Gilbert vs. Scherzer
-
-[(compare pitchers)](https://baseballsavant.mlb.com/comparison-tool?player=669302-2026-pitcher&player=453286-2026-pitcher)
+| ![](https://www.mlbstatic.com/team-logos/141.svg) | TOR | 1 | Final |
+| ![](https://www.mlbstatic.com/team-logos/114.svg) | CLE | 6 |
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/136.svg) | SEA |  | 1:37 PM |
-| ![](https://www.mlbstatic.com/team-logos/141.svg) | TOR |  |
-
-[Preview Matchup](https://baseballsavant.mlb.com/preview?game_pk=824393&game_date=2026-08-30)
-
-Lugo vs. Messick
-
-[(compare pitchers)](https://baseballsavant.mlb.com/comparison-tool?player=607625-2026-pitcher&player=800048-2026-pitcher)
+| ![](https://www.mlbstatic.com/team-logos/136.svg) | SEA | 9 | Final |
+| ![](https://www.mlbstatic.com/team-logos/111.svg) | BOS | 6 |
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/118.svg) | KC |  | 1:40 PM |
-| ![](https://www.mlbstatic.com/team-logos/114.svg) | CLE |  |
-
-[Preview Matchup](https://baseballsavant.mlb.com/preview?game_pk=824232&game_date=2026-08-30)
-
-Glasnow vs. Valdez
-
-[(compare pitchers)](https://baseballsavant.mlb.com/comparison-tool?player=607192-2026-pitcher&player=664285-2026-pitcher)
+| ![](https://www.mlbstatic.com/team-logos/144.svg) | ATL | 5 | Final |
+| ![](https://www.mlbstatic.com/team-logos/120.svg) | WSH | 9 |
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/119.svg) | LAD |  | 1:40 PM |
-| ![](https://www.mlbstatic.com/team-logos/116.svg) | DET |  |
-
-[Preview Matchup](https://baseballsavant.mlb.com/preview?game_pk=822933&game_date=2026-08-30)
-
-Ray vs. Rasmussen
-
-[(compare pitchers)](https://baseballsavant.mlb.com/comparison-tool?player=592662-2026-pitcher&player=656876-2026-pitcher)
+| ![](https://www.mlbstatic.com/team-logos/116.svg) | DET | 2 | Final |
+| ![](https://www.mlbstatic.com/team-logos/142.svg) | MIN | 15 |
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/135.svg) | SD |  | 1:40 PM |
-| ![](https://www.mlbstatic.com/team-logos/139.svg) | TB |  |
-
-[Preview Matchup](https://baseballsavant.mlb.com/preview?game_pk=823662&game_date=2026-08-30)
-
-Hicks vs. Matthews
-
-[(compare pitchers)](https://baseballsavant.mlb.com/comparison-tool?player=663855-2026-pitcher&player=805673-2026-pitcher)
+| ![](https://www.mlbstatic.com/team-logos/146.svg) | MIA | 6 | Final |
+| ![](https://www.mlbstatic.com/team-logos/118.svg) | KC | 3 |
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/145.svg) | CWS |  | 2:10 PM |
-| ![](https://www.mlbstatic.com/team-logos/142.svg) | MIN |  |
-
-[Preview Matchup](https://baseballsavant.mlb.com/preview?game_pk=823740&game_date=2026-08-30)
-
-Rocker vs. May
-
-[(compare pitchers)](https://baseballsavant.mlb.com/comparison-tool?player=677958-2026-pitcher&player=669160-2026-pitcher)
+| ![](https://www.mlbstatic.com/team-logos/158.svg) | MIL | 9 | Final |
+| ![](https://www.mlbstatic.com/team-logos/112.svg) | CHC | 4 |
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/140.svg) | TEX |  | 2:10 PM |
-| ![](https://www.mlbstatic.com/team-logos/158.svg) | MIL |  |
-
-[Preview Matchup](https://baseballsavant.mlb.com/preview?game_pk=823010&game_date=2026-08-30)
-
-Ashcraft vs. Liberatore
-
-[(compare pitchers)](https://baseballsavant.mlb.com/comparison-tool?player=677952-2026-pitcher&player=669461-2026-pitcher)
+| ![](https://www.mlbstatic.com/team-logos/133.svg) | ATH | 5 | Final |
+| ![](https://www.mlbstatic.com/team-logos/140.svg) | TEX | 8 |
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/134.svg) | PIT |  | 2:15 PM |
-| ![](https://www.mlbstatic.com/team-logos/138.svg) | STL |  |
-
-[Preview Matchup](https://baseballsavant.mlb.com/preview?game_pk=823580&game_date=2026-08-30)
-
-Pecko vs. Thornton
-
-[(compare pitchers)](https://baseballsavant.mlb.com/comparison-tool?player=814490-2026-pitcher&player=804267-2026-pitcher)
+| ![](https://www.mlbstatic.com/team-logos/145.svg) | CWS | 5 | Final |
+| ![](https://www.mlbstatic.com/team-logos/117.svg) | HOU | 1 |
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/117.svg) | HOU |  | 3:10 PM |
-| ![](https://www.mlbstatic.com/team-logos/121.svg) | NYM |  |
-
-[Preview Matchup](https://baseballsavant.mlb.com/preview?game_pk=824959&game_date=2026-08-30)
-
-Bassitt vs. Springs
-
-[(compare pitchers)](https://baseballsavant.mlb.com/comparison-tool?player=605135-2026-pitcher&player=605488-2026-pitcher)
+| ![](https://www.mlbstatic.com/team-logos/110.svg) | BAL | 2 | Final |
+| ![](https://www.mlbstatic.com/team-logos/115.svg) | COL | 4 |
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/110.svg) | BAL |  | 4:05 PM |
-| ![](https://www.mlbstatic.com/team-logos/133.svg) | ATH |  |
-
-[Preview Matchup](https://baseballsavant.mlb.com/preview?game_pk=823987&game_date=2026-08-30)
-
-Wheeler vs. Kikuchi
-
-[(compare pitchers)](https://baseballsavant.mlb.com/comparison-tool?player=554430-2026-pitcher&player=579328-2026-pitcher)
+| ![](https://www.mlbstatic.com/team-logos/147.svg) | NYY | 7 | Final |
+| ![](https://www.mlbstatic.com/team-logos/108.svg) | LAA | 3 |
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/143.svg) | PHI |  | 4:07 PM |
-| ![](https://www.mlbstatic.com/team-logos/108.svg) | LAA |  |
-
-[Preview Matchup](https://baseballsavant.mlb.com/preview?game_pk=824636&game_date=2026-08-30)
-
-Burns vs. Imanaga
-
-[(compare pitchers)](https://baseballsavant.mlb.com/comparison-tool?player=695505-2026-pitcher&player=684007-2026-pitcher)
+| ![](https://www.mlbstatic.com/team-logos/143.svg) | PHI | 7 | Final |
+| ![](https://www.mlbstatic.com/team-logos/109.svg) | AZ | 1 |
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/113.svg) | CIN |  | 7:20 PM |
-| ![](https://www.mlbstatic.com/team-logos/112.svg) | CHC |  |
+| ![](https://www.mlbstatic.com/team-logos/138.svg) | STL | 13 | Final |
+| ![](https://www.mlbstatic.com/team-logos/119.svg) | LAD | 8 |
 
 <
 
@@ -163,7 +84,7 @@ Burns vs. Imanaga
 
 ![](https://securea.mlb.com/images/players/action_shots/806185.jpg)![](https://content.mlb.com/images/headshots/current/60x60/806185@3x.png)
 
-[Hayden Birdsong](https://www.mlb.com/player/806185) [🎁](https://baseballsavant.mlb.com/birthday-index)
+[Hayden Birdsong](https://www.mlb.com/player/806185)
 
 P \| San Francisco Giants
 ![](https://www.mlbstatic.com/team-logos/137.svg)
@@ -627,7 +548,7 @@ No Minor League Hitting Statistics.
 | 2024 | 22 | 1388 | 180 | 16 | 8.9 | 5.1 | 92.0 | 112.5 | 13.8 | 32.8 | .228 | .413 | .321 | .335 | .407 | 50.0 | 27.9 | 13.7 | 4.75 | 4.64 |
 | 2025 | 23 | 1194 | 188 | 18 | 9.6 | 6.0 | 89.8 | 113.0 | 20.0 | 36.2 | .227 | .420 | .338 | .333 | .373 | 46.8 | 22.8 | 12.4 | 4.80 | 4.67 |
 | **Player** |  | 2582 | 368 | 34 | 9.2 | 5.5 | 90.9 | 113.0 | 17.0 | 34.5 | .228 | .417 | .329 | .334 | .390 | 48.4 | 25.4 | 13.1 |  |  |
-| **MLB** |  |  |  |  | 7.6 | 4.9 | 88.6 | 122.9 | 12.5 | 33.3 | .243 | .407 | .315 | .316 | .368 | 37.1 | 22.2 | 8.4 |  |  |
+| **MLB** |  |  |  |  | 7.6 | 4.9 | 88.6 | 122.9 | 12.5 | 33.3 | .244 | .407 | .316 | .316 | .368 | 37.1 | 22.2 | 8.4 |  |  |
 
 ! Note: All figures in this table cover the period 2015-present.
 
@@ -913,7 +834,7 @@ These run values are **leveraged**, meaning the base/out situation at the time o
 | --- | --- | --- |
 | Year | Pitching | Fastball | Breaking | Off<br>Speed | xERA | Fastball<br>MPH | Fastball<br>Spin | Curve<br>Spin | Avg<br>EV | Chase% | Whiff% | K% | BB% | Barrel% | Hard-<br>Hit% | GB% | Extension |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2024 | 28 | 30 | 58 | 24 | 20 | 78 | 61 | 91 | 1 | 18 | 82 | 83 | 1 | 25 | 1 | 43 | 53 |
+| 2024 | 28 | 30 | 58 | 24 | 19 | 78 | 61 | 91 | 1 | 18 | 82 | 83 | 1 | 25 | 1 | 43 | 53 |
 | 2025 | 26 | 40 | 18 | 61 | 18 | 69 | 80 | 83 | 36 | 15 | 74 | 51 | 4 | 26 | 7 | 12 | 57 |
 
 [+\\
