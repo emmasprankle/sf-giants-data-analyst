@@ -5,78 +5,83 @@ slug: baseballsavant-blake-snell
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/135.svg) | SD | 3 | Final |
+| ![](https://www.mlbstatic.com/team-logos/116.svg) | DET | 6 | Final |
+| ![](https://www.mlbstatic.com/team-logos/114.svg) | CLE | 7 |
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| ![](https://www.mlbstatic.com/team-logos/116.svg) | DET | 3 | Final |
+| ![](https://www.mlbstatic.com/team-logos/114.svg) | CLE | 4 |
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| ![](https://www.mlbstatic.com/team-logos/158.svg) | MIL | 10 | Final |
 | ![](https://www.mlbstatic.com/team-logos/113.svg) | CIN | 7 |
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/144.svg) | ATL | 9 | Final |
-| ![](https://www.mlbstatic.com/team-logos/120.svg) | WSH | 0 |
+| ![](https://www.mlbstatic.com/team-logos/144.svg) | ATL | 5 | Final |
+| ![](https://www.mlbstatic.com/team-logos/143.svg) | PHI | 2 |
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/133.svg) | ATH | 9 | Final |
-| ![](https://www.mlbstatic.com/team-logos/140.svg) | TEX | 2 |
+| ![](https://www.mlbstatic.com/team-logos/108.svg) | LAA | 0 | Final |
+| ![](https://www.mlbstatic.com/team-logos/134.svg) | PIT | 1 |
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/110.svg) | BAL | 5 | Final |
+| ![](https://www.mlbstatic.com/team-logos/111.svg) | BOS | 1 | Final |
+| ![](https://www.mlbstatic.com/team-logos/110.svg) | BAL | 0 |
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| ![](https://www.mlbstatic.com/team-logos/137.svg) | SF | 6 | Final |
+| ![](https://www.mlbstatic.com/team-logos/121.svg) | NYM | 10 |
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| ![](https://www.mlbstatic.com/team-logos/112.svg) | CHC | 6 | Final |
+| ![](https://www.mlbstatic.com/team-logos/146.svg) | MIA | 1 |
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| ![](https://www.mlbstatic.com/team-logos/142.svg) | MIN | 1 | Final |
+| ![](https://www.mlbstatic.com/team-logos/145.svg) | CWS | 4 |
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| ![](https://www.mlbstatic.com/team-logos/139.svg) | TB | 7 | Final |
+| ![](https://www.mlbstatic.com/team-logos/140.svg) | TEX | 6 |
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| ![](https://www.mlbstatic.com/team-logos/109.svg) | AZ | 1 | Final |
+| ![](https://www.mlbstatic.com/team-logos/117.svg) | HOU | 3 |
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| ![](https://www.mlbstatic.com/team-logos/141.svg) | TOR | 9 | Final |
+| ![](https://www.mlbstatic.com/team-logos/118.svg) | KC | 2 |
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| ![](https://www.mlbstatic.com/team-logos/138.svg) | STL | 7 | Final |
 | ![](https://www.mlbstatic.com/team-logos/115.svg) | COL | 6 |
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/143.svg) | PHI | 0 | Final |
-| ![](https://www.mlbstatic.com/team-logos/109.svg) | AZ | 1 |
+| ![](https://www.mlbstatic.com/team-logos/147.svg) | NYY | 2 | Final |
+| ![](https://www.mlbstatic.com/team-logos/135.svg) | SD | 3 |
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/136.svg) | SEA | 8 | Final |
-| ![](https://www.mlbstatic.com/team-logos/111.svg) | BOS | 3 |
+| ![](https://www.mlbstatic.com/team-logos/120.svg) | WSH | 3 | Final |
+| ![](https://www.mlbstatic.com/team-logos/119.svg) | LAD | 5 |
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/137.svg) | SF | 5 | Final |
-| ![](https://www.mlbstatic.com/team-logos/134.svg) | PIT | 4 |
-
-|     |     |     |     |
-| --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/121.svg) | NYM | 10 | Final |
-| ![](https://www.mlbstatic.com/team-logos/139.svg) | TB | 4 |
-
-|     |     |     |     |
-| --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/141.svg) | TOR | 11 | Final |
-| ![](https://www.mlbstatic.com/team-logos/114.svg) | CLE | 0 |
-
-|     |     |     |     |
-| --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/116.svg) | DET | 11 | Final |
-| ![](https://www.mlbstatic.com/team-logos/142.svg) | MIN | 6 |
-
-|     |     |     |     |
-| --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/146.svg) | MIA | 9 | Final |
-| ![](https://www.mlbstatic.com/team-logos/118.svg) | KC | 6 |
-
-|     |     |     |     |
-| --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/158.svg) | MIL | 9 | Final |
-| ![](https://www.mlbstatic.com/team-logos/112.svg) | CHC | 5 |
-
-|     |     |     |     |
-| --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/145.svg) | CWS | 0 | Final |
-| ![](https://www.mlbstatic.com/team-logos/117.svg) | HOU | 2 |
-
-|     |     |     |     |
-| --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/147.svg) | NYY | 6 | Final |
-| ![](https://www.mlbstatic.com/team-logos/108.svg) | LAA | 3 |
-
-|     |     |     |     |
-| --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/138.svg) | STL | 8 | Final |
-| ![](https://www.mlbstatic.com/team-logos/119.svg) | LAD | 6 |
+| ![](https://www.mlbstatic.com/team-logos/133.svg) | ATH | 7 | Final |
+| ![](https://www.mlbstatic.com/team-logos/136.svg) | SEA | 6 |
 
 <
 
@@ -106,15 +111,15 @@ Shorewood (WA) HS
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2024 | 5 | 3 | 3.12 | 20 | 20 | 0 | 104 | 145 | 1.05 |
 | 2025 | 5 | 4 | 2.35 | 11 | 11 | 0 | 61.1 | 72 | 1.26 |
-| 2026 | 2 | 1 | 2.42 | 5 | 5 | 0 | 26 | 36 | 1.08 |
-| 11 Seasons | 83 | 63 | 3.13 | 227 | 227 | 0 | 1,184 | 1,476 | 1.22 |
+| 2026 | 3 | 1 | 1.97 | 6 | 6 | 0 | 32 | 43 | 1.09 |
+| 11 Seasons | 84 | 63 | 3.12 | 228 | 228 | 0 | 1,190 | 1,483 | 1.22 |
 
 |  | G | W-L | ERA | IP | SO | WHIP |
 | --- | --- | --- | --- | --- | --- | --- |
 | 2024 | 20 | 5-3 | 3.12 | 104 | 145 | 1.05 |
 | 2025 | 11 | 5-4 | 2.35 | 61.1 | 72 | 1.26 |
-| 2026 | 5 | 2-1 | 2.42 | 26 | 36 | 1.08 |
-| 11 Seasons | 227 | 83-63 | 3.13 | 1,184 | 1,476 | 1.22 |
+| 2026 | 6 | 3-1 | 1.97 | 32 | 43 | 1.09 |
+| 11 Seasons | 228 | 84-63 | 3.12 | 1,190 | 1,483 | 1.22 |
 
 Player Apps
 
@@ -175,7 +180,7 @@ vs. LHH50%17%2%31%Pitchvs. RHH49%23%26%2%49%FF21%CU18%CH12%SL
 MLB Percentile Rankings
 [![](https://baseballsavant.mlb.com/site-core/images/comp_tool_icons27.png)](https://baseballsavant.mlb.com/comparison-tool?player=605483-2026-pitcher&openSearch=true "Compare to Other Players")
 
-![](https://baseballsavant.mlb.com/sections/evp/images/play.png)ValuesavantPOORAVERAGEGREATPitching Run Value8NOT QUALIFIEDFastball Run Value5NOT QUALIFIEDBreaking Run Value2NOT QUALIFIEDOffspeed Run Value0NOT QUALIFIEDPitchingxERA2.10NOT QUALIFIEDxBA.166NOT QUALIFIEDFastball Velo96.0NOT QUALIFIED75Avg Exit Velo81.1NOT QUALIFIEDChase %41.4NOT QUALIFIEDWhiff %37.1NOT QUALIFIEDK %33.0NOT QUALIFIEDBB %11.0NOT QUALIFIEDBarrel %1.7NOT QUALIFIEDHard-Hit %10.0NOT QUALIFIEDGB %45.0NOT QUALIFIEDExtension6.8NOT QUALIFIED79
+![](https://baseballsavant.mlb.com/sections/evp/images/play.png)ValuesavantPOORAVERAGEGREATPitching Run Value8NOT QUALIFIEDFastball Run Value5NOT QUALIFIEDBreaking Run Value2NOT QUALIFIEDOffspeed Run Value0NOT QUALIFIEDPitchingxERA2.10NOT QUALIFIEDxBA.166NOT QUALIFIEDFastball Velo96.0NOT QUALIFIED75Avg Exit Velo81.1NOT QUALIFIEDChase %41.4NOT QUALIFIEDWhiff %37.1NOT QUALIFIEDK %33.0NOT QUALIFIEDBB %11.0NOT QUALIFIEDBarrel %1.7NOT QUALIFIEDHard-Hit %10.0NOT QUALIFIEDGB %45.0NOT QUALIFIEDExtension6.8NOT QUALIFIED78
 
 20262026
 
@@ -312,8 +317,8 @@ Click for Chart.
 |  | 2023 | ![](https://www.mlbstatic.com/team-logos/135.svg)SD | NL | 742 | 14 | 9 | 2.25 | 32 | 32 | 0 | 180.0 | 115 | 47 | 45 | 15 | 99 | 234 | 1.19 |
 |  | 2024 | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | NL | 418 | 5 | 3 | 3.12 | 20 | 20 | 0 | 104.0 | 65 | 38 | 36 | 6 | 44 | 145 | 1.05 |
 |  | 2025 | ![](https://www.mlbstatic.com/team-logos/119.svg)LAD | NL | 254 | 5 | 4 | 2.35 | 11 | 11 | 0 | 61.1 | 51 | 21 | 16 | 3 | 26 | 72 | 1.26 |
-|  | 2026 | ![](https://www.mlbstatic.com/team-logos/119.svg)LAD | NL | 109 | 2 | 1 | 2.42 | 5 | 5 | 0 | 26.0 | 16 | 8 | 7 | 0 | 12 | 36 | 1.08 |
-|  | 11 Seasons | ![](https://www.mlbstatic.com/team-logos/.svg)4 Teams |  | 4900 | 83 | 63 | 3.13 | 227 | 227 | 0 | 1184.0 | 907 | 448 | 412 | 111 | 533 | 1476 | 1.22 |
+|  | 2026 | ![](https://www.mlbstatic.com/team-logos/119.svg)LAD | NL | 132 | 3 | 1 | 1.97 | 6 | 6 | 0 | 32.0 | 21 | 8 | 7 | 0 | 14 | 43 | 1.09 |
+|  | 11 Seasons | ![](https://www.mlbstatic.com/team-logos/.svg)4 Teams |  | 4923 | 84 | 63 | 3.12 | 228 | 228 | 0 | 1190.0 | 912 | 448 | 412 | 111 | 535 | 1483 | 1.22 |
 
 \*: All Star Season,
 Rankings AL/NL: Top 5101520,
@@ -334,8 +339,8 @@ Click for Chart.
 | 2023 | ![](https://www.mlbstatic.com/team-logos/135.svg)SD | NL | P | 32 | 32 | 180.0 | 18 | 4 | 13 | 1 | 0 |  | .944 |
 | 2024 | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | NL | P | 20 | 20 | 104.0 | 14 | 5 | 8 | 1 | 0 |  | .929 |
 | 2025 | ![](https://www.mlbstatic.com/team-logos/119.svg)LAD | NL | P | 11 | 11 | 61.1 | 6 | 1 | 5 | 0 | 0 |  | 1.000 |
-| 2026 | ![](https://www.mlbstatic.com/team-logos/119.svg)LAD | NL | P | 5 | 5 | 26.0 | 2 | 1 | 1 | 0 | 0 |  | 1.000 |
-| 11 Seasons | ![](https://www.mlbstatic.com/team-logos/.svg)4 Teams |  | P | 227 | 227 | 1184.0 | 149 | 29 | 116 | 4 | 5 |  | .973 |
+| 2026 | ![](https://www.mlbstatic.com/team-logos/119.svg)LAD | NL | P | 6 | 6 | 32.0 | 3 | 1 | 2 | 0 | 0 |  | 1.000 |
+| 11 Seasons | ![](https://www.mlbstatic.com/team-logos/.svg)4 Teams |  | P | 228 | 228 | 1190.0 | 150 | 29 | 117 | 4 | 5 |  | .973 |
 
 ## [Spray Chart](https://baseballsavant.mlb.com/savant-player/blake-snell-605483?stats=statcast-r-pitching-mlb\#spray-chart)
 
@@ -749,8 +754,8 @@ No Minor League Hitting Statistics.
 
 | Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP | AVG | OBP | SLG | OPS |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Los Angeles Dodgers | MLB | vs Left |  |  |  | 5 |  |  | 7.0 | 35 | 6 |  |  | 0 | 7 | 11 | 1.86 | .222 | .382 | .259 | .641 |
-| Los Angeles Dodgers | MLB | vs Right |  |  |  | 5 |  |  | 19.0 | 74 | 10 |  |  | 0 | 5 | 25 | 0.79 | .149 | .216 | .179 | .395 |
+| Los Angeles Dodgers | MLB | vs Left |  |  |  | 6 |  |  | 9.0 | 41 | 7 |  |  | 0 | 7 | 14 | 1.56 | .212 | .350 | .273 | .623 |
+| Los Angeles Dodgers | MLB | vs Right |  |  |  | 6 |  |  | 22.2 | 91 | 14 |  |  | 0 | 7 | 29 | 0.93 | .171 | .242 | .207 | .449 |
 
 ### [Monthly Splits](https://baseballsavant.mlb.com/savant-player/blake-snell-605483?stats=statcast-r-pitching-mlb\#monthly-splits)
 
@@ -758,51 +763,52 @@ No Minor League Hitting Statistics.
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Los Angeles Dodgers | MLB | May | 0 | 1 | 12.00 | 1 | 1 | 0 | 3.0 | 18 | 6 | 5 | 4 | 0 | 2 | 5 | 2.67 | .375 | .444 | .375 | .819 |
 | Los Angeles Dodgers | MLB | August | 2 | 0 | 1.17 | 4 | 4 | 0 | 23.0 | 91 | 10 | 3 | 3 | 0 | 10 | 31 | 0.87 | .128 | .233 | .167 | .400 |
+| Los Angeles Dodgers | MLB | September | 1 | 0 | 0.00 | 1 | 1 | 0 | 6.0 | 23 | 5 | 0 | 0 | 0 | 2 | 7 | 1.17 | .238 | .304 | .333 | .637 |
 | Los Angeles Dodgers | MLB | Pre All-Star | 0 | 1 | 12.00 | 1 | 1 | 0 | 3.0 | 18 | 6 | 5 | 4 | 0 | 2 | 5 | 2.67 | .375 | .444 | .375 | .819 |
-| Los Angeles Dodgers | MLB | Post All-Star | 2 | 0 | 1.17 | 4 | 4 | 0 | 23.0 | 91 | 10 | 3 | 3 | 0 | 10 | 31 | 0.87 | .128 | .233 | .167 | .400 |
+| Los Angeles Dodgers | MLB | Post All-Star | 3 | 0 | 0.93 | 5 | 5 | 0 | 29.0 | 114 | 15 | 3 | 3 | 0 | 12 | 38 | 0.93 | .152 | .248 | .202 | .450 |
 
 ### [Baserunner Splits](https://baseballsavant.mlb.com/savant-player/blake-snell-605483?stats=statcast-r-pitching-mlb\#baserunner-splits)
 
 | Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP | AVG | OBP | SLG | OPS |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Los Angeles Dodgers | MLB | Bases Empty |  |  |  | 5 |  |  | 15.0 | 60 | 8 |  |  | 0 | 5 | 20 | 0.87 | .148 | .233 | .185 | .418 |
+| Los Angeles Dodgers | MLB | Bases Empty |  |  |  | 6 |  |  | 17.0 | 71 | 12 |  |  | 0 | 6 | 23 | 1.06 | .188 | .268 | .250 | .518 |
 | Los Angeles Dodgers | MLB | Bases Loaded |  |  |  | 3 |  |  | 1.2 | 6 | 1 |  |  | 0 | 0 | 3 | 0.60 | .167 | .167 | .167 | .334 |
-| Los Angeles Dodgers | MLB | Runner at 1st |  |  |  | 5 |  |  | 3.0 | 15 | 3 |  |  | 0 | 2 | 2 | 1.67 | .250 | .357 | .250 | .607 |
-| Los Angeles Dodgers | MLB | Runners at 1st & 2nd |  |  |  | 4 |  |  | 1.1 | 8 | 2 |  |  | 0 | 2 | 2 | 3.00 | .333 | .500 | .500 | 1.000 |
-| Los Angeles Dodgers | MLB | Runners at 1st & 3rd |  |  |  | 4 |  |  | 1.0 | 3 | 0 |  |  | 0 | 0 | 2 | 0.00 | .000 | .000 | .000 | .000 |
-| Los Angeles Dodgers | MLB | Runner at 2nd |  |  |  | 4 |  |  | 1.2 | 8 | 1 |  |  | 0 | 2 | 3 | 1.80 | .167 | .375 | .167 | .542 |
+| Los Angeles Dodgers | MLB | Runner at 1st |  |  |  | 6 |  |  | 4.2 | 19 | 3 |  |  | 0 | 2 | 4 | 1.07 | .188 | .278 | .188 | .466 |
+| Los Angeles Dodgers | MLB | Runners at 1st & 2nd |  |  |  | 5 |  |  | 1.2 | 9 | 2 |  |  | 0 | 2 | 2 | 2.40 | .286 | .444 | .429 | .873 |
+| Los Angeles Dodgers | MLB | Runners at 1st & 3rd |  |  |  | 5 |  |  | 2.0 | 6 | 0 |  |  | 0 | 0 | 3 | 0.00 | .000 | .000 | .000 | .000 |
+| Los Angeles Dodgers | MLB | Runner at 2nd |  |  |  | 5 |  |  | 2.2 | 12 | 2 |  |  | 0 | 3 | 4 | 1.88 | .222 | .417 | .222 | .639 |
 | Los Angeles Dodgers | MLB | Runners at 2nd & 3rd |  |  |  | 4 |  |  | 1.1 | 6 | 1 |  |  | 0 | 1 | 2 | 1.50 | .200 | .333 | .200 | .533 |
 | Los Angeles Dodgers | MLB | Runner at 3rd |  |  |  | 1 |  |  | 1.0 | 3 | 0 |  |  | 0 | 0 | 2 | 0.00 | .000 | .000 | .000 | .000 |
-| Los Angeles Dodgers | MLB | Scoring Position |  |  |  | 5 |  |  | 8.0 | 34 | 5 |  |  | 0 | 5 | 14 | 1.25 | .179 | .294 | .214 | .508 |
+| Los Angeles Dodgers | MLB | Scoring Position |  |  |  | 6 |  |  | 10.1 | 42 | 6 |  |  | 0 | 6 | 16 | 1.16 | .171 | .286 | .200 | .486 |
 
 ### [Game Type Splits](https://baseballsavant.mlb.com/savant-player/blake-snell-605483?stats=statcast-r-pitching-mlb\#game-type-splits)
 
 | Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP | AVG | OBP | SLG | OPS |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Los Angeles Dodgers | MLB | Home Games | 1 | 1 | 3.00 | 3 | 3 | 0 | 15.0 | 64 | 11 | 6 | 5 | 0 | 6 | 21 | 1.13 | .196 | .281 | .214 | .495 |
+| Los Angeles Dodgers | MLB | Home Games | 2 | 1 | 2.14 | 4 | 4 | 0 | 21.0 | 87 | 16 | 6 | 5 | 0 | 8 | 28 | 1.14 | .208 | .287 | .247 | .534 |
 | Los Angeles Dodgers | MLB | Away Games | 1 | 0 | 1.64 | 2 | 2 | 0 | 11.0 | 45 | 5 | 2 | 2 | 0 | 6 | 15 | 1.00 | .132 | .250 | .184 | .434 |
 | Los Angeles Dodgers | MLB | Day Games | 1 | 0 | 0.82 | 2 | 2 | 0 | 11.0 | 46 | 5 | 1 | 1 | 0 | 6 | 16 | 1.00 | .132 | .267 | .184 | .451 |
-| Los Angeles Dodgers | MLB | Night Games | 1 | 1 | 3.60 | 3 | 3 | 0 | 15.0 | 63 | 11 | 7 | 6 | 0 | 6 | 20 | 1.13 | .196 | .270 | .214 | .484 |
-| Los Angeles Dodgers | MLB | Leading Off Inning |  |  |  | 5 |  |  | 6.1 | 26 | 4 |  |  | 0 | 2 | 6 | 0.95 | .174 | .269 | .261 | .530 |
+| Los Angeles Dodgers | MLB | Night Games | 2 | 1 | 2.57 | 4 | 4 | 0 | 21.0 | 86 | 16 | 7 | 6 | 0 | 8 | 27 | 1.14 | .208 | .279 | .247 | .526 |
+| Los Angeles Dodgers | MLB | Leading Off Inning |  |  |  | 6 |  |  | 7.1 | 32 | 6 |  |  | 0 | 3 | 7 | 1.23 | .214 | .313 | .321 | .634 |
 
 ### [Outs Splits](https://baseballsavant.mlb.com/savant-player/blake-snell-605483?stats=statcast-r-pitching-mlb\#out-splits)
 
 | Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP | AVG | OBP | SLG | OPS |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Los Angeles Dodgers | MLB | No Outs |  |  |  | 5 |  |  | 8.2 | 39 | 6 |  |  | 0 | 5 | 10 | 1.27 | .188 | .316 | .281 | .597 |
-| Los Angeles Dodgers | MLB | One Out |  |  |  | 5 |  |  | 8.2 | 34 | 7 |  |  | 0 | 1 | 12 | 0.92 | .219 | .235 | .219 | .454 |
-| Los Angeles Dodgers | MLB | Two Outs |  |  |  | 5 |  |  | 8.2 | 36 | 3 |  |  | 0 | 6 | 14 | 1.04 | .100 | .250 | .100 | .350 |
+| Los Angeles Dodgers | MLB | No Outs |  |  |  | 6 |  |  | 10.2 | 49 | 9 |  |  | 0 | 6 | 12 | 1.41 | .220 | .333 | .317 | .650 |
+| Los Angeles Dodgers | MLB | One Out |  |  |  | 6 |  |  | 11.0 | 41 | 9 |  |  | 0 | 1 | 14 | 0.91 | .231 | .244 | .256 | .500 |
+| Los Angeles Dodgers | MLB | Two Outs |  |  |  | 6 |  |  | 10.1 | 42 | 3 |  |  | 0 | 7 | 17 | 0.97 | .086 | .238 | .086 | .324 |
 
 ### [Inning Splits](https://baseballsavant.mlb.com/savant-player/blake-snell-605483?stats=statcast-r-pitching-mlb\#inning-splits)
 
 | Team | L | Type | W | L | ERA | G | GS | SV | IP | BF | H | R | ER | HR | BB | SO | WHIP | AVG | OBP | SLG | OPS |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Los Angeles Dodgers | MLB | First Inning |  |  | 1.80 | 5 |  |  | 5.0 | 20 | 3 | 1 | 1 | 0 | 1 | 10 | 0.80 | .167 | .250 | .167 | .417 |
-| Los Angeles Dodgers | MLB | Second Inning |  |  | 5.40 | 5 |  |  | 5.0 | 22 | 6 | 4 | 3 | 0 | 1 | 5 | 1.40 | .286 | .318 | .286 | .604 |
-| Los Angeles Dodgers | MLB | Third Inning |  |  | 3.60 | 5 |  |  | 5.0 | 24 | 1 | 2 | 2 | 0 | 6 | 8 | 1.40 | .059 | .304 | .118 | .422 |
-| Los Angeles Dodgers | MLB | Fourth Inning |  |  | 2.25 | 4 |  |  | 4.0 | 18 | 4 | 1 | 1 | 0 | 2 | 6 | 1.50 | .267 | .333 | .267 | .600 |
-| Los Angeles Dodgers | MLB | Fifth Inning |  |  | 0.00 | 4 |  |  | 4.0 | 16 | 2 | 0 | 0 | 0 | 2 | 5 | 1.00 | .143 | .250 | .286 | .536 |
-| Los Angeles Dodgers | MLB | Sixth Inning |  |  | 0.00 | 3 |  |  | 3.0 | 9 | 0 | 0 | 0 | 0 | 0 | 2 | 0.00 | .000 | .000 | .000 | .000 |
+| Los Angeles Dodgers | MLB | First Inning |  |  | 1.50 | 6 |  |  | 6.0 | 23 | 3 | 1 | 1 | 0 | 1 | 12 | 0.67 | .143 | .217 | .143 | .360 |
+| Los Angeles Dodgers | MLB | Second Inning |  |  | 4.50 | 6 |  |  | 6.0 | 26 | 7 | 4 | 3 | 0 | 1 | 7 | 1.33 | .280 | .308 | .280 | .588 |
+| Los Angeles Dodgers | MLB | Third Inning |  |  | 3.00 | 6 |  |  | 6.0 | 27 | 1 | 2 | 2 | 0 | 7 | 9 | 1.33 | .053 | .308 | .105 | .413 |
+| Los Angeles Dodgers | MLB | Fourth Inning |  |  | 1.80 | 5 |  |  | 5.0 | 21 | 5 | 1 | 1 | 0 | 2 | 7 | 1.40 | .278 | .333 | .278 | .611 |
+| Los Angeles Dodgers | MLB | Fifth Inning |  |  | 0.00 | 5 |  |  | 5.0 | 21 | 3 | 0 | 0 | 0 | 3 | 5 | 1.20 | .167 | .286 | .333 | .619 |
+| Los Angeles Dodgers | MLB | Sixth Inning |  |  | 0.00 | 4 |  |  | 4.0 | 14 | 2 | 0 | 0 | 0 | 0 | 3 | 0.50 | .143 | .143 | .214 | .357 |
 
 ### [Platoon Splits](https://baseballsavant.mlb.com/savant-player/blake-snell-605483?stats=statcast-r-pitching-mlb\#milb-platoon-splits)
 
@@ -870,6 +876,8 @@ No Minor League Hitting Statistics.
 | [2026-08-23](https://baseballsavant.mlb.com/gamefeed?gamePk=823909&game_date=2026-08-23) | ![](https://www.mlbstatic.com/team-logos/119.svg)Los Angeles Dodgers | ![](https://www.mlbstatic.com/team-logos/134.svg)Pittsburgh Pirates | 1 | 0 | 2.57 | 1 | 1 | 0 | 6.0 | 2 | 0 | 0 | 0 | 3 | 6 | 1.05 | [![](https://baseballsavant.mlb.com/sections/gamefeed/images/pitch-report-icon.png)](https://baseballsavant.mlb.com/player-scroll/game?gamePk=823909&player_id=605483) |
 | [2026-08-29](https://baseballsavant.mlb.com/gamefeed?gamePk=824230&game_date=2026-08-29) | ![](https://www.mlbstatic.com/team-logos/116.svg)Detroit Tigers | ![](https://www.mlbstatic.com/team-logos/119.svg)Los Angeles Dodgers | 0 | 0 | 2.42 | 1 | 1 | 0 | 5.0 | 3 | 1 | 1 | 0 | 3 | 10 | 1.08 | [![](https://baseballsavant.mlb.com/sections/gamefeed/images/pitch-report-icon.png)](https://baseballsavant.mlb.com/player-scroll/game?gamePk=824230&player_id=605483) |
 | August | ![](https://www.mlbstatic.com/team-logos/119.svg)Los Angeles Dodgers | ![](https://www.mlbstatic.com/team-logos/.svg) | 2 | 0 | 1.17 | 4 | 4 | 0 | 23.0 | 10 | 3 | 3 | 0 | 10 | 31 | 0.87 |  |
+| [2026-09-04](https://baseballsavant.mlb.com/gamefeed?gamePk=823905&game_date=2026-09-04) | ![](https://www.mlbstatic.com/team-logos/119.svg)Los Angeles Dodgers | ![](https://www.mlbstatic.com/team-logos/120.svg)Washington Nationals | 1 | 0 | 1.97 | 1 | 1 | 0 | 6.0 | 5 | 0 | 0 | 0 | 2 | 7 | 1.09 | [![](https://baseballsavant.mlb.com/sections/gamefeed/images/pitch-report-icon.png)](https://baseballsavant.mlb.com/player-scroll/game?gamePk=823905&player_id=605483) |
+| September | ![](https://www.mlbstatic.com/team-logos/119.svg)Los Angeles Dodgers | ![](https://www.mlbstatic.com/team-logos/.svg) | 1 | 0 | 0.00 | 1 | 1 | 0 | 6.0 | 5 | 0 | 0 | 0 | 2 | 7 | 1.17 |  |
 
 | Date | Home Tm | Away Tm | W | L | ERA | G | GS | SV | IP | H | R | ER | HR | BB | SO | WHIP |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -1108,7 +1116,7 @@ All Similar Pitchers](https://baseballsavant.mlb.com/affinity-pitchersAndHitters
 
 ## [Pitch Movement](https://baseballsavant.mlb.com/savant-player/blake-snell-605483?stats=statcast-r-pitching-mlb\#pitch_movement)
 
-Created with Highcharts 6.2.0Chart context menuBlake Snell Vertical Movement vs Avg (Inches) by SeasonSource: baseballsavant.mlb.comChangeupSliderCurveballFour SeamerSinker20162017201820192020202120222023202420252026-10-7.5-5-2.502.557.5
+Created with Highcharts 6.2.0Chart context menuBlake Snell Vertical Movement vs Avg (Inches) by SeasonSource: baseballsavant.mlb.comFour SeamerSliderChangeupCurveballSinker20162017201820192020202120222023202420252026-10-7.5-5-2.502.557.5
 
 - Vertical Movement vs Avg (Inches)Horizontal Movement vs Avg (Inches)Horizontal Movement (Inches)Vertical Movement (Inches)Induced Vertical Movement (Inches)Horizontal Movement % Break vs AvgVertical Movement % Break vs Avg▾
 
@@ -1124,52 +1132,52 @@ On the right, Induced Movement (or IVB) is reported without gravity, and attempt
 | --- | --- | --- |
 | Year | Pitch | Team | Hand | # | MPH | Vertical<br>Drop | vs.<br>Comparable | Horizontal<br>Break | vs.<br>Comparable | Vertical<br>Break | vs. Avg | Horizontal<br>Break | vs. Avg |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2026 | Changeup | ![](https://www.mlbstatic.com/team-logos/119.svg)LAD | L | 79 | 84.6 | 30.3 | -1.1 | 12.7ARM | -1.1 | 7.8 | -3.0 | 12.7ARM | -1.2 |
+| 2026 | 4-Seam Fastball | ![](https://www.mlbstatic.com/team-logos/119.svg)LAD | L | 219 | 96.0 | 11.4 | 1.2 | 5.4ARM | -0.4 | 18.2 | 2.7 | 5.4ARM | -2.5 |
 | 2026 | Slider | ![](https://www.mlbstatic.com/team-logos/119.svg)LAD | L | 53 | 88.7 | 27.9 | -4.9 | 3.5GLV | -0.3 | 6.5 | -5.0 | 3.5GLV | -1.0 |
-| 2026 | Curveball | ![](https://www.mlbstatic.com/team-logos/119.svg)LAD | L | 93 | 80.1 | 51.2 | -3.0 | 12.6GLV | 5.2 | -8.5 | -1.6 | 12.6GLV | 4.5 |
-| 2026 | 4-Seam Fastball | ![](https://www.mlbstatic.com/team-logos/119.svg)LAD | L | 219 | 96.0 | 11.4 | 1.2 | 5.4ARM | -0.4 | 18.2 | 2.7 | 5.4ARM | -2.6 |
-| 2025 | Curveball | ![](https://www.mlbstatic.com/team-logos/119.svg)LAD | L | 223 | 80.6 | 49.0 | -4.8 | 12.4GLV | 5.7 | -6.7 | -3.0 | 12.4GLV | 4.6 |
-| 2025 | Slider | ![](https://www.mlbstatic.com/team-logos/119.svg)LAD | L | 114 | 88.2 | 26.5 | -5.9 | 2.8GLV | -0.8 | 8.5 | -6.4 | 2.8GLV | -1.2 |
-| 2025 | Changeup | ![](https://www.mlbstatic.com/team-logos/119.svg)LAD | L | 243 | 85.5 | 27.5 | -3.6 | 13.0ARM | -1.0 | 9.9 | -4.7 | 13.0ARM | -1.2 |
+| 2026 | Changeup | ![](https://www.mlbstatic.com/team-logos/119.svg)LAD | L | 79 | 84.6 | 30.3 | -1.1 | 12.7ARM | -1.1 | 7.8 | -3.0 | 12.7ARM | -1.2 |
+| 2026 | Curveball | ![](https://www.mlbstatic.com/team-logos/119.svg)LAD | L | 93 | 80.1 | 51.2 | -2.9 | 12.6GLV | 5.1 | -8.5 | -1.6 | 12.6GLV | 4.5 |
 | 2025 | 4-Seam Fastball | ![](https://www.mlbstatic.com/team-logos/119.svg)LAD | L | 448 | 95.1 | 12.4 | 0.7 | 4.5ARM | -1.4 | 17.8 | 1.9 | 4.5ARM | -3.6 |
-| 2024 | Changeup | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | L | 311 | 85.5 | 27.2 | -3.6 | 13.7ARM | -0.7 | 10.3 | -4.4 | 13.7ARM | -0.4 |
-| 2024 | 4-Seam Fastball | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | L | 821 | 95.9 | 11.1 | 1.7 | 5.8ARM | -0.5 | 18.7 | 3.0 | 5.8ARM | -2.3 |
-| 2024 | Curveball | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | L | 462 | 81.1 | 50.6 | -1.6 | 12.2GLV | 5.4 | -8.7 | 0.0 | 12.2GLV | 5.3 |
+| 2025 | Curveball | ![](https://www.mlbstatic.com/team-logos/119.svg)LAD | L | 223 | 80.6 | 49.0 | -4.8 | 12.4GLV | 5.7 | -6.7 | -3.0 | 12.4GLV | 4.6 |
+| 2025 | Changeup | ![](https://www.mlbstatic.com/team-logos/119.svg)LAD | L | 243 | 85.5 | 27.5 | -3.6 | 13.0ARM | -1.0 | 9.9 | -4.7 | 13.0ARM | -1.2 |
+| 2025 | Slider | ![](https://www.mlbstatic.com/team-logos/119.svg)LAD | L | 114 | 88.2 | 26.5 | -5.9 | 2.8GLV | -0.8 | 8.5 | -6.4 | 2.8GLV | -1.2 |
 | 2024 | Slider | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | L | 178 | 88.7 | 27.8 | -4.7 | 2.2GLV | -1.4 | 6.9 | -5.4 | 2.2GLV | -2.3 |
+| 2024 | Curveball | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | L | 462 | 81.1 | 50.6 | -1.6 | 12.2GLV | 5.4 | -8.7 | 0.0 | 12.2GLV | 5.3 |
+| 2024 | Changeup | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | L | 311 | 85.5 | 27.2 | -3.6 | 13.7ARM | -0.7 | 10.3 | -4.4 | 13.7ARM | -0.4 |
 | 2024 | Sinker | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | L | 1 | 97.3 | 10.0 | -8.1 | 7.9ARM | -6.1 | 18.7 | -10.5 | 7.9ARM | -7.2 |
-| 2023 | Curveball | ![](https://www.mlbstatic.com/team-logos/135.svg)SD | L | 627 | 81.0 | 52.6 | -0.2 | 12.6GLV | 5.7 | -10.4 | 1.5 | 12.6GLV | 5.1 |
+| 2024 | 4-Seam Fastball | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | L | 821 | 95.9 | 11.1 | 1.7 | 5.8ARM | -0.5 | 18.7 | 3.0 | 5.8ARM | -2.3 |
 | 2023 | 4-Seam Fastball | ![](https://www.mlbstatic.com/team-logos/135.svg)SD | L | 1539 | 95.5 | 11.4 | 1.6 | 4.6ARM | -1.1 | 18.8 | 3.3 | 4.6ARM | -3.0 |
-| 2023 | Sinker | ![](https://www.mlbstatic.com/team-logos/135.svg)SD | L | 2 | 95.9 | 10.8 | -7.2 | 6.6ARM | -7.4 | 19.1 | -10.6 | 6.6ARM | -8.5 |
 | 2023 | Changeup | ![](https://www.mlbstatic.com/team-logos/135.svg)SD | L | 584 | 86.7 | 25.5 | -3.1 | 12.8ARM | -1.3 | 11.0 | -4.7 | 12.8ARM | -1.3 |
+| 2023 | Curveball | ![](https://www.mlbstatic.com/team-logos/135.svg)SD | L | 627 | 81.0 | 52.6 | -0.2 | 12.6GLV | 5.7 | -10.4 | 1.5 | 12.6GLV | 5.1 |
+| 2023 | Sinker | ![](https://www.mlbstatic.com/team-logos/135.svg)SD | L | 2 | 95.9 | 10.8 | -7.2 | 6.6ARM | -7.4 | 19.1 | -10.6 | 6.6ARM | -8.5 |
 | 2023 | Slider | ![](https://www.mlbstatic.com/team-logos/135.svg)SD | L | 416 | 88.4 | 28.0 | -5.0 | 3.0GLV | -0.6 | 7.1 | -5.2 | 3.0GLV | -1.8 |
-| 2022 | Curveball | ![](https://www.mlbstatic.com/team-logos/135.svg)SD | L | 354 | 81.4 | 51.0 | -0.4 | 12.2GLV | 5.5 | -9.4 | 0.1 | 12.2GLV | 4.1 |
 | 2022 | Slider | ![](https://www.mlbstatic.com/team-logos/135.svg)SD | L | 569 | 88.9 | 29.9 | -0.9 | 4.1GLV | 0.0 | 4.7 | -2.8 | 4.1GLV | -0.6 |
+| 2022 | Curveball | ![](https://www.mlbstatic.com/team-logos/135.svg)SD | L | 354 | 81.4 | 51.0 | -0.4 | 12.2GLV | 5.5 | -9.4 | 0.1 | 12.2GLV | 4.1 |
 | 2022 | Changeup | ![](https://www.mlbstatic.com/team-logos/135.svg)SD | L | 118 | 87.1 | 26.1 | -1.1 | 13.7ARM | 0.0 | 10.1 | -3.3 | 13.7ARM | -0.6 |
 | 2022 | 4-Seam Fastball | ![](https://www.mlbstatic.com/team-logos/135.svg)SD | L | 1300 | 95.8 | 11.2 | 1.5 | 5.2ARM | -0.6 | 18.8 | 2.7 | 5.2ARM | -2.3 |
-| 2021 | 4-Seam Fastball | ![](https://www.mlbstatic.com/team-logos/135.svg)SD | L | 1231 | 95.1 | 11.5 | 1.4 | 5.7ARM | -0.4 | 18.8 | 2.7 | 5.7ARM | -1.9 |
 | 2021 | Slider | ![](https://www.mlbstatic.com/team-logos/135.svg)SD | L | 567 | 86.6 | 35.4 | 0.9 | 4.3GLV | 0.3 | 1.1 | 0.5 | 4.3GLV | -0.5 |
 | 2021 | Curveball | ![](https://www.mlbstatic.com/team-logos/135.svg)SD | L | 316 | 79.6 | 55.7 | 1.3 | 11.0GLV | 4.4 | -11.9 | 2.9 | 11.0GLV | 3.3 |
+| 2021 | 4-Seam Fastball | ![](https://www.mlbstatic.com/team-logos/135.svg)SD | L | 1231 | 95.1 | 11.5 | 1.4 | 5.7ARM | -0.4 | 18.8 | 2.7 | 5.7ARM | -1.9 |
 | 2021 | Changeup | ![](https://www.mlbstatic.com/team-logos/135.svg)SD | L | 233 | 88.3 | 24.3 | -1.4 | 12.3ARM | -0.6 | 10.9 | -3.1 | 12.3ARM | -1.6 |
-| 2020 | Changeup | ![](https://www.mlbstatic.com/team-logos/139.svg)TB | L | 170 | 87.9 | 24.0 | -1.9 | 12.8ARM | 0.5 | 11.5 | -3.7 | 12.8ARM | -0.8 |
 | 2020 | Slider | ![](https://www.mlbstatic.com/team-logos/139.svg)TB | L | 132 | 87.4 | 32.5 | -2.0 | 3.8GLV | 0.3 | 3.3 | -2.1 | 3.8GLV | -1.4 |
-| 2020 | 4-Seam Fastball | ![](https://www.mlbstatic.com/team-logos/139.svg)TB | L | 444 | 95.0 | 11.9 | 1.1 | 5.7ARM | -0.8 | 18.6 | 2.5 | 5.7ARM | -1.8 |
 | 2020 | Curveball | ![](https://www.mlbstatic.com/team-logos/139.svg)TB | L | 126 | 80.1 | 53.0 | -2.0 | 9.7GLV | 2.6 | -9.8 | 0.8 | 9.7GLV | 1.5 |
-| 2019 | Curveball | ![](https://www.mlbstatic.com/team-logos/139.svg)TB | L | 464 | 81.0 | 50.7 | -1.4 | 5.6GLV | 0.0 | -8.1 | -0.8 | 5.6GLV | -2.4 |
-| 2019 | Changeup | ![](https://www.mlbstatic.com/team-logos/139.svg)TB | L | 385 | 86.3 | 25.6 | -2.2 | 13.1ARM | 0.3 | 10.8 | -2.9 | 13.1ARM | -1.2 |
+| 2020 | 4-Seam Fastball | ![](https://www.mlbstatic.com/team-logos/139.svg)TB | L | 444 | 95.0 | 11.9 | 1.1 | 5.7ARM | -0.8 | 18.6 | 2.5 | 5.7ARM | -1.8 |
+| 2020 | Changeup | ![](https://www.mlbstatic.com/team-logos/139.svg)TB | L | 170 | 87.9 | 24.0 | -1.9 | 12.8ARM | 0.5 | 11.5 | -3.7 | 12.8ARM | -0.8 |
 | 2019 | 4-Seam Fastball | ![](https://www.mlbstatic.com/team-logos/139.svg)TB | L | 914 | 95.5 | 10.9 | 2.2 | 6.3ARM | 0.0 | 18.9 | 3.2 | 6.3ARM | -1.4 |
+| 2019 | Changeup | ![](https://www.mlbstatic.com/team-logos/139.svg)TB | L | 385 | 86.3 | 25.6 | -2.2 | 13.1ARM | 0.3 | 10.8 | -2.9 | 13.1ARM | -1.2 |
+| 2019 | Curveball | ![](https://www.mlbstatic.com/team-logos/139.svg)TB | L | 464 | 81.0 | 50.7 | -1.4 | 5.6GLV | 0.0 | -8.1 | -0.8 | 5.6GLV | -2.4 |
 | 2019 | Slider | ![](https://www.mlbstatic.com/team-logos/139.svg)TB | L | 127 | 87.3 | 31.6 | -1.5 | 5.1GLV | 1.4 | 4.3 | -2.7 | 5.1GLV | -0.3 |
 | 2018 | Curveball | ![](https://www.mlbstatic.com/team-logos/139.svg)TB | L | 588 | 81.3 | 54.1 | 2.1 | 6.0GLV | 0.1 | -11.5 | 2.2 | 6.0GLV | -2.2 |
-| 2018 | 4-Seam Fastball | ![](https://www.mlbstatic.com/team-logos/139.svg)TB | L | 1500 | 95.8 | 11.6 | 1.6 | 4.7ARM | -1.6 | 18.0 | 2.4 | 4.7ARM | -3.2 |
-| 2018 | Changeup | ![](https://www.mlbstatic.com/team-logos/139.svg)TB | L | 559 | 87.5 | 23.4 | -3.6 | 13.3ARM | 0.0 | 12.1 | -4.5 | 13.3ARM | -0.8 |
 | 2018 | Slider | ![](https://www.mlbstatic.com/team-logos/139.svg)TB | L | 266 | 88.0 | 32.9 | 2.0 | 4.9GLV | 1.4 | 2.5 | -0.9 | 4.9GLV | -0.6 |
-| 2017 | Slider | ![](https://www.mlbstatic.com/team-logos/139.svg)TB | L | 313 | 86.0 | 33.1 | 0.6 | 5.7GLV | 2.3 | 4.2 | -1.2 | 5.7GLV | 0.1 |
-| 2017 | Curveball | ![](https://www.mlbstatic.com/team-logos/139.svg)TB | L | 229 | 79.1 | 55.1 | 1.2 | 6.9GLV | 0.5 | -10.1 | 3.0 | 6.9GLV | -1.9 |
+| 2018 | Changeup | ![](https://www.mlbstatic.com/team-logos/139.svg)TB | L | 559 | 87.5 | 23.4 | -3.6 | 13.3ARM | 0.0 | 12.1 | -4.5 | 13.3ARM | -0.8 |
+| 2018 | 4-Seam Fastball | ![](https://www.mlbstatic.com/team-logos/139.svg)TB | L | 1500 | 95.8 | 11.6 | 1.6 | 4.7ARM | -1.6 | 18.0 | 2.4 | 4.7ARM | -3.2 |
 | 2017 | Changeup | ![](https://www.mlbstatic.com/team-logos/139.svg)TB | L | 481 | 86.3 | 20.7 | -4.7 | 9.4ARM | -3.2 | 15.8 | -6.0 | 9.4ARM | -4.0 |
 | 2017 | 4-Seam Fastball | ![](https://www.mlbstatic.com/team-logos/139.svg)TB | L | 1252 | 94.3 | 11.6 | 1.1 | 1.5ARM | -4.8 | 19.0 | 2.0 | 1.5ARM | -6.5 |
-| 2016 | Slider | ![](https://www.mlbstatic.com/team-logos/139.svg)TB | L | 207 | 83.2 | 42.9 | 6.1 | 1.7ARM | -7.5 | -2.7 | 4.1 | 1.7ARM | -5.4 |
-| 2016 | Changeup | ![](https://www.mlbstatic.com/team-logos/139.svg)TB | L | 307 | 85.4 | 23.4 | -5.5 | 15.9ARM | 3.8 | 14.9 | -6.5 | 15.9ARM | 1.1 |
-| 2016 | 4-Seam Fastball | ![](https://www.mlbstatic.com/team-logos/139.svg)TB | L | 984 | 94.2 | 13.2 | 1.1 | 7.3ARM | 0.8 | 18.2 | 2.4 | 7.3ARM | -2.3 |
+| 2017 | Curveball | ![](https://www.mlbstatic.com/team-logos/139.svg)TB | L | 229 | 79.1 | 55.1 | 1.2 | 6.9GLV | 0.5 | -10.1 | 3.0 | 6.9GLV | -1.9 |
+| 2017 | Slider | ![](https://www.mlbstatic.com/team-logos/139.svg)TB | L | 313 | 86.0 | 33.1 | 0.6 | 5.7GLV | 2.3 | 4.2 | -1.2 | 5.7GLV | 0.1 |
 | 2016 | Curveball | ![](https://www.mlbstatic.com/team-logos/139.svg)TB | L | 218 | 76.4 | 61.7 | 2.6 | 1.8GLV | -4.5 | -13.7 | 5.6 | 1.8GLV | -4.9 |
+| 2016 | Changeup | ![](https://www.mlbstatic.com/team-logos/139.svg)TB | L | 307 | 85.4 | 23.4 | -5.5 | 15.9ARM | 3.8 | 14.9 | -6.5 | 15.9ARM | 1.1 |
+| 2016 | Slider | ![](https://www.mlbstatic.com/team-logos/139.svg)TB | L | 207 | 83.2 | 42.9 | 6.1 | 1.7ARM | -7.5 | -2.7 | 4.1 | 1.7ARM | -5.4 |
+| 2016 | 4-Seam Fastball | ![](https://www.mlbstatic.com/team-logos/139.svg)TB | L | 984 | 94.2 | 13.2 | 1.1 | 7.3ARM | 0.8 | 18.2 | 2.4 | 7.3ARM | -2.3 |
 
 ! Note: Years are in reverse order.
 
@@ -1182,8 +1190,8 @@ On the right, Induced Movement (or IVB) is reported without gravity, and attempt
 | Team | RV/100 | Run Value | Pitches | % | PA | BA | SLG | wOBA | Whiff% | K% | PutAway % | xBA | xSLG | xwOBA | Hard Hit % |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2026 | 4-Seam Fastball | ![](https://www.mlbstatic.com/team-logos/119.svg) | 2.3 | 5 | 219 | 49.3 | 48 | .158 | .184 | .256 | 22.6 | 29.2 | 23.0 | .131 | .152 | .234 | 0.0 |
-| 2026 | Curveball | ![](https://www.mlbstatic.com/team-logos/119.svg) | 2.5 | 2 | 93 | 20.9 | 26 | .042 | .042 | .123 | 52.5 | 57.7 | 25.9 | .079 | .089 | .121 | 11.1 |
-| 2026 | Changeup | ![](https://www.mlbstatic.com/team-logos/119.svg) | 0.3 | 0 | 79 | 17.8 | 20 | .333 | .444 | .340 | 43.1 | 5.0 | 5.9 | .313 | .430 | .327 | 16.7 |
+| 2026 | Curveball | ![](https://www.mlbstatic.com/team-logos/119.svg) | 2.4 | 2 | 93 | 20.9 | 26 | .042 | .042 | .123 | 52.5 | 57.7 | 25.9 | .079 | .089 | .121 | 11.1 |
+| 2026 | Changeup | ![](https://www.mlbstatic.com/team-logos/119.svg) | 0.4 | 0 | 79 | 17.8 | 20 | .333 | .444 | .340 | 43.1 | 5.0 | 5.9 | .313 | .430 | .326 | 16.7 |
 | 2026 | Slider | ![](https://www.mlbstatic.com/team-logos/119.svg) | 0.1 | 0 | 53 | 11.9 | 15 | .214 | .214 | .227 | 59.3 | 40.0 | 30.0 | .218 | .254 | .239 | 25.0 |
 | 2025 | 4-Seam Fastball | ![](https://www.mlbstatic.com/team-logos/119.svg) | 0.1 | 0 | 448 | 43.6 | 106 | .309 | .426 | .362 | 22.1 | 20.8 | 20.4 | .288 | .408 | .338 | 33.8 |
 | 2025 | Changeup | ![](https://www.mlbstatic.com/team-logos/119.svg) | 3.2 | 8 | 243 | 23.6 | 69 | .153 | .203 | .234 | 43.5 | 21.7 | 29.4 | .160 | .258 | .245 | 30.4 |
@@ -1378,7 +1386,7 @@ These run values are **leveraged**, meaning the base/out situation at the time o
 | 2023 | 99 | 44 | 99 | 98 | 66 | 76 | 90 | 37 | 84 | 36 | 98 | 94 | 4 | 58 | 83 | 56 | 86 |
 | 2024 | 94 | 85 | 96 | 81 | 97 | 79 | 89 | 48 | 92 | 81 | 98 | 98 | 19 | 83 | 99 | 51 | 83 |
 | 2025 | 78 | 44 | 60 | 95 | 82 | 63 | 89 | 42 | 96 | 95 | 96 | 85 | 18 | 86 | 92 | 85 | 80 |
-| 2026 |  |  |  |  |  | 75 | 93 | 29 |  |  |  |  |  |  |  |  | 79 |
+| 2026 |  |  |  |  |  | 75 | 93 | 29 |  |  |  |  |  |  |  |  | 78 |
 
 [+\\
 View Complete Percentile Rankings Leaderboard](https://baseballsavant.mlb.com/leaderboard/percentile-rankings?type=pitcher)
