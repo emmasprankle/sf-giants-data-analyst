@@ -22,7 +22,7 @@ Pitcher
 **Team:** [San Francisco Giants](https://www.baseball-reference.com/teams/SFG/2026.shtml) (majors)
 
 
-**[Born:](https://www.baseball-reference.com/bio/)**[November 18](https://www.baseball-reference.com/friv/birthdays.cgi?month=11&day=18), [1996](https://www.baseball-reference.com/leagues/majors/1996-births.shtml)(Age: 29-291d)
+**[Born:](https://www.baseball-reference.com/bio/)**[November 18](https://www.baseball-reference.com/friv/birthdays.cgi?month=11&day=18), [1996](https://www.baseball-reference.com/leagues/majors/1996-births.shtml)(Age: 29-292d)
 
 in Rocklin, [CA](https://www.baseball-reference.com/bio/CA_born.shtml)us
 
@@ -522,6 +522,8 @@ Powered by ![Stathead Logo](https://cdn.ssref.net/req/202101292/logos/stathead-l
 - [Player News RSS Feed](https://www.baseball-reference.com/players/news.fcgi?id=webblo01&rss=1)
 - Show/Hide More Stories
 
+- **9/5** [Appraise The Jolly Roger: Nobody Asked Me, But…](https://appraisethejollyroger.substack.com/p/nobody-asked-me-but-8a9): As the Pirates lugubriously continue an also-ran campaign....
+
 - **9/3** [RotoWire: Keelhauled by Bucs](https://www.rotowire.com/baseball/player/logan-webb-13478?refer=SportsRef): _Webb escaped with a no-decision in Tuesday's wild 13-12 loss to_...
 
 - **9/2** [MLBTradeRumors: The Opener: Williams, Peralta, Webb vs. Skenes](https://www.mlbtraderumors.com/2026/09/the-opener-williams-peralta-webb-vs-skenes.html): _The Angels were dispatched by the Yankees on Tuesday, but the_...
@@ -530,9 +532,9 @@ Powered by ![Stathead Logo](https://cdn.ssref.net/req/202101292/logos/stathead-l
 
 - **9/2** [MLBTradeRumors: Giants Select Cesar Perdomo](https://www.mlbtraderumors.com/2026/09/giants-select-cesar-perdomo.html): _The Giants announced that they have recalled catcher Zach Morgan_...
 
-- **9/1** [Baseball Musings: Beat the Streak Picks](https://www.baseballmusings.com/?p=161331): _0.294, 0.719 — Chandler Simpson batting vs. Sean Manaea._...
+- Show 4 more stories
 
-- Show 3 more stories
+- **9/1** [Baseball Musings: Beat the Streak Picks](https://www.baseballmusings.com/?p=161331): _0.294, 0.719 — Chandler Simpson batting vs. Sean Manaea._...
 
 - **8/31** [SFBay: Giants split doubleheader with D-Backs, retire Jeff Kent’s No. 21](https://sfbayca.com/2026/08/31/giants-split-doubleheader-with-d-backs-retire-jeff-kents-no-21/): _Reporting from ORACLE PARK Saturday brought another challenge_...
 
@@ -622,7 +624,7 @@ Playoffs
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | [2021](https://www.baseball-reference.com/players/gl.fcgi?id=webblo01&t=b&year=2021) | 24 | [SFG](https://www.baseball-reference.com/teams/SFG/2021.shtml) | [NL](https://www.baseball-reference.com/leagues/NL/2021.shtml) | 53 | .193 | -4 | .208 | .152 | 1.9 | 39.6 | 3.8 | 78.5 | 27.6 | 13.3 | 33.3 | 26.7 | 0.71 | 16.7 | 70.0 | 13.3 | -0.4 | -0.2% | -3.47 | 85.7 | 16.7 | 1/H |  |
 | 2 Yrs | 64 | .187 | -10 | .194 | .127 | 1.6 | 35.9 | 4.7 | 79.6 | 30.3 | 15.8 | 34.2 | 21.1 | 0.81 | 15.8 | 60.5 | 23.7 | -0.6 | -0.2% | -5.95 | 60.0 | 16.7 | 1/H |  |
-| MLB Average |  | .321 | 100 | .292 | .163 | 3.2 | 22.6 | 8.5 | 88.4 | 39.3 | 24.2 | 42.2 | 25.6 | 0.74 | 29.8 | 52.3 | 17.9 |  |  |  | 30.5 | 41.6 |  |  |
+| MLB Average |  | .321 | 100 | .293 | .163 | 3.2 | 22.6 | 8.5 | 88.4 | 39.3 | 24.2 | 42.2 | 25.6 | 0.74 | 29.8 | 52.3 | 17.9 |  |  |  | 30.5 | 41.6 |  |  |
 
 Advanced Batting Table
 
@@ -795,7 +797,7 @@ Standard Fielding Table
 
 [2025 NL](https://www.baseball-reference.com/leagues/NL/2025-pitching-leaders.shtml)  3.22 (8th)
 
-[Active](https://www.baseball-reference.com/leaders/earned_run_avg_active.shtml)  3.48 (9th)
+[Active](https://www.baseball-reference.com/leaders/earned_run_avg_active.shtml)  3.48 (10th)
 
 4 Seasons in Top 10
 
@@ -989,7 +991,7 @@ Times Hit by a Pitch.
 
 [2020 NL](https://www.baseball-reference.com/leagues/NL/2020-pitching-leaders.shtml)  7 (1st)
 
-[2026 NL](https://www.baseball-reference.com/leagues/NL/2026-pitching-leaders.shtml)  11 (9th)
+[2026 NL](https://www.baseball-reference.com/leagues/NL/2026-pitching-leaders.shtml)  11 (10th)
 
 [Active](https://www.baseball-reference.com/leaders/HBP_p_active.shtml)  47 (40th)
 
@@ -1023,7 +1025,7 @@ Batters Faced
 
 [Active](https://www.baseball-reference.com/leaders/earned_run_avg_plus_active.shtml)  116 (13th)
 
-[Career](https://www.baseball-reference.com/leaders/earned_run_avg_plus_career.shtml)  116 (221st)
+[Career](https://www.baseball-reference.com/leaders/earned_run_avg_plus_career.shtml)  116 (220th)
 
 3 Seasons in Top 10
 
@@ -1061,7 +1063,7 @@ Batters Faced
 
 [2023 NL](https://www.baseball-reference.com/leagues/NL/2023-pitching-leaders.shtml)  2.4 (3rd)
 
-[Active](https://www.baseball-reference.com/leaders/apWins_active.shtml)  7.9 (35th)
+[Active](https://www.baseball-reference.com/leaders/apWins_active.shtml)  7.9 (34th)
 
 #### Base-Out Runs Saved (RE24)
 
@@ -1069,7 +1071,7 @@ Batters Faced
 
 [2023 NL](https://www.baseball-reference.com/leagues/NL/2023-pitching-leaders.shtml)  31.34 (2nd)
 
-[Active](https://www.baseball-reference.com/leaders/re24_def_active.shtml)  101.43 (23rd)
+[Active](https://www.baseball-reference.com/leaders/re24_def_active.shtml)  101.43 (24th)
 
 #### Win Probability Added (WPA)
 
@@ -1107,9 +1109,9 @@ Batters Faced
 
 [2023 NL](https://www.baseball-reference.com/leagues/NL/2023-pitching-leaders.shtml)  3.3 (2nd)
 
-[Active](https://www.baseball-reference.com/leaders/rew_def_active.shtml)  10.9 (23rd)
+[Active](https://www.baseball-reference.com/leaders/rew_def_active.shtml)  10.9 (24th)
 
-[Career](https://www.baseball-reference.com/leaders/rew_def_career.shtml)  10.9 (247th)
+[Career](https://www.baseball-reference.com/leaders/rew_def_career.shtml)  10.9 (248th)
 
 #### Putouts as P
 
@@ -1196,7 +1198,7 @@ Batters Faced
 | [Hall of Fame Standards](https://www.baseball-reference.com/about/leader_glossary.shtml#hof_standard) |
 | Pitching -<br> **16** (527th),<br> _Average_<br>_HOFer ≈ 50_ |
 | [JAWS](https://www.baseball-reference.com/about/jaws.shtml) |
-| [Starting Pitcher **(403rd)**](https://www.baseball-reference.com/leaders/jaws_P.shtml):<br>**23.2** career WAR<br> \| **23.6** 7yr-peak WAR<br> \| **23.4** JAWS<br> \| **23.4** S-JAWS<br> \| **3.9** WAR/162<br>   Average HOF P (out of 67):<br>     73.0 career WAR \| 49.8 7yr-peak WAR \| 61.4 JAWS<br> \| 56.8 S-JAWS<br> \| 4.5 WAR/162 |
+| [Starting Pitcher **(405th)**](https://www.baseball-reference.com/leaders/jaws_P.shtml):<br>**23.2** career WAR<br> \| **23.6** 7yr-peak WAR<br> \| **23.4** JAWS<br> \| **23.4** S-JAWS<br> \| **3.9** WAR/162<br>   Average HOF P (out of 67):<br>     73.0 career WAR \| 49.8 7yr-peak WAR \| 61.4 JAWS<br> \| 56.8 S-JAWS<br> \| 4.5 WAR/162 |
 
 ## Similarity Scores
 
