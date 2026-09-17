@@ -3,115 +3,102 @@ source: https://baseballsavant.mlb.com/leaderboard/expected_statistics?type=pitc
 slug: baseballsavant-expected-stats-giants-2024
 ---
 
-[Preview Matchup](https://baseballsavant.mlb.com/preview?game_pk=824465&game_date=2026-09-14)
+[Preview Matchup](https://baseballsavant.mlb.com/preview?game_pk=823334&game_date=2026-09-17)
 
-Skubal vs. Lodolo
+Harrison vs. Dotel
 
-[(compare pitchers)](https://baseballsavant.mlb.com/comparison-tool?player=669373-2026-pitcher&player=666157-2026-pitcher)
+[(compare pitchers)](https://baseballsavant.mlb.com/comparison-tool?player=690986-2026-pitcher&player=696062-2026-pitcher)
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/119.svg) | LAD |  | 6:40 PM |
+| ![](https://www.mlbstatic.com/team-logos/158.svg) | MIL |  | 12:35 PM |
+| ![](https://www.mlbstatic.com/team-logos/134.svg) | PIT |  |
+
+[Preview Matchup](https://baseballsavant.mlb.com/preview?game_pk=824464&game_date=2026-09-17)
+
+Wrobleski vs. Singer
+
+[(compare pitchers)](https://baseballsavant.mlb.com/comparison-tool?player=680736-2026-pitcher&player=663903-2026-pitcher)
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| ![](https://www.mlbstatic.com/team-logos/119.svg) | LAD |  | 12:40 PM |
 | ![](https://www.mlbstatic.com/team-logos/113.svg) | CIN |  |
 
-[Preview Matchup](https://baseballsavant.mlb.com/preview?game_pk=824386&game_date=2026-09-14)
+[Preview Matchup](https://baseballsavant.mlb.com/preview?game_pk=822924&game_date=2026-09-17)
 
-Newcomb vs. Williams
+Springs vs. Rasmussen
 
-[(compare pitchers)](https://baseballsavant.mlb.com/comparison-tool?player=656794-2026-pitcher&player=668909-2026-pitcher)
-
-|     |     |     |     |
-| --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/145.svg) | CWS |  | 6:40 PM |
-| ![](https://www.mlbstatic.com/team-logos/114.svg) | CLE |  |
-
-[Preview Matchup](https://baseballsavant.mlb.com/preview?game_pk=822765&game_date=2026-09-14)
-
-Melton vs. Soriano
-
-[(compare pitchers)](https://baseballsavant.mlb.com/comparison-tool?player=675512-2026-pitcher&player=667755-2026-pitcher)
+[(compare pitchers)](https://baseballsavant.mlb.com/comparison-tool?player=605488-2026-pitcher&player=656876-2026-pitcher)
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/116.svg) | DET |  | 7:07 PM |
-| ![](https://www.mlbstatic.com/team-logos/141.svg) | TOR |  |
+| ![](https://www.mlbstatic.com/team-logos/133.svg) | ATH |  | 1:10 PM |
+| ![](https://www.mlbstatic.com/team-logos/139.svg) | TB |  |
 
-[Preview Matchup](https://baseballsavant.mlb.com/preview?game_pk=823575&game_date=2026-09-14)
+[Preview Matchup](https://baseballsavant.mlb.com/preview?game_pk=824305&game_date=2026-09-17)
 
-Young vs. Tong
+King vs. Gordon
 
-[(compare pitchers)](https://baseballsavant.mlb.com/comparison-tool?player=687064-2026-pitcher&player=804636-2026-pitcher)
-
-|     |     |     |     |
-| --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/110.svg) | BAL |  | 7:10 PM |
-| ![](https://www.mlbstatic.com/team-logos/121.svg) | NYM |  |
-
-[Preview Matchup](https://baseballsavant.mlb.com/preview?game_pk=824629&game_date=2026-09-14)
-
-López vs. Peterson
-
-[(compare pitchers)](https://baseballsavant.mlb.com/comparison-tool?player=625643-2026-pitcher&player=656849-2026-pitcher)
+[(compare pitchers)](https://baseballsavant.mlb.com/comparison-tool?player=650633-2026-pitcher&player=685299-2026-pitcher)
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/144.svg) | ATL |  | 7:40 PM |
-| ![](https://www.mlbstatic.com/team-logos/112.svg) | CHC |  |
-
-[Preview Matchup](https://baseballsavant.mlb.com/preview?game_pk=823656&game_date=2026-09-14)
-
-Warren vs. Kremer
-
-[(compare pitchers)](https://baseballsavant.mlb.com/comparison-tool?player=701542-2026-pitcher&player=665152-2026-pitcher)
-
-|     |     |     |     |
-| --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/147.svg) | NYY |  | 7:40 PM |
-| ![](https://www.mlbstatic.com/team-logos/142.svg) | MIN |  |
-
-[Preview Matchup](https://baseballsavant.mlb.com/preview?game_pk=823006&game_date=2026-09-14)
-
-Roupp vs. Mathews
-
-[(compare pitchers)](https://baseballsavant.mlb.com/comparison-tool?player=694738-2026-pitcher&player=687273-2026-pitcher)
-
-|     |     |     |     |
-| --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/137.svg) | SF |  | 7:45 PM |
-| ![](https://www.mlbstatic.com/team-logos/138.svg) | STL |  |
-
-[Preview Matchup](https://baseballsavant.mlb.com/preview?game_pk=824308&game_date=2026-09-14)
-
-Mize vs. Sugano
-
-[(compare pitchers)](https://baseballsavant.mlb.com/comparison-tool?player=663554-2026-pitcher&player=608372-2026-pitcher)
-
-|     |     |     |     |
-| --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/135.svg) | SD |  | 8:40 PM |
+| ![](https://www.mlbstatic.com/team-logos/135.svg) | SD |  | 3:10 PM |
 | ![](https://www.mlbstatic.com/team-logos/115.svg) | COL |  |
 
-[Preview Matchup](https://baseballsavant.mlb.com/preview?game_pk=823981&game_date=2026-09-14)
+[Preview Matchup](https://baseballsavant.mlb.com/preview?game_pk=824141&game_date=2026-09-17)
 
-Anderson vs. Detmers
-
-[(compare pitchers)](https://baseballsavant.mlb.com/comparison-tool?player=807739-2026-pitcher&player=672282-2026-pitcher)
+Lugo vs. TBA
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/136.svg) | SEA |  | 9:38 PM |
+| ![](https://www.mlbstatic.com/team-logos/118.svg) | KC |  | 7:15 PM |
+| ![](https://www.mlbstatic.com/team-logos/117.svg) | HOU |  |
+
+[Preview Matchup](https://baseballsavant.mlb.com/preview?game_pk=823573&game_date=2026-09-17)
+
+Nola vs. McLean
+
+[(compare pitchers)](https://baseballsavant.mlb.com/comparison-tool?player=605400-2026-pitcher&player=690997-2026-pitcher)
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| ![](https://www.mlbstatic.com/team-logos/143.svg) | PHI |  | 7:15 PM |
+| ![](https://www.mlbstatic.com/team-logos/121.svg) | NYM |  |
+
+[Preview Matchup](https://baseballsavant.mlb.com/preview?game_pk=824548&game_date=2026-09-17)
+
+Valdez vs. Fedde
+
+[(compare pitchers)](https://baseballsavant.mlb.com/comparison-tool?player=664285-2026-pitcher&player=607200-2026-pitcher)
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| ![](https://www.mlbstatic.com/team-logos/116.svg) | DET |  | 7:40 PM |
+| ![](https://www.mlbstatic.com/team-logos/145.svg) | CWS |  |
+
+[Preview Matchup](https://baseballsavant.mlb.com/preview?game_pk=822845&game_date=2026-09-17)
+
+Gray vs. Alexander
+
+[(compare pitchers)](https://baseballsavant.mlb.com/comparison-tool?player=543243-2026-pitcher&player=641302-2026-pitcher)
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| ![](https://www.mlbstatic.com/team-logos/111.svg) | BOS |  | 8:05 PM |
+| ![](https://www.mlbstatic.com/team-logos/140.svg) | TEX |  |
+
+[Preview Matchup](https://baseballsavant.mlb.com/preview?game_pk=823978&game_date=2026-09-17)
+
+Bradley vs. Ureña
+
+[(compare pitchers)](https://baseballsavant.mlb.com/comparison-tool?player=671737-2026-pitcher&player=700712-2026-pitcher)
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| ![](https://www.mlbstatic.com/team-logos/142.svg) | MIN |  | 9:38 PM |
 | ![](https://www.mlbstatic.com/team-logos/108.svg) | LAA |  |
-
-[Preview Matchup](https://baseballsavant.mlb.com/preview?game_pk=825034&game_date=2026-09-14)
-
-Alcantara vs. Burnes
-
-[(compare pitchers)](https://baseballsavant.mlb.com/comparison-tool?player=645261-2026-pitcher&player=669203-2026-pitcher)
-
-|     |     |     |     |
-| --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/146.svg) | MIA |  | 9:40 PM |
-| ![](https://www.mlbstatic.com/team-logos/109.svg) | AZ |  |
 
 <
 
@@ -212,9 +199,9 @@ Download CSV
 | 17 | ![](https://content.mlb.com/images/headshots/current/60x60/657277.png)[Webb, Logan](https://baseballsavant.mlb.com/savant-player/657277) | ![](https://www.mlbstatic.com/team-logos/137.svg) | 841 | 617 | .258 | .270 | -.012 | .355 | .421 | -.066 | .288 | .325 | -.037 | 3.47 | 4.34 | -0.87 |
 | 18 | ![](https://content.mlb.com/images/headshots/current/60x60/806185.png)[Birdsong, Hayden](https://baseballsavant.mlb.com/savant-player/806185) | ![](https://www.mlbstatic.com/team-logos/137.svg) | 315 | 180 | .216 | .228 | -.012 | .390 | .413 | -.023 | .321 | .335 | -.014 | 4.75 | 4.64 | +0.11 |
 | 19 | ![](https://content.mlb.com/images/headshots/current/60x60/663855.png)[Hicks, Jordan](https://baseballsavant.mlb.com/savant-player/663855) | ![](https://www.mlbstatic.com/team-logos/137.svg) | 481 | 329 | .265 | .251 | +.014 | .414 | .425 | -.011 | .336 | .337 | -.001 | 4.10 | 4.71 | -0.61 |
-| 20 | ![](https://content.mlb.com/images/headshots/current/60x60/690986.png)[Harrison, Kyle](https://baseballsavant.mlb.com/savant-player/690986) | ![](https://www.mlbstatic.com/team-logos/137.svg) | 532 | 365 | .263 | .254 | +.009 | .433 | .444 | -.011 | .330 | .341 | -.011 | 4.56 | 4.84 | -0.28 |
+| 20 | ![](https://content.mlb.com/images/headshots/current/60x60/690986.png)[Harrison, Kyle](https://baseballsavant.mlb.com/savant-player/690986) | ![](https://www.mlbstatic.com/team-logos/137.svg) | 532 | 365 | .263 | .255 | +.008 | .433 | .444 | -.011 | .330 | .341 | -.011 | 4.56 | 4.84 | -0.28 |
 | 21 | ![](https://content.mlb.com/images/headshots/current/60x60/681810.png)[Warren, Austin](https://baseballsavant.mlb.com/savant-player/681810) | ![](https://www.mlbstatic.com/team-logos/137.svg) | 42 | 30 | .243 | .249 | -.006 | .351 | .433 | -.082 | .308 | .341 | -.033 | 1.69 | 4.84 | -3.15 |
-| 22 | ![](https://content.mlb.com/images/headshots/current/60x60/676775.png)[Winn, Keaton](https://baseballsavant.mlb.com/savant-player/676775) | ![](https://www.mlbstatic.com/team-logos/137.svg) | 238 | 165 | .268 | .270 | -.002 | .493 | .489 | +.004 | .354 | .361 | -.007 | 7.16 | 5.52 | +1.64 |
+| 22 | ![](https://content.mlb.com/images/headshots/current/60x60/676775.png)[Winn, Keaton](https://baseballsavant.mlb.com/savant-player/676775) | ![](https://www.mlbstatic.com/team-logos/137.svg) | 238 | 165 | .268 | .270 | -.002 | .493 | .490 | +.003 | .354 | .361 | -.007 | 7.16 | 5.52 | +1.64 |
 | 23 | ![](https://content.mlb.com/images/headshots/current/60x60/696131.png)[Black, Mason](https://baseballsavant.mlb.com/savant-player/696131) | ![](https://www.mlbstatic.com/team-logos/137.svg) | 169 | 120 | .309 | .277 | +.032 | .517 | .499 | +.018 | .387 | .371 | +.016 | 6.44 | 5.88 | +0.56 |
 | 24 | ![](https://content.mlb.com/images/headshots/current/60x60/678906.png)[Teng, Kai-Wei](https://baseballsavant.mlb.com/savant-player/678906) | ![](https://www.mlbstatic.com/team-logos/137.svg) | 55 | 39 | .326 | .291 | +.035 | .500 | .490 | +.010 | .410 | .395 | +.015 | 9.82 | 6.85 | +2.97 |
 | 25 | ![](https://content.mlb.com/images/headshots/current/60x60/687014.png)[Avila, Nick](https://baseballsavant.mlb.com/savant-player/687014) | ![](https://www.mlbstatic.com/team-logos/137.svg) | 55 | 38 | .340 | .330 | +.010 | .640 | .554 | +.086 | .413 | .413 | .000 | 8.49 | 7.67 | +0.82 |

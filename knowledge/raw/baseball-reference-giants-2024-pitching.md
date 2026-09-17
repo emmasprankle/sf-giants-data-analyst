@@ -3,6 +3,8 @@ source: https://www.baseball-reference.com/teams/SFG/2024-pitching.shtml
 slug: baseball-reference-giants-2024-pitching
 ---
 
+Sports Reference Hub, your new customizable home page, is here! Learn more and [sign up for free](https://www.sports-reference.com/?utm_campaign=2026_09_mktg_hub&utm_source=br&utm_medium=sr_xsite&utm_content=yellow_bar).
+
 ![2024 San Francisco Giants Logo](https://cdn.ssref.net/req/202609100/tlogo/br/SFG-2024.png)
 
 [via Sports Logos.net](http://www.sportslogos.net/)
@@ -11,7 +13,7 @@ slug: baseball-reference-giants-2024-pitching
 
 # 2024San Francisco GiantsPitching Statistics
 
-[2023 Season](https://www.baseball-reference.com/teams/SFG/2023-pitching.shtml) [2025 Season](https://www.baseball-reference.com/teams/SFG/2025-pitching.shtml)
+[2023 Season](https://www.baseball-reference.com/teams/SFG/2023-pitching.shtml) [2025 Season](https://www.baseball-reference.com/teams/SFG/2025-pitching.shtml) [Follow in HubNEW](https://www.sports-reference.com/?utm_campaign=2026_09_follow-in-hub&utm_medium=sr_xsite&utm_source=br)
 
 **Record:**
 80-82,
@@ -733,4 +735,4 @@ Other
 - [Playoff Odds](https://www.baseball-reference.com/teams/SFG/2024-playoff-odds.shtml)
 - [Pivotal Plays](https://www.sports-reference.com/stathead/baseball/pivotal_play_finder.cgi?request=1&year=2024&year_to=2024&team_id=SFG)
 
-[2023 Season](https://www.baseball-reference.com/teams/SFG/2023-pitching.shtml) [2025 Season](https://www.baseball-reference.com/teams/SFG/2025-pitching.shtml)
+[2023 Season](https://www.baseball-reference.com/teams/SFG/2023-pitching.shtml) [2025 Season](https://www.baseball-reference.com/teams/SFG/2025-pitching.shtml) [Follow in HubNEW](https://www.sports-reference.com/?utm_campaign=2026_09_follow-in-hub&utm_medium=sr_xsite&utm_source=br)

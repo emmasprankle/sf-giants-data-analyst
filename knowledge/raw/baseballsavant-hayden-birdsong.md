@@ -3,115 +3,102 @@ source: https://baseballsavant.mlb.com/savant-player/hayden-birdsong-806185
 slug: baseballsavant-hayden-birdsong
 ---
 
-[Preview Matchup](https://baseballsavant.mlb.com/preview?game_pk=824465&game_date=2026-09-14)
+[Preview Matchup](https://baseballsavant.mlb.com/preview?game_pk=823334&game_date=2026-09-17)
 
-Skubal vs. Lodolo
+Harrison vs. Dotel
 
-[(compare pitchers)](https://baseballsavant.mlb.com/comparison-tool?player=669373-2026-pitcher&player=666157-2026-pitcher)
+[(compare pitchers)](https://baseballsavant.mlb.com/comparison-tool?player=690986-2026-pitcher&player=696062-2026-pitcher)
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/119.svg) | LAD |  | 6:40 PM |
+| ![](https://www.mlbstatic.com/team-logos/158.svg) | MIL |  | 12:35 PM |
+| ![](https://www.mlbstatic.com/team-logos/134.svg) | PIT |  |
+
+[Preview Matchup](https://baseballsavant.mlb.com/preview?game_pk=824464&game_date=2026-09-17)
+
+Wrobleski vs. Singer
+
+[(compare pitchers)](https://baseballsavant.mlb.com/comparison-tool?player=680736-2026-pitcher&player=663903-2026-pitcher)
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| ![](https://www.mlbstatic.com/team-logos/119.svg) | LAD |  | 12:40 PM |
 | ![](https://www.mlbstatic.com/team-logos/113.svg) | CIN |  |
 
-[Preview Matchup](https://baseballsavant.mlb.com/preview?game_pk=824386&game_date=2026-09-14)
+[Preview Matchup](https://baseballsavant.mlb.com/preview?game_pk=822924&game_date=2026-09-17)
 
-Newcomb vs. Williams
+Springs vs. Rasmussen
 
-[(compare pitchers)](https://baseballsavant.mlb.com/comparison-tool?player=656794-2026-pitcher&player=668909-2026-pitcher)
-
-|     |     |     |     |
-| --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/145.svg) | CWS |  | 6:40 PM |
-| ![](https://www.mlbstatic.com/team-logos/114.svg) | CLE |  |
-
-[Preview Matchup](https://baseballsavant.mlb.com/preview?game_pk=822765&game_date=2026-09-14)
-
-Melton vs. Soriano
-
-[(compare pitchers)](https://baseballsavant.mlb.com/comparison-tool?player=675512-2026-pitcher&player=667755-2026-pitcher)
+[(compare pitchers)](https://baseballsavant.mlb.com/comparison-tool?player=605488-2026-pitcher&player=656876-2026-pitcher)
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/116.svg) | DET |  | 7:07 PM |
-| ![](https://www.mlbstatic.com/team-logos/141.svg) | TOR |  |
+| ![](https://www.mlbstatic.com/team-logos/133.svg) | ATH |  | 1:10 PM |
+| ![](https://www.mlbstatic.com/team-logos/139.svg) | TB |  |
 
-[Preview Matchup](https://baseballsavant.mlb.com/preview?game_pk=823575&game_date=2026-09-14)
+[Preview Matchup](https://baseballsavant.mlb.com/preview?game_pk=824305&game_date=2026-09-17)
 
-Young vs. Tong
+King vs. Gordon
 
-[(compare pitchers)](https://baseballsavant.mlb.com/comparison-tool?player=687064-2026-pitcher&player=804636-2026-pitcher)
-
-|     |     |     |     |
-| --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/110.svg) | BAL |  | 7:10 PM |
-| ![](https://www.mlbstatic.com/team-logos/121.svg) | NYM |  |
-
-[Preview Matchup](https://baseballsavant.mlb.com/preview?game_pk=824629&game_date=2026-09-14)
-
-López vs. Peterson
-
-[(compare pitchers)](https://baseballsavant.mlb.com/comparison-tool?player=625643-2026-pitcher&player=656849-2026-pitcher)
+[(compare pitchers)](https://baseballsavant.mlb.com/comparison-tool?player=650633-2026-pitcher&player=685299-2026-pitcher)
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/144.svg) | ATL |  | 7:40 PM |
-| ![](https://www.mlbstatic.com/team-logos/112.svg) | CHC |  |
-
-[Preview Matchup](https://baseballsavant.mlb.com/preview?game_pk=823656&game_date=2026-09-14)
-
-Warren vs. Kremer
-
-[(compare pitchers)](https://baseballsavant.mlb.com/comparison-tool?player=701542-2026-pitcher&player=665152-2026-pitcher)
-
-|     |     |     |     |
-| --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/147.svg) | NYY |  | 7:40 PM |
-| ![](https://www.mlbstatic.com/team-logos/142.svg) | MIN |  |
-
-[Preview Matchup](https://baseballsavant.mlb.com/preview?game_pk=823006&game_date=2026-09-14)
-
-Roupp vs. Mathews
-
-[(compare pitchers)](https://baseballsavant.mlb.com/comparison-tool?player=694738-2026-pitcher&player=687273-2026-pitcher)
-
-|     |     |     |     |
-| --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/137.svg) | SF |  | 7:45 PM |
-| ![](https://www.mlbstatic.com/team-logos/138.svg) | STL |  |
-
-[Preview Matchup](https://baseballsavant.mlb.com/preview?game_pk=824308&game_date=2026-09-14)
-
-Mize vs. Sugano
-
-[(compare pitchers)](https://baseballsavant.mlb.com/comparison-tool?player=663554-2026-pitcher&player=608372-2026-pitcher)
-
-|     |     |     |     |
-| --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/135.svg) | SD |  | 8:40 PM |
+| ![](https://www.mlbstatic.com/team-logos/135.svg) | SD |  | 3:10 PM |
 | ![](https://www.mlbstatic.com/team-logos/115.svg) | COL |  |
 
-[Preview Matchup](https://baseballsavant.mlb.com/preview?game_pk=823981&game_date=2026-09-14)
+[Preview Matchup](https://baseballsavant.mlb.com/preview?game_pk=824141&game_date=2026-09-17)
 
-Anderson vs. Detmers
-
-[(compare pitchers)](https://baseballsavant.mlb.com/comparison-tool?player=807739-2026-pitcher&player=672282-2026-pitcher)
+Lugo vs. TBA
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/136.svg) | SEA |  | 9:38 PM |
+| ![](https://www.mlbstatic.com/team-logos/118.svg) | KC |  | 7:15 PM |
+| ![](https://www.mlbstatic.com/team-logos/117.svg) | HOU |  |
+
+[Preview Matchup](https://baseballsavant.mlb.com/preview?game_pk=823573&game_date=2026-09-17)
+
+Nola vs. McLean
+
+[(compare pitchers)](https://baseballsavant.mlb.com/comparison-tool?player=605400-2026-pitcher&player=690997-2026-pitcher)
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| ![](https://www.mlbstatic.com/team-logos/143.svg) | PHI |  | 7:15 PM |
+| ![](https://www.mlbstatic.com/team-logos/121.svg) | NYM |  |
+
+[Preview Matchup](https://baseballsavant.mlb.com/preview?game_pk=824548&game_date=2026-09-17)
+
+Valdez vs. Fedde
+
+[(compare pitchers)](https://baseballsavant.mlb.com/comparison-tool?player=664285-2026-pitcher&player=607200-2026-pitcher)
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| ![](https://www.mlbstatic.com/team-logos/116.svg) | DET |  | 7:40 PM |
+| ![](https://www.mlbstatic.com/team-logos/145.svg) | CWS |  |
+
+[Preview Matchup](https://baseballsavant.mlb.com/preview?game_pk=822845&game_date=2026-09-17)
+
+Gray vs. Alexander
+
+[(compare pitchers)](https://baseballsavant.mlb.com/comparison-tool?player=543243-2026-pitcher&player=641302-2026-pitcher)
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| ![](https://www.mlbstatic.com/team-logos/111.svg) | BOS |  | 8:05 PM |
+| ![](https://www.mlbstatic.com/team-logos/140.svg) | TEX |  |
+
+[Preview Matchup](https://baseballsavant.mlb.com/preview?game_pk=823978&game_date=2026-09-17)
+
+Bradley vs. Ureña
+
+[(compare pitchers)](https://baseballsavant.mlb.com/comparison-tool?player=671737-2026-pitcher&player=700712-2026-pitcher)
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| ![](https://www.mlbstatic.com/team-logos/142.svg) | MIN |  | 9:38 PM |
 | ![](https://www.mlbstatic.com/team-logos/108.svg) | LAA |  |
-
-[Preview Matchup](https://baseballsavant.mlb.com/preview?game_pk=825034&game_date=2026-09-14)
-
-Alcantara vs. Burnes
-
-[(compare pitchers)](https://baseballsavant.mlb.com/comparison-tool?player=645261-2026-pitcher&player=669203-2026-pitcher)
-
-|     |     |     |     |
-| --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/146.svg) | MIA |  | 9:40 PM |
-| ![](https://www.mlbstatic.com/team-logos/109.svg) | AZ |  |
 
 <
 
@@ -161,7 +148,7 @@ Random Video [illustrator](https://baseballsavant.mlb.com/illustrator?playerId=8
 
 Pitch Usage
 
-vs. LHH43%19%24%13%1%Pitchvs. RHH45%31%9%13%2%44%FF24%SL17%CH13%CU2%SV
+Usage vs. LHH43%19%24%13%1%Pitch Run ValueUsage vs. RHH45%31%9%13%2%+3-44-Seam-1-1Slider+1-1Change+2-3Curve-10Slurve
 
 20252025
 
@@ -172,7 +159,7 @@ vs. LHH43%19%24%13%1%Pitchvs. RHH45%31%9%13%2%44%FF24%SL17%CH13%CU2%SV
 MLB Percentile Rankings
 [![](https://baseballsavant.mlb.com/site-core/images/comp_tool_icons27.png)](https://baseballsavant.mlb.com/comparison-tool?player=806185-2025-pitcher&openSearch=true "Compare to Other Players")
 
-![](https://baseballsavant.mlb.com/sections/evp/images/play.png)ValuesavantPOORAVERAGEGREATPitching Run Value-4NOT QUALIFIED26Fastball Run Value0NOT QUALIFIED40Breaking Run Value-4NOT QUALIFIED18Offspeed Run Value0NOT QUALIFIED61PitchingxERA4.67NOT QUALIFIED18xBA.227NOT QUALIFIED67Fastball Velo95.5NOT QUALIFIED69Avg Exit Velo89.8NOT QUALIFIED36Chase %25.3NOT QUALIFIED15Whiff %28.4NOT QUALIFIED74K %22.8NOT QUALIFIED51BB %12.4NOT QUALIFIED4Barrel %9.6NOT QUALIFIED26Hard-Hit %46.8NOT QUALIFIED7GB %34.0NOT QUALIFIED12Extension6.5NOT QUALIFIED57
+![](https://baseballsavant.mlb.com/sections/evp/images/play.png)ValuesavantPOORAVERAGEGREATPitching Run Value-4NOT QUALIFIED26Fastball Run Value0NOT QUALIFIED40Breaking Run Value-4NOT QUALIFIED18Offspeed Run Value0NOT QUALIFIED61PitchingxERA4.70NOT QUALIFIED18xBA.227NOT QUALIFIED67Fastball Velo95.5NOT QUALIFIED69Avg Exit Velo89.8NOT QUALIFIED36Chase %25.3NOT QUALIFIED15Whiff %28.4NOT QUALIFIED74K %22.8NOT QUALIFIED51BB %12.4NOT QUALIFIED4Barrel %9.6NOT QUALIFIED26Hard-Hit %46.8NOT QUALIFIED7GB %34.0NOT QUALIFIED12Extension6.5NOT QUALIFIED57
 
 20252025
 
@@ -357,19 +344,19 @@ No Minor League Hitting Statistics.
 
 #### MiLB.com Organization All-Star
 
-| Year | Team |
+| Season | Team |
 | --- | --- |
 | 2023 | ![](https://www.mlbstatic.com/team-logos/137.svg) |
 
 #### Baseball America Low Class A All-Star
 
-| Year | Team |
+| Season | Team |
 | --- | --- |
 | 2023 | ![](https://www.mlbstatic.com/team-logos/476.svg) |
 
 #### CAL Post-Season All-Star
 
-| Year | Team |
+| Season | Team |
 | --- | --- |
 | 2023 | ![](https://www.mlbstatic.com/team-logos/476.svg) |
 
@@ -580,10 +567,10 @@ No Minor League Hitting Statistics.
 
 ## [Statcast Statistics](https://baseballsavant.mlb.com/savant-player/hayden-birdsong-806185?stats=statcast-r-pitching-mlb\#statcast-statistics)
 
-| 2024 | 22 | 1388 | 180 | 16 | 8.9 | 5.1 | 92.0 | 112.5 | 13.8 | 32.8 | .228 | .413 | .321 | .335 | .407 | 50.0 | 27.9 | 13.7 | 4.75 | 4.64 |
-| 2025 | 23 | 1194 | 188 | 18 | 9.6 | 6.0 | 89.8 | 113.0 | 20.0 | 36.2 | .227 | .420 | .338 | .333 | .373 | 46.8 | 22.8 | 12.4 | 4.80 | 4.67 |
-| **Player** |  | 2582 | 368 | 34 | 9.2 | 5.5 | 90.9 | 113.0 | 17.0 | 34.5 | .228 | .416 | .329 | .334 | .390 | 48.4 | 25.4 | 13.1 |  |  |
-| **MLB** |  |  |  |  | 7.6 | 4.9 | 88.6 | 122.9 | 12.6 | 33.3 | .244 | .407 | .316 | .316 | .368 | 37.1 | 22.2 | 8.4 |  |  |
+| 2024 | 22 | ![](https://www.mlbstatic.com/team-logos/137.svg) | 1388 | 180 | 16 | 8.9 | 5.1 | 92.0 | 112.5 | 13.8 | 32.8 | .228 | .413 | .321 | .335 | .407 | 50.0 | 27.9 | 13.7 | 4.75 | 4.64 |
+| 2025 | 23 | ![](https://www.mlbstatic.com/team-logos/137.svg) | 1194 | 188 | 18 | 9.6 | 6.0 | 89.8 | 113.0 | 20.0 | 36.2 | .227 | .420 | .338 | .334 | .374 | 46.8 | 22.8 | 12.4 | 4.80 | 4.70 |
+| **Player** |  | ![](https://baseballsavant.mlb.com/site-core/images/savant-mlb.svg) | 2582 | 368 | 34 | 9.2 | 5.5 | 90.9 | 113.0 | 17.0 | 34.5 | .228 | .417 | .329 | .334 | .390 | 48.4 | 25.4 | 13.1 |  |  |
+| **MLB** |  | ![](https://baseballsavant.mlb.com/site-core/images/savant-mlb.svg) |  |  |  | 7.6 | 4.9 | 88.6 | 122.9 | 12.6 | 33.3 | .244 | .407 | .316 | .316 | .368 | 37.1 | 22.2 | 8.4 |  |  |
 
 ! Note: All figures in this table cover the period 2015-present.
 
@@ -680,11 +667,11 @@ Breaking: Slider, Curve, Knuckle, Sweeper, Slurve, Other
 ## [Pitch Tracking](https://baseballsavant.mlb.com/savant-player/hayden-birdsong-806185?stats=statcast-r-pitching-mlb\#pitch_tracking)
 
 | 2025 | Four Seamer | 527 | 263 | 264 | 44.1 | 95.5 | 135 | 103 | 21 | 6 | 8 | 2 | 5 | 23 | 83 | .204 | .198 | .466 | .433 | .361 | .357 | 90.3 | 29 | 2404 | 6.5 | 21.1 | 16.4 |
-| 2025 | Slider | 291 | 177 | 114 | 24.4 | 88.9 | 72 | 65 | 21 | 18 | 0 | 0 | 3 | 12 | 54 | .323 | .250 | .462 | .433 | .369 | .324 | 84.1 | 17 | 2385 | 6.4 | 30.4 | 19.0 |
+| 2025 | Slider | 291 | 177 | 114 | 24.4 | 88.9 | 72 | 65 | 21 | 18 | 0 | 0 | 3 | 12 | 54 | .323 | .251 | .462 | .434 | .369 | .324 | 84.1 | 17 | 2385 | 6.4 | 30.4 | 19.0 |
 | 2025 | Changeup | 201 | 54 | 147 | 16.8 | 88.7 | 55 | 52 | 11 | 10 | 1 | 0 | 0 | 20 | 32 | .212 | .245 | .231 | .345 | .221 | .279 | 92.9 | 2 | 1318 | 6.6 | 39.8 | 25.0 |
 | 2025 | Curveball | 155 | 74 | 81 | 13.0 | 80.3 | 33 | 29 | 7 | 3 | 3 | 0 | 1 | 13 | 16 | .241 | .216 | .448 | .393 | .341 | .313 | 96.4 | 16 | 2822 | 6.4 | 36.0 | 28.9 |
 | 2025 | Slurve | 20 | 12 | 8 | 1.7 | 84.7 | 3 | 3 | 1 | 0 | 0 | 0 | 1 | 0 | 3 | .333 | .527 | 1.333 | 1.236 | .679 | .731 | 91.0 | 21 | 2651 | 6.4 | 22.2 | 0.0 |
-| 2024 | Four Seamer | 619 | 249 | 370 | 44.6 | 95.8 | 151 | 116 | 25 | 12 | 6 | 1 | 6 | 25 | 94 | .216 | .270 | .440 | .544 | .363 | .417 | 92.4 | 21 | 2291 | 6.5 | 18.2 | 16.1 |
+| 2024 | Four Seamer | 619 | 249 | 370 | 44.6 | 95.8 | 151 | 116 | 25 | 12 | 6 | 1 | 6 | 25 | 94 | .216 | .270 | .440 | .545 | .363 | .417 | 92.4 | 21 | 2291 | 6.5 | 18.2 | 16.1 |
 | 2024 | Curveball | 259 | 107 | 152 | 18.7 | 80.5 | 60 | 55 | 8 | 6 | 1 | 0 | 1 | 27 | 29 | .145 | .178 | .218 | .252 | .190 | .220 | 85.9 | 7 | 2868 | 6.5 | 32.7 | 19.9 |
 | 2024 | Changeup | 256 | 63 | 193 | 18.4 | 88.1 | 55 | 52 | 14 | 11 | 2 | 0 | 1 | 18 | 34 | .269 | .228 | .365 | .358 | .297 | .277 | 91.5 | -4 | 1248 | 6.6 | 34.5 | 21.4 |
 | 2024 | Slider | 254 | 151 | 103 | 18.3 | 86.4 | 49 | 41 | 10 | 5 | 2 | 0 | 3 | 18 | 23 | .244 | .176 | .512 | .329 | .380 | .293 | 88.2 | 12 | 2485 | 6.4 | 49.1 | 30.0 |
@@ -745,19 +732,19 @@ On the right, Induced Movement (or IVB) is reported without gravity, and attempt
 
 |  | Total Movement (in inches, w/ gravity) | Induced Movement (in inches, w/o gravity) |
 | --- | --- | --- |
-| Year | Pitch | Team | Hand | # | MPH | Vertical<br>Drop | vs.<br>Comparable | Horizontal<br>Break | vs.<br>Comparable | Vertical<br>Break | vs. Avg | Horizontal<br>Break | vs. Avg |
+| Season | Pitch | Team | Hand | # | MPH | Vertical<br>Drop | vs.<br>Comparable | Horizontal<br>Break | vs.<br>Comparable | Vertical<br>Break | vs. Avg | Horizontal<br>Break | vs. Avg |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2025 | 4-Seam Fastball | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 527 | 95.5 | 12.0 | 1.1 | 6.0ARM | -0.1 | 18.1 | 2.3 | 6.0ARM | -1.6 |
-| 2025 | Slurve | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 20 | 84.7 | 41.5 | -1.9 | 2.3GLV | -5.0 | -3.4 | -1.4 | 2.3GLV | -10.1 |
-| 2025 | Curveball | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 155 | 80.3 | 55.2 | 1.3 | 3.8GLV | -3.1 | -12.6 | 2.4 | 3.8GLV | -5.2 |
-| 2025 | Changeup | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 201 | 88.7 | 34.7 | 5.1 | 11.9ARM | -2.4 | 0.0 | 4.1 | 11.9ARM | -2.6 |
-| 2025 | Slider | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 291 | 88.9 | 27.3 | -4.2 | 1.9GLV | -1.4 | 7.1 | -5.3 | 1.9GLV | -2.3 |
-| 2024 | Curveball | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 259 | 80.5 | 55.8 | 3.2 | 5.7GLV | -1.7 | -13.5 | 3.4 | 5.7GLV | -3.7 |
-| 2024 | Changeup | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 256 | 88.1 | 37.0 | 7.4 | 10.8ARM | -3.3 | -1.9 | 6.8 | 10.8ARM | -3.4 |
-| 2024 | Slider | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 254 | 86.4 | 35.4 | 0.7 | 1.5GLV | -2.7 | 1.1 | 0.6 | 1.5GLV | -3.1 |
-| 2024 | 4-Seam Fastball | ![](https://www.mlbstatic.com/team-logos/137.svg)SF | R | 619 | 95.8 | 13.5 | -0.2 | 9.5ARM | 2.7 | 16.4 | 0.6 | 9.5ARM | 2.0 |
+| 2025 | 4-Seam Fastball | ![](https://www.mlbstatic.com/team-logos/137.svg) | R | 527 | 95.5 | 12.0 | 1.1 | 6.0ARM | -0.1 | 18.1 | 2.3 | 6.0ARM | -1.6 |
+| 2025 | Slurve | ![](https://www.mlbstatic.com/team-logos/137.svg) | R | 20 | 84.7 | 41.5 | -1.9 | 2.3GLV | -5.0 | -3.4 | -1.4 | 2.3GLV | -10.1 |
+| 2025 | Curveball | ![](https://www.mlbstatic.com/team-logos/137.svg) | R | 155 | 80.3 | 55.2 | 1.3 | 3.8GLV | -3.1 | -12.6 | 2.4 | 3.8GLV | -5.2 |
+| 2025 | Changeup | ![](https://www.mlbstatic.com/team-logos/137.svg) | R | 201 | 88.7 | 34.7 | 5.1 | 11.9ARM | -2.4 | 0.0 | 4.1 | 11.9ARM | -2.6 |
+| 2025 | Slider | ![](https://www.mlbstatic.com/team-logos/137.svg) | R | 291 | 88.9 | 27.3 | -4.2 | 1.9GLV | -1.4 | 7.1 | -5.3 | 1.9GLV | -2.3 |
+| 2024 | Curveball | ![](https://www.mlbstatic.com/team-logos/137.svg) | R | 259 | 80.5 | 55.8 | 3.2 | 5.7GLV | -1.7 | -13.5 | 3.4 | 5.7GLV | -3.7 |
+| 2024 | Changeup | ![](https://www.mlbstatic.com/team-logos/137.svg) | R | 256 | 88.1 | 37.0 | 7.4 | 10.8ARM | -3.3 | -1.9 | 6.8 | 10.8ARM | -3.4 |
+| 2024 | Slider | ![](https://www.mlbstatic.com/team-logos/137.svg) | R | 254 | 86.4 | 35.4 | 0.7 | 1.5GLV | -2.7 | 1.1 | 0.6 | 1.5GLV | -3.1 |
+| 2024 | 4-Seam Fastball | ![](https://www.mlbstatic.com/team-logos/137.svg) | R | 619 | 95.8 | 13.5 | -0.2 | 9.5ARM | 2.7 | 16.4 | 0.6 | 9.5ARM | 2.0 |
 
-! Note: Years are in reverse order.
+! Note: Seasons are in reverse order.
 
 [\+ View Complete Pitch Movement Leaderboard](https://baseballsavant.mlb.com/pitch-movement)
 
@@ -766,11 +753,11 @@ On the right, Induced Movement (or IVB) is reported without gravity, and attempt
 | Team | RV/100 | Run Value | Pitches | % | PA | BA | SLG | wOBA | Whiff% | K% | PutAway % | xBA | xSLG | xwOBA | Hard Hit % |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2025 | 4-Seam Fastball | ![](https://www.mlbstatic.com/team-logos/137.svg) | -0.1 | 0 | 527 | 44.1 | 135 | .204 | .466 | .362 | 21.1 | 17.0 | 16.4 | .198 | .433 | .358 | 44.6 |
-| 2025 | Slider | ![](https://www.mlbstatic.com/team-logos/137.svg) | -0.8 | -2 | 291 | 24.4 | 72 | .323 | .462 | .397 | 30.4 | 16.7 | 19.0 | .250 | .433 | .324 | 38.9 |
+| 2025 | Slider | ![](https://www.mlbstatic.com/team-logos/137.svg) | -0.8 | -2 | 291 | 24.4 | 72 | .323 | .462 | .397 | 30.4 | 16.7 | 19.0 | .251 | .434 | .324 | 38.9 |
 | 2025 | Changeup | ![](https://www.mlbstatic.com/team-logos/137.svg) | 0.2 | 0 | 201 | 16.8 | 55 | .212 | .231 | .241 | 39.8 | 36.4 | 25.0 | .245 | .345 | .280 | 56.3 |
 | 2025 | Curveball | ![](https://www.mlbstatic.com/team-logos/137.svg) | -0.8 | -1 | 155 | 13.0 | 33 | .241 | .448 | .341 | 36.0 | 39.4 | 28.9 | .216 | .393 | .312 | 62.5 |
 | 2025 | Slurve | ![](https://www.mlbstatic.com/team-logos/137.svg) | -3.4 | -1 | 20 | 1.7 | 3 | .333 | 1.333 | .667 | 22.2 | 0.0 | 0.0 | .527 | 1.236 | .731 | 66.7 |
-| 2024 | 4-Seam Fastball | ![](https://www.mlbstatic.com/team-logos/137.svg) | -0.4 | -3 | 619 | 44.6 | 151 | .216 | .440 | .364 | 18.2 | 16.6 | 16.1 | .270 | .544 | .419 | 54.3 |
+| 2024 | 4-Seam Fastball | ![](https://www.mlbstatic.com/team-logos/137.svg) | -0.4 | -3 | 619 | 44.6 | 151 | .216 | .440 | .364 | 18.2 | 16.6 | 16.1 | .270 | .545 | .419 | 54.3 |
 | 2024 | Curveball | ![](https://www.mlbstatic.com/team-logos/137.svg) | 0.9 | 2 | 259 | 18.7 | 60 | .145 | .218 | .191 | 32.7 | 45.0 | 19.9 | .178 | .252 | .219 | 31.0 |
 | 2024 | Changeup | ![](https://www.mlbstatic.com/team-logos/137.svg) | -1.0 | -3 | 256 | 18.4 | 55 | .269 | .365 | .300 | 34.5 | 32.7 | 21.4 | .228 | .358 | .278 | 52.9 |
 | 2024 | Slider | ![](https://www.mlbstatic.com/team-logos/137.svg) | -0.4 | -1 | 254 | 18.3 | 49 | .244 | .512 | .380 | 49.1 | 36.7 | 30.0 | .176 | .329 | .294 | 52.2 |
@@ -783,7 +770,7 @@ On the right, Induced Movement (or IVB) is reported without gravity, and attempt
 
 ## [Spin Direction](https://baseballsavant.mlb.com/savant-player/hayden-birdsong-806185?stats=statcast-r-pitching-mlb\#spin_axis)
 
-| Year | Pitch Type | Pitches | MPH | Active Spin % | Total Movement (In.) | Spin-Based | Observed | Deviation |
+| Season | Pitch Type | Pitches | MPH | Active Spin % | Total Movement (In.) | Spin-Based | Observed | Deviation |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2025 | Changeup | 185 | 88.7 | 89 | 12.8 | 2:15 | 3:15 | -60 |
 | 2025 | Curveball | 154 | 80.3 | 67 | 15.8 | 7:00 | 6:30 | 30 |
@@ -811,7 +798,7 @@ View Complete Spin Direction Leaderboard](https://baseballsavant.mlb.com/leaderb
 
 ## [Pitcher Arm Angle](https://baseballsavant.mlb.com/savant-player/hayden-birdsong-806185?stats=statcast-r-pitching-mlb\#arm_angles)
 
-'24'25All YearsClick a year to see pitches
+'24'25All SeasonsClick a year to see pitches
 
 ARM ANGLE41°2024ARM ANGLE48°2025
 
@@ -827,7 +814,7 @@ These run values are **context-neutral**, meaning they do not take into account 
 
 |  | Runs |
 | --- | --- |
-| Year | Team | PA | Pitches | Heart | Shadow | Chase | Waste | All |
+| Season | Team | PA | Pitches | Heart | Shadow | Chase | Waste | All |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2024 | ![](https://www.mlbstatic.com/team-logos/137.svg) | 315 | 1,388 | 4 | 12 | -10 | -10 | -4 |
 | 2025 | ![](https://www.mlbstatic.com/team-logos/137.svg) | 298 | 1,194 | 6 | 6 | -9 | -7 | -4 |
@@ -845,11 +832,11 @@ These run values are **leveraged**, meaning the base/out situation at the time o
 
 |  | Runs |  |
 | --- | --- | --- |
-| Year | Team | PA | Pitches | Heart | Shadow | Chase | Waste | All | \+/\- Due To<br>Leverage |
+| Season | Team | PA | Pitches | Heart | Shadow | Chase | Waste | All | \+/\- Due To<br>Leverage |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2024 | ![](https://www.mlbstatic.com/team-logos/137.svg) | 315 | 1,388 | 5 | 15 | -9 | -9 | 2 | 6 |
 | 2025 | ![](https://www.mlbstatic.com/team-logos/137.svg) | 298 | 1,194 | 4 | 7 | -11 | -8 | -7 | -3 |
-| Player |  | 613 | 2,582 | 9 | 22 | -19 | 9 | -5 | 3 |
+| Player | ![](https://baseballsavant.mlb.com/site-core/images/savant-mlb.svg) | 613 | 2,582 | 9 | 22 | -19 | 9 | -5 | 3 |
 
 – Hide Leverage-Based Run Value
 
@@ -867,7 +854,7 @@ These run values are **leveraged**, meaning the base/out situation at the time o
 
 |  | Run Value | Pitching |
 | --- | --- | --- |
-| Year | Pitching | Fastball | Breaking | Off<br>Speed | xERA | Fastball<br>MPH | Fastball<br>Spin | Curve<br>Spin | Avg<br>EV | Chase% | Whiff% | K% | BB% | Barrel% | Hard-<br>Hit% | GB% | Extension |
+| Season | Pitching | Fastball | Breaking | Off<br>Speed | xERA | Fastball<br>MPH | Fastball<br>Spin | Curve<br>Spin | Avg<br>EV | Chase% | Whiff% | K% | BB% | Barrel% | Hard-<br>Hit% | GB% | Extension |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2024 | 28 | 30 | 58 | 24 | 19 | 78 | 61 | 91 | 1 | 18 | 82 | 83 | 1 | 25 | 1 | 43 | 53 |
 | 2025 | 26 | 40 | 18 | 61 | 18 | 69 | 80 | 83 | 36 | 15 | 74 | 51 | 4 | 26 | 7 | 12 | 57 |
@@ -883,7 +870,7 @@ Compare To Other Players ![](https://baseballsavant.mlb.com/site-core/images/com
 
 Adjusted
 
-| Year | Team | Avg HR Trot | Actual HR | xHR | HR-xHR | Doubters | Mostly Gone | No Doubters | No Doubter % |
+| Season | Team | Avg HR Trot | Actual HR | xHR | HR-xHR | Doubters | Mostly Gone | No Doubters | No Doubter % |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2024 | ![](https://www.mlbstatic.com/team-logos/137.svg) | 23.03 | 11 | 11.5 | -1 | 3 | 10 | 4 | 36.4 |
 | 2025 | ![](https://www.mlbstatic.com/team-logos/137.svg) | 25.44 | 10 | 10.3 | 0 | 8 | 5 | 6 | 60.0 |
@@ -894,7 +881,7 @@ Note: xHR tells how many of this pitcher's batted balls allowed would have been 
 
 Standard
 
-| Year | Team | Avg HR Trot | Actual HR | xHR | HR-xHR | Doubters | Mostly Gone | No Doubters | No Doubter % |
+| Season | Team | Avg HR Trot | Actual HR | xHR | HR-xHR | Doubters | Mostly Gone | No Doubters | No Doubter % |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2024 | ![](https://www.mlbstatic.com/team-logos/137.svg) | 23.03 | 11 | 12.0 | -1 | 3 | 12 | 3 | 27.3 |
 | 2025 | ![](https://www.mlbstatic.com/team-logos/137.svg) | 25.44 | 10 | 11.1 | -1 | 7 | 4 | 8 | 80.0 |
@@ -910,7 +897,7 @@ View Standard Expected Home Runs
 
 Adjusted
 
-| Year | HR | ![](https://www.mlbstatic.com/team-logos/110.svg) | ![](https://www.mlbstatic.com/team-logos/111.svg) | ![](https://www.mlbstatic.com/team-logos/147.svg) | ![](https://www.mlbstatic.com/team-logos/139.svg) | ![](https://www.mlbstatic.com/team-logos/141.svg) | ![](https://www.mlbstatic.com/team-logos/145.svg) | ![](https://www.mlbstatic.com/team-logos/114.svg) | ![](https://www.mlbstatic.com/team-logos/116.svg) | ![](https://www.mlbstatic.com/team-logos/118.svg) | ![](https://www.mlbstatic.com/team-logos/142.svg) | ![](https://www.mlbstatic.com/team-logos/117.svg) | ![](https://www.mlbstatic.com/team-logos/108.svg) | ![](https://www.mlbstatic.com/team-logos/133.svg) | ![](https://www.mlbstatic.com/team-logos/136.svg) | ![](https://www.mlbstatic.com/team-logos/140.svg) | ![](https://www.mlbstatic.com/team-logos/144.svg) | ![](https://www.mlbstatic.com/team-logos/146.svg) | ![](https://www.mlbstatic.com/team-logos/121.svg) | ![](https://www.mlbstatic.com/team-logos/143.svg) | ![](https://www.mlbstatic.com/team-logos/120.svg) | ![](https://www.mlbstatic.com/team-logos/112.svg) | ![](https://www.mlbstatic.com/team-logos/113.svg) | ![](https://www.mlbstatic.com/team-logos/158.svg) | ![](https://www.mlbstatic.com/team-logos/134.svg) | ![](https://www.mlbstatic.com/team-logos/138.svg) | ![](https://www.mlbstatic.com/team-logos/109.svg) | ![](https://www.mlbstatic.com/team-logos/115.svg) | ![](https://www.mlbstatic.com/team-logos/119.svg) | ![](https://www.mlbstatic.com/team-logos/135.svg) | ![](https://www.mlbstatic.com/team-logos/137.svg) |
+| Season | HR | ![](https://www.mlbstatic.com/team-logos/110.svg) | ![](https://www.mlbstatic.com/team-logos/111.svg) | ![](https://www.mlbstatic.com/team-logos/147.svg) | ![](https://www.mlbstatic.com/team-logos/139.svg) | ![](https://www.mlbstatic.com/team-logos/141.svg) | ![](https://www.mlbstatic.com/team-logos/145.svg) | ![](https://www.mlbstatic.com/team-logos/114.svg) | ![](https://www.mlbstatic.com/team-logos/116.svg) | ![](https://www.mlbstatic.com/team-logos/118.svg) | ![](https://www.mlbstatic.com/team-logos/142.svg) | ![](https://www.mlbstatic.com/team-logos/117.svg) | ![](https://www.mlbstatic.com/team-logos/108.svg) | ![](https://www.mlbstatic.com/team-logos/133.svg) | ![](https://www.mlbstatic.com/team-logos/136.svg) | ![](https://www.mlbstatic.com/team-logos/140.svg) | ![](https://www.mlbstatic.com/team-logos/144.svg) | ![](https://www.mlbstatic.com/team-logos/146.svg) | ![](https://www.mlbstatic.com/team-logos/121.svg) | ![](https://www.mlbstatic.com/team-logos/143.svg) | ![](https://www.mlbstatic.com/team-logos/120.svg) | ![](https://www.mlbstatic.com/team-logos/112.svg) | ![](https://www.mlbstatic.com/team-logos/113.svg) | ![](https://www.mlbstatic.com/team-logos/158.svg) | ![](https://www.mlbstatic.com/team-logos/134.svg) | ![](https://www.mlbstatic.com/team-logos/138.svg) | ![](https://www.mlbstatic.com/team-logos/109.svg) | ![](https://www.mlbstatic.com/team-logos/115.svg) | ![](https://www.mlbstatic.com/team-logos/119.svg) | ![](https://www.mlbstatic.com/team-logos/135.svg) | ![](https://www.mlbstatic.com/team-logos/137.svg) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2024 | 11 | 10 | 11 | 10 | 11 | 13 | 15 | 11 | 10 | 8 | 11 | 14 | 11 | 10 | 11 | 8 | 10 | 10 | 14 | 16 | 12 | 11 | 17 | 13 | 9 | 12 | 11 | 13 | 13 | 11 | 10 |
 | 2025 | 10 | 10 | 7 | 11 | 11 | 11 | 11 | 10 | 8 | 10 | 9 | 13 | 12 | 14 | 11 | 9 | 11 | 10 | 10 | 12 | 10 | 7 | 13 | 11 | 11 | 9 | 8 | 10 | 11 | 10 | 10 |
@@ -921,7 +908,7 @@ Note: xHR tells how many of this pitcher's batted balls allowed would have been 
 
 Standard
 
-| Year | HR | ![](https://www.mlbstatic.com/team-logos/110.svg) | ![](https://www.mlbstatic.com/team-logos/111.svg) | ![](https://www.mlbstatic.com/team-logos/147.svg) | ![](https://www.mlbstatic.com/team-logos/139.svg) | ![](https://www.mlbstatic.com/team-logos/141.svg) | ![](https://www.mlbstatic.com/team-logos/145.svg) | ![](https://www.mlbstatic.com/team-logos/114.svg) | ![](https://www.mlbstatic.com/team-logos/116.svg) | ![](https://www.mlbstatic.com/team-logos/118.svg) | ![](https://www.mlbstatic.com/team-logos/142.svg) | ![](https://www.mlbstatic.com/team-logos/117.svg) | ![](https://www.mlbstatic.com/team-logos/108.svg) | ![](https://www.mlbstatic.com/team-logos/133.svg) | ![](https://www.mlbstatic.com/team-logos/136.svg) | ![](https://www.mlbstatic.com/team-logos/140.svg) | ![](https://www.mlbstatic.com/team-logos/144.svg) | ![](https://www.mlbstatic.com/team-logos/146.svg) | ![](https://www.mlbstatic.com/team-logos/121.svg) | ![](https://www.mlbstatic.com/team-logos/143.svg) | ![](https://www.mlbstatic.com/team-logos/120.svg) | ![](https://www.mlbstatic.com/team-logos/112.svg) | ![](https://www.mlbstatic.com/team-logos/113.svg) | ![](https://www.mlbstatic.com/team-logos/158.svg) | ![](https://www.mlbstatic.com/team-logos/134.svg) | ![](https://www.mlbstatic.com/team-logos/138.svg) | ![](https://www.mlbstatic.com/team-logos/109.svg) | ![](https://www.mlbstatic.com/team-logos/115.svg) | ![](https://www.mlbstatic.com/team-logos/119.svg) | ![](https://www.mlbstatic.com/team-logos/135.svg) | ![](https://www.mlbstatic.com/team-logos/137.svg) |
+| Season | HR | ![](https://www.mlbstatic.com/team-logos/110.svg) | ![](https://www.mlbstatic.com/team-logos/111.svg) | ![](https://www.mlbstatic.com/team-logos/147.svg) | ![](https://www.mlbstatic.com/team-logos/139.svg) | ![](https://www.mlbstatic.com/team-logos/141.svg) | ![](https://www.mlbstatic.com/team-logos/145.svg) | ![](https://www.mlbstatic.com/team-logos/114.svg) | ![](https://www.mlbstatic.com/team-logos/116.svg) | ![](https://www.mlbstatic.com/team-logos/118.svg) | ![](https://www.mlbstatic.com/team-logos/142.svg) | ![](https://www.mlbstatic.com/team-logos/117.svg) | ![](https://www.mlbstatic.com/team-logos/108.svg) | ![](https://www.mlbstatic.com/team-logos/133.svg) | ![](https://www.mlbstatic.com/team-logos/136.svg) | ![](https://www.mlbstatic.com/team-logos/140.svg) | ![](https://www.mlbstatic.com/team-logos/144.svg) | ![](https://www.mlbstatic.com/team-logos/146.svg) | ![](https://www.mlbstatic.com/team-logos/121.svg) | ![](https://www.mlbstatic.com/team-logos/143.svg) | ![](https://www.mlbstatic.com/team-logos/120.svg) | ![](https://www.mlbstatic.com/team-logos/112.svg) | ![](https://www.mlbstatic.com/team-logos/113.svg) | ![](https://www.mlbstatic.com/team-logos/158.svg) | ![](https://www.mlbstatic.com/team-logos/134.svg) | ![](https://www.mlbstatic.com/team-logos/138.svg) | ![](https://www.mlbstatic.com/team-logos/109.svg) | ![](https://www.mlbstatic.com/team-logos/115.svg) | ![](https://www.mlbstatic.com/team-logos/119.svg) | ![](https://www.mlbstatic.com/team-logos/135.svg) | ![](https://www.mlbstatic.com/team-logos/137.svg) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2024 | 11 | 10 | 13 | 13 | 12 | 15 | 16 | 13 | 11 | 6 | 10 | 14 | 11 | 11 | 15 | 8 | 10 | 11 | 15 | 16 | 12 | 14 | 15 | 13 | 8 | 12 | 10 | 6 | 15 | 14 | 11 |
 | 2025 | 10 | 12 | 10 | 14 | 14 | 11 | 12 | 12 | 9 | 8 | 9 | 13 | 12 | 12 | 12 | 10 | 11 | 11 | 12 | 12 | 11 | 10 | 13 | 12 | 12 | 10 | 8 | 8 | 12 | 11 | 11 |
@@ -952,9 +939,9 @@ View Complete Expected Home Runs Leaderboard](https://baseballsavant.mlb.com/lea
 | [xISO](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | .193 | +.008 | ↑ | .185 |
 | [BABIP](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | .288 | +.013 | ↑ | .275 |
 | [wOBA](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | .338 | +.017 | ↑ | .321 |
-| [xwOBA](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | .333 | -.002 | ↓ | .335 |
+| [xwOBA](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | .334 | -.001 | ↓ | .335 |
 | [wOBAcon](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | .381 | -.001 | ↓ | .382 |
-| [xwOBAcon](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | .373 | -.034 | ↓ | .407 |
+| [xwOBAcon](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | .374 | -.033 | ↓ | .407 |
 | [BACON](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | .326 | +.006 | ↑ | .320 |
 | [xBACON](https://baseballsavant.mlb.com/leaderboard/statcast-year-to-year?group=Pitcher&type=) | .310 | -.029 | ↓ | .339 |
 | Statcast Hit Metrics |  |  |  |  |
@@ -1049,7 +1036,7 @@ View Complete Year to Year Changes Leaderboard](https://baseballsavant.mlb.com/l
 
 |  | vs RHH | vs LHH |
 | --- | --- | --- |
-| Year | Alignment Type | PA | wOBA | PA | Total | % | PA | Total | % |
+| Season | Alignment Type | PA | wOBA | PA | Total | % | PA | Total | % |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2024 | Shades | 315 | .321 | 129 | 5 | 3.9 | 186 | 39 | 21.0 |
 | 2025 | Shades | 298 | .338 | 152 | 1 | 0.7 | 146 | 12 | 8.2 |
@@ -1084,7 +1071,7 @@ Hayden Birdsong - 2025 Frequency of Pitches by Pitch Speed4-Seam FastballChangeu
 
 |  | Runner on 1B (Only Runner On) | _SB + BK_ | _CS + PK_ | Runner Distance to 2B<br>on all SB Opportunities | Runner Distance to 2B<br>on SB Attempts Only |
 | --- | --- | --- | --- | --- | --- |
-| Year | Team | Pitcher <br>Stealing <br>Runs | Net <br>Bases<br>Prev. | Adv. <br> Prev.<br> vs Avg | Outs <br>vs Avg | SB Opp<br>(pitches) | SB Att % | SB | CS | Pickoffs | Balks | Forced <br>Balks | Base<br>Advances<br>Allowed | Outs<br>Created<br>On Bases | Lead<br>Distance<br>Gained | At<br>Pitcher's<br>First Move | At<br>Pitch<br>Release | Lead<br>Distance<br>Gained | At<br>Pitcher's<br>First Move | At<br>Pitch<br>Release |
+| Season | Team | Pitcher <br>Stealing <br>Runs | Net <br>Bases<br>Prev. | Adv. <br> Prev.<br> vs Avg | Outs <br>vs Avg | SB Opp<br>(pitches) | SB Att % | SB | CS | Pickoffs | Balks | Forced <br>Balks | Base<br>Advances<br>Allowed | Outs<br>Created<br>On Bases | Lead<br>Distance<br>Gained | At<br>Pitcher's<br>First Move | At<br>Pitch<br>Release | Lead<br>Distance<br>Gained | At<br>Pitcher's<br>First Move | At<br>Pitch<br>Release |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2024 | ![](https://www.mlbstatic.com/team-logos/137.svg) | 1 | 4 | 5 | -1 | 492 | 0.4% | 2 | 0 | 0 | 0 | 0 | 2 | 0 | 4.0 | 10.8 | 14.7 | 6.2 | 10.9 | 17.1 |
 | 2025 | ![](https://www.mlbstatic.com/team-logos/137.svg) | 0 | 3 | 3 | -1 | 410 | 0.5% | 1 | 1 | 0 | 0 | 0 | 1 | 1 | 3.8 | 11.2 | 15.0 | 8.7 | 11.7 | 20.4 |
@@ -1277,18 +1264,18 @@ Hayden BirdsongHard Hit / Swings (%)2112103431182026118973
 
 Hayden BirdsongHard Hit / Pitches (%)1486202413111772321
 
-Hayden BirdsongxBA.189.198.042.310.301.233.277.302.268.176.330.114.093
+Hayden BirdsongxBA.189.198.042.311.301.233.277.303.268.176.330.114.093
 
-Hayden BirdsongxBA (Contact).264.279.058.370.301.270.474.366.329.260.390.388.307
+Hayden BirdsongxBA (Contact).264.279.058.371.301.270.474.367.329.260.390.388.307
 
-Hayden BirdsongxOBP.189.219.042.306.301.233.277.331.268.551.455.372.436
+Hayden BirdsongxOBP.189.219.042.307.301.233.277.332.268.551.455.372.436
 
-Hayden BirdsongxSLG.385.451.062.580.703.452.404.468.411.370.384.222.102
+Hayden BirdsongxSLG.385.451.062.581.703.452.404.469.411.370.384.222.102
 
 Hayden BirdsongxISO.196.253.020.270.402.219.128.166.144.194.055.108.009
 
-Hayden BirdsongxwOBA.239.288.046.373.417.288.293.345.293.439.384.302.317
+Hayden BirdsongxwOBA.239.288.046.374.417.288.293.346.293.439.384.302.317
 
-Hayden BirdsongxwOBA (Contact).335.367.063.452.417.333.503.400.361.336.370.482.287
+Hayden BirdsongxwOBA (Contact).335.367.063.453.417.333.503.401.361.336.370.482.287
 
 Loading Chart...
