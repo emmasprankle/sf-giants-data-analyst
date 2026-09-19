@@ -24,7 +24,7 @@ Pitcher
 **Team:** [Milwaukee Brewers](https://www.baseball-reference.com/teams/MIL/2026.shtml) (majors)
 
 
-**[Born:](https://www.baseball-reference.com/bio/)**[August 12](https://www.baseball-reference.com/friv/birthdays.cgi?month=8&day=12), [2001](https://www.baseball-reference.com/leagues/majors/2001-births.shtml)(Age: 25-036d)
+**[Born:](https://www.baseball-reference.com/bio/)**[August 12](https://www.baseball-reference.com/friv/birthdays.cgi?month=8&day=12), [2001](https://www.baseball-reference.com/leagues/majors/2001-births.shtml)(Age: 25-038d)
 
 in San Jose, [CA](https://www.baseball-reference.com/bio/CA_born.shtml)us
 
@@ -100,9 +100,9 @@ More bio, uniform, draft, salary info
 
 **WAR**
 
-0.9
+0.5
 
-2.4
+2.0
 
 **W**
 
@@ -112,27 +112,27 @@ More bio, uniform, draft, salary info
 
 **L**
 
-4
+5
 
-13
+14
 
 **ERA**
 
-3.98
+4.25
 
-4.24
+4.34
 
 **G**
 
-24
+25
 
-66
+67
 
 **GS**
 
-23
+24
 
-60
+61
 
 **SV**
 
@@ -142,27 +142,27 @@ More bio, uniform, draft, salary info
 
 **IP**
 
-110.2
+112.1
 
-305.1
+307.0
 
 **SO**
 
-134
+136
 
-325
+327
 
 **WHIP**
 
-1.310
+1.344
 
-1.313
+1.326
 
 [![](https://cdn.ssref.net/req/202609141/images/klecko/mlbtr.png)](http://www.mlbtraderumors.com/)
 
-**9/13** The Red Sox announced that first baseman Willson Contreras has been activated from the 10-day injured list.  Infielder Anthony Seigler has been placed on the 10-day IL in the corresponding move, as Seigler
+**9/18** Anthony Franco Good afternoon, hope all is well! Looking forward to another of these, let’s get started Braves fan since 1968 Will the braves Target a short stop in the off-season Anthony Franco
 
-[See More at MLBTradeRumors](https://www.mlbtraderumors.com/2026/09/red-sox-activate-willson-contreras-place-anthony-seigler-on-10-day-il.html)
+[See More at MLBTradeRumors](https://www.mlbtraderumors.com/2026/09/front-office-subscriber-chat-with-anthony-franco-today-at-200pm-central-85.html)
 
 **Kyle Harrison** Menu
 
@@ -291,7 +291,6 @@ More Kyle Harrison Pages at Baseball Reference
   - [Appearances](https://www.baseball-reference.com/players/h/harriky01.shtml#all_appearances)
   - [Standard Fielding](https://www.baseball-reference.com/players/h/harriky01.shtml#all_players_standard_fielding)
   - [Leaderboards, Awards, & Honors](https://www.baseball-reference.com/players/h/harriky01.shtml#all_leaderboard)
-  - [Hall of Fame Statistics](https://www.baseball-reference.com/players/h/harriky01.shtml#all_hof_other)
   - [Similarity Scores](https://www.baseball-reference.com/players/h/harriky01.shtml#all_ss_other)
   - [Transactions](https://www.baseball-reference.com/players/h/harriky01.shtml#all_transactions_other)
   - [Salaries](https://www.baseball-reference.com/players/h/harriky01.shtml#all_br-salaries)
@@ -311,11 +310,11 @@ More Kyle Harrison Pages at Baseball Reference
 
 | Date | Tm |  | Opp | Result | App,Dec | DR | IP | H | R | ER | BB | SO | HR | HBP | WP | IBB | PO | BK | BF | Pit | Str | StL | StS | GB | FB | LD | PU | Unk | GmSc | IR | IS | WPA | aLI | cWPA | acLI | RE24 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| [2026-09-17](https://www.baseball-reference.com/boxes/PIT/PIT202609170.shtml) | [MIL](https://www.baseball-reference.com/teams/MIL/2026.shtml) | @ | [PIT](https://www.baseball-reference.com/teams/PIT/2026.shtml) | L, 4-7 | GS-2, L | 4 | 1.2 | 4 | 5 | 4 | 2 | 2 | 0 | 2 | 0 | 0 | 0 | 0 | 14 | 50 | 29 | 7 | 5 | 4 | 3 | 3 | 0 | 0 | 29 |  |  | -0.383 | 1.12 | -0.1% | 0.70 | -4.717 |
 | [2026-09-12](https://www.baseball-reference.com/boxes/MIL/MIL202609120.shtml) | [MIL](https://www.baseball-reference.com/teams/MIL/2026.shtml) |  | [CIN](https://www.baseball-reference.com/teams/CIN/2026.shtml) | W, 13-9 | 8-8 | 5 | 0.0 | 4 | 4 | 4 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 4 | 17 | 12 | 2 | 0 | 1 | 3 | 2 | 0 | 0 |  | 0 | 0 | -0.027 | 0.13 | 0.0% | 0.08 | -3.001 |
 | [2026-09-06](https://www.baseball-reference.com/boxes/CIN/CIN202609060.shtml) | [MIL](https://www.baseball-reference.com/teams/MIL/2026.shtml) | @ | [CIN](https://www.baseball-reference.com/teams/CIN/2026.shtml) | L, 8-12 | GS-4 | 5 | 3.2 | 9 | 6 | 4 | 4 | 4 | 1 | 0 | 0 | 0 | 0 | 0 | 24 | 93 | 52 | 14 | 11 | 4 | 12 | 7 | 3 | 0 | 23 |  |  | -0.413 | 1.00 | -0.2% | 0.74 | -4.580 |
 | [2026-08-31](https://www.baseball-reference.com/boxes/CHN/CHN202608310.shtml) | [MIL](https://www.baseball-reference.com/teams/MIL/2026.shtml) | @ | [CHC](https://www.baseball-reference.com/teams/CHC/2026.shtml) | L, 3-17 | GS-4, L | 5 | 3.2 | 10 | 9 | 9 | 2 | 3 | 5 | 0 | 0 | 0 | 0 | 0 | 24 | 98 | 62 | 10 | 7 | 5 | 14 | 6 | 1 | 0 | 6 |  |  | -0.367 | 0.32 | -0.3% | 0.37 | -6.371 |
 | [2026-08-25](https://www.baseball-reference.com/boxes/NYN/NYN202608250.shtml) | [MIL](https://www.baseball-reference.com/teams/MIL/2026.shtml) | @ | [NYM](https://www.baseball-reference.com/teams/NYM/2026.shtml) | L, 2-3 (10) | GS-5 | 6 | 5.0 | 6 | 1 | 1 | 1 | 5 | 1 | 0 | 0 | 0 | 0 | 0 | 21 | 90 | 63 | 16 | 11 | 4 | 11 | 5 | 0 | 0 | 55 |  |  | 0.131 | 1.14 | 0.0% | 0.63 | 1.489 |
-| [2026-08-18](https://www.baseball-reference.com/boxes/MIL/MIL202608180.shtml) | [MIL](https://www.baseball-reference.com/teams/MIL/2026.shtml) |  | [SEA](https://www.baseball-reference.com/teams/SEA/2026.shtml) | W, 22-0 | GS-5, W | 6 | 5.0 | 2 | 0 | 0 | 2 | 8 | 0 | 0 | 1 | 0 | 0 | 0 | 18 | 79 | 49 | 20 | 9 | 5 | 3 | 2 | 0 | 0 | 69 |  |  | 0.290 | 0.99 | 0.0% | 0.00 | 2.539 |
 
 Last 5 Games Table
 
@@ -342,15 +341,15 @@ Regular Season
 | [2025](https://www.baseball-reference.com/players/gl.fcgi?id=harriky01&t=p&year=2025) | 23 | 2TM | 2LG | 0.5 | 1 | 1 | .500 | 4.04 | 11 | 6 | 2 | 0 | 0 | 0 | 35.2 | 35 | 16 | 16 | 4 | 14 | 1 | 38 | 1 | 0 | 1 | 156 | 102 | 3.72 | 1.374 | 8.8 | 1.0 | 3.5 | 9.6 | 2.71 |  |
 | [2025](https://www.baseball-reference.com/players/gl.fcgi?id=harriky01&t=p&year=2025) | 23 | [SFG](https://www.baseball-reference.com/teams/SFG/2025.shtml) | [NL](https://www.baseball-reference.com/leagues/NL/2025.shtml) | 0.2 | 1 | 1 | .500 | 4.56 | 8 | 4 | 2 | 0 | 0 | 0 | 23.2 | 21 | 12 | 12 | 4 | 9 | 1 | 25 | 0 | 0 | 0 | 100 | 88 | 4.36 | 1.268 | 8.0 | 1.5 | 3.4 | 9.5 | 2.78 |  |
 | [2025](https://www.baseball-reference.com/players/gl.fcgi?id=harriky01&t=p&year=2025) | 23 | [BOS](https://www.baseball-reference.com/teams/BOS/2025.shtml) | [AL](https://www.baseball-reference.com/leagues/AL/2025.shtml) | 0.3 | 0 | 0 |  | 3.00 | 3 | 2 | 0 | 0 | 0 | 0 | 12.0 | 14 | 4 | 4 | 0 | 5 | 0 | 13 | 1 | 0 | 1 | 56 | 142 | 2.47 | 1.583 | 10.5 | 0.0 | 3.8 | 9.8 | 2.60 |  |
-| [2026](https://www.baseball-reference.com/players/gl.fcgi?id=harriky01&t=p&year=2026) | 24 | [MIL](https://www.baseball-reference.com/teams/MIL/2026.shtml) | [NL](https://www.baseball-reference.com/leagues/NL/2026.shtml) | 0.9 | 10 | 4 | .714 | 3.98 | 24 | 23 | 0 | 0 | 0 | 0 | 110.2 | 112 | 56 | 49 | 20 | 33 | 0 | 134 | 4 | 0 | 3 | 475 | 104 | 4.03 | 1.310 | 9.1 | 1.6 | 2.7 | 10.9 | 4.06 |  |
-| 4 Yrs | 2.4 | 19 | 13 | .594 | 4.24 | 66 | 60 | 2 | 0 | 0 | 0 | 305.1 | 301 | 156 | 144 | 50 | 100 | 1 | 325 | 16 | 1 | 6 | 1310 | 95 | 4.29 | 1.313 | 8.9 | 1.5 | 2.9 | 9.6 | 3.25 |  |
-| 162 Game Avg | 1.3 | 10 | 7 | .594 | 4.24 | 36 | 32 | 1 | 0 | 0 | 0 | 165 | 162 | 84 | 78 | 27 | 54 | 1 | 175 | 9 | 1 | 3 | 707 | 95 | 4.29 | 1.313 | 8.9 | 1.5 | 2.9 | 9.6 | 3.25 |  |
+| [2026](https://www.baseball-reference.com/players/gl.fcgi?id=harriky01&t=p&year=2026) | 24 | [MIL](https://www.baseball-reference.com/teams/MIL/2026.shtml) | [NL](https://www.baseball-reference.com/leagues/NL/2026.shtml) | 0.5 | 10 | 5 | .667 | 4.25 | 25 | 24 | 0 | 0 | 0 | 0 | 112.1 | 116 | 61 | 53 | 20 | 35 | 0 | 136 | 6 | 0 | 3 | 489 | 98 | 4.09 | 1.344 | 9.3 | 1.6 | 2.8 | 10.9 | 3.89 |  |
+| 4 Yrs | 2.0 | 19 | 14 | .576 | 4.34 | 67 | 61 | 2 | 0 | 0 | 0 | 307.0 | 305 | 161 | 148 | 50 | 102 | 1 | 327 | 18 | 1 | 6 | 1324 | 93 | 4.31 | 1.326 | 8.9 | 1.5 | 3.0 | 9.6 | 3.21 |  |
+| 162 Game Avg | 1.0 | 10 | 7 | .576 | 4.34 | 36 | 32 | 1 | 0 | 0 | 0 | 163 | 162 | 86 | 79 | 27 | 54 | 1 | 174 | 10 | 1 | 3 | 703 | 93 | 4.31 | 1.326 | 8.9 | 1.5 | 3.0 | 9.6 | 3.21 |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | SFG (3 Yrs) | 1.2 | 9 | 9 | .500 | 4.48 | 39 | 35 | 2 | 0 | 0 | 0 | 182.2 | 175 | 96 | 91 | 30 | 62 | 1 | 178 | 11 | 1 | 2 | 779 | 89 | 4.56 | 1.297 | 8.6 | 1.5 | 3.1 | 8.8 | 2.87 |  |
-| MIL (1 Yr) | 0.9 | 10 | 4 | .714 | 3.98 | 24 | 23 | 0 | 0 | 0 | 0 | 110.2 | 112 | 56 | 49 | 20 | 33 | 0 | 134 | 4 | 0 | 3 | 475 | 104 | 4.03 | 1.310 | 9.1 | 1.6 | 2.7 | 10.9 | 4.06 |  |
+| MIL (1 Yr) | 0.5 | 10 | 5 | .667 | 4.25 | 25 | 24 | 0 | 0 | 0 | 0 | 112.1 | 116 | 61 | 53 | 20 | 35 | 0 | 136 | 6 | 0 | 3 | 489 | 98 | 4.09 | 1.344 | 9.3 | 1.6 | 2.8 | 10.9 | 3.89 |  |
 | BOS (1 Yr) | 0.3 | 0 | 0 |  | 3.00 | 3 | 2 | 0 | 0 | 0 | 0 | 12.0 | 14 | 4 | 4 | 0 | 5 | 0 | 13 | 1 | 0 | 1 | 56 | 142 | 2.47 | 1.583 | 10.5 | 0.0 | 3.8 | 9.8 | 2.60 |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| NL (4 Yrs) | 2.1 | 19 | 13 | .594 | 4.30 | 63 | 58 | 2 | 0 | 0 | 0 | 293.1 | 287 | 152 | 140 | 50 | 95 | 1 | 312 | 15 | 1 | 5 | 1254 | 94 | 4.36 | 1.302 | 8.8 | 1.5 | 2.9 | 9.6 | 3.28 |  |
+| NL (4 Yrs) | 1.7 | 19 | 14 | .576 | 4.39 | 64 | 59 | 2 | 0 | 0 | 0 | 295.0 | 291 | 157 | 144 | 50 | 97 | 1 | 314 | 17 | 1 | 5 | 1268 | 92 | 4.38 | 1.315 | 8.9 | 1.5 | 3.0 | 9.6 | 3.24 |  |
 | AL (1 Yr) | 0.3 | 0 | 0 |  | 3.00 | 3 | 2 | 0 | 0 | 0 | 0 | 12.0 | 14 | 4 | 4 | 0 | 5 | 0 | 13 | 1 | 0 | 1 | 56 | 142 | 2.47 | 1.583 | 10.5 | 0.0 | 3.8 | 9.8 | 2.60 |  |
 
 Standard Pitching Table
@@ -366,15 +365,15 @@ Standard Pitching Table
 | [2025](https://www.baseball-reference.com/players/gl.fcgi?id=harriky01&t=p&year=2025) | 23 | 2TM | 2LG | 35.2 | 11 | 6 | 16 | 4.04 | 4.34 | 0.14 | 0.09 | 0.16 | 103 | 4.58 | 2 | 0.2 | 0.63 | -0.1 | 0.5 | 5 | .521 | .500 |  |
 | [2025](https://www.baseball-reference.com/players/gl.fcgi?id=harriky01&t=p&year=2025) | 23 | [SFG](https://www.baseball-reference.com/teams/SFG/2025.shtml) | [NL](https://www.baseball-reference.com/leagues/NL/2025.shtml) | 23.2 | 8 | 4 | 12 | 4.56 | 4.25 | 0.05 | 0.09 | 0.23 | 103 | 4.65 | 0 | 0.0 | 0.58 | 0.0 | 0.2 | 2 | .504 | .500 |  |
 | [2025](https://www.baseball-reference.com/players/gl.fcgi?id=harriky01&t=p&year=2025) | 23 | [BOS](https://www.baseball-reference.com/teams/BOS/2025.shtml) | [AL](https://www.baseball-reference.com/leagues/AL/2025.shtml) | 12.0 | 3 | 2 | 4 | 3.00 | 4.51 | 0.30 | 0.08 | 0.00 | 104 | 4.45 | 2 | 0.2 | 0.83 | 0.0 | 0.3 | 3 | .568 | .501 |  |
-| [2026](https://www.baseball-reference.com/players/gl.fcgi?id=harriky01&t=p&year=2026) | 24 | [MIL](https://www.baseball-reference.com/teams/MIL/2026.shtml) | [NL](https://www.baseball-reference.com/leagues/NL/2026.shtml) | 110.2 | 24 | 23 | 56 | 4.55 | 4.76 | 0.33 | 0.22 | 0.00 | 97 | 4.53 | 0 | 0.0 | 0.04 | -0.1 | 0.9 | 10 | .500 | .500 |  |
-| 4 Yrs | 305.1 | 66 | 60 | 156 | 4.60 | 4.60 | 0.13 | 0.20 | 0.02 | 97 | 4.54 | -2 | -0.2 | 0.53 | -0.3 | 2.4 | 27 | .497 | .499 |  |
-| 162 Game Avg | 165 | 36 | 32 | 84 | 4.60 | 4.60 | 0.13 | 0.20 | 0.02 | 97 | 4.54 | -1 | -0.1 | 0.53 | -0.1 | 1.3 | 14 | .497 | .499 |  |
+| [2026](https://www.baseball-reference.com/players/gl.fcgi?id=harriky01&t=p&year=2026) | 24 | [MIL](https://www.baseball-reference.com/teams/MIL/2026.shtml) | [NL](https://www.baseball-reference.com/leagues/NL/2026.shtml) | 112.1 | 25 | 24 | 61 | 4.89 | 4.77 | 0.37 | 0.22 | 0.00 | 98 | 4.51 | -5 | -0.5 | 0.04 | -0.1 | 0.5 | 6 | .482 | .497 |  |
+| 4 Yrs | 307.0 | 67 | 61 | 161 | 4.72 | 4.60 | 0.15 | 0.20 | 0.02 | 97 | 4.53 | -6 | -0.7 | 0.53 | -0.3 | 2.0 | 23 | .490 | .498 |  |
+| 162 Game Avg | 163 | 36 | 32 | 86 | 4.72 | 4.60 | 0.15 | 0.20 | 0.02 | 97 | 4.53 | -3 | -0.4 | 0.53 | -0.1 | 1.0 | 12 | .490 | .498 |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | SFG (3 Yrs) | 182.2 | 39 | 35 | 96 | 4.73 | 4.51 | 0.00 | 0.19 | 0.03 | 96 | 4.55 | -4 | -0.4 | 0.58 | -0.2 | 1.2 | 14 | .489 | .499 |  |
-| MIL (1 Yr) | 110.2 | 24 | 23 | 56 | 4.55 | 4.76 | 0.33 | 0.22 | 0.00 | 97 | 4.53 | 0 | 0.0 | 0.04 | -0.1 | 0.9 | 10 | .500 | .500 |  |
+| MIL (1 Yr) | 112.1 | 25 | 24 | 61 | 4.89 | 4.77 | 0.37 | 0.22 | 0.00 | 98 | 4.51 | -5 | -0.5 | 0.04 | -0.1 | 0.5 | 6 | .482 | .497 |  |
 | BOS (1 Yr) | 12.0 | 3 | 2 | 4 | 3.00 | 4.51 | 0.30 | 0.08 | 0.00 | 104 | 4.45 | 2 | 0.2 | 0.83 | 0.0 | 0.3 | 3 | .568 | .501 |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| NL (4 Yrs) | 293.1 | 63 | 58 | 152 | 4.66 | 4.60 | 0.12 | 0.21 | 0.02 | 97 | 4.54 | -4 | -0.4 | 0.47 | -0.2 | 2.1 | 24 | .493 | .499 |  |
+| NL (4 Yrs) | 295.0 | 64 | 59 | 157 | 4.79 | 4.61 | 0.14 | 0.21 | 0.02 | 97 | 4.54 | -8 | -0.9 | 0.47 | -0.2 | 1.7 | 20 | .487 | .498 |  |
 | AL (1 Yr) | 12.0 | 3 | 2 | 4 | 3.00 | 4.51 | 0.30 | 0.08 | 0.00 | 104 | 4.45 | 2 | 0.2 | 0.83 | 0.0 | 0.3 | 3 | .568 | .501 |  |
 
 Value Pitching Table
@@ -394,8 +393,8 @@ Regular Season
 | [2025](https://www.baseball-reference.com/players/gl.fcgi?id=harriky01&t=p&year=2025) | 23 | 2TM | 2LG | 35.2 | .248 | .321 | .404 | .725 | .313 | 2.6 | 24.4 | 9.0 | 89.2 | 42.7 | 29.1 | 36.9 | 26.2 | 0.61 | 0.1 | 0.2% | 1.40 |  |
 | [2025](https://www.baseball-reference.com/players/gl.fcgi?id=harriky01&t=p&year=2025) | 23 | [SFG](https://www.baseball-reference.com/teams/SFG/2025.shtml) | [NL](https://www.baseball-reference.com/leagues/NL/2025.shtml) | 23.2 | .231 | .300 | .440 | .740 | .274 | 4.0 | 25.0 | 9.0 | 91.0 | 48.5 | 30.3 | 33.3 | 27.3 | 0.52 | 0.0 | 0.0% | 0.93 |  |
 | [2025](https://www.baseball-reference.com/players/gl.fcgi?id=harriky01&t=p&year=2025) | 23 | [BOS](https://www.baseball-reference.com/teams/BOS/2025.shtml) | [AL](https://www.baseball-reference.com/leagues/AL/2025.shtml) | 12.0 | .280 | .357 | .340 | .697 | .378 | 0.0 | 23.2 | 8.9 | 86.0 | 32.4 | 27.0 | 43.2 | 24.3 | 0.80 | 0.1 | 0.3% | 0.48 |  |
-| [2026](https://www.baseball-reference.com/players/gl.fcgi?id=harriky01&t=p&year=2026) | 24 | [MIL](https://www.baseball-reference.com/teams/MIL/2026.shtml) | [NL](https://www.baseball-reference.com/leagues/NL/2026.shtml) | 110.2 | .256 | .314 | .444 | .758 | .324 | 4.2 | 28.2 | 6.9 | 88.7 | 38.2 | 27.6 | 35.9 | 28.9 | 0.57 | 0.3 | 0.4% | -0.53 |  |
-| 4 Yrs | 305.1 | .254 | .319 | .436 | .755 | .307 | 3.8 | 24.8 | 7.6 | 89.5 | 41.2 | 25.7 | 36.8 | 29.8 | 0.59 | -0.2 | 0.2% | -3.29 |  |
+| [2026](https://www.baseball-reference.com/players/gl.fcgi?id=harriky01&t=p&year=2026) | 24 | [MIL](https://www.baseball-reference.com/teams/MIL/2026.shtml) | [NL](https://www.baseball-reference.com/leagues/NL/2026.shtml) | 112.1 | .260 | .322 | .448 | .770 | .330 | 4.1 | 27.8 | 7.2 | 88.7 | 38.3 | 28.0 | 36.3 | 28.3 | 0.58 | 0.0 | 0.3% | -5.25 |  |
+| 4 Yrs | 307.0 | .255 | .321 | .438 | .760 | .309 | 3.8 | 24.7 | 7.7 | 89.5 | 41.2 | 25.8 | 37.0 | 29.6 | 0.60 | -0.6 | 0.0% | -8.01 |  |
 | MLB Average |  | .245 | .317 | .405 | .721 | .292 | 3.1 | 22.4 | 8.5 | 88.4 | 39.6 | 23.8 | 41.7 | 26.5 | 0.73 |  |  |  |  |
 
 Advanced Pitching Table
@@ -423,9 +422,19 @@ Powered by ![Stathead Logo](https://cdn.ssref.net/req/202101292/logos/stathead-l
 - [Player News RSS Feed](https://www.baseball-reference.com/players/news.fcgi?id=harriky01&rss=1)
 - Show/Hide More Stories
 
-- **9/17** [Wisconsin Sports Heroics: Milwaukee Brewers change pitching plans for series finale vs Pittsburgh Pirates](https://wisportsheroics.com/milwaukee-brewers-kyle-harrison-pirates/): _The Milwaukee Brewers came from behind (once again) this season_...
+- **9/18** [Baseball Musings: Beat the Streak Picks](https://www.baseballmusings.com/?p=161494): _0.334, 0.718, 0.738 — Fernando Tatis Jr. batting at Tanner_...
 
-- **9/17** [RotoWire: Drawing start Thursday](https://www.rotowire.com/baseball/player/kyle-harrison-16741?refer=SportsRef): _Harrison will start Thursday's game in Pittsburgh, Todd Rosiak_...
+- **9/18** [MLBTradeRumors: Front Office Subscriber Chat Transcript](https://www.mlbtraderumors.com/2026/09/front-office-subscriber-chat-with-anthony-franco-today-at-200pm-central-85.html): _Anthony Franco Good afternoon, hope all is well! Looking forward_...
+
+- **9/18** [RotoWire: Early hook vs. Pirates](https://www.rotowire.com/baseball/player/kyle-harrison-16741?refer=SportsRef): _Harrison (10-5) took the loss Thursday against the Pirates, allowing_...
+
+- **9/18** [Brewer Fanatic: Kyle Harrison and the Brewers Are Running Out of Time](https://brewerfanatic.com/news-rumors/milwaukee-brewers/kyle-harrison-and-the-brewers-are-running-out-of-time-r5011/): _Kyle Harrison is effectively out of the Brewers' postseason_...
+
+- **9/17** [North Shore Nine: Our 3 Takeaways From the Pirates7-4 Win Over the Brewers](https://northshorenine.com/article/our-3-takeaways-from-the-pirates7-4-win-over-the-brewers): _The Pirates avoided the sweep with a 7-4 victory over the Brewers_...
+
+- Show 6 more stories
+
+- **9/17** [Wisconsin Sports Heroics: Milwaukee Brewers change pitching plans for series finale vs Pittsburgh Pirates](https://wisportsheroics.com/milwaukee-brewers-kyle-harrison-pirates/): _The Milwaukee Brewers came from behind (once again) this season_...
 
 - **9/16** [Just Baseball: Brewers Notebook: Gasser, Harrison, Mitchell](https://www.justbaseball.com/mlb/brewers-notebook-gasser-harrison-mitchell/): _As the days of September count down, the Milwaukee Brewers have_...
 
@@ -435,15 +444,9 @@ Powered by ![Stathead Logo](https://cdn.ssref.net/req/202101292/logos/stathead-l
 _Record Last Week: 5-1 (Overall: 93-57)_
 _Runs_...
 
-- Show 4 more stories
-
 - **9/13** [MLBTradeRumors: Red Sox Activate Willson Contreras, Place Anthony Seigler On 10-Day IL](https://www.mlbtraderumors.com/2026/09/red-sox-activate-willson-contreras-place-anthony-seigler-on-10-day-il.html): _The Red Sox announced that first baseman Willson Contreras has_...
 
 - **9/13** [Brewer Fanatic: The Brewers Have Everything They Need to Win It All](https://brewerfanatic.com/news-rumors/milwaukee-brewers/the-brewers-have-everything-they-need-to-win-it-all-r4987/): _Despite playing in the smallest market in baseball, the Milwaukee_...
-
-- **9/10** [North Side Baseball: Matt Shaw's Best Opportunity With Cubs Will Likely Come In October](https://northsidebaseball.com/news-rumors/chicago-cubs/matt-shaws-best-opportunity-with-cubs-will-likely-come-in-october-r3304/): _Every year, there are certain players that just seem to come_...
-
-- **9/10** [Just Baseball: The Brewers Have a Kyle Harrison Problem](https://www.justbaseball.com/mlb/milwaukee-brewers-have-a-kyle-harrison-problem/): _Through the first half of the season, it appeared as if the Milwaukee_...
 
 
 ## Appearances
@@ -459,14 +462,14 @@ Regular Season
 | [2025](https://www.baseball-reference.com/players/gl.fcgi?id=harriky01&t=f&year=2025) | 23 | 2TM | 2LG | 11 | 6 | 0 | 11 | 11 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | [2025](https://www.baseball-reference.com/players/gl.fcgi?id=harriky01&t=f&year=2025) | 23 | [SFG](https://www.baseball-reference.com/teams/SFG/2025.shtml) | [NL](https://www.baseball-reference.com/leagues/NL/2025.shtml) | 8 | 4 | 0 | 8 | 8 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | [2025](https://www.baseball-reference.com/players/gl.fcgi?id=harriky01&t=f&year=2025) | 23 | [BOS](https://www.baseball-reference.com/teams/BOS/2025.shtml) | [AL](https://www.baseball-reference.com/leagues/AL/2025.shtml) | 3 | 2 | 0 | 3 | 3 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| [2026](https://www.baseball-reference.com/players/gl.fcgi?id=harriky01&t=f&year=2026) | 24 | [MIL](https://www.baseball-reference.com/teams/MIL/2026.shtml) | [NL](https://www.baseball-reference.com/leagues/NL/2026.shtml) | 24 | 23 | 0 | 24 | 24 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 4 Yrs | 66 | 60 | 0 | 66 | 66 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| [2026](https://www.baseball-reference.com/players/gl.fcgi?id=harriky01&t=f&year=2026) | 24 | [MIL](https://www.baseball-reference.com/teams/MIL/2026.shtml) | [NL](https://www.baseball-reference.com/leagues/NL/2026.shtml) | 25 | 24 | 0 | 25 | 25 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 4 Yrs | 67 | 61 | 0 | 67 | 67 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | SFG (3 Yrs) | 39 | 35 | 0 | 39 | 39 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| MIL (1 Yr) | 24 | 23 | 0 | 24 | 24 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| MIL (1 Yr) | 25 | 24 | 0 | 25 | 25 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | BOS (1 Yr) | 3 | 2 | 0 | 3 | 3 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| NL (4 Yrs) | 63 | 58 | 0 | 63 | 63 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| NL (4 Yrs) | 64 | 59 | 0 | 64 | 64 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | AL (1 Yr) | 3 | 2 | 0 | 3 | 3 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 Appearances Table
@@ -486,8 +489,8 @@ Regular Season
 | [2025](https://www.baseball-reference.com/players/gl.fcgi?id=harriky01&t=f&year=2025) | 23 | 2TM | 2LG | P | 11 | 6 | 0 | 35.2 | 4 | 2 | 2 | 0 | 0 | 1.000 | .950 | -1 | -6 | 1.01 | 1.34 | 0.36 | 1.32 | 2 | 1 | 33.3 | 23.3 | 0 |  |
 | [2025](https://www.baseball-reference.com/players/gl.fcgi?id=harriky01&t=f&year=2025) | 23 | [SFG](https://www.baseball-reference.com/teams/SFG/2025.shtml) | [NL](https://www.baseball-reference.com/leagues/NL/2025.shtml) | P | 8 | 4 | 0 | 23.2 | 3 | 1 | 2 | 0 | 0 | 1.000 | .953 | -1 | -8 | 1.14 | 1.37 | 0.38 | 1.35 | 2 | 1 | 33.3 | 23.3 | 0 |  |
 | [2025](https://www.baseball-reference.com/players/gl.fcgi?id=harriky01&t=f&year=2025) | 23 | [BOS](https://www.baseball-reference.com/teams/BOS/2025.shtml) | [AL](https://www.baseball-reference.com/leagues/AL/2025.shtml) | P | 3 | 2 | 0 | 12.0 | 1 | 1 | 0 | 0 | 0 | 1.000 | .940 | 0 | 0 | 0.75 | 1.28 | 0.33 | 1.23 | 0 | 0 |  |  | 0 |  |
-| [2026](https://www.baseball-reference.com/players/gl.fcgi?id=harriky01&t=f&year=2026) | 24 | [MIL](https://www.baseball-reference.com/teams/MIL/2026.shtml) | [NL](https://www.baseball-reference.com/leagues/NL/2026.shtml) | P | 24 | 23 | 0 | 110.2 | 11 | 6 | 5 | 0 | 0 | 1.000 | .947 | -1 | -2 | 0.89 | 1.38 | 0.46 | 1.36 | 6 | 2 | 25.0 | 23.3 | 1 |  |
-| 4 Yrs |  | 66 | 60 | 0 | 305.1 | 31 | 10 | 21 | 0 | 1 | 1.000 | .948 | -4 | -3 | 0.91 | 1.37 | 0.47 | 1.34 | 29 | 12 | 29.3 | 20.9 | 4 |  |
+| [2026](https://www.baseball-reference.com/players/gl.fcgi?id=harriky01&t=f&year=2026) | 24 | [MIL](https://www.baseball-reference.com/teams/MIL/2026.shtml) | [NL](https://www.baseball-reference.com/leagues/NL/2026.shtml) | P | 25 | 24 | 0 | 112.1 | 11 | 6 | 5 | 0 | 0 | 1.000 | .947 | -1 | -2 | 0.88 | 1.38 | 0.44 | 1.36 | 6 | 2 | 25.0 | 23.4 | 1 |  |
+| 4 Yrs |  | 67 | 61 | 0 | 307.0 | 31 | 10 | 21 | 0 | 1 | 1.000 | .948 | -4 | -3 | 0.91 | 1.37 | 0.46 | 1.34 | 29 | 12 | 29.3 | 21.0 | 4 |  |
 
 Standard Fielding Table
 
@@ -502,15 +505,6 @@ Standard Fielding Table
 [2023](https://www.baseball-reference.com/bullpen/2023_Futures_Game "2023 Futures Game")
 
 2 Futures Games
-
-## Hall of Fame Statistics
-
-|     |
-| --- |
-| [Hall of Fame Monitor](https://www.baseball-reference.com/about/leader_glossary.shtml#hof_monitor) |
-| Pitching -<br> **2** (2115th),<br> _Likely_<br>_HOFer ≈ 100_ |
-| [JAWS](https://www.baseball-reference.com/about/jaws.shtml) |
-| [Starting Pitcher **(1859th)**](https://www.baseball-reference.com/leaders/jaws_P.shtml):<br>**2.4** career WAR<br> \| **2.4** 7yr-peak WAR<br> \| **2.4** JAWS<br> \| **2.4** S-JAWS<br> \| **1.3** WAR/162<br>   Average HOF P (out of 67):<br>     73.0 career WAR \| 49.8 7yr-peak WAR \| 61.4 JAWS<br> \| 56.8 S-JAWS<br> \| 4.5 WAR/162 |
 
 ## Similarity Scores
 
@@ -609,7 +603,7 @@ Kyle Harrison is a Pitcher.
 
 ### How many strikeouts does Kyle Harrison have?
 
-Kyle Harrison has 134 strikeouts this season and has 325 strikeouts over his career.
+Kyle Harrison has 136 strikeouts this season and has 327 strikeouts over his career.
 
 ### How many teams has Kyle Harrison played for?
 
