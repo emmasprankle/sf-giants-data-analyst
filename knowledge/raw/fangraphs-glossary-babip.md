@@ -73,10 +73,10 @@ Fantasy Tools
 
 
 
+  - [Untying the Tiebreaker Scenarios, One More Time](https://www.fangraphs.com/blogs/untying-the-tiebreaker-scenarios-one-more-time)
+  - [Bobby Witt Jr. and the Off-Peak MVP Season](https://www.fangraphs.com/blogs/bobby-witt-jr-and-the-off-peak-mvp-season)
   - [Sunday Notes: Ever Evolving, (the A's) Max Muncy Remains In Search of His Groove](https://www.fangraphs.com/blogs/sunday-notes-ever-evolving-the-as-max-muncy-remains-in-search-of-his-groove)
   - [FanGraphs Weekly Mailbag: September 19, 2026](https://www.fangraphs.com/blogs/fangraphs-weekly-mailbag-september-19-2026)
-  - [Effectively Wild Episode 2533: You Win Some, You Lose 40 in a Row](https://www.fangraphs.com/blogs/effectively-wild-episode-2533-you-win-some-you-lose-40-in-a-row)
-  - [The Red-Hot Elly De La Cruz](https://www.fangraphs.com/blogs/the-red-hot-elly-de-la-cruz)
 
 Podcasts: [Effectively Wild](https://www.fangraphs.com/blog-roll?category=Effectively+Wild)
 
@@ -88,8 +88,8 @@ Podcasts: [Effectively Wild](https://www.fangraphs.com/blog-roll?category=Effect
 
 [RotoGraphs](https://www.fangraphs.com/rotographs)
 
-  - [Starting Pitcher Chart – September 19th, 2026](https://www.fangraphs.com/fantasy/starting-pitcher-chart-september-19th-2026)
-  - [Lineup Analysis (9/18/26)](https://www.fangraphs.com/fantasy/lineup-analysis-9-18-26)
+  - [4 Recent Minor League Recalls For Final Week](https://www.fangraphs.com/fantasy/4-recent-minor-league-recalls-for-final-week)
+  - [Sunday Night Waiver Wire & FAAB Chat](https://www.fangraphs.com/fantasy/sunday-night-waiver-wire-faab-chat-166)
 
 Podcasts: [The Sleeper and The Bust](https://www.fangraphs.com/fantasy/category/podcast/) \| [Field of Streams](https://www.fangraphs.com/fantasy/category/field-of-streams/) \| [Beat the Shift](https://fantasy.fangraphs.com/category/beat-the-shift/)
 
@@ -193,7 +193,7 @@ On-Pace Leaders
 
 Today
 
-[Live Scoreboard](https://www.fangraphs.com/scores), [Probable Pitchers](https://www.fangraphs.com/leaders/major-league?pos=all&stats=pit&lg=all&qual=0&type=8&season=2026&month=0&season1=2026&ind=0&team=0&rost=0&age=0&filter=&players=p2026-09-20)
+[Live Scoreboard](https://www.fangraphs.com/scores), [Probable Pitchers](https://www.fangraphs.com/leaders/major-league?pos=all&stats=pit&lg=all&qual=0&type=8&season=2026&month=0&season1=2026&ind=0&team=0&rost=0&age=0&filter=&players=p2026-09-21)
 
 [Live Daily Leaderboards](https://www.fangraphs.com/scores/live-leaderboards)
 
@@ -219,26 +219,26 @@ Win Probability & Box Scores
 
 |     |     |
 | --- | --- |
-| [DET (1) @ CHW (3)](https://www.fangraphs.com/scores/box-score?date=2026-09-19&hometeamid=4&dh=0) | Final |
-| [MIL (1) @ BAL (0)](https://www.fangraphs.com/scores/box-score?date=2026-09-19&hometeamid=2&dh=0) | Final |
-| [BOS (1) @ TBR (2)](https://www.fangraphs.com/scores/box-score?date=2026-09-19&hometeamid=12&dh=0) | Final |
-| [ATH (6) @ CLE (12)](https://www.fangraphs.com/scores/box-score?date=2026-09-19&hometeamid=5&dh=0) | Final |
-| [TOR (2) @ TEX (6)](https://www.fangraphs.com/scores/box-score?date=2026-09-19&hometeamid=13&dh=0) | Final |
-| [ATL (6) @ HOU (3)](https://www.fangraphs.com/scores/box-score?date=2026-09-19&hometeamid=21&dh=0) | Final |
-| [MIN (5) @ LAA (6)](https://www.fangraphs.com/scores/box-score?date=2026-09-19&hometeamid=1&dh=0) | Final/11 | |  | NL Games
+| [ATH (0) @ CLE (1)](https://www.fangraphs.com/scores/box-score?date=2026-09-20&hometeamid=5&dh=0) | Final |
+| [BOS (1) @ TBR (5)](https://www.fangraphs.com/scores/box-score?date=2026-09-20&hometeamid=12&dh=0) | Final |
+| [DET (1) @ CHW (8)](https://www.fangraphs.com/scores/box-score?date=2026-09-20&hometeamid=4&dh=0) | Final |
+| [ATL (4) @ HOU (2)](https://www.fangraphs.com/scores/box-score?date=2026-09-20&hometeamid=21&dh=0) | Final |
+| [TOR (7) @ TEX (2)](https://www.fangraphs.com/scores/box-score?date=2026-09-20&hometeamid=13&dh=0) | Final |
+| [MIN (8) @ LAA (0)](https://www.fangraphs.com/scores/box-score?date=2026-09-20&hometeamid=1&dh=0) | Final |
+| [MIL (3) @ BAL (0)](https://www.fangraphs.com/scores/box-score?date=2026-09-20&hometeamid=2&dh=0) | Final | |  | NL Games
 
 
 
 |     |     |
 | --- | --- |
-| [PHI (3) @ NYM (10)](https://www.fangraphs.com/scores/box-score?date=2026-09-19&hometeamid=25&dh=0) | Final |
-| [CHC (5) @ CIN (2)](https://www.fangraphs.com/scores/box-score?date=2026-09-19&hometeamid=18&dh=0) | Final |
-| [KCR (5) @ PIT (6)](https://www.fangraphs.com/scores/box-score?date=2026-09-19&hometeamid=27&dh=0) | Final |
-| [WSN (8) @ STL (5)](https://www.fangraphs.com/scores/box-score?date=2026-09-19&hometeamid=28&dh=0) | Final/11 |
-| [SEA (3) @ COL (5)](https://www.fangraphs.com/scores/box-score?date=2026-09-19&hometeamid=19&dh=0) | Final |
-| [NYY (3) @ ARI (5)](https://www.fangraphs.com/scores/box-score?date=2026-09-19&hometeamid=15&dh=0) | Final |
-| [MIA (6) @ SDP (7)](https://www.fangraphs.com/scores/box-score?date=2026-09-19&hometeamid=29&dh=0) | Final/10 |
-| [SFG (4) @ LAD (10)](https://www.fangraphs.com/scores/box-score?date=2026-09-19&hometeamid=22&dh=0) | Final | |
+| [KCR (3) @ PIT (4)](https://www.fangraphs.com/scores/box-score?date=2026-09-20&hometeamid=27&dh=0) | Final |
+| [CHC (9) @ CIN (1)](https://www.fangraphs.com/scores/box-score?date=2026-09-20&hometeamid=18&dh=0) | Final |
+| [PHI (7) @ NYM (2)](https://www.fangraphs.com/scores/box-score?date=2026-09-20&hometeamid=25&dh=0) | Final |
+| [WSN (3) @ STL (5)](https://www.fangraphs.com/scores/box-score?date=2026-09-20&hometeamid=28&dh=0) | Final |
+| [SEA (2) @ COL (1)](https://www.fangraphs.com/scores/box-score?date=2026-09-20&hometeamid=19&dh=0) | Final |
+| [SFG (1) @ LAD (3)](https://www.fangraphs.com/scores/box-score?date=2026-09-20&hometeamid=22&dh=0) | Final |
+| [MIA (3) @ SDP (7)](https://www.fangraphs.com/scores/box-score?date=2026-09-20&hometeamid=29&dh=0) | Final |
+| [NYY (4) @ ARI (8)](https://www.fangraphs.com/scores/box-score?date=2026-09-20&hometeamid=15&dh=0) | Final | |
 
 - Standings
 
@@ -270,11 +270,11 @@ Win Probability & Box Scores
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| [Rays](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=12&players=0) | 94 | 60 | 0.0 |
-| [Yankees](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=9&players=0) | 89 | 65 | 5.0 |
-| [Red Sox](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=3&players=0) | 84 | 71 | 10.5 |
-| [Blue Jays](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=14&players=0) | 76 | 79 | 18.5 |
-| [Orioles](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=2&players=0) | 75 | 80 | 19.5 |
+| [Rays](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=12&players=0) | 95 | 60 | 0.0 |
+| [Yankees](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=9&players=0) | 89 | 66 | 6.0 |
+| [Red Sox](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=3&players=0) | 84 | 72 | 11.5 |
+| [Blue Jays](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=14&players=0) | 77 | 79 | 18.5 |
+| [Orioles](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=2&players=0) | 75 | 81 | 20.5 |
 
 
 
@@ -288,11 +288,11 @@ AL Central
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| [Guardians](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=5&players=0) | 80 | 75 | 0.0 |
-| [White Sox](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=4&players=0) | 79 | 76 | 1.0 |
-| [Tigers](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=6&players=0) | 73 | 82 | 7.0 |
-| [Twins](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=8&players=0) | 72 | 83 | 8.0 |
-| [Royals](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=7&players=0) | 67 | 88 | 13.0 |
+| [Guardians](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=5&players=0) | 81 | 75 | 0.0 |
+| [White Sox](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=4&players=0) | 80 | 76 | 1.0 |
+| [Tigers](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=6&players=0) | 73 | 83 | 8.0 |
+| [Twins](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=8&players=0) | 73 | 83 | 8.0 |
+| [Royals](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=7&players=0) | 67 | 89 | 14.0 |
 
 
 
@@ -306,11 +306,11 @@ AL West
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| [Rangers](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=13&players=0) | 78 | 77 | 0.0 |
-| [Astros](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=21&players=0) | 77 | 78 | 1.0 |
-| [Mariners](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=11&players=0) | 72 | 83 | 6.0 |
-| [Athletics](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=10&players=0) | 61 | 94 | 17.0 |
-| [Angels](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=1&players=0) | 60 | 95 | 18.0 | |  | NL East
+| [Rangers](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=13&players=0) | 78 | 78 | 0.0 |
+| [Astros](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=21&players=0) | 77 | 79 | 1.0 |
+| [Mariners](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=11&players=0) | 73 | 83 | 5.0 |
+| [Athletics](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=10&players=0) | 61 | 95 | 17.0 |
+| [Angels](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=1&players=0) | 60 | 96 | 18.0 | |  | NL East
 
 
 
@@ -318,11 +318,11 @@ AL West
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| [Braves](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=16&players=0) | 91 | 64 | 0.0 |
-| [Phillies](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=26&players=0) | 85 | 70 | 6.0 |
-| [Marlins](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=20&players=0) | 76 | 79 | 15.0 |
-| [Nationals](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=24&players=0) | 73 | 82 | 18.0 |
-| [Mets](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=25&players=0) | 71 | 84 | 20.0 |
+| [Braves](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=16&players=0) | 92 | 64 | 0.0 |
+| [Phillies](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=26&players=0) | 86 | 70 | 6.0 |
+| [Marlins](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=20&players=0) | 76 | 80 | 16.0 |
+| [Nationals](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=24&players=0) | 73 | 83 | 19.0 |
+| [Mets](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=25&players=0) | 71 | 85 | 21.0 |
 
 
 
@@ -336,11 +336,11 @@ NL Central
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| [Brewers](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=23&players=0) | 97 | 58 | 0.0 |
-| [Cubs](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=17&players=0) | 86 | 69 | 11.0 |
-| [Pirates](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=27&players=0) | 78 | 77 | 19.0 |
-| [Cardinals](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=28&players=0) | 75 | 80 | 22.0 |
-| [Reds](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=18&players=0) | 72 | 83 | 25.0 |
+| [Brewers](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=23&players=0) | 98 | 58 | 0.0 |
+| [Cubs](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=17&players=0) | 87 | 69 | 11.0 |
+| [Pirates](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=27&players=0) | 79 | 77 | 19.0 |
+| [Cardinals](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=28&players=0) | 76 | 80 | 22.0 |
+| [Reds](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=18&players=0) | 72 | 84 | 26.0 |
 
 
 
@@ -354,11 +354,11 @@ NL West
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| [Dodgers](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=22&players=0) | 95 | 60 | 0.0 |
-| [Padres](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=29&players=0) | 86 | 69 | 9.0 |
-| [D-backs](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=15&players=0) | 81 | 74 | 14.0 |
-| [Giants](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=30&players=0) | 64 | 91 | 31.0 |
-| [Rockies](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=19&players=0) | 57 | 98 | 38.0 | |
+| [Dodgers](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=22&players=0) | 96 | 60 | 0.0 |
+| [Padres](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=29&players=0) | 87 | 69 | 9.0 |
+| [D-backs](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=15&players=0) | 82 | 74 | 14.0 |
+| [Giants](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=30&players=0) | 64 | 92 | 32.0 |
+| [Rockies](https://www.fangraphs.com/leaders/major-league?pos=all&stats=bat&lg=all&qual=0&type=8&season=2026&month=0&season1=&ind=0&team=19&players=0) | 57 | 99 | 39.0 | |
 
 - Leaders
 
@@ -1040,13 +1040,21 @@ reply
 
 [![](https://www.fangraphs.com/images/30a_fangraphs.png)](https://blogs.fangraphs.com/)
 
+- [Untying the Tiebreaker Scenarios, One More Time](https://blogs.fangraphs.com/untying-the-tiebreaker-scenarios-one-more-time/)
+
+9/21 – [Jay Jaffe](https://www.fangraphs.com/blog-roll?author=169789)
+
+- [Bobby Witt Jr. and the Off-Peak MVP Season](https://blogs.fangraphs.com/bobby-witt-jr-and-the-off-peak-mvp-season/)
+
+9/21 – [Davy Andrews](https://www.fangraphs.com/blog-roll?author=198584) [7](https://blogs.fangraphs.com/bobby-witt-jr-and-the-off-peak-mvp-season/#comments)
+
 - [Sunday Notes: Ever Evolving, (the A's) Max Muncy Remains In Search of His Groove](https://blogs.fangraphs.com/sunday-notes-ever-evolving-the-as-max-muncy-remains-in-search-of-his-groove/)
 
-9/20 – [David Laurila](https://www.fangraphs.com/blog-roll?author=25048) [7](https://blogs.fangraphs.com/sunday-notes-ever-evolving-the-as-max-muncy-remains-in-search-of-his-groove/#comments)
+9/20 – [David Laurila](https://www.fangraphs.com/blog-roll?author=25048) [13](https://blogs.fangraphs.com/sunday-notes-ever-evolving-the-as-max-muncy-remains-in-search-of-his-groove/#comments)
 
 - [FanGraphs Weekly Mailbag: September 19, 2026](https://blogs.fangraphs.com/fangraphs-weekly-mailbag-september-19-2026/)
 
-9/19 – [Matt Martell](https://www.fangraphs.com/blog-roll?author=153421) [13](https://blogs.fangraphs.com/fangraphs-weekly-mailbag-september-19-2026/#comments)
+9/19 – [Matt Martell](https://www.fangraphs.com/blog-roll?author=153421) [21](https://blogs.fangraphs.com/fangraphs-weekly-mailbag-september-19-2026/#comments)
 
 - [Effectively Wild Episode 2533: You Win Some, You Lose 40 in a Row](https://blogs.fangraphs.com/effectively-wild-episode-2533-you-win-some-you-lose-40-in-a-row/)
 
@@ -1062,7 +1070,7 @@ reply
 
 - [San Francisco’s 40-Man Cleanup Will Be a Giant Pain](https://blogs.fangraphs.com/san-franciscos-40-man-cleanup-will-be-a-giant-pain/)
 
-9/18 – [Jon Becker](https://www.fangraphs.com/blog-roll?author=82328) [19](https://blogs.fangraphs.com/san-franciscos-40-man-cleanup-will-be-a-giant-pain/#comments)
+9/18 – [Jon Becker](https://www.fangraphs.com/blog-roll?author=82328) [24](https://blogs.fangraphs.com/san-franciscos-40-man-cleanup-will-be-a-giant-pain/#comments)
 
 - [Alex McCoy Is Making a Name For Himself as a Power-Hitting Padres Prospect](https://blogs.fangraphs.com/alex-mccoy-is-making-a-name-for-himself-as-a-power-hitting-padres-prospect/)
 
@@ -1078,15 +1086,7 @@ reply
 
 - [Dan Szymborski FanGraphs Chat - 9/17/26](https://blogs.fangraphs.com/dan-szymborski-fangraphs-chat-9-17-26/)
 
-9/17 – [Dan Szymborski](https://www.fangraphs.com/blog-roll?author=30942) [8](https://blogs.fangraphs.com/dan-szymborski-fangraphs-chat-9-17-26/#comments)
-
-- [The 120 Club Is Closed This Season](https://blogs.fangraphs.com/the-120-club-is-closed-this-season/)
-
-9/17 – [Davy Andrews](https://www.fangraphs.com/blog-roll?author=198584) [8](https://blogs.fangraphs.com/the-120-club-is-closed-this-season/#comments)
-
-- [Fernando Tatis Jr. As Statistics Lesson](https://blogs.fangraphs.com/fernando-tatis-jr-as-statistics-lesson/)
-
-9/17 – [Ben Clemens](https://www.fangraphs.com/blog-roll?author=164011) [23](https://blogs.fangraphs.com/fernando-tatis-jr-as-statistics-lesson/#comments)
+9/17 – [Dan Szymborski](https://www.fangraphs.com/blog-roll?author=30942) [10](https://blogs.fangraphs.com/dan-szymborski-fangraphs-chat-9-17-26/#comments)
 
 
 Insert
@@ -1099,7 +1099,7 @@ Move Comment
 
 Move
 
-Updated: Saturday, September 19, 2026 11:18 AM ETUpdated: 9/19/2026 11:18 AM ET
+Updated: Monday, September 21, 2026 9:53 AM ETUpdated: 9/21/2026 9:53 AM ET
 
 [@fangraphs](https://twitter.com/fangraphs) \- [Contact Us](https://blogs.fangraphs.com/contact/) \- [Advertise](https://blogs.fangraphs.com/advertise/)
 \- [Terms of Service](https://www.fangraphs.com/about/terms-of-service) \- [Privacy Policy](https://www.fangraphs.com/about/privacy-policy)
