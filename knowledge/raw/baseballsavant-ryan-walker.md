@@ -3,38 +3,175 @@ source: https://baseballsavant.mlb.com/savant-player/ryan-walker-676254
 slug: baseballsavant-ryan-walker
 ---
 
-[Preview Matchup](https://baseballsavant.mlb.com/preview?game_pk=824787&game_date=2026-09-21)
+[Preview Matchup](https://baseballsavant.mlb.com/preview?game_pk=824223&game_date=2026-09-23)
 
-Yesavage vs. Baz
+Lovelady vs. Valdez
 
-[(compare pitchers)](https://baseballsavant.mlb.com/comparison-tool?player=702056-2026-pitcher&player=669358-2026-pitcher)
+[(compare pitchers)](https://baseballsavant.mlb.com/comparison-tool?player=663992-2026-pitcher&player=664285-2026-pitcher)
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| ![](https://www.mlbstatic.com/team-logos/120.svg) | WSH |  | 1:10 PM |
+| ![](https://www.mlbstatic.com/team-logos/116.svg) | DET |  |
+
+[Preview Matchup](https://baseballsavant.mlb.com/preview?game_pk=824785&game_date=2026-09-23)
+
+Scherzer vs. TBA
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| ![](https://www.mlbstatic.com/team-logos/141.svg) | TOR |  | 1:35 PM |
+| ![](https://www.mlbstatic.com/team-logos/110.svg) | BAL |  |
+
+[Preview Matchup](https://baseballsavant.mlb.com/preview?game_pk=823168&game_date=2026-09-23)
+
+Prielipp vs. Perdomo
+
+[(compare pitchers)](https://baseballsavant.mlb.com/comparison-tool?player=687570-2026-pitcher&player=702885-2026-pitcher)
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| ![](https://www.mlbstatic.com/team-logos/142.svg) | MIN |  | 3:45 PM |
+| ![](https://www.mlbstatic.com/team-logos/137.svg) | SF |  |
+
+[Preview Matchup](https://baseballsavant.mlb.com/preview?game_pk=824784&game_date=2026-09-23)
+
+TBA vs. TBA
 
 |     |     |     |     |
 | --- | --- | --- | --- |
 | ![](https://www.mlbstatic.com/team-logos/141.svg) | TOR |  | 6:35 PM |
 | ![](https://www.mlbstatic.com/team-logos/110.svg) | BAL |  |
 
-[Preview Matchup](https://baseballsavant.mlb.com/preview?game_pk=824221&game_date=2026-09-21)
+[Preview Matchup](https://baseballsavant.mlb.com/preview?game_pk=823327&game_date=2026-09-23)
 
-Herz vs. Ryan
+Liberatore vs. Bachar
 
-[(compare pitchers)](https://baseballsavant.mlb.com/comparison-tool?player=687792-2026-pitcher&player=689981-2026-pitcher)
-
-|     |     |     |     |
-| --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/120.svg) | WSH |  | 6:40 PM |
-| ![](https://www.mlbstatic.com/team-logos/116.svg) | DET |  |
-
-[Preview Matchup](https://baseballsavant.mlb.com/preview?game_pk=823169&game_date=2026-09-21)
-
-Matthews vs. Tidwell
-
-[(compare pitchers)](https://baseballsavant.mlb.com/comparison-tool?player=805673-2026-pitcher&player=694918-2026-pitcher)
+[(compare pitchers)](https://baseballsavant.mlb.com/comparison-tool?player=669461-2026-pitcher&player=669199-2026-pitcher)
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/142.svg) | MIN |  | 9:45 PM |
-| ![](https://www.mlbstatic.com/team-logos/137.svg) | SF |  |
+| ![](https://www.mlbstatic.com/team-logos/138.svg) | STL |  | 6:40 PM |
+| ![](https://www.mlbstatic.com/team-logos/134.svg) | PIT |  |
+
+[Preview Matchup](https://baseballsavant.mlb.com/preview?game_pk=823410&game_date=2026-09-23)
+
+Henderson vs. Nola
+
+[(compare pitchers)](https://baseballsavant.mlb.com/comparison-tool?player=701656-2026-pitcher&player=605400-2026-pitcher)
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| ![](https://www.mlbstatic.com/team-logos/158.svg) | MIL |  | 6:40 PM |
+| ![](https://www.mlbstatic.com/team-logos/143.svg) | PHI |  |
+
+[Preview Matchup](https://baseballsavant.mlb.com/preview?game_pk=823492&game_date=2026-09-23)
+
+Seymour vs. Cole
+
+[(compare pitchers)](https://baseballsavant.mlb.com/comparison-tool?player=693855-2026-pitcher&player=543037-2026-pitcher)
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| ![](https://www.mlbstatic.com/team-logos/139.svg) | TB |  | 7:05 PM |
+| ![](https://www.mlbstatic.com/team-logos/147.svg) | NYY |  |
+
+[Preview Matchup](https://baseballsavant.mlb.com/preview?game_pk=824710&game_date=2026-09-23)
+
+Griffin vs. Gray
+
+[(compare pitchers)](https://baseballsavant.mlb.com/comparison-tool?player=656492-2026-pitcher&player=543243-2026-pitcher)
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| ![](https://www.mlbstatic.com/team-logos/114.svg) | CLE |  | 7:10 PM |
+| ![](https://www.mlbstatic.com/team-logos/111.svg) | BOS |  |
+
+[Preview Matchup](https://baseballsavant.mlb.com/preview?game_pk=824868&game_date=2026-09-23)
+
+Abbott vs. Sale
+
+[(compare pitchers)](https://baseballsavant.mlb.com/comparison-tool?player=671096-2026-pitcher&player=519242-2026-pitcher)
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| ![](https://www.mlbstatic.com/team-logos/113.svg) | CIN |  | 7:15 PM |
+| ![](https://www.mlbstatic.com/team-logos/144.svg) | ATL |  |
+
+[Preview Matchup](https://baseballsavant.mlb.com/preview?game_pk=824060&game_date=2026-09-23)
+
+Hudson vs. Lugo
+
+[(compare pitchers)](https://baseballsavant.mlb.com/comparison-tool?player=663542-2026-pitcher&player=607625-2026-pitcher)
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| ![](https://www.mlbstatic.com/team-logos/145.svg) | CWS |  | 7:40 PM |
+| ![](https://www.mlbstatic.com/team-logos/118.svg) | KC |  |
+
+[Preview Matchup](https://baseballsavant.mlb.com/preview?game_pk=824625&game_date=2026-09-23)
+
+Gusto vs. Gausman
+
+[(compare pitchers)](https://baseballsavant.mlb.com/comparison-tool?player=687473-2026-pitcher&player=592332-2026-pitcher)
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| ![](https://www.mlbstatic.com/team-logos/146.svg) | MIA |  | 7:40 PM |
+| ![](https://www.mlbstatic.com/team-logos/112.svg) | CHC |  |
+
+[Preview Matchup](https://baseballsavant.mlb.com/preview?game_pk=822841&game_date=2026-09-23)
+
+McLean vs. TBA
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| ![](https://www.mlbstatic.com/team-logos/121.svg) | NYM |  | 8:05 PM |
+| ![](https://www.mlbstatic.com/team-logos/140.svg) | TEX |  |
+
+[Preview Matchup](https://baseballsavant.mlb.com/preview?game_pk=824301&game_date=2026-09-23)
+
+Kelly vs. Adams
+
+[(compare pitchers)](https://baseballsavant.mlb.com/comparison-tool?player=518876-2026-pitcher&player=690279-2026-pitcher)
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| ![](https://www.mlbstatic.com/team-logos/109.svg) | AZ |  | 8:40 PM |
+| ![](https://www.mlbstatic.com/team-logos/115.svg) | COL |  |
+
+[Preview Matchup](https://baseballsavant.mlb.com/preview?game_pk=824951&game_date=2026-09-23)
+
+Ureña vs. Springs
+
+[(compare pitchers)](https://baseballsavant.mlb.com/comparison-tool?player=700712-2026-pitcher&player=605488-2026-pitcher)
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| ![](https://www.mlbstatic.com/team-logos/108.svg) | LAA |  | 9:40 PM |
+| ![](https://www.mlbstatic.com/team-logos/133.svg) | ATH |  |
+
+[Preview Matchup](https://baseballsavant.mlb.com/preview?game_pk=823894&game_date=2026-09-23)
+
+Ray vs. Yamamoto
+
+[(compare pitchers)](https://baseballsavant.mlb.com/comparison-tool?player=592662-2026-pitcher&player=808967-2026-pitcher)
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| ![](https://www.mlbstatic.com/team-logos/135.svg) | SD |  | 10:10 PM |
+| ![](https://www.mlbstatic.com/team-logos/119.svg) | LAD |  |
+
+[Preview Matchup](https://baseballsavant.mlb.com/preview?game_pk=823086&game_date=2026-09-23)
+
+Pecko vs. Kirby
+
+[(compare pitchers)](https://baseballsavant.mlb.com/comparison-tool?player=814490-2026-pitcher&player=669923-2026-pitcher)
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| ![](https://www.mlbstatic.com/team-logos/117.svg) | HOU |  | 10:10 PM |
+| ![](https://www.mlbstatic.com/team-logos/136.svg) | SEA |  |
 
 <
 
@@ -343,13 +480,13 @@ Save Image
 | ![](https://www.mlbstatic.com/team-logos/137.svg) | 08/19/2023 | San Francisco Giants placed RHP Ryan Walker on the paternity list. |
 | ![](https://www.mlbstatic.com/team-logos/137.svg) | 05/19/2023 | San Francisco Giants selected the contract of RHP Ryan Walker from Sacramento River Cats. |
 | ![](https://www.mlbstatic.com/team-logos/940.svg) | 03/08/2023 | RHP Ryan Walker assigned to United States. |
-| ![](https://www.mlbstatic.com/team-logos/137.svg) | 02/25/2023 | RHP Ryan Walker assigned to San Francisco Giants. |
 | ![](https://www.mlbstatic.com/team-logos/137.svg) | 02/25/2023 | RHP Ryan Walker roster status changed by San Francisco Giants. |
+| ![](https://www.mlbstatic.com/team-logos/137.svg) | 02/25/2023 | RHP Ryan Walker assigned to San Francisco Giants. |
 | ![](https://www.mlbstatic.com/team-logos/137.svg) | 02/25/2023 | RHP Ryan Walker roster status changed by San Francisco Giants. |
 | ![](https://www.mlbstatic.com/team-logos/105.svg) | 09/10/2022 | RHP Ryan Walker assigned to Sacramento River Cats from Richmond Flying Squirrels. |
 | ![](https://www.mlbstatic.com/team-logos/105.svg) | 09/10/2022 | Sacramento River Cats activated RHP Ryan Walker. |
-| ![](https://www.mlbstatic.com/team-logos/137.svg) | 03/24/2022 | RHP Ryan Walker assigned to San Francisco Giants. |
 | ![](https://www.mlbstatic.com/team-logos/137.svg) | 03/24/2022 | RHP Ryan Walker roster status changed by San Francisco Giants. |
+| ![](https://www.mlbstatic.com/team-logos/137.svg) | 03/24/2022 | RHP Ryan Walker assigned to San Francisco Giants. |
 | ![](https://www.mlbstatic.com/team-logos/3410.svg) | 08/31/2021 | RHP Ryan Walker assigned to Richmond Flying Squirrels from Eugene Emeralds. |
 | ![](https://www.mlbstatic.com/team-logos/461.svg) | 08/10/2021 | RHP Ryan Walker assigned to Eugene Emeralds from Richmond Flying Squirrels. |
 | ![](https://www.mlbstatic.com/team-logos/3410.svg) | 08/04/2021 | RHP Ryan Walker assigned to Richmond Flying Squirrels from Eugene Emeralds. |
@@ -1192,7 +1329,7 @@ Created with Highcharts 6.2.0Exit VelocityPitchesChart context menuRyan Walker E
 
 ## Run Value
 
-Ryan WalkerPitcher RV (All)0.20.20.8-0.50.00.60.7-0.64.3-1.6-1.3-1.6-7.7
+Ryan WalkerPitcher RV (All)0.20.20.8-0.5-0.10.60.7-0.64.3-1.6-1.3-1.6-7.7
 
 Ryan WalkerPitcher RV (Swings)-0.1-0.30.3-1.3-0.7-0.50.1-1.72.12.20.50.3-0.3
 
@@ -1256,7 +1393,7 @@ Ryan WalkerISO.0001.000.000.167.333.300.091.182.000.000.000.000.000
 
 Ryan WalkerwOBA.445.683.000.346.423.348.358.469.000.305.175.452.674
 
-Ryan WalkerwOBA (Contact).5342.048.376.423.425.437.573.000.267.000.445.594
+Ryan WalkerwOBA (Contact).5342.049.376.423.426.437.573.000.267.000.445.594
 
 ## Statcast
 

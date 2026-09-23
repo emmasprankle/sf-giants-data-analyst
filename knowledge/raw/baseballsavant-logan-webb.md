@@ -3,38 +3,175 @@ source: https://baseballsavant.mlb.com/savant-player/logan-webb-657277
 slug: baseballsavant-logan-webb
 ---
 
-[Preview Matchup](https://baseballsavant.mlb.com/preview?game_pk=824787&game_date=2026-09-21)
+[Preview Matchup](https://baseballsavant.mlb.com/preview?game_pk=824223&game_date=2026-09-23)
 
-Yesavage vs. Baz
+Lovelady vs. Valdez
 
-[(compare pitchers)](https://baseballsavant.mlb.com/comparison-tool?player=702056-2026-pitcher&player=669358-2026-pitcher)
+[(compare pitchers)](https://baseballsavant.mlb.com/comparison-tool?player=663992-2026-pitcher&player=664285-2026-pitcher)
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| ![](https://www.mlbstatic.com/team-logos/120.svg) | WSH |  | 1:10 PM |
+| ![](https://www.mlbstatic.com/team-logos/116.svg) | DET |  |
+
+[Preview Matchup](https://baseballsavant.mlb.com/preview?game_pk=824785&game_date=2026-09-23)
+
+Scherzer vs. TBA
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| ![](https://www.mlbstatic.com/team-logos/141.svg) | TOR |  | 1:35 PM |
+| ![](https://www.mlbstatic.com/team-logos/110.svg) | BAL |  |
+
+[Preview Matchup](https://baseballsavant.mlb.com/preview?game_pk=823168&game_date=2026-09-23)
+
+Prielipp vs. Perdomo
+
+[(compare pitchers)](https://baseballsavant.mlb.com/comparison-tool?player=687570-2026-pitcher&player=702885-2026-pitcher)
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| ![](https://www.mlbstatic.com/team-logos/142.svg) | MIN |  | 3:45 PM |
+| ![](https://www.mlbstatic.com/team-logos/137.svg) | SF |  |
+
+[Preview Matchup](https://baseballsavant.mlb.com/preview?game_pk=824784&game_date=2026-09-23)
+
+TBA vs. TBA
 
 |     |     |     |     |
 | --- | --- | --- | --- |
 | ![](https://www.mlbstatic.com/team-logos/141.svg) | TOR |  | 6:35 PM |
 | ![](https://www.mlbstatic.com/team-logos/110.svg) | BAL |  |
 
-[Preview Matchup](https://baseballsavant.mlb.com/preview?game_pk=824221&game_date=2026-09-21)
+[Preview Matchup](https://baseballsavant.mlb.com/preview?game_pk=823327&game_date=2026-09-23)
 
-Herz vs. Ryan
+Liberatore vs. Bachar
 
-[(compare pitchers)](https://baseballsavant.mlb.com/comparison-tool?player=687792-2026-pitcher&player=689981-2026-pitcher)
-
-|     |     |     |     |
-| --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/120.svg) | WSH |  | 6:40 PM |
-| ![](https://www.mlbstatic.com/team-logos/116.svg) | DET |  |
-
-[Preview Matchup](https://baseballsavant.mlb.com/preview?game_pk=823169&game_date=2026-09-21)
-
-Matthews vs. Tidwell
-
-[(compare pitchers)](https://baseballsavant.mlb.com/comparison-tool?player=805673-2026-pitcher&player=694918-2026-pitcher)
+[(compare pitchers)](https://baseballsavant.mlb.com/comparison-tool?player=669461-2026-pitcher&player=669199-2026-pitcher)
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ![](https://www.mlbstatic.com/team-logos/142.svg) | MIN |  | 9:45 PM |
-| ![](https://www.mlbstatic.com/team-logos/137.svg) | SF |  |
+| ![](https://www.mlbstatic.com/team-logos/138.svg) | STL |  | 6:40 PM |
+| ![](https://www.mlbstatic.com/team-logos/134.svg) | PIT |  |
+
+[Preview Matchup](https://baseballsavant.mlb.com/preview?game_pk=823410&game_date=2026-09-23)
+
+Henderson vs. Nola
+
+[(compare pitchers)](https://baseballsavant.mlb.com/comparison-tool?player=701656-2026-pitcher&player=605400-2026-pitcher)
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| ![](https://www.mlbstatic.com/team-logos/158.svg) | MIL |  | 6:40 PM |
+| ![](https://www.mlbstatic.com/team-logos/143.svg) | PHI |  |
+
+[Preview Matchup](https://baseballsavant.mlb.com/preview?game_pk=823492&game_date=2026-09-23)
+
+Seymour vs. Cole
+
+[(compare pitchers)](https://baseballsavant.mlb.com/comparison-tool?player=693855-2026-pitcher&player=543037-2026-pitcher)
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| ![](https://www.mlbstatic.com/team-logos/139.svg) | TB |  | 7:05 PM |
+| ![](https://www.mlbstatic.com/team-logos/147.svg) | NYY |  |
+
+[Preview Matchup](https://baseballsavant.mlb.com/preview?game_pk=824710&game_date=2026-09-23)
+
+Griffin vs. Gray
+
+[(compare pitchers)](https://baseballsavant.mlb.com/comparison-tool?player=656492-2026-pitcher&player=543243-2026-pitcher)
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| ![](https://www.mlbstatic.com/team-logos/114.svg) | CLE |  | 7:10 PM |
+| ![](https://www.mlbstatic.com/team-logos/111.svg) | BOS |  |
+
+[Preview Matchup](https://baseballsavant.mlb.com/preview?game_pk=824868&game_date=2026-09-23)
+
+Abbott vs. Sale
+
+[(compare pitchers)](https://baseballsavant.mlb.com/comparison-tool?player=671096-2026-pitcher&player=519242-2026-pitcher)
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| ![](https://www.mlbstatic.com/team-logos/113.svg) | CIN |  | 7:15 PM |
+| ![](https://www.mlbstatic.com/team-logos/144.svg) | ATL |  |
+
+[Preview Matchup](https://baseballsavant.mlb.com/preview?game_pk=824060&game_date=2026-09-23)
+
+Hudson vs. Lugo
+
+[(compare pitchers)](https://baseballsavant.mlb.com/comparison-tool?player=663542-2026-pitcher&player=607625-2026-pitcher)
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| ![](https://www.mlbstatic.com/team-logos/145.svg) | CWS |  | 7:40 PM |
+| ![](https://www.mlbstatic.com/team-logos/118.svg) | KC |  |
+
+[Preview Matchup](https://baseballsavant.mlb.com/preview?game_pk=824625&game_date=2026-09-23)
+
+Gusto vs. Gausman
+
+[(compare pitchers)](https://baseballsavant.mlb.com/comparison-tool?player=687473-2026-pitcher&player=592332-2026-pitcher)
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| ![](https://www.mlbstatic.com/team-logos/146.svg) | MIA |  | 7:40 PM |
+| ![](https://www.mlbstatic.com/team-logos/112.svg) | CHC |  |
+
+[Preview Matchup](https://baseballsavant.mlb.com/preview?game_pk=822841&game_date=2026-09-23)
+
+McLean vs. TBA
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| ![](https://www.mlbstatic.com/team-logos/121.svg) | NYM |  | 8:05 PM |
+| ![](https://www.mlbstatic.com/team-logos/140.svg) | TEX |  |
+
+[Preview Matchup](https://baseballsavant.mlb.com/preview?game_pk=824301&game_date=2026-09-23)
+
+Kelly vs. Adams
+
+[(compare pitchers)](https://baseballsavant.mlb.com/comparison-tool?player=518876-2026-pitcher&player=690279-2026-pitcher)
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| ![](https://www.mlbstatic.com/team-logos/109.svg) | AZ |  | 8:40 PM |
+| ![](https://www.mlbstatic.com/team-logos/115.svg) | COL |  |
+
+[Preview Matchup](https://baseballsavant.mlb.com/preview?game_pk=824951&game_date=2026-09-23)
+
+Ureña vs. Springs
+
+[(compare pitchers)](https://baseballsavant.mlb.com/comparison-tool?player=700712-2026-pitcher&player=605488-2026-pitcher)
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| ![](https://www.mlbstatic.com/team-logos/108.svg) | LAA |  | 9:40 PM |
+| ![](https://www.mlbstatic.com/team-logos/133.svg) | ATH |  |
+
+[Preview Matchup](https://baseballsavant.mlb.com/preview?game_pk=823894&game_date=2026-09-23)
+
+Ray vs. Yamamoto
+
+[(compare pitchers)](https://baseballsavant.mlb.com/comparison-tool?player=592662-2026-pitcher&player=808967-2026-pitcher)
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| ![](https://www.mlbstatic.com/team-logos/135.svg) | SD |  | 10:10 PM |
+| ![](https://www.mlbstatic.com/team-logos/119.svg) | LAD |  |
+
+[Preview Matchup](https://baseballsavant.mlb.com/preview?game_pk=823086&game_date=2026-09-23)
+
+Pecko vs. Kirby
+
+[(compare pitchers)](https://baseballsavant.mlb.com/comparison-tool?player=814490-2026-pitcher&player=669923-2026-pitcher)
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| ![](https://www.mlbstatic.com/team-logos/117.svg) | HOU |  | 10:10 PM |
+| ![](https://www.mlbstatic.com/team-logos/136.svg) | SEA |  |
 
 <
 
@@ -121,7 +258,7 @@ Usage vs. LHH21%28%22%15%15%Pitch Run ValueUsage vs. RHH42%17%18%12%11%+120Sinke
 MLB Percentile Rankings
 [![](https://baseballsavant.mlb.com/site-core/images/comp_tool_icons27.png)](https://baseballsavant.mlb.com/comparison-tool?player=657277-2026-pitcher&openSearch=true "Compare to Other Players")
 
-![](https://baseballsavant.mlb.com/sections/evp/images/play.png)ValuesavantPOORAVERAGEGREATPitching Run Value18NOT QUALIFIED92Fastball Run Value14NOT QUALIFIED94Breaking Run Value4NOT QUALIFIED75Offspeed Run Value0NOT QUALIFIED53PitchingxERA4.09NOT QUALIFIED49xBA.259NOT QUALIFIED23Fastball Velo92.1NOT QUALIFIED16Avg Exit Velo88.3NOT QUALIFIED59Chase %32.9NOT QUALIFIED74Whiff %21.5NOT QUALIFIED20K %20.1NOT QUALIFIED32BB %6.1NOT QUALIFIED88Barrel %5.8NOT QUALIFIED79Hard-Hit %38.9NOT QUALIFIED44GB %51.8NOT QUALIFIED90Extension6.9NOT QUALIFIED85
+![](https://baseballsavant.mlb.com/sections/evp/images/play.png)ValuesavantPOORAVERAGEGREATPitching Run Value18NOT QUALIFIED92Fastball Run Value14NOT QUALIFIED94Breaking Run Value4NOT QUALIFIED76Offspeed Run Value0NOT QUALIFIED52PitchingxERA4.09NOT QUALIFIED48xBA.259NOT QUALIFIED23Fastball Velo92.1NOT QUALIFIED16Avg Exit Velo88.3NOT QUALIFIED60Chase %32.9NOT QUALIFIED74Whiff %21.5NOT QUALIFIED20K %20.1NOT QUALIFIED32BB %6.1NOT QUALIFIED88Barrel %5.8NOT QUALIFIED80Hard-Hit %38.9NOT QUALIFIED44GB %51.8NOT QUALIFIED89Extension6.9NOT QUALIFIED85
 
 20262026
 
@@ -348,7 +485,7 @@ Save Image
 
 | Season | R | Rank |
 | --- | --- | --- |
-| 2026 | 80 | 16th in NL |
+| 2026 | 80 | 17th in NL |
 | 2025 | 82 | 20th in NL |
 | 2024 | 83 | 16th in NL |
 | 2023 | 83 | 18th in NL |
@@ -369,7 +506,7 @@ Save Image
 
 | Season | H | Rank |
 | --- | --- | --- |
-| 2026 | 147 | 16th in NL |
+| 2026 | 147 | 17th in NL |
 | 2025 | 210 | 1st in NL |
 | 2024 | 202 | 2nd in NL |
 | 2023 | 201 | 3rd in NL |
@@ -388,7 +525,7 @@ Save Image
 
 | Season | Losses | Rank |
 | --- | --- | --- |
-| 2026 | 9 | 19th in NL |
+| 2026 | 9 | 20th in NL |
 | 2025 | 11 | 19th in NL |
 | 2024 | 10 | 13th in NL |
 | 2023 | 13 | 5th in NL |
@@ -399,7 +536,7 @@ Save Image
 
 | Season | SO | Rank |
 | --- | --- | --- |
-| 2026 | 134 | 24th in NL |
+| 2026 | 134 | 25th in NL |
 | 2025 | 224 | 1st in NL |
 | 2024 | 172 | 12th in NL |
 | 2023 | 194 | 11th in NL |
@@ -476,13 +613,13 @@ Save Image
 
 | Season | ERA | Rank |
 | --- | --- | --- |
-| 2026 | 4.31 | 16th in NL |
+| 2026 | 4.31 | 17th in NL |
 
 #### WHIP
 
 | Season | WHIP | Rank |
 | --- | --- | --- |
-| 2026 | 1.17 | 10th in NL |
+| 2026 | 1.17 | 9th in NL |
 
 \+ View More Rankings
 
@@ -549,15 +686,15 @@ Save Image
 | ![](https://www.mlbstatic.com/team-logos/137.svg) | 05/20/2021 | San Francisco Giants placed RHP Logan Webb on the 10-day injured list. Right shoulder strain. |
 | ![](https://www.mlbstatic.com/team-logos/137.svg) | 04/20/2021 | San Francisco Giants activated RHP Logan Webb from the 10-day injured list. |
 | ![](https://www.mlbstatic.com/team-logos/137.svg) | 04/18/2021 | San Francisco Giants placed RHP Logan Webb on the 10-day injured list. |
-| ![](https://www.mlbstatic.com/team-logos/137.svg) | 08/17/2019 | San Francisco Giants recalled RHP Logan Webb. |
-| ![](https://www.mlbstatic.com/team-logos/137.svg) | 08/17/2019 | San Francisco Giants recalled P Logan Webb. |
 | ![](https://www.mlbstatic.com/team-logos/137.svg) | 08/17/2019 | San Francisco Giants recalled RHP Logan Webb from Sacramento River Cats. |
+| ![](https://www.mlbstatic.com/team-logos/137.svg) | 08/17/2019 | San Francisco Giants recalled P Logan Webb. |
+| ![](https://www.mlbstatic.com/team-logos/137.svg) | 08/17/2019 | San Francisco Giants recalled RHP Logan Webb. |
 | ![](https://www.mlbstatic.com/team-logos/105.svg) | 08/10/2019 | RHP Logan Webb assigned to Sacramento River Cats from Richmond Flying Squirrels. |
 | ![](https://www.mlbstatic.com/team-logos/3410.svg) | 07/28/2019 | Logan Webb roster status changed by Richmond Flying Squirrels. |
 | ![](https://www.mlbstatic.com/team-logos/478.svg) | 07/17/2019 | sent RHP Logan Webb on a rehab assignment to Augusta GreenJackets. |
 | ![](https://www.mlbstatic.com/team-logos/5370.svg) | 07/12/2019 | sent RHP Logan Webb on a rehab assignment to AZL Giants Orange. |
-| ![](https://www.mlbstatic.com/team-logos/137.svg) | 05/01/2019 | San Francisco Giants placed RHP Logan Webb on the restricted list. |
 | ![](https://www.mlbstatic.com/team-logos/3410.svg) | 05/01/2019 | Richmond Flying Squirrels placed RHP Logan Webb on the restricted list. |
+| ![](https://www.mlbstatic.com/team-logos/137.svg) | 05/01/2019 | San Francisco Giants placed RHP Logan Webb on the restricted list. |
 | ![](https://www.mlbstatic.com/team-logos/3410.svg) | 03/28/2019 | RHP Logan Webb assigned to Richmond Flying Squirrels from Sacramento River Cats. |
 | ![](https://www.mlbstatic.com/team-logos/105.svg) | 03/08/2019 | San Francisco Giants optioned RHP Logan Webb to Sacramento River Cats. |
 | ![](https://www.mlbstatic.com/team-logos/137.svg) | 11/20/2018 | San Francisco Giants selected the contract of Logan Webb from Richmond Flying Squirrels. |
@@ -1156,7 +1293,7 @@ These run values are **leveraged**, meaning the base/out situation at the time o
 | 2023 | ![](https://www.mlbstatic.com/team-logos/137.svg) | 850 | 3,182 | 3 | 44 | -12 | -10 | 26 | -3 |
 | 2024 | ![](https://www.mlbstatic.com/team-logos/137.svg) | 838 | 3,201 | 7 | 33 | -16 | -8 | 15 | -8 |
 | 2025 | ![](https://www.mlbstatic.com/team-logos/137.svg) | 856 | 3,282 | 6 | 27 | -14 | -8 | 12 | -1 |
-| 2026 | ![](https://www.mlbstatic.com/team-logos/137.svg) | 667 | 2,488 | 11 | 23 | -17 | -10 | 8 | -11 |
+| 2026 | ![](https://www.mlbstatic.com/team-logos/137.svg) | 667 | 2,488 | 11 | 23 | -17 | -10 | 7 | -11 |
 | Player | ![](https://baseballsavant.mlb.com/site-core/images/savant-mlb.svg) | 5,013 | 19,047 | 41 | 202 | -81 | 41 | 93 | -22 |
 
 – Hide Leverage-Based Run Value
@@ -1190,7 +1327,7 @@ These run values are **leveraged**, meaning the base/out situation at the time o
 | 2023 | 98 | 43 | 48 | 100 | 73 | 24 | 1 |  | 10 | 86 | 11 | 44 | 99 | 66 | 6 | 99 | 91 |
 | 2024 | 96 | 98 | 71 | 69 | 32 | 28 | 3 |  | 23 | 89 | 11 | 29 | 83 | 66 | 4 | 95 | 92 |
 | 2025 | 84 | 66 | 32 | 98 | 70 | 23 | 3 |  | 38 | 68 | 47 | 76 | 91 | 51 | 52 | 91 | 84 |
-| 2026 | 92 | 94 | 75 | 53 | 49 | 16 | 3 |  | 59 | 74 | 20 | 32 | 88 | 79 | 44 | 90 | 85 |
+| 2026 | 92 | 94 | 76 | 52 | 48 | 16 | 3 |  | 60 | 74 | 20 | 32 | 88 | 80 | 44 | 89 | 85 |
 
 [+\\
 View Complete Percentile Rankings Leaderboard](https://baseballsavant.mlb.com/leaderboard/percentile-rankings?type=pitcher)
@@ -1212,8 +1349,8 @@ Adjusted
 | 2023 | ![](https://www.mlbstatic.com/team-logos/137.svg) | 23.14 | 20 | 20.9 | -1 | 6 | 18 | 7 | 35.0 |
 | 2024 | ![](https://www.mlbstatic.com/team-logos/137.svg) | 25.36 | 11 | 12.1 | -1 | 12 | 9 | 5 | 45.5 |
 | 2025 | ![](https://www.mlbstatic.com/team-logos/137.svg) | 23.42 | 14 | 14.0 | 0 | 9 | 12 | 4 | 28.6 |
-| 2026 | ![](https://www.mlbstatic.com/team-logos/137.svg) | 25.85 | 13 | 12.1 | 1 | 11 | 8 | 5 | 38.5 |
-| **Player** |  | 23.84 | 87 | 91.0 | -4 | 60 | 70 | 35 | 40.2 |
+| 2026 | ![](https://www.mlbstatic.com/team-logos/137.svg) | 25.85 | 13 | 12.3 | 1 | 10 | 9 | 5 | 38.5 |
+| **Player** |  | 23.84 | 87 | 91.2 | -4 | 59 | 71 | 35 | 40.2 |
 
 Note: xHR tells how many of this pitcher's batted balls allowed would have been out of other stadiums. The "Adjusted" view here accounts for different wall heights, distances and environmental effects using Statcast Park Factor data.
 
@@ -1251,8 +1388,8 @@ Adjusted
 | 2023 | 20 | 18 | 15 | 23 | 20 | 21 | 22 | 18 | 20 | 18 | 18 | 20 | 23 | 22 | 23 | 23 | 23 | 19 | 22 | 24 | 21 | 18 | 28 | 25 | 20 | 19 | 21 | 24 | 22 | 21 | 16 |
 | 2024 | 11 | 13 | 10 | 14 | 9 | 11 | 13 | 13 | 8 | 9 | 11 | 15 | 15 | 12 | 13 | 10 | 13 | 12 | 14 | 13 | 14 | 10 | 19 | 15 | 11 | 13 | 9 | 11 | 14 | 10 | 9 |
 | 2025 | 14 | 14 | 11 | 12 | 15 | 15 | 12 | 13 | 11 | 13 | 13 | 14 | 16 | 21 | 14 | 14 | 16 | 13 | 11 | 16 | 12 | 13 | 17 | 17 | 13 | 13 | 11 | 15 | 17 | 14 | 14 |
-| 2026 | 13 | 13 | 9 | 16 | 12 | 14 | 9 | 11 | 14 | 11 | 10 | 13 | 10 | 16 | 12 | 12 | 11 | 10 | 10 | 18 | 12 | 14 | 17 | 15 | 8 | 9 | 8 | 15 | 15 | 9 | 11 |
-| **Player** | 87 | 97 | 73 | 99 | 88 | 90 | 91 | 82 | 78 | 75 | 76 | 102 | 99 | 99 | 94 | 98 | 91 | 83 | 90 | 106 | 87 | 91 | 123 | 107 | 79 | 79 | 86 | 101 | 106 | 83 | 77 |
+| 2026 | 13 | 13 | 9 | 16 | 12 | 14 | 9 | 11 | 14 | 11 | 10 | 13 | 11 | 17 | 12 | 12 | 11 | 10 | 10 | 18 | 12 | 14 | 17 | 16 | 9 | 9 | 8 | 16 | 15 | 9 | 11 |
+| **Player** | 87 | 97 | 73 | 99 | 88 | 90 | 91 | 82 | 78 | 75 | 76 | 102 | 100 | 100 | 94 | 98 | 91 | 83 | 90 | 106 | 87 | 91 | 123 | 108 | 80 | 79 | 86 | 102 | 106 | 83 | 77 |
 
 Note: xHR tells how many of this pitcher's batted balls allowed would have been out of other stadiums. The "Adjusted" view here accounts for different wall heights, distances and environmental effects using Statcast Park Factor data.
 
@@ -1548,13 +1685,13 @@ Created with Highcharts 6.2.0Exit VelocityPitchesChart context menuLogan Webb Ex
 
 ## Run Value
 
-Logan WebbPitcher RV (All)2.24.05.42.64.43.15.23.67.2-5.3-2.3-0.8-11.4
+Logan WebbPitcher RV (All)2.24.05.42.64.33.15.13.67.2-5.2-2.3-0.8-11.3
 
 Logan WebbPitcher RV (Swings)0.62.52.70.11.60.42.6-0.83.67.14.510.56.3
 
-Logan WebbPitcher RV (Takes)1.61.52.82.52.82.72.64.43.5-12.3-6.8-11.3-17.7
+Logan WebbPitcher RV (Takes)1.61.52.82.52.82.72.64.43.5-12.3-6.8-11.3-17.6
 
-Logan WebbPitcher RV (Contact)-0.4-0.21.8-0.30.1-0.81.5-2.62.82.92.75.6-3.2
+Logan WebbPitcher RV (Contact)-0.4-0.21.8-0.30.1-0.81.5-2.62.72.92.75.6-3.2
 
 ## Standard
 
@@ -1610,7 +1747,7 @@ Logan WebbSLG.350.342.333.439.434.520.318.628.263.107.120.197.292
 
 Logan WebbISO.050.158.125.146.113.220.023.333.000.000.000.026.083
 
-Logan WebbwOBA.286.225.232.323.329.351.272.382.234.267.279.219.327
+Logan WebbwOBA.286.225.232.323.329.351.271.382.234.267.279.219.327
 
 Logan WebbwOBA (Contact).381.317.286.339.356.381.314.444.297.205.148.209.400
 
@@ -1620,19 +1757,19 @@ Logan WebbAvg Exit Velocity89898587949188968776708483
 
 Logan WebbAvg Launch Angle1219189811047214-47
 
-Logan WebbBat Speed (MPH)69727172737372747369707272
+Logan WebbBat Speed (MPH)70717172737372747369707272
 
-Logan WebbSwing Length (ft)6.46.66.67.06.97.07.37.57.46.56.67.67.9
+Logan WebbSwing Length (ft)6.46.66.67.06.97.07.37.57.46.56.67.68.0
 
 Logan WebbSquared up % / Swings2015273132342946249101811
 
 Logan WebbSquared up % / Contact26203033383833522715142418
 
-Logan WebbAttack Angle2485588101157816
+Logan WebbAttack Angle2485588101157817
 
-Logan WebbAttack Direction151158732-3-3138-1-11
+Logan WebbAttack Direction141158732-3-3138-1-11
 
-Logan WebbSwing Path (Tilt)29292933333335363725283838
+Logan WebbSwing Path (Tilt)29292933333335363725283839
 
 Logan WebbBarrels12143221000012
 
@@ -1660,7 +1797,7 @@ Logan WebbxSLG.347.385.305.406.548.433.374.644.366.120.183.280.307
 
 Logan WebbxISO.105.173.091.129.203.152.098.297.069.023.026.042.089
 
-Logan WebbxwOBA.254.252.223.302.381.306.281.422.289.271.311.277.335
+Logan WebbxwOBA.254.252.223.302.381.306.281.422.289.271.310.277.335
 
 Logan WebbxwOBA (Contact).338.355.275.315.412.333.326.491.366.211.209.291.423
 

@@ -3,7 +3,7 @@ source: https://www.baseball-reference.com/about/war_explained_pitch.shtml
 slug: baseball-reference-pitcher-war
 ---
 
-Sports Reference Hub, your new customizable home page, is here! Learn more and [sign up for free](https://www.sports-reference.com/?utm_campaign=2026_09_mktg_hub&utm_source=br&utm_medium=sr_xsite&utm_content=yellow_bar).
+Pick your teams, customize leaderboards, and more. [Set up your free Sports Reference Hub](https://www.sports-reference.com/?utm_campaign=2026_09_mktg_hub&utm_source=br&utm_medium=sr_xsite&utm_content=yellow_bar).
 
 **About** Menu
 
