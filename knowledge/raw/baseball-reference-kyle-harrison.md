@@ -24,7 +24,7 @@ Pitcher
 **Team:** [Milwaukee Brewers](https://www.baseball-reference.com/teams/MIL/2026.shtml) (majors)
 
 
-**[Born:](https://www.baseball-reference.com/bio/)**[August 12](https://www.baseball-reference.com/friv/birthdays.cgi?month=8&day=12), [2001](https://www.baseball-reference.com/leagues/majors/2001-births.shtml)(Age: 25-046d)
+**[Born:](https://www.baseball-reference.com/bio/)**[August 12](https://www.baseball-reference.com/friv/birthdays.cgi?month=8&day=12), [2001](https://www.baseball-reference.com/leagues/majors/2001-births.shtml)(Age: 25-047d)
 
 in San Jose, [CA](https://www.baseball-reference.com/bio/CA_born.shtml)us
 
@@ -365,15 +365,15 @@ Standard Pitching Table
 | [2025](https://www.baseball-reference.com/players/gl.fcgi?id=harriky01&t=p&year=2025) | 23 | 2TM | 2LG | 35.2 | 11 | 6 | 16 | 4.04 | 4.34 | 0.14 | 0.09 | 0.16 | 103 | 4.58 | 2 | 0.2 | 0.63 | -0.1 | 0.5 | 5 | .521 | .500 |  |
 | [2025](https://www.baseball-reference.com/players/gl.fcgi?id=harriky01&t=p&year=2025) | 23 | [SFG](https://www.baseball-reference.com/teams/SFG/2025.shtml) | [NL](https://www.baseball-reference.com/leagues/NL/2025.shtml) | 23.2 | 8 | 4 | 12 | 4.56 | 4.25 | 0.05 | 0.09 | 0.23 | 103 | 4.65 | 0 | 0.0 | 0.58 | 0.0 | 0.2 | 2 | .504 | .500 |  |
 | [2025](https://www.baseball-reference.com/players/gl.fcgi?id=harriky01&t=p&year=2025) | 23 | [BOS](https://www.baseball-reference.com/teams/BOS/2025.shtml) | [AL](https://www.baseball-reference.com/leagues/AL/2025.shtml) | 12.0 | 3 | 2 | 4 | 3.00 | 4.51 | 0.30 | 0.08 | 0.00 | 104 | 4.45 | 2 | 0.2 | 0.83 | 0.0 | 0.3 | 3 | .568 | .501 |  |
-| [2026](https://www.baseball-reference.com/players/gl.fcgi?id=harriky01&t=p&year=2026) | 24 | [MIL](https://www.baseball-reference.com/teams/MIL/2026.shtml) | [NL](https://www.baseball-reference.com/leagues/NL/2026.shtml) | 115.2 | 28 | 24 | 62 | 4.82 | 4.72 | 0.42 | 0.21 | 0.00 | 99 | 4.46 | -5 | -0.5 | 0.66 | -0.1 | 0.5 | 6 | .483 | .497 |  |
-| 4 Yrs | 310.1 | 70 | 61 | 162 | 4.70 | 4.59 | 0.17 | 0.19 | 0.02 | 98 | 4.51 | -6 | -0.7 | 0.64 | -0.3 | 2.0 | 23 | .490 | .498 |  |
-| 162 Game Avg | 161 | 36 | 32 | 84 | 4.70 | 4.59 | 0.17 | 0.19 | 0.02 | 98 | 4.51 | -3 | -0.4 | 0.64 | -0.1 | 1.0 | 12 | .490 | .498 |  |
+| [2026](https://www.baseball-reference.com/players/gl.fcgi?id=harriky01&t=p&year=2026) | 24 | [MIL](https://www.baseball-reference.com/teams/MIL/2026.shtml) | [NL](https://www.baseball-reference.com/leagues/NL/2026.shtml) | 115.2 | 28 | 24 | 62 | 4.82 | 4.72 | 0.41 | 0.21 | 0.00 | 99 | 4.47 | -5 | -0.5 | 0.66 | -0.1 | 0.5 | 6 | .482 | .497 |  |
+| 4 Yrs | 310.1 | 70 | 61 | 162 | 4.70 | 4.59 | 0.17 | 0.19 | 0.02 | 98 | 4.52 | -6 | -0.7 | 0.64 | -0.3 | 2.0 | 23 | .490 | .498 |  |
+| 162 Game Avg | 161 | 36 | 32 | 84 | 4.70 | 4.59 | 0.17 | 0.19 | 0.02 | 98 | 4.52 | -3 | -0.4 | 0.64 | -0.1 | 1.0 | 12 | .490 | .498 |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | SFG (3 Yrs) | 182.2 | 39 | 35 | 96 | 4.73 | 4.51 | 0.00 | 0.19 | 0.03 | 96 | 4.55 | -4 | -0.4 | 0.58 | -0.2 | 1.2 | 14 | .489 | .499 |  |
-| MIL (1 Yr) | 115.2 | 28 | 24 | 62 | 4.82 | 4.72 | 0.42 | 0.21 | 0.00 | 99 | 4.46 | -5 | -0.5 | 0.66 | -0.1 | 0.5 | 6 | .483 | .497 |  |
+| MIL (1 Yr) | 115.2 | 28 | 24 | 62 | 4.82 | 4.72 | 0.41 | 0.21 | 0.00 | 99 | 4.47 | -5 | -0.5 | 0.66 | -0.1 | 0.5 | 6 | .482 | .497 |  |
 | BOS (1 Yr) | 12.0 | 3 | 2 | 4 | 3.00 | 4.51 | 0.30 | 0.08 | 0.00 | 104 | 4.45 | 2 | 0.2 | 0.83 | 0.0 | 0.3 | 3 | .568 | .501 |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| NL (4 Yrs) | 298.1 | 67 | 59 | 158 | 4.77 | 4.59 | 0.16 | 0.20 | 0.02 | 97 | 4.52 | -8 | -0.9 | 0.62 | -0.3 | 1.7 | 20 | .487 | .498 |  |
+| NL (4 Yrs) | 298.1 | 67 | 59 | 158 | 4.77 | 4.59 | 0.16 | 0.20 | 0.02 | 97 | 4.52 | -8 | -0.9 | 0.62 | -0.3 | 1.7 | 20 | .486 | .498 |  |
 | AL (1 Yr) | 12.0 | 3 | 2 | 4 | 3.00 | 4.51 | 0.30 | 0.08 | 0.00 | 104 | 4.45 | 2 | 0.2 | 0.83 | 0.0 | 0.3 | 3 | .568 | .501 |  |
 
 Value Pitching Table
@@ -422,17 +422,23 @@ Powered by ![Stathead Logo](https://cdn.ssref.net/req/202101292/logos/stathead-l
 - [Player News RSS Feed](https://www.baseball-reference.com/players/news.fcgi?id=harriky01&rss=1)
 - Show/Hide More Stories
 
+- **9/27** [Brewer Fanatic: Brewers Week In Review: Regular Season Wrap](https://brewerfanatic.com/news-rumors/milwaukee-brewers/brewers-week-in-review-regular-season-wrap-r5043/): _Weekly Snapshot:_
+_Record Last Week: 5-1 (Overall: 103-59)_
+_Runs_...
+
+- **9/27** [Box-Toppers: Mets’ Tong tops players for Saturday, Sept. 26; Astros’ Peña tops AL players](https://www.box-toppers.com/blog/2026/9/26/mets-tong-tops-players-for-saturday-sept-26-astros-pea-tops-al-players): _Mets pitcher Jonah Tong is Saturday’s Box-Toppers Player of the_...
+
 - **9/25** [RotoWire: Back in bullpen](https://www.rotowire.com/baseball/player/kyle-harrison-16741?refer=SportsRef): _Harrison struck out a batter and gave up a run on three hits and_...
 
 - **9/23** [MLBTradeRumors: Brewers Select Lyon Richardson](https://www.mlbtraderumors.com/2026/09/brewers-select-lyon-richardson.html): _The Brewers selected the contract of righty Lyon Richardson ahead_...
 
 - **9/23** [Brewer Fanatic: Brewers Make Their Remaining Regular-Season Pitching Decisions With October in Mind](https://brewerfanatic.com/news-rumors/milwaukee-brewers/brewers-make-their-remaining-regular-season-pitching-decisions-with-october-in-mind-r5031/): _Tuesday night’s series opener in Philadelphia was winnable for_...
 
+- Show 7 more stories
+
 - **9/22** [MLBTradeRumors: Red Sox Exercise 2029-30 Club Options On Craig Breslow, Sign Manager Chad Tracy To Three-Year Deal](https://www.mlbtraderumors.com/2026/09/red-sox-extend-chad-tracy-craig-breslow.html): _The Red Sox’ summer turnaround and postseason berth will_...
 
 - **9/22** [Brewer Fanatic: Kyle Harrison's Brutal Finish Changes the Brewers' October Plans](https://brewerfanatic.com/videos/milwaukee-brewers/kyle-harrisons-brutal-finish-changes-the-brewers-october-plans-r456/): _Kyle Harrison looked like one of the Brewers’ next frontline_...
-
-- Show 5 more stories
 
 - **9/22** [Philly Sports Reports: Last Call: Brewers vs. Phillies Series Preview, September 22-24](https://phillysportsreports.com/2026/09/22/last-call-brewers-vs-phillies-series-preview-september-22-24/): _The Phillies return home for a three-game series against the best_...
 
